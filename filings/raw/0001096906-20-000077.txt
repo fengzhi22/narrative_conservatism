@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='us-ascii' standalone='no'?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:xbrli='http://www.xbrl.org/2003/instance' xmlns:us-gaap='http://fasb.org/us-gaap/2019-01-31' xmlns:dei='http://xbrl.sec.gov/dei/2019-01-31' xmlns:i='http://www.xbrl.org/2003/instance' xmlns:xbrldi='http://xbrl.org/2006/xbrldi' xmlns:iso4217='http://www.xbrl.org/2003/iso4217' xmlns:ix='http://www.xbrl.org/2013/inlineXBRL' xmlns:ixt='http://www.xbrl.org/inlineXBRL/transformation/2015-02-26' xmlns:ixt-sec='http://www.sec.gov/inlineXBRL/transformation/2015-08-31' xmlns:utr='http://www.xbrl.org/2009/utr' xmlns:link='http://www.xbrl.org/2003/linkbase' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+<head>
+<!-- Produced by EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2020 [PPXK611N9EKWVJ9M8G1N]. www.edgarsuite.com -->
+<title>ALTEX INDUSTRIES INC - Form 10-Q SEC filing</title>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+<div style='display:none'>
+<ix:header>
+<ix:hidden>
+<ix:nonNumeric name='dei:EntityCentralIndexKey' contextRef='Y19Q4' id='fact1'>0000775057</ix:nonNumeric>
+<ix:nonNumeric name='dei:CurrentFiscalYearEndDate' contextRef='Y19Q4' id='fact2'>--09-30</ix:nonNumeric>
+<ix:nonNumeric name='dei:EntityRegistrantName' contextRef='Y19Q4' id='fact3'>ALTEX INDUSTRIES INC</ix:nonNumeric>
+<ix:nonNumeric name='dei:AmendmentFlag' contextRef='Y19Q4' id='fact4'>false</ix:nonNumeric>
+<ix:nonNumeric name='dei:DocumentFiscalYearFocus' contextRef='Y19Q4' id='fact5'>2020</ix:nonNumeric>
+<ix:nonNumeric name='dei:DocumentFiscalPeriodFocus' contextRef='Y19Q4' id='fact6'>Q1</ix:nonNumeric>
+</ix:hidden>
+<ix:references>
+<link:schemaRef xlink:arcrole='http://www.xbrl.org/2003/linkbase' xlink:href='altx-20191231.xsd' xlink:type='simple'/>
+</ix:references>
+<ix:resources>
+<i:context id='Y19Q4'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:startDate>2019-10-01</i:startDate>
+<i:endDate>2019-12-31</i:endDate>
+</i:period>
+</i:context>
+<i:context id='E19'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:instant>2019-12-31</i:instant>
+</i:period>
+</i:context>
+<i:context id='I200212'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:instant>2020-02-12</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19Q3'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:instant>2019-09-30</i:instant>
+</i:period>
+</i:context>
+<i:context id='Y18Q4'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:startDate>2018-10-01</i:startDate>
+<i:endDate>2018-12-31</i:endDate>
+</i:period>
+</i:context>
+<i:context id='Y19Q4_StEqComps-RetainedEarnings'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:RetainedEarningsMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:startDate>2019-10-01</i:startDate>
+<i:endDate>2019-12-31</i:endDate>
+</i:period>
+</i:context>
+<i:context id='E19Q3_StEqComps-CommonStock'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:CommonStockMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-09-30</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19Q3_StEqComps-AddPaidInCap'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-09-30</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19Q3_StEqComps-RetainedEarnings'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:RetainedEarningsMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-09-30</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19Q3_StEqComps-TreasuryStock'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:TreasuryStockMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-09-30</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19_StEqComps-CommonStock'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:CommonStockMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-12-31</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19_StEqComps-AddPaidInCap'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:AdditionalPaidInCapitalMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-12-31</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19_StEqComps-RetainedEarnings'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:RetainedEarningsMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-12-31</i:instant>
+</i:period>
+</i:context>
+<i:context id='E19_StEqComps-TreasuryStock'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+<i:segment><xbrldi:explicitMember dimension='us-gaap:StatementEquityComponentsAxis'>us-gaap:TreasuryStockMember</xbrldi:explicitMember></i:segment>
+</i:entity>
+<i:period>
+<i:instant>2019-12-31</i:instant>
+</i:period>
+</i:context>
+<i:context id='E18Q3'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:instant>2018-09-30</i:instant>
+</i:period>
+</i:context>
+<i:context id='E18'>
+<i:entity>
+<i:identifier scheme='http://www.sec.gov/CIK'>0000775057</i:identifier>
+</i:entity>
+<i:period>
+<i:instant>2018-12-31</i:instant>
+</i:period>
+</i:context>
+<i:unit id='USD'>
+<i:measure>iso4217:USD</i:measure>
+</i:unit>
+<i:unit id='Shares'>
+<i:measure>xbrli:shares</i:measure>
+</i:unit>
+<i:unit id='UsdPerShare'>
+<i:divide>
+<i:unitNumerator>
+<i:measure>iso4217:USD</i:measure>
+</i:unitNumerator>
+<i:unitDenominator>
+<i:measure>xbrli:shares</i:measure>
+</i:unitDenominator>
+</i:divide>
+</i:unit>
+</ix:resources>
+</ix:header>
+</div>
+<div style='margin-left:36pt;width:540pt'><p style='font:14pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:14pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:14pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:14pt Calibri;margin:0;text-align:center'><b>UNITED STATES</b></p>
+<p style='font:14pt Calibri;margin:0;text-align:center'><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+<p style='font:14pt Calibri;margin:0;text-align:center'><span style='font-size:14pt'><b>Washington, D.C. 20549</b></span></p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:20pt Calibri;margin:0;text-align:center'><span style='font-size:20pt'><b>FORM <ix:nonNumeric name='dei:DocumentType' contextRef='Y19Q4' escape='true'>10-Q</ix:nonNumeric></b></span></p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;margin-left:36pt'><kbd style='position:absolute;font:10pt Calibri;margin-left:-36pt'><ix:nonNumeric name='dei:DocumentQuarterlyReport' contextRef='Y19Q4' format='ixt-sec:boolballotbox'>&#9746;</ix:nonNumeric></kbd>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>For the quarterly period ended <ix:nonNumeric name='dei:DocumentPeriodEndDate' contextRef='Y19Q4' format='ixt:datemonthdayyearen'>December 31, 2019</ix:nonNumeric></p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;margin-left:36pt'><kbd style='position:absolute;font:10pt Calibri;margin-left:-36pt'><ix:nonNumeric name='dei:DocumentTransitionReport' contextRef='Y19Q4' format='ixt-sec:boolballotbox'>&#9744;</ix:nonNumeric></kbd>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>For the transition period from <span style='border-bottom:1px solid #000000'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;</span> to <span style='border-bottom:1px solid #000000'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;</span>.</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>Commission file number <ix:nonNumeric name='dei:EntityFileNumber' contextRef='Y19Q4' escape='true'>1-9030</ix:nonNumeric></p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<table style='margin:0 auto;border-collapse:collapse;width:273.9pt'><tr><td valign='top' style='width:273.9pt;border-bottom:0.5pt solid #000000'><p style='font:20pt Calibri;margin:0;text-align:center'><b>ALTEX INDUSTRIES, INC.</b></p>
+</td></tr>
+<tr><td valign='top' style='width:273.9pt;border-top:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'>(Exact name of registrant as specified in its charter)</p>
+</td></tr>
+</table>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<table style='margin:0 auto;border-collapse:collapse;width:409.5pt'><tr><td valign='bottom' style='width:162pt;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'><ix:nonNumeric name='dei:EntityIncorporationStateCountryCode' contextRef='Y19Q4' format='ixt-sec:stateprovnameen'>Delaware</ix:nonNumeric></p>
+</td><td valign='bottom' style='width:72pt'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:162pt;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'><ix:nonNumeric name='dei:EntityTaxIdentificationNumber' contextRef='Y19Q4' escape='true'>84-0989164</ix:nonNumeric></p>
+</td></tr>
+<tr><td valign='top' style='width:162pt;border-top:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'>(State or other jurisdiction of</p>
+</td><td valign='top' style='width:72pt'><p style='font:10pt Calibri;line-height:0.05pt;margin:0;text-align:center'>&#160;</p>
+</td><td valign='top' style='width:162pt;border-top:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'>(I.R.S. Employer</p>
+</td></tr>
+<tr><td valign='top' style='width:162pt'><p style='font:10pt Calibri;margin:0;text-align:center'>incorporation or organization)</p>
+</td><td valign='top' style='width:72pt'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='top' style='width:162pt'><p style='font:10pt Calibri;margin:0;text-align:center'>Identification No.)</p>
+</td></tr>
+</table>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<table style='margin:0 auto;border-collapse:collapse'><tr><td valign='top'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td></tr>
+<tr><td valign='top' style='border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'><ix:nonNumeric name='dei:EntityAddressAddressLine1' contextRef='Y19Q4' escape='true'>PO Box 1057</ix:nonNumeric> &#160;<ix:nonNumeric name='dei:EntityAddressCityOrTown' contextRef='Y19Q4' escape='true'>Breckenridge</ix:nonNumeric> <ix:nonNumeric name='dei:EntityAddressStateOrProvince' contextRef='Y19Q4' escape='true'>CO</ix:nonNumeric> &#160;<ix:nonNumeric name='dei:EntityAddressPostalZipCode' contextRef='Y19Q4' escape='true'>80424-1057</ix:nonNumeric></p>
+</td></tr>
+<tr><td valign='top'><p style='font:10pt Calibri;margin:0;text-align:center'>(<ix:nonNumeric name='dei:EntityAddressAddressDescription' contextRef='Y19Q4' escape='true'>Address of principal executive offices</ix:nonNumeric>) (Zip Code)</p>
+</td></tr>
+<tr><td valign='top'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td></tr>
+<tr><td valign='top' style='border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'>(<ix:nonNumeric name='dei:CityAreaCode' contextRef='Y19Q4' escape='true'>303</ix:nonNumeric>) <ix:nonNumeric name='dei:LocalPhoneNumber' contextRef='Y19Q4' escape='true'>265-9312</ix:nonNumeric></p>
+</td></tr>
+<tr><td valign='top'><p style='font:10pt Calibri;margin:0;text-align:center'>(Registrant's telephone number, including area code)</p>
+</td></tr>
+</table>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. <ix:nonNumeric name='dei:EntityCurrentReportingStatus' contextRef='Y19Q4' escape='true'>Yes</ix:nonNumeric> [ X ] No [ &#160;]</p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). <ix:nonNumeric name='dei:EntityInteractiveDataCurrent' contextRef='Y19Q4' escape='true'>Yes</ix:nonNumeric> [ X ] No [ &#160;]</p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a <ix:nonNumeric name='dei:EntityFilerCategory' contextRef='Y19Q4' escape='true'>Non-accelerated Filer</ix:nonNumeric>, a small reporting company, or an emerging growth company. </p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;margin-left:288pt'><kbd style='position:absolute;font:10pt Calibri;margin-left:-252pt'>Large accelerated filer [ &#160;]</kbd>Accelerated filer [ &#160;]&#160;</p>
+<p style='font:10pt Calibri;margin:0;margin-left:288pt'><kbd style='position:absolute;font:10pt Calibri;margin-left:-252pt'>Non-accelerated filer [ &#160;]</kbd>Smaller reporting company <ix:nonNumeric name='dei:EntitySmallBusiness' contextRef='Y19Q4' format='ixt-sec:boolballotbox'>&#9746;</ix:nonNumeric>&#160;</p>
+<p style='font:10pt Calibri;margin:0;margin-left:288pt'>Emerging growth company <ix:nonNumeric name='dei:EntityEmergingGrowthCompany' contextRef='Y19Q4' format='ixt-sec:boolballotbox'>&#9744;</ix:nonNumeric></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0'>Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes <ix:nonNumeric name='dei:EntityShellCompany' contextRef='Y19Q4' format='ixt-sec:boolballotbox'>&#9744;</ix:nonNumeric> No [ X ]</p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>Number of shares outstanding of issuer's Common Stock as of February 12, 2020: <ix:nonFraction name='dei:EntityCommonStockSharesOutstanding' contextRef='I200212' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,185,409</ix:nonFraction></p>
+<hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+</div>
+<div style='margin-left:36pt'><table style='border-collapse:collapse'><tr style='height:15pt'><td valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>PART I - FINANCIAL INFORMATION</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'><b>Item 1. Financial Statements</b></p>
+</td></tr>
+</table>
+</div>
+<div style='margin-left:36pt;width:540pt'><p style='font:10pt Times New Roman;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+</div>
+<div style='margin-left:36pt'><table style='border-collapse:collapse'><tr style='height:15pt'><td colspan='3' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>ALTEX INDUSTRIES, INC. AND SUBSIDIARIES</b></p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Condensed Consolidated Balance Sheets</b></p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>(Unaudited)</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>December 31,</b></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>September 30,</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:10pt Calibri'><b>2019</b></span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:10pt Calibri'><b>2019</b></span></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'><b>Assets</b></span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Current assets</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Cash and cash equivalents</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:CashAndCashEquivalentsAtCarryingValue' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,250,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:CashAndCashEquivalentsAtCarryingValue' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,266,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Accounts receivable</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AccountsReceivableNetCurrent' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AccountsReceivableNetCurrent' contextRef='E19Q3' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Other</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:OtherAssetsCurrent' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>15,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:OtherAssetsCurrent' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>20,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total current assets</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AssetsCurrent' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,266,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AssetsCurrent' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,286,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Property and equipment, at cost</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Proved oil and gas properties (successful efforts method)</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:ProvedOilAndGasPropertySuccessfulEffortMethod' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>333,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:ProvedOilAndGasPropertySuccessfulEffortMethod' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>333,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Less accumulated depreciation, depletion, and amortization</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>277,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>275,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Net property and equipment</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:PropertyPlantAndEquipmentNet' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>56,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:PropertyPlantAndEquipmentNet' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>58,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total assets</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:Assets' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,322,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:Assets' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,344,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'><b>Liabilities and Stockholders&#8217; Equity</b></span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Current liabilities</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Accounts payable</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AccountsPayableCurrent' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AccountsPayableCurrent' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>10,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Other accrued expenses</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AccruedLiabilitiesCurrent' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,078,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AccruedLiabilitiesCurrent' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,081,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total current liabilities</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:LiabilitiesCurrent' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,079,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:LiabilitiesCurrent' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,091,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Commitments and Contingencies</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:CommitmentsAndContingencies' contextRef='E19' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:CommitmentsAndContingencies' contextRef='E19Q3' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Stockholders&#8217; equity</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Preferred stock, $<ix:nonFraction name='us-gaap:PreferredStockParOrStatedValuePerShare' contextRef='E19Q3' unitRef='UsdPerShare' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:PreferredStockParOrStatedValuePerShare' contextRef='E19' unitRef='UsdPerShare' decimals='INF' scale='0' format='ixt:numdotdecimal'>0.01</ix:nonFraction></ix:nonFraction> par value. Authorized <ix:nonFraction name='us-gaap:PreferredStockSharesAuthorized' contextRef='E19Q3' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:PreferredStockSharesAuthorized' contextRef='E19' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>5,000,000</ix:nonFraction></ix:nonFraction> shares, <ix:nonFraction name='us-gaap:PreferredStockSharesIssued' contextRef='E19' unitRef='Shares' decimals='INF' format='ixt-sec:numwordsen'><ix:nonFraction name='us-gaap:PreferredStockSharesIssued' contextRef='E19Q3' unitRef='Shares' decimals='INF' format='ixt-sec:numwordsen'>none</ix:nonFraction></ix:nonFraction> issued</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:PreferredStockValue' contextRef='E19' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:PreferredStockValue' contextRef='E19Q3' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:25.5pt'><td valign='middle' style='background-color:#F5F5FF;width:287.7pt'><p style='font:10pt Times New Roman;margin:0;text-indent:6.4pt'><span style='font:10pt Calibri'>Common stock, $<ix:nonFraction name='us-gaap:CommonStockParOrStatedValuePerShare' contextRef='E19Q3' unitRef='UsdPerShare' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:CommonStockParOrStatedValuePerShare' contextRef='E19' unitRef='UsdPerShare' decimals='INF' scale='0' format='ixt:numdotdecimal'>0.01</ix:nonFraction></ix:nonFraction> par value. Authorized <ix:nonFraction name='us-gaap:CommonStockSharesAuthorized' contextRef='E19Q3' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:CommonStockSharesAuthorized' contextRef='E19' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>50,000,000</ix:nonFraction></ix:nonFraction> shares; <ix:nonFraction name='us-gaap:CommonStockSharesIssued' contextRef='E19' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:CommonStockSharesIssued' contextRef='E19Q3' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:CommonStockSharesOutstanding' contextRef='E19' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'><ix:nonFraction name='us-gaap:CommonStockSharesOutstanding' contextRef='E19Q3' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,185,409</ix:nonFraction></ix:nonFraction></ix:nonFraction></ix:nonFraction> shares issued and outstanding</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:CommonStockValue' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>122,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:CommonStockValue' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>122,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Additional paid-in capital</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AdditionalPaidInCapital' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>13,798,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:AdditionalPaidInCapital' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>13,798,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Accumulated deficit</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;(<ix:nonFraction name='us-gaap:RetainedEarningsAccumulatedDeficit' contextRef='E19' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,677,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;(<ix:nonFraction name='us-gaap:RetainedEarningsAccumulatedDeficit' contextRef='E19Q3' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,667,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total stockholders' equity</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,243,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,253,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:287.7pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total liabilities and stockholders' equity</span></p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:LiabilitiesAndStockholdersEquity' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,322,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:126.15pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:LiabilitiesAndStockholdersEquity' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,344,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:287.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:126.15pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>See notes to unaudited condensed consolidated financial statements</p>
+</td></tr>
+</table>
+</div>
+<div style='margin-left:36pt;width:540pt'><hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+<p style='font:10pt Times New Roman;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+</div>
+<div style='margin-left:36pt'><table style='border-collapse:collapse'><tr style='height:15pt'><td colspan='3' valign='middle' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>ALTEX INDUSTRIES, INC. AND SUBSIDIARIES</b></p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='middle' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Condensed Consolidated Statements of Operations</b></p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='middle' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>(Unaudited)</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='middle' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='middle' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td><td valign='middle' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td><td colspan='2' valign='bottom' style='width:213.1pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Three Months Ended</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td colspan='2' valign='bottom' style='width:213.1pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'><b>December 31,</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:10pt Calibri'><b>2019</b></span></p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:10pt Calibri'><b>2018</b></span></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Revenue</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Oil and gas sales</span></p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:ResultsOfOperationsRevenueFromOilAndGasProducingActivities' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>16,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:ResultsOfOperationsRevenueFromOilAndGasProducingActivities' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>22,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total revenue</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:Revenues' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>16,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:Revenues' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>22,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Costs and expenses</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Production taxes</span></p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:ProductionTaxExpense' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:ProductionTaxExpense' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;General and administrative</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:GeneralAndAdministrativeExpense' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>32,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:GeneralAndAdministrativeExpense' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>32,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Depreciation, depletion, and amortization</span></p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:DepreciationDepletionAndAmortization' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:DepreciationDepletionAndAmortization' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>3,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total costs and expenses</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:OperatingExpenses' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>35,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:OperatingExpenses' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>37,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Loss from operations</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:OperatingIncomeLoss' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>19,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:OperatingIncomeLoss' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>15,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Other income</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Interest income </span></p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:InterestIncomeOperating' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>9,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:InterestIncomeOperating' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>13,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Total other income</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:NonoperatingIncomeExpense' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>9,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:NonoperatingIncomeExpense' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>13,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Net loss</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetIncomeLoss' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>10,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetIncomeLoss' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Loss per share</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:EarningsPerShareBasicAndDiluted' contextRef='Y19Q4' sign='-' unitRef='UsdPerShare' decimals='INF' scale='0' format='ixt:numdotdecimal'>0.00</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:EarningsPerShareBasicAndDiluted' contextRef='Y18Q4' sign='-' unitRef='UsdPerShare' decimals='INF' scale='0' format='ixt:numdotdecimal'>0.00</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:326.9pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Weighted average shares outstanding</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:3px double #000000;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;<ix:nonFraction name='us-gaap:WeightedAverageNumberOfShareOutstandingBasicAndDiluted' contextRef='Y19Q4' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,185,409</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:106.55pt;white-space:nowrap;border-top:3px double #000000;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;<ix:nonFraction name='us-gaap:WeightedAverageNumberOfShareOutstandingBasicAndDiluted' contextRef='Y18Q4' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,351,731</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:326.9pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:106.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='middle' style='background-color:#F5F5FF;width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>See notes to unaudited condensed consolidated financial statements</p>
+</td></tr>
+</table>
+</div>
+<div style='margin-left:36pt;width:540pt'><hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+<p style='font:12pt Times New Roman;margin-top:0pt;margin-bottom:10pt;display:none'>&#160;</p>
+</div>
+<div style='margin-left:36pt'><table style='border-collapse:collapse'><tr style='height:12.75pt'><td colspan='9' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'><b>ALTEX INDUSTRIES, INC.</b></p>
+</td></tr>
+<tr style='height:12.75pt'><td colspan='9' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'><b>Condensed Consolidated Statements of Stockholders' Equity</b></p>
+</td></tr>
+<tr style='height:12.75pt'><td colspan='9' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'><b>(Unaudited)</b></p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='width:114.35pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:43.2pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:58.55pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:45.05pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:76.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:21.15pt'><td valign='bottom' style='width:114.35pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'><b>For the three months ended December 31, 2019</b></p>
+</td><td colspan='2' valign='top' style='width:83.7pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'><b>Preferred Stock</b></p>
+</td><td colspan='2' valign='top' style='width:103.45pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'><b>Common Stock</b></p>
+</td><td valign='top' style='width:58.45pt'><p style='font:8pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='top' style='width:58.55pt'><p style='font:8pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='top' style='width:45.05pt'><p style='font:8pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td valign='top' style='width:76.45pt'><p style='font:8pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='width:114.35pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:43.2pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Shares</b></p>
+</td><td valign='bottom' style='width:40.5pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Amount</b></p>
+</td><td valign='bottom' style='width:54pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:8pt Calibri'><b>Shares</b></span></p>
+</td><td valign='bottom' style='width:49.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:8pt Calibri'><b>Amount</b></span></p>
+</td><td valign='bottom' style='width:58.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:8pt Calibri'><b>Additional paid-in capital</b></span></p>
+</td><td valign='bottom' style='width:58.55pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:8pt Calibri'><b>Accumulated deficit</b></span></p>
+</td><td valign='bottom' style='width:45.05pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:8pt Calibri'><b>Treasury stock</b></span></p>
+</td><td valign='bottom' style='width:76.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:8pt Calibri'><b>Total stockholders' equity</b></span></p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='background-color:#F5F5FF;width:114.35pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:8pt Calibri'><b>Balance at September 30, 2019</b></span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:43.2pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:40.5pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:54pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Times New Roman;margin:0;text-align:right'><span style='font:8pt Calibri'> &#160; &#160;&#160;&#160;<ix:nonFraction name='us-gaap:SharesOutstanding' contextRef='E19Q3_StEqComps-CommonStock' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,185,409</ix:nonFraction> </span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:49.45pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19Q3_StEqComps-CommonStock' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>122,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.45pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19Q3_StEqComps-AddPaidInCap' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>13,798,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.55pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ (<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19Q3_StEqComps-RetainedEarnings' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,667,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:45.05pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19Q3_StEqComps-TreasuryStock' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:76.45pt;white-space:nowrap;border-top:0.5pt solid #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,253,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='width:114.35pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:8pt Calibri'>Net loss</span></p>
+</td><td valign='bottom' style='width:43.2pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:58.55pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetIncomeLoss' contextRef='Y19Q4_StEqComps-RetainedEarnings' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>10,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='width:45.05pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:76.45pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetIncomeLoss' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>10,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='background-color:#F5F5FF;width:114.35pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'>Dividends declared</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:43.2pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.55pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:45.05pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:76.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='width:114.35pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'> &#160;&#160;&#160;Preferred stock, none</p>
+</td><td valign='bottom' style='width:43.2pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:58.55pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:45.05pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:76.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='background-color:#F5F5FF;width:114.35pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'> &#160;&#160;&#160;Common stock, none</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:43.2pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.55pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:45.05pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:76.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='width:114.35pt'><p style='font:8pt Times New Roman;margin:0'><span style='font:8pt Calibri'>Acquisition of treasury stock</span></p>
+</td><td valign='bottom' style='width:43.2pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:58.55pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:45.05pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:76.45pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- </p>
+</td></tr>
+<tr style='height:12.75pt'><td valign='bottom' style='background-color:#F5F5FF;width:114.35pt'><p style='font:10pt Calibri;margin:0'><b>Balance at December 31, 2019</b></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:43.2pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:40.5pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:54pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:SharesOutstanding' contextRef='E19_StEqComps-CommonStock' unitRef='Shares' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,185,409</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:49.45pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19_StEqComps-CommonStock' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>122,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.45pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19_StEqComps-AddPaidInCap' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>13,798,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:58.55pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ (<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19_StEqComps-RetainedEarnings' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>12,677,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:45.05pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19_StEqComps-TreasuryStock' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:76.45pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:3px double #000000'><p style='font:8pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:StockholdersEquity' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,243,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:13.5pt'><td valign='bottom' style='width:114.35pt'><p style='font:12pt Times New Roman;margin:0;display:none'>&#160;</p>
+</td><td valign='bottom' style='width:43.2pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:40.5pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:54pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:49.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:58.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:58.55pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:45.05pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:76.45pt;white-space:nowrap'><p style='font:8pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:12.75pt'><td colspan='9' valign='bottom' style='background-color:#F5F5FF;width:540pt;white-space:nowrap'><p style='font:8pt Calibri;margin:0;text-align:center'>See notes to unaudited condensed consolidated financial statements</p>
+</td></tr>
+</table>
+</div>
+<div style='margin-left:36pt;width:540pt'><hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+<p style='font:10pt Times New Roman;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+</div>
+<div style='margin-left:36pt'><table style='border-collapse:collapse'><tr style='height:15pt'><td colspan='3' valign='middle' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>ALTEX INDUSTRIES, INC. AND SUBSIDIARIES</b></p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='middle' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Condensed Consolidated Statements of Cash Flows</b></p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='middle' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>(Unaudited)</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td colspan='2' valign='bottom' style='width:214.7pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'><b>Three months ended</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+</td><td colspan='2' valign='bottom' style='width:214.7pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:center'><b>December 31,</b></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:center'>&#160;</p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:10pt Calibri'><b>2019</b></span></p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Times New Roman;margin:0;text-align:center'><span style='font:10pt Calibri'><b>2018</b></span></p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Cash flows used in operating activities </span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Net loss</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetIncomeLoss' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>10,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetIncomeLoss' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Adjustments to reconcile net loss to net cash used in operating activities</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;Depreciation, depletion, and amortization</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:DepreciationDepletionAndAmortization' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:DepreciationDepletionAndAmortization' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>3,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;Increase in accounts receivable</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:IncreaseDecreaseInReceivables' contextRef='Y19Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>1,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:IncreaseDecreaseInReceivables' contextRef='Y18Q4' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>3,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;Decrease in other current assets</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:IncreaseDecreaseInOtherCurrentAssets' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>5,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:IncreaseDecreaseInOtherCurrentAssets' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>4,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;Decrease in accounts payable</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:IncreaseDecreaseInAccountsPayable' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>9,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:IncreaseDecreaseInAccountsPayable' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>5,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;Decrease in other accrued expenses</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:IncreaseDecreaseInAccruedLiabilities' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>3,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:IncreaseDecreaseInAccruedLiabilities' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>5,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Net cash used in operating activities</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>16,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:NetCashProvidedByUsedInOperatingActivitiesContinuingOperations' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>8,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Cash flows from financing activities</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Acquisition of treasury stock</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:PaymentsForRepurchaseOfCommonStock' contextRef='Y19Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> &#160;&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:PaymentsForRepurchaseOfCommonStock' contextRef='Y18Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> &#160;&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Net cash used in financing activities</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:NetCashProvidedByUsedInFinancingActivities' contextRef='Y19Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> &#160;&#160;</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:NetCashProvidedByUsedInFinancingActivities' contextRef='Y18Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> &#160;&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Net decrease in cash and cash equivalents</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:CashAndCashEquivalentsPeriodIncreaseDecrease' contextRef='Y19Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>16,000</ix:nonFraction>)</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(<ix:nonFraction name='us-gaap:CashAndCashEquivalentsPeriodIncreaseDecrease' contextRef='Y18Q4' sign='-' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>8,000</ix:nonFraction>)</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Cash and cash equivalents at beginning of period</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;<ix:nonFraction name='us-gaap:CashAndCashEquivalentsAtCarryingValue' contextRef='E19Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,266,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> &#160;&#160;&#160;<ix:nonFraction name='us-gaap:CashAndCashEquivalentsAtCarryingValue' contextRef='E18Q3' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,274,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Cash and cash equivalents at end of period</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ <ix:nonFraction name='us-gaap:CashAndCashEquivalentsAtCarryingValue' contextRef='E19' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,250,000</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap;border-bottom:3px double #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ <ix:nonFraction name='us-gaap:CashAndCashEquivalentsAtCarryingValue' contextRef='E18' unitRef='USD' decimals='INF' scale='0' format='ixt:numdotdecimal'>2,266,000</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'>Supplemental disclosures</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:right'>&#160;</p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0;text-align:right'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Cash paid for interest</span></p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:InterestPaid' contextRef='Y19Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap;border-top:0.5pt solid #000000;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:InterestPaid' contextRef='Y18Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='width:325.3pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'><span style='font:10pt Calibri'> &#160;&#160;&#160;Cash paid for income taxes</span></p>
+</td><td valign='bottom' style='width:112.25pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:IncomeTaxesPaid' contextRef='Y19Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td><td valign='bottom' style='width:102.45pt;white-space:nowrap;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;text-align:right'> $ &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<ix:nonFraction name='us-gaap:IncomeTaxesPaid' contextRef='Y18Q4' unitRef='USD' decimals='128' format='ixt:zerodash'>-</ix:nonFraction> </p>
+</td></tr>
+<tr style='height:15pt'><td valign='bottom' style='background-color:#F5F5FF;width:325.3pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:112.25pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td><td valign='bottom' style='background-color:#F5F5FF;width:102.45pt;white-space:nowrap'><p style='font:10pt Times New Roman;margin:0'>&#160;</p>
+</td></tr>
+<tr style='height:15pt'><td colspan='3' valign='bottom' style='width:540pt;white-space:nowrap'><p style='font:10pt Calibri;margin:0;text-align:center'>See notes to unaudited condensed consolidated financial statements</p>
+</td></tr>
+</table>
+</div>
+<div style='margin-left:36pt;width:540pt'><hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><span style='font-size:10pt'><b>ALTEX INDUSTRIES, INC. AND SUBSIDIARIES</b></span></p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><span style='font-size:10pt'><b>Notes to Condensed Consolidated Financial Statements</b></span></p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><b>(Unaudited)</b></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<ix:nonNumeric name='us-gaap:BusinessDescriptionAndBasisOfPresentationTextBlock' contextRef='Y19Q4' escape='true'><p style='font:10pt Calibri;margin:0;text-align:justify'><b>Note 1 - Basis of Presentation. </b>The accompanying Condensed Consolidated Balance Sheet as of September 30, 2019, which was derived from audited financial statements, and the unaudited interim condensed consolidated financial statements of the Company have been prepared in accordance with U.S. GAAP for interim financial information, the instructions to Form 10-Q and Article 10 of Regulation S-X. In the opinion of management, the accompanying unaudited, consolidated, condensed financial statements contain all adjustments necessary to present fairly the financial position of the Company as of December 31, 2019, and the cash flows and results of operations for the three months then ended. Such adjustments consisted only of normal recurring items. The results of operations for the three months ended December 31 are not necessarily indicative of the results for the full year. Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted. The accounting policies followed by the Company are set forth in Note 1 to the Company's consolidated financial statements contained in the Company's 2019 Annual Report on Form 10-K, and it is suggested that these condensed consolidated financial statements be read in conjunction therewith.</p>
+</ix:nonNumeric><p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:12pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0'><span style='font-size:10pt;border-bottom:1px solid #000000'><b>&#8220;SAFE HARBOR&#8221; STATEMENT UNDER THE</b></span></p>
+<p style='font:10pt Calibri;margin:0'><span style='border-bottom:1px solid #000000'><b>UNITED STATES PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995</b></span></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>Statements that are not historical facts contained in this Form 10-Q are forward-looking statements that involve risks and uncertainties that could cause actual results to differ from projected results. Factors that could cause actual results to differ materially include, among others: general economic conditions; movements in interest rates; the market price of oil and natural gas; the risks associated with exploration and production of oil and gas; the Company's ability, or the ability of its operating subsidiary, Altex Oil Corporation (&quot;AOC&quot;), to find, acquire, market, develop, and produce new properties; operating hazards attendant to the oil and natural gas business; uncertainties in the estimation of proved reserves and in the projection of future rates of production and timing of development expenditures; the strength and financial resources of the Company's competitors; the Company's ability and AOC's ability to find and retain skilled personnel; climatic conditions; availability and cost of material and equipment; delays in anticipated start-up dates; environmental risks; the results of financing efforts; and other uncertainties detailed elsewhere herein and in the Company&#8217;s filings with the Securities and Exchange Commission. </p>
+<p style='font:12pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0'><span style='font-size:10pt'><b>Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operation.</b></span></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><b>Financial Condition</b></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>The Company used $16,000 and $7,000 cash in operating activities in the three months ended December 31, 2019, and December 31, 2018, respectively. At December 31, 2019, and September 30, 2019, $1,073,000 of other accrued expenses is accrued but unpaid salary (and related accrued payroll tax liability) due to the Company&#8217;s president that the Company&#8217;s president has elected to defer. The Company&#8217;s president may require the Company to pay the unpaid salary and payroll tax liability at any time.</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>The Company is likely to experience negative cash flow from operations unless and until the Company invests in interests in producing oil and gas wells or in another venture that produces cash flow from operations. With the exception of capital expenditures related to production acquisitions or drilling or recompletion activities or an investment in another venture that produces cash flow from operations, none of which are currently planned, the cash flows that could result from such acquisitions, activities, or investments, the possibility of a change in the interest rates the Company realizes on cash balances, and changes in the price of oil and natural gas, the Company knows of no other trends or any known demands, commitments, events or uncertainties that will result in or that are reasonably likely to result in the Company's liquidity increasing or decreasing in any material way.</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>Except for cash generated by the operation of the Company's producing oil and gas properties, asset sales, and interest income, the Company has no internal or external sources of liquidity other than its working capital. At February 12, 2020, the Company had no material commitments for capital expenditures. </p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>The Company regularly assesses its exposure to environmental liability and reclamation, restoration, and dismantlement expense (&#8220;RR&amp;D&#8221;). The Company does not believe that it currently has any material exposure to environmental liability or to RR&amp;D, net of salvage value, although this cannot be assured.</p>
+<hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><b>Results of Operations</b></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>At current oil and gas prices, the current level of cash balances, and current interest rates, the Company&#8217;s revenue is unlikely to exceed its expenses. Unless and until the Company invests a substantial portion of its cash balances in interests in producing oil and gas wells or in one or more other ventures that produce revenue and net income, the Company is likely to experience net losses. With the exception of unanticipated RR&amp;D, unanticipated environmental expense, and possible changes in interest rates and oil and gas prices, the Company is not aware of any other known trends or uncertainties that have had or that the Company reasonably expects will have a material favorable or unfavorable impact on net sales or revenues or income from continuing operations.</p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0'><b>Item 4. Controls and Procedures.</b></p>
+<p style='font:10pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company&#8217;s Exchange Act reports is recorded, processed, summarized, and reported within the time periods specified in the SEC&#8217;s rules and forms, and that such information is accumulated and communicated to the Company&#8217;s management, including its Principal Executive Officer and Principal Financial Officer as appropriate, to allow timely decisions regarding required disclosure. Management necessarily applied its judgment in assessing the costs and benefits of such controls and procedures which, by their nature, can provide only reasonable assurance regarding management&#8217;s control objectives. </p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>As of the end of the period covered by the report, the Company carried out an evaluation, under the supervision and with the participation of the Company&#8217;s management, including the Company&#8217;s Principal Executive Officer and Principal Financial Officer, of the effectiveness of the design and operation of the Company&#8217;s disclosure controls and procedures pursuant to Exchange Act Rule 13a-14. Based upon the foregoing, the Company&#8217;s Principal Executive Officer and Principal Financial Officer concluded that the Company&#8217;s disclosure controls and procedures are effective in timely alerting them to material information relating to the Company (including its consolidated subsidiary) required to be included in the Company&#8217;s Exchange Act reports. There have been no significant changes in the Company&#8217;s internal controls or in other factors that could significantly affect internal controls subsequent to the date the Company carried out its evaluation.</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'><b>Changes in Internal Control Over Financial Reporting</b></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>During the period covered by this Report there has been no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. </p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><span style='font-size:10pt'><b>PART II - OTHER INFORMATION</b></span></p>
+<p style='font:12pt Calibri;margin:0'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'><span style='font-size:10pt'><b>Item 6. Exhibits</b></span></p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<table style='border-collapse:collapse;width:98.8%'><tr><td valign='top' style='background-color:#F5F5FF;width:10.7%'><p style='font:10pt Calibri;margin:0'>31.</p>
+</td><td valign='top' style='background-color:#F5F5FF;width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'><a href='exh31.htm' style='text-decoration:none'><span style='color:#0000FF;border-bottom:1px solid #0000FF'>Rule 13a-14(a)/15d-14(a) Certifications</span></a></p>
+</td></tr>
+<tr><td valign='top' style='width:10.7%'><p style='font:10pt Calibri;margin:0'>32.<span style='vertical-align:super'>*</span></p>
+</td><td valign='top' style='width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'><a href='exh32.htm' style='text-decoration:none'><span style='color:#0000FF;border-bottom:1px solid #0000FF'>Section 1350 Certifications</span></a></p>
+</td></tr>
+<tr><td valign='top' style='background-color:#F5F5FF;width:10.7%;white-space:nowrap'><p style='font:10pt Calibri;margin:0'>101.xml</p>
+</td><td valign='top' style='background-color:#F5F5FF;width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'>XBRL Instance Document</p>
+</td></tr>
+<tr><td valign='top' style='width:10.7%'><p style='font:10pt Calibri;margin:0'>101.xsd</p>
+</td><td valign='top' style='width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'>XBRL Taxonomy Extension Schema Document</p>
+</td></tr>
+<tr><td valign='top' style='background-color:#F5F5FF;width:10.7%'><p style='font:10pt Calibri;margin:0'>101.cal</p>
+</td><td valign='top' style='background-color:#F5F5FF;width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'>XBRL Taxonomy Extension Calculation Linkbase Document</p>
+</td></tr>
+<tr><td valign='top' style='width:10.7%'><p style='font:10pt Calibri;margin:0'>101.def</p>
+</td><td valign='top' style='width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'>XBRL Taxonomy Extension Definition Linkbase Document</p>
+</td></tr>
+<tr><td valign='top' style='background-color:#F5F5FF;width:10.7%'><p style='font:10pt Calibri;margin:0'>101.lab</p>
+</td><td valign='top' style='background-color:#F5F5FF;width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'>XBRL Taxonomy Extension Label Linkbase Document</p>
+</td></tr>
+<tr><td valign='top' style='width:10.7%'><p style='font:10pt Calibri;margin:0'>101.pre</p>
+</td><td valign='top' style='width:89.3%;padding-left:7.2pt'><p style='font:10pt Calibri;margin:0'>XBRL Taxonomy Extension Presentation Linkbase Document</p>
+</td></tr>
+<tr><td colspan='2' valign='top' style='background-color:#F5F5FF;width:100%'><p style='font:10pt Calibri;margin:0'>___________________________</p>
+</td></tr>
+<tr><td colspan='2' valign='top' style='width:100%'><p style='font:10pt Calibri;margin:0'><span style='vertical-align:super'>* </span>Furnished. Not Filed. Not incorporated by reference. Not subject to liability.</p>
+</td></tr>
+</table>
+<hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/><hr style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'/><p style='line-height:0;margin:0'></p>
+<p style='font:10pt Calibri;margin-top:0pt;margin-bottom:10pt'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'><b>SIGNATURES</b></p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<p style='font:10pt Calibri;margin:0;text-align:center'>ALTEX INDUSTRIES, INC.</p>
+<p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+<table style='margin:0 auto;border-collapse:collapse;width:100%'><tr style='height:9.05pt'><td valign='top' style='width:50%'><p style='font:10pt Calibri;margin:0;text-align:justify'>Date: February 12, 2020</p>
+</td><td valign='top' style='width:70%;padding-left:7.2pt;border-bottom:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;margin-left:-4.5pt;margin-right:-4.5pt;text-align:justify'>By: /s/ STEVEN H. CARDIN</p>
+</td></tr>
+<tr style='height:8.4pt'><td valign='top' style='width:50%'><p style='font:10pt Calibri;margin:0;text-align:justify'>&#160;</p>
+</td><td valign='top' style='width:50%;padding-left:18pt;border-top:0.5pt solid #000000'><p style='font:10pt Calibri;margin:0;margin-left:-4.5pt;margin-right:-4.5pt;text-align:justify'>Steven H. Cardin</p>
+</td></tr>
+<tr style='height:18.2pt'><td valign='top' style='width:50%'><p style='font:10pt Calibri;margin:0;text-align:justify'> &#160;</p>
+</td><td valign='top' style='width:50%;padding-left:18pt'><p style='font:10pt Calibri;margin:0;margin-left:-4.5pt;margin-right:-4.5pt'>Chief Executive Officer and </p>
+<p style='font:10pt Calibri;margin:0;margin-left:-4.5pt;margin-right:-4.5pt'>Principal Financial Officer</p>
+</td></tr>
+</table>
+<hr style='border:0;height:0;width:0;margin:14pt 0 0 0'/></div>
+</body>
+</html>

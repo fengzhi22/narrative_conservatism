@@ -1,0 +1,1450 @@
+
+10-Q
+1
+f10q1119_tsrinc.htm
+QUARTERLY REPORT
+
+
+
+ 
+ 
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+DC 20549
+ 
+FORM
+10-Q
+ 
+☒ Quarterly
+Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+For
+the quarterly period ended November 30, 2019
+ 
+☐
+Transition report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+For
+the transition period
+from                     
+ to                     
+ 
+Commission
+File Number: 0-8656
+ 
+TSR,
+Inc.
+
+ 
+(Exact
+name of registrant as specified in its charter)
+ 
+
+
+Delaware
+ 
+13-2635899
+
+(State
+    or other jurisdiction of
+ 
+(I.R.S.
+    Employer 
+
+Incorporation
+    or organization)
+ 
+Identification
+    No.)
+
+ 
+400
+Oser Avenue, Hauppauge, NY 11788
+ 
+
+(Address
+of principal executive offices)
+ 
+631-231-0333
+ 
+
+(Registrant’s
+telephone number)
+ 
+Securities
+registered pursuant to Section 12(b) of the Exchange Act:
+ 
+
+
+Title
+    of each class
+ 
+Trading
+    Symbol(s)
+ 
+Name
+    of each exchange on which registered
+
+Common
+    Stock, par value $0.01 per share
+ 
+TSRI
+ 
+NASDAQ
+    Capital Market
+
+Preferred
+    Share Purchase Rights1
+ 
+--
+ 
+--
+
+ 
+
+1Registered
+pursuant to Section 12(b) of the Act pursuant to a Form 8-A filed by the registrant on March 15, 2019. Until the Distribution
+Date (as defined in the registrant’s Amended and Restated Rights Agreement dated as of September 3, 2019), the Preferred
+Share Purchase Rights will be transferred with and only with the shares of the registrant’s Common Stock to which the Preferred
+Share Purchase Rights are attached.
+
+ 
+Indicate
+by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. ☒ Yes ☐ No
+ 
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate website, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post such files). ☒ Yes ☐ No
+ 
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See definitions of “large accelerated filer”, “accelerated filer”,
+“smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+ 
+
+
+Large
+    Accelerated Filer ☐
+Accelerated
+Filer ☐
+
+
+Non-Accelerated
+    Filer ☐
+Smaller
+    Reporting Company ☒
+
+
+Emerging
+Growth Company ☐
+ 
+
+
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes ☒
+No
+ 
+As
+of December 31, 2019, there were 1,962,062 shares of common stock, par value $.01 per share, issued and outstanding.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+INDEX
+ 
+
+ 
+
+
+i
+ 
+
+ 
+
+Part
+                          I.Financial
+Information
+
+ 
+
+Item
+                              1.Financial
+Statements
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+CONDENSED
+CONSOLIDATED BALANCE SHEETS
+ 
+
+ 
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+ 
+
+Page 1
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS
+For
+The Three Months and Six Months Ended November 30, 2019 and 2018
+(UNAUDITED)
+ 
+
+ 
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+ 
+
+
+Page 2
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+CONDENSED
+CONSOLIDATED STATEMENTS OF EQUITY
+For
+The Three Months and Six Months Ended November 30, 2019 and 2018
+(UNAUDITED)
+ 
+
+ 
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+ 
+
+
+Page 3
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+For The Six Months Ended November 30, 2019 and 2018
+(UNAUDITED)
+ 
+
+ 
+The
+accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+ 
+
+Page 4
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+
+1.Basis
+                                         of Presentation
+ 
+The
+accompanying condensed consolidated interim financial statements include the accounts of TSR, Inc. and its subsidiaries (the “Company”).
+All significant inter-company balances and transactions have been eliminated in consolidation. The condensed balance sheet as
+of May 31, 2019, which has been derived from audited financial statements, and the unaudited interim financial statements have
+been prepared in accordance with accounting principles generally accepted in the United States of America applying to interim
+financial information and with the instructions to Form 10-Q of Regulation S-X of the Securities and Exchange Commission. Accordingly,
+certain information and footnote disclosures required by accounting principles generally accepted in the United States of America
+and normally included in the Company’s annual financial statements have been condensed or omitted. These condensed consolidated
+interim financial statements as of and for the three months and six months ended November 30, 2019 are unaudited; however, in
+the opinion of management, such statements include all adjustments (consisting of normal recurring adjustments) necessary to present
+fairly the consolidated financial position, results of operations and cash flows of the Company for the periods presented. The
+results of operations for the interim periods presented are not necessarily indicative of the results that might be expected for
+future interim periods or for the full year ending May 31, 2020. These condensed consolidated interim financial statements should
+be read in conjunction with the Company’s consolidated financial statements and notes thereto included in the Company’s
+Annual Report on Form 10-K for the year ended May 31, 2019.
+ 
+
+2.Net
+                                         Income (Loss) Per Common Share
+ 
+Basic
+net income (loss) per common share is computed by dividing net income (loss) available to common stockholders of TSR, Inc. by
+the weighted average number of common shares outstanding. The Company had no stock options or other common stock equivalents outstanding
+during any of the periods presented.
+ 
+
+3.Cash
+                                         and Cash Equivalents
+ 
+The
+Company considers short-term highly liquid investments with maturities of three months or less at the time of purchase to be cash
+equivalents. Cash and cash equivalents were comprised of the following as of November 30, 2019 and May 31, 2019:
+ 
+
+ 
+
+4.Revenue
+                                         Recognition
+ 
+Effective
+June 1, 2018, the Company adopted Accounting Standards Update (“ASU”) No. 2014-09, Revenue from Contracts with Customers
+(Topic 606), using the modified retrospective method. This update outlined a comprehensive new revenue recognition model designed
+to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which the entity
+expects to be entitled in exchange for those goods or services. The new standard also requires additional quantitative and qualitative
+disclosures. The adoption allows companies to apply the new revenue standard to reporting periods beginning in the year the standard
+is first implemented, while prior periods continue to be reported in accordance with previous accounting guidance. Since the adoption
+of Accounting Standards Codification (“ASC”) 606 did not have a significant impact on the recognition of revenue,
+the Company did not have an opening retained earnings adjustment.
+ 
+
+Page 5
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+In
+March 2016, the Financial Accounting Standards Board (“FASB”) issued ASU 2016-08, Principal versus Agent Consideration
+(Topic 606). This update contains guidance on principal versus agent assessments when a third party is involved in providing
+goods or services to a customer. It specifies that an entity is a principal, and thus records revenue on a gross basis, if it
+controls a good or service before transferring the good or service to the customer. An entity is an agent, and thus records revenue
+on a net basis, if it arranges for a good or service to be provided by another entity. The Company adopted this ASU on June 1,
+2018 as part of the adoption of ASC 606 and it did not have a significant impact.
+ 
+In
+May 2016, the FASB issued ASU 2016-12, Narrow-Scope Improvements and Practical Expedients (Topic 606). This update provides
+certain clarifications to reduce potential diversity and to simplify the standard. The amendments in ASU 2016-12 clarify the following
+key areas: assessing collectibility; presenting sales taxes and other similar taxes collected from customers; noncash consideration;
+contract modifications at transition; completed contracts at transition; and disclosing the accounting change in the period of
+adoption. The Company adopted this ASU on June 1, 2018 as part of the adoption of ASC 606 and it did not have a significant impact.
+ 
+Revenues
+are recognized as control of the promised service is transferred to customers, in an amount that reflects the consideration expected
+in exchange for the services. Revenues from contract assignments are recognized over time, based on hours worked by the Company’s
+contract professionals. The performance of the requested service over time is the single performance obligation for assignment
+revenues. Certain customers may receive discounts (e.g., volume discounts, rebates, prompt-pay discounts) and adjustments to the
+amounts billed. These discounts, rebates and adjustments are considered variable consideration. Volume discounts are the largest
+component of variable consideration and are estimated using the most likely amount method prescribed by ASC 606, contracts terms
+and estimates of revenue. Revenues are recognized net of variable consideration to the extent that it is probable that a significant
+reversal of revenues will not occur in subsequent periods. Payment terms vary and the time between invoicing and when payment
+is due is not significant. There are no financing components to the Company’s arrangements. There are no incremental costs
+to obtain contracts and costs to fulfill contracts are expensed as incurred. The Company’s operations are primarily located
+in the United States.
+ 
+The
+Company recognizes most of its revenue on a gross basis when it acts as a principal in its transactions. The Company has direct
+contractual relationships with its customers, bears the risks and rewards of its arrangements, has the discretion to select the
+contract professionals and establish the price for the services to be provided. Additionally, the Company retains control over
+its contract professionals based on its contractual arrangements. The Company primarily provides services through its employees
+and to a lesser extent, through subcontractors; the related costs are included in cost of sales. The Company includes billable
+expenses (out-of-pocket reimbursable expenses) in revenue and the associated expenses are included in cost of sales.
+ 
+
+5.Certificates
+                                         of Deposit and Marketable Securities
+ 
+The
+Company has characterized its investments in certificates of deposit and marketable securities, based on the priority of the inputs
+used to value the investments, into a three-level fair value hierarchy. The fair value hierarchy gives the highest priority to
+quoted prices in active markets for identical assets or liabilities (Level 1), and lowest priority to unobservable inputs (Level
+3). If the inputs used to measure the investments fall within different levels of the hierarchy, the categorization is based on
+the lowest level input that is significant to the fair value measurement of the instrument.
+ 
+Investments
+recorded in the accompanying condensed consolidated balance sheets are categorized based on the inputs to valuation techniques
+as follows:
+ 
+Level
+1- These are investments where values are based on unadjusted quoted prices for identical assets in an active market the Company
+has the ability to access.
+ 
+Level
+2- These are investments where values are based on quoted market prices that are not active or model derived valuations in which
+all significant inputs are observable in active markets.
+ 
+Level
+3- These are investments where values are derived from techniques in which one or more significant inputs are unobservable.
+ 
+
+Page 6
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+The
+following are the major categories of assets measured at fair value on a recurring basis as of November 30, 2019 and May 31, 2019
+using quoted prices in active markets for identical assets (Level 1), significant other observable inputs (Level 2) and significant
+unobservable inputs (Level 3):
+ 
+
+ 
+
+ 
+Based
+upon the Company’s intent and ability to hold its certificates of deposit to maturity (which maturities range up to twelve
+months at purchase), such securities have been classified as held-to-maturity and are carried at amortized cost, which approximates
+market value. The Company’s equity securities are classified as trading securities, which are carried at fair value, as
+determined by quoted market prices, which is a Level 1 input, as established by the fair value hierarchy. The related unrealized
+gains and losses are included in earnings. The Company’s certificates of deposit and marketable securities at November 30,
+2019 and May 31, 2019 are summarized as follows:
+ 
+
+ 
+
+ 
+The
+Company’s investments in marketable securities consist primarily of investments in certificates of deposit and equity securities.
+Market values were determined for each individual security in the investment portfolio. When evaluating the investments for other-than-temporary
+impairment, the Company reviews factors such as length of time and extent to which fair value has been below cost basis, the financial
+condition of the issuer, and the Company’s ability and intent to hold the investment for a period of time, which may be
+sufficient for anticipated recovery in market values.
+ 
+
+Page 7
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+
+6.Fair
+                                         Value of Financial Instruments
+ 
+ASC
+Topic 825, Financial Instruments, requires disclosure of the fair value of certain financial instruments. For cash and
+cash equivalents, accounts receivable, accounts and other payables, accrued liabilities and advances from customers, the amounts
+presented in the condensed consolidated financial statements approximate fair value because of the short-term maturities of these
+instruments.
+ 
+
+7.Equity
+ 
+Common
+Stock Transactions
+ 
+On
+July 24, 2018, the Company became aware that Joseph F. Hughes and Winifred Hughes filed Amendments to Schedule 13D (the “Schedules
+13D”) with the United States Securities and Exchange Commission (the “SEC”) on that date, in which Joseph F.
+Hughes and Winifred Hughes disclosed that they had collectively sold 819,491 shares of the Company’s Common Stock jointly
+held by them in a privately-negotiated transaction to Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting LLC. The
+Schedules 13D stated that the sale closed on July 23, 2018. Joseph F. Hughes was the former Chairman and Chief Executive Officer
+of the Company. Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting LLC acquired, in the aggregate, 41.8% of the Company’s
+issued and outstanding Common Stock from Joseph F. Hughes and Winifred Hughes in this transaction. Amendments to Schedule 13D
+previously filed by Joseph F. Hughes and Winifred Hughes on July 17, 2018 attached an exhibit wherein it was stated that prior
+to the transaction described above, Zeff Capital, L.P. owned 77,615 shares or approximately 4% of the Company’s issued and
+outstanding Common Stock.
+ 
+The
+Company became aware on July 30, 2018 that Fintech Consulting LLC and Tajuddin Haslani filed a Schedule 13D with the SEC disclosing
+beneficial ownership of 376,100 shares of Common Stock, which represents approximately 19.2% of the Company’s issued and
+outstanding Common Stock.
+ 
+The
+Company became aware on August 23, 2018 that Zeff Capital, L.P., Zeff Holding Company, LLC and Daniel Zeff filed an Amendment
+to Schedule 13D with the SEC disclosing the additional purchase by Zeff Capital, L.P. of an aggregate of 55,680 shares of Common
+Stock. As a result of these additional purchases of Common Stock, Zeff Capital, L.P., Zeff Holding Company, LLC and Daniel Zeff
+beneficially own a total of 437,774 shares of Common Stock, which represents approximately 22.3% of the Company’s issued
+and outstanding Common Stock.
+ 
+The
+Company became aware on August 28, 2018 that QAR Industries, Inc. and Robert Fitzgerald filed an Amendment to Schedule 13D with
+the SEC disclosing the additional purchase by QAR Industries, Inc. of an aggregate of 4,070 shares of Common Stock. As a result
+of these additional purchases of Common Stock, QAR Industries, Inc. and Robert Fitzgerald beneficially own a total of 143,900
+shares of Common Stock, which represents approximately 7.3% of the Company’s issued and outstanding Common Stock. The Company
+became aware on September 10, 2019 that QAR Industries, Inc. and Robert Fitzgerald filed an Amendment to Schedule 13D with the
+SEC disclosing beneficial ownership of an aggregate of 139,200 shares of Common Stock, which represents approximately 7.1% of
+the Company’s issued and outstanding Common Stock.
+ 
+As
+a result of the transactions described above, Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting LLC are the beneficial
+owners of an aggregate of 953,074 shares of Common Stock, which represents approximately 48.6% of the Company’s issued and
+outstanding Common Stock.
+ 
+
+Page 8
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+Rights
+Plan / Preferred Stock
+ 
+
+On
+August 29, 2018, the Board of Directors of the Company declared a dividend of one preferred share purchase right (a “Right”)
+for each share of Common Stock, par value $0.01 per share (“Common Stock”), of the Company outstanding on August 29,
+2018 (the “Record Date”) to the stockholders of record on that date. In connection with the distribution of the Rights,
+the Company entered into a Rights Agreement (the “Rights Agreement”), dated as of August 29, 2018, between the Company
+and Continental Stock Transfer & Trust Company, as Rights Agent. Each Right entitles the registered holder to purchase from
+the Company one one-hundredth of a share of Class A Preferred Stock, Series One, par value $0.01 per share (“Preferred Stock”),
+of the Company at a price of $24.78 per one one-hundredth of a share of Preferred Stock represented by a Right (the “Purchase
+Price”), subject to adjustment.
+ 
+On
+August 30, 2019, the Company entered into a settlement and release agreement (the “Settlement Agreement”) with Zeff
+Capital, L.P., Zeff Holding Company, LLC, Daniel Zeff, QAR Industries, Inc., Robert Fitzgerald, Fintech Consulting LLC and Tajuddin
+Haslani (collectively, the “Investor Parties”), pursuant to which
+the Company agreed to, among other things, amend and restate the Rights Agreement to provide that a “Distribution Date”
+(as defined below) shall not occur as a result of any request by any of the Investor Parties calling for a special meeting pursuant
+to Article II, Section 5 of the Amended and Restated By-Laws of the Company in accordance with the terms of the Settlement Agreement.
+(See Note 8, “Other Matters.”)
+ 
+Distribution
+Date; Exercisability; Expiration
+ 
+Initially,
+the Rights will be attached to all certificates for shares of Common Stock and no separate certificates evidencing the Rights
+(“Rights Certificates”) will be issued. Until the Distribution Date, the Rights will be transferred with and only
+with shares of Common Stock. As long as the Rights are attached to the shares of Common Stock, the Company will issue one Right
+with each new share of Common Stock so that all such shares of Common Stock will have Rights attached.
+ 
+The
+Rights will separate and begin trading separately from the Common Stock, and Rights Certificates will be issued to evidence the
+Rights, on the earlier to occur of (a) the Close of Business (as such term is defined in the Rights Agreement) on the tenth
+day following a public announcement, or the public disclosure of facts indicating, that a Person (as such term is defined in the
+Rights Agreement), group of affiliated or associated Persons or any other Person with whom such Person is Acting in Concert (as
+defined below) has acquired Beneficial Ownership (as defined below) of 5% or more of the outstanding Common Stock (an “Acquiring
+Person”) (or, in the event an exchange is effected in accordance with Section 27 of the Rights Agreement and the Board
+of Directors determines that a later date is advisable, then such later date) or (b) the Close of Business on the tenth Business
+Day (as such term is defined in the Rights Agreement) (or such later date as may be determined by action of the Board of Directors
+prior to such time as any Person becomes an Acquiring Person) following the commencement of a tender offer or exchange offer the
+consummation of which would result in the Beneficial Ownership by a Person or group of 5% or more of the outstanding Common Stock
+(the earlier of such dates, the “Distribution Date”). As soon as practicable after the Distribution Date, unless the
+Rights are recorded in book-entry or other uncertificated form, the Company will prepare and cause the Right Certificates to be
+sent to each record holder of Common Stock as of the Close of Business on the Distribution Date.
+ 
+An
+“Acquiring Person” will not include (i) the Company, (ii) any Subsidiary (as such term is defined in the
+Rights Agreement) of the Company, (iii) any employee benefit plan or employee stock plan of the Company or any Subsidiary of the
+Company, or any trust or other entity organized, appointed, established or holding Common Stock for or pursuant to the terms of
+any such plan, or (iv) any Person who or which, at the time of the first public announcement of the Rights Agreement, is
+a Beneficial Owner of 5% or more of the Common Shares then outstanding (a “Grandfathered Stockholder”). However, if
+a Grandfathered Stockholder becomes, after such time, the Beneficial Owner of any additional shares of Common Stock (regardless
+of whether, thereafter or as a result thereof, there is an increase, decrease or no change in the percentage of shares of Common
+Stock then outstanding beneficially owned by such Grandfathered Stockholder) then such Grandfathered Stockholder shall be deemed
+to be an Acquiring Person unless, upon such acquisition of Beneficial Ownership of additional shares of Common Stock, such Person
+is not the Beneficial Owner of 5% or more of the Common Stock then outstanding. In addition, upon the first decrease of a Grandfathered
+Stockholder’s Beneficial Ownership below 5%, such Grandfathered Stockholder will
+cease to be a Grandfathered Stockholder. In the event that after the time of the first public announcement of the Rights
+Agreement, any agreement, arrangement or understanding pursuant to which any Grandfathered Stockholder is deemed to be the
+Beneficial Owner of Common Stock expires, terminates or no longer confers any benefit to or imposes any obligation on the
+Grandfathered Stockholder, any direct or indirect replacement, extension or substitution of such agreement, arrangement or
+understanding with respect to the same or different shares of Common Stock that confers Beneficial Ownership of Common Stock
+shall be considered the acquisition of Beneficial Ownership of additional shares of Common Stock by the Grandfathered
+Stockholder and render such Grandfathered Stockholder an Acquiring Person for purposes of the Rights Agreement unless, upon
+such acquisition of Beneficial Ownership of additional shares of Common Stock, such Person is not the Beneficial Owner of 5%
+or more of the Common Stock then outstanding.
+ 
+
+Page 9
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+The
+Rights are not exercisable until the Distribution Date. The Rights will expire on the Close of Business on August 29, 2021 (the
+“Expiration Date”).
+ 
+Redemption
+ 
+At
+any time prior to the Close of Business on the earlier of (a) the tenth day following the Stock Acquisition Date or (b) the Expiration
+Date, the Board of Directors may redeem the Rights in whole, but not in part, at a price of $0.01 per Right (the “Redemption
+Price”). The “Stock Acquisition Date” is the first date on which there is a public announcement by the Company
+or an Acquiring Person that an Acquiring Person has become such, or such earlier date as a majority of the Board of Directors
+becomes aware of the existence of an Acquiring Person. The redemption of the Rights may be made effective at such time, on such
+basis and with such conditions as the Board of Directors in its sole discretion may establish. Immediately upon the action of
+the Board of Directors ordering the redemption of the Rights, the right to exercise the Rights will terminate and the only right
+of the holders of Rights will be to receive the Redemption Price.
+ 
+Preferred
+Stock Rights
+ 
+The
+Preferred Stock will not be redeemable. Each share of Preferred Stock will be entitled to receive, when, as and if declared by
+the Board of Directors, (a) cash dividends in an amount per share (rounded to the nearest cent) equal to 100 times the aggregate
+per share amount of all cash dividends declared or paid on the Common Stock and (b) a preferential quarterly cash dividend (the
+“Preferential Dividends”) in an amount equal to $50.00 per share of Preferred Stock less the per share amount of all
+cash dividends declared on the Preferred Stock pursuant to clause (a) of this sentence. Each share of Preferred Stock will entitle
+the holder thereof to 100 votes per share, voting together with the holders of the Common Stock as a single class, except as otherwise
+provided in the Certificate of Designations of Class A Preferred Stock Series One filed by the Company with the Delaware Secretary
+of State or the Company’s Amended and Restated Certificate of Incorporation, as amended, or Amended and Restated By-laws.
+In the event of any consolidation, merger, combination or other transaction in which the shares of Common Stock are exchanged
+for or changed into other stock or securities, cash and/or any other property, then in any such case each outstanding share of
+Preferred Stock shall at the same time be similarly exchanged for or changed into the aggregate amount of stock, securities, cash
+and/or other property (payable in like kind), as the case may be, for which or into which each share of Common Stock is changed
+or exchanged, multiplied by 100. Upon any voluntary or involuntary liquidation, dissolution or winding up of the Company, (a)
+no distribution shall be made to the holders of shares of stock ranking junior to the Preferred Stock unless the holders of the
+Preferred Stock shall have received the greater of (i) $100 per share of Preferred Stock plus an amount equal to accrued and unpaid
+dividends and distributions thereon or (ii) an amount equal to 100 times the aggregate amount to be distributed per share to holders
+of the Common Stock, and (b) no distribution shall be made to the holders of stock ranking on a parity upon liquidation, dissolution
+or winding up with the Preferred Stock unless simultaneously therewith distributions are made ratably on the holders of the Preferred
+Stock and all other shares of such parity stock in proportion to the total amounts to which the holders of shares of Preferred
+Stock are entitled under clause (a)(i) of this sentence and to which the holders of such parity shares are entitled, in each case
+upon such liquidation, dissolution or winding up.
+ 
+The
+foregoing rights are protected by customary anti-dilution provisions.
+ 
+
+Page 10
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+The
+foregoing description of the rights of the Preferred Stock does not purport to be complete and is qualified in its entirety by
+reference to the Certificate of Designations of Class A Preferred Stock Series One.
+ 
+Rights
+of Holders
+ 
+Until
+a Right is exercised, the holder thereof, as such, will have no rights as a stockholder of the Company, including, without limitation,
+the right to vote or to receive dividends.
+ 
+Amended
+and Restated Rights Agreement
+ 
+Pursuant
+to the Settlement Agreement, the Company amended and restated the Rights Agreement on September 3, 2019 to confirm that a Distribution
+Date (as defined in the Amended and Restated Rights Agreement) shall not occur as a result of any request by any of the Investor
+Parties for a special meeting of the Company’s stockholders.
+ 
+
+8.Other
+                                         Matters
+ 
+From
+time to time, the Company is party to various lawsuits, some involving material amounts. Management is not aware of any lawsuits
+that would have a material adverse impact on the consolidated financial position of the Company.
+ 
+On
+October 16, 2018, the Company was served with a complaint filed on October 11, 2018 in the Supreme Court of the State of New York,
+Queens County, by Susan Paskowitz, a stockholder of the Company, against the Company; Joseph F. Hughes and Winifred M. Hughes;
+current and former directors Christopher Hughes, Raymond A. Roel, Brian J. Mangan, Regina Dowd, James J. Hill, William Kelly,
+and Eric Stein; as well as stockholders Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting LLC (the “Stockholder
+Litigation”). The complaint purports to be a class action lawsuit asserting claims on behalf of all minority stockholders
+of the Company. Ms. Paskowitz alleges the following: the sale by Joseph F. Hughes and Winifred M. Hughes of an aggregate of 819,491
+shares of the Company’s common stock (“controlling interest”) to Zeff Capital, L.P., QAR Industries, Inc. and
+Fintech Consulting LLC was in breach of Joseph F. Hughes’ and Winifred M. Hughes’ fiduciary duties and to the detriment
+of the Company’s minority stockholders; the members of the Board of Directors of the Company named in the complaint breached
+their fiduciary duties by failing to immediately adopt a rights plan that would have prevented Joseph F. Hughes and Winifred M.
+Hughes from selling their shares and preserved a higher premium for all stockholders; Zeff, QAR, and Fintech are “partners”
+and constitute a “group.” Ms. Paskowitz also asserts that Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting
+LLC aided and abetted Joseph F. Hughes’ and Winifred M. Hughes’ conduct, and ultimately sought to buy out the remaining
+shares of the Company at an unfair price. The complaint requests declarations from the court that: (1) Joseph F. Hughes’
+and Winifred M. Hughes’ sale of their controlling interest to Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting
+LLC was in breach of their fiduciary duties, and that those shares may not be voted or sold back to the Company pending further
+court order, (2) the members of the Board of Directors named in the complaint breached their fiduciary duties by failing to timely
+adopt a stockholder rights plan, which resulted in the loss of the ability to auction the Company off to the highest bidder without
+interference from Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting LLC, and (3) Zeff Capital, L.P., QAR Industries,
+Inc. and Fintech Consulting LLC must make a number of disclosures regarding their plans for the Company, their relationships with
+one another, and any agreements with Joseph F. Hughes and Winifred M. Hughes. The complaint has not assigned any monetary values
+to alleged damages, but it seeks: (1) for Joseph F. Hughes and Winifred M. Hughes, and Zeff Capital, L.P., QAR Industries, Inc.
+and Fintech Consulting LLC, to disgorge any benefit they received from the sale of the Hughes’ controlling interest, (2)
+for the Board of Directors to pay damages equal to the reduced value of the class members’ shares as auctionable assets,
+and (3) reasonable attorneys’ fees and costs. Although the Company is named as a defendant, there are no claims or damage
+allegations against the Company, and the complaint states that it names the Company solely to effectuate equitable relief if granted.
+ 
+On
+May 6, 2019, a stipulation of dismissal was filed in the Stockholder Litigation with respect to defendants Joseph F. Hughes, Winifred
+M. Hughes, and Regina Dowd, in which the plaintiff and these defendants agreed to the dismissal of all claims asserted by and
+against them, without prejudice. On July 26, 2019, the Company filed cross-claims against Zeff Capital, L.P., QAR Industries,
+Inc. and Fintech Consulting LLC relating to alleged breaches of fiduciary duties and for indemnification and contribution filed.
+ 
+
+Page 11
+ 
+
+ 
+TSR,
+INC. AND SUBSIDIARIES
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+November
+30, 2019
+(Unaudited)
+ 
+On
+June 14, 2019, Ms. Paskowitz filed an amended complaint in the Stockholder Litigation in the Supreme Court of the State of New
+York, Queens County against the members of the Board of Directors and Zeff Capital, L.P., QAR Industries, Inc. and Fintech Consulting
+LLC, which asserts substantially similar allegations to those contained in the October 11, 2018 complaint. In addition to the
+members of the Board of Directors named in the original complaint, the amended complaint names current and former directors Ira
+Cohen, Joseph Pennacchio, and William Kelly as defendants. The amended complaint also asserts a derivative claim purportedly on
+behalf of the Company against the named members of the Board of Directors. The amended complaint seeks declaratory judgment and
+unspecified monetary damages. The complaint requests: (1) a declaration from the court that the members of the Board of Directors
+named in the complaint breached their fiduciary duties by failing to timely adopt a stockholder rights plan, which resulted in
+the loss of the ability to auction the Company off to the highest bidder without interference from Zeff Capital, L.P., QAR Industries,
+Inc. and Fintech Consulting LLC; (2) damages derivatively on behalf of the Company for unspecified harm caused by the Directors’
+alleged breaches of fiduciary duties; (3) damages and equitable relief derivatively on behalf of the Company for the Directors’
+alleged failure to adopt proper corporate governance practices; and (4) damages and injunctive relief against Zeff Capital, L.P.,
+QAR Industries, Inc. and Fintech Consulting LLC based on their knowing dissemination of false or misleading public statements
+concerning their status as a group. The complaint has not assigned any monetary values to alleged damages.
+ 
+On
+July 15, 2019, the Company filed an answer to the amended complaint in the Stockholder Litigation and cross-claims against Zeff
+Capital, L.P., QAR Industries, Inc. and Fintech Consulting LLC for breaches of their fiduciary duties, aiding and abetting breaches
+of fiduciary duties, and indemnification and contribution based on their misappropriation of material nonpublic information and
+their failure to disclose complete and accurate information in SEC filings concerning their group actions to attempt a creeping
+takeover of the Company.
+ 
+In
+addition, on December 21, 2018, the Company filed a complaint in the United States District Court, Southern District of New York,
+against Zeff Capital, L.P., Zeff Holding Company, LLC, Daniel Zeff, QAR Industries, Inc., Robert Fitzgerald, Fintech Consulting
+LLC, and Tajuddin Haslani for violations of the disclosure and anti-fraud requirements of the federal securities laws under Sections
+13(d) and 14(a) of the Securities Exchange Act of 1934 (“Exchange Act”), and the related rules and regulations promulgated
+by the SEC, for failing to disclose to the Company and its stockholders their formation of a group and the group’s intention
+to seize control of the Company. The complaint requests that the court, among other things, declare that the defendants have solicited
+proxies without filing timely, accurate and complete reports on Schedule 13D and Schedule 14A in violation of Sections 13(d) and
+14(a) of the Exchange Act, direct the defendants to file with the SEC complete and accurate disclosures, enjoin the defendants
+from voting any of their shares prior to such time as complete and accurate disclosures have been filed, and enjoin the defendants
+from further violations of the Exchange Act with respect to the securities of the Company. The Company has filed motions for preliminary
+injunction and expedited discovery. The court held an initial pretrial conference on April 23, 2019 during which it ordered the
+parties to participate in a mediation of the claims raised in the action. The parties subsequently participated in mediation sessions
+through the Court-annexed Mediation Program; however, no resolution was reached as a result of the mediation.
+ 
+On
+January 7, 2019, Ms. Paskowitz filed a related action against Zeff Capital, L.P., Zeff Holding Company, LLC, Daniel Zeff, QAR
+Industries, Inc., Robert Fitzgerald, Fintech Consulting LLC, and Tajuddin Haslani in the Southern District of New York, which
+asserts claims against them for breach of fiduciary duty and under federal securities laws similar to those asserted in the Company’s
+action. Although the Company is not a party to Ms. Paskowitz’s action, the court has determined to treat the Company’s
+and Ms. Paskowitz’s respective actions as related.
+ 
+On
+August 7, 2019, following the Company’s initial rescheduling of the 2018 Annual Meeting
+for September 13, 2019 and the filing of Preliminary Proxy Statements by the Company and Zeff Capital, L.P., Zeff
+Capital, L.P. filed a complaint in the Delaware Court of Chancery against the Company seeking an order requiring the Company to
+hold its next annual meeting of stockholders on or around September 13, 2019, and obligating the Company to elect Class I and
+Class III directors at that annual meeting. 
+ 
+
+Page 12
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+November 30, 2019
+(Unaudited)
+ 
+On August
+30, 2019, the Company entered into the Settlement Agreement with the Investor Parties with respect to the proxy contest pertaining
+to the election of directors at the 2018 Annual Meeting, which was held on October 22, 2019. Pursuant to the Settlement Agreement,
+the parties have agreed to forever settle and resolve any and all disputes between the parties, including without limitation disputes
+arising out of or relating to the following litigations:
+ 
+(i) The
+complaint relating to alleged breaches of fiduciary duties filed on November 1, 2018 by Fintech Consulting LLC against the Company
+in the Delaware Court of Chancery, which was previously dismissed voluntarily;
+ 
+(ii) The
+complaint for declaratory and injunctive relief for violations of the federal securities laws filed on December 21, 2018 by the
+Company against the Investor Parties in the United States District Court in the Southern District of New York;
+ 
+(iii) Cross-claims
+relating to alleged breaches of fiduciary duties and for indemnification and contribution filed on July 26, 2019 by the Company
+against the Investor Parties in New York Supreme Court, Queens County; and
+ 
+(iv) The
+complaint to compel annual meeting of stockholders filed on August 7, 2019 by Zeff Capital, L.P. against the Company in the Delaware
+Court of Chancery.
+ 
+No party admitted
+any liability by entering into the Settlement Agreement. The Settlement Agreement did not resolve the Stockholder Litigation filed
+by Susan Paskowitz against the Company, Joseph F. Hughes, Winifred M. Hughes and certain current and former directors of the Company
+in the Supreme Court of the State of New York on October 11, 2018.
+ 
+Concurrently
+with the Settlement Agreement, the parties entered into a share repurchase agreement (the “Repurchase Agreement”) which
+provided for the purchase by the Company and Christopher Hughes, the Company’s President and Chief Executive Officer, of
+the shares of the Company’s Common Stock held by the Investor Parties (the “Repurchase”). The Settlement Agreement
+also contemplated that, if the Repurchase was completed, the Company would make a settlement payment to the Investor Parties at
+the closing of the Repurchase (the “Settlement Payment”). However, the Repurchase and Settlement Payment were not completed
+by the deadline of December 30, 2019.
+ 
+Pursuant to
+the Settlement Agreement, (1) the Company agreed to adopt an amendment to the Company’s Amended and Restated By-Laws, dated
+April 9, 2015 (the “By-Laws Amendment”), providing that stockholders of the Company owning at least forty percent (40%)
+of the issued and outstanding Common Stock may request a special meeting of stockholders; (2) the Investor Parties agreed not to
+take any action to call or otherwise cause a special meeting of stockholders to occur prior to December 30, 2019 (unless the Company
+had failed to hold the 2018 Annual Meeting); (3) the Company agreed to amend and restate the Company’s Rights Agreement,
+dated August 29, 2018 (the “Amended Rights Agreement”), to confirm that a Distribution Date (as defined in the Amended
+Rights Agreement) shall not occur as a result of any request by any of the Investor Parties for a special meeting; (4) the Company
+agreed that prior to the earlier of (A) the completion of the Repurchase and the payment of the Settlement Payment and (B) January
+1, 2020, the Board of Directors shall not consist of more than seven (7) directors.
+ 
+Pursuant to
+the terms of the Settlement Agreement, the two nominees for director made by Zeff Capital, L.P. were elected as directors at the
+Company’s 2018 Annual Meeting held on October 22, 2019. Please see the Company’s current Report on Form 8-K filed with
+the SEC on October 21, 2019 for more information about the background of the election of directors at the Company’s 2018
+Annual Meeting.
+ 
+Pursuant to
+the terms of the Settlement Agreement, inasmuch as the Repurchase was not completed and the Settlement Payment was not made by
+December 30, 2019, the members of the Board of Directors (other than the two directors who were nominated by Zeff Capital, L.P.
+and elected as directors at the 2018 Annual Meeting) resigned from the Board effective 5:00 p.m. Eastern Time on December 30, 2019.
+Immediately thereafter, the two remaining directors appointed Robert Fitzgerald to the Board of Directors. Please see the Company’s
+Current Report on Form 8-K filed with the SEC on December 31, 2019 for more information about the background and the appointment
+of Robert Fitzgerald.
+ 
+
+
+Page 13
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+November 30, 2019
+(Unaudited)
+ 
+In addition,
+the Settlement Agreement provides for mutual releases between the Company and each of the Investor Parties and certain of their
+affiliates. Each of the Investor Parties and certain of their affiliates also agreed to certain customary standstill provisions,
+including without limitation, with regard to certain actions in connection with the 2018 Annual Meeting, Extraordinary Transactions
+(as defined in the Settlement Agreement) with the Company, and the acquisition of any securities (or beneficial ownership thereof)
+of the Company, each of which expired on December 30, 2019.
+ 
+The foregoing
+is not a complete description of the terms of the Settlement Agreement and the Share Repurchase Agreement. For a further description
+of the terms of the Settlement Agreement and the Share Repurchase Agreement, including copies of the Settlement Agreement and Share
+Repurchase Agreement, please see the Company’s Current Report on Form 8-K filed by the Company with the SEC on September
+3, 2019.
+ 
+On October
+21, 2019, the Company entered into a Memorandum of Understanding (the “MOU”) with Susan Paskowitz providing for the
+settlement of the Stockholder Litigation filed by Ms. Paskowitz on October 11, 2018. The MOU provides for the settlement of the
+claims by Ms. Paskowitz that (1) the members of the Board named in the original complaint allegedly breached their fiduciary duties
+by failing to immediately adopt a rights plan that would have prevented the sale by Joseph F. Hughes and Winifred M. Hughes of
+an aggregate of 819,491 shares of the Company’s common stock to the Investor Parties; (2) the members of the Board named
+in the amended complaint allegedly breached their fiduciary duties and failed to adopt proper corporate governance practices; and
+(3) the Investor Parties acted as “partners” and constituted a “group” in their purchase of shares from
+Joseph F. Hughes and Winifred M. Hughes and knowingly disseminated false or misleading public statements concerning their status
+as a group.
+ 
+Pursuant to
+the terms of the MOU, the Company will (1) implement certain corporate governance reforms described in the MOU within 30 days of
+a final order and judgment entered by the court, and keep these corporate governance reforms in place for 5 years from the time
+of the final order and judgment; and (2) acknowledge that the plaintiff, Ms. Paskowitz, and her counsel provided a substantial
+benefit to the Company and its stockholders through the prosecution of the Stockholder Litigation and other related actions filed
+by Ms. Paskowitz described above.
+ 
+On December
+16, 2019, the Company entered into a Stipulation and Agreement of Settlement (the “Stipulation”) with Susan Paskowitz
+in the Stockholder Litigation. The Stipulation retains the terms and conditions of settlement of the Stockholder Litigation contained
+in the MOU described in the preceding paragraph, with the addition that the Company will pay to plaintiff’s counsel an award
+of attorneys’ fees and reimbursement of expenses in the amount of $260,000 (collectively, the “Stockholder Litigation
+Settlement”). The Stockholder Litigation Settlement is intended to fully, finally, and forever compromise, settle, release,
+resolve, and dismiss with prejudice the Stockholder Litigation and all claims asserted therein directly against all present and
+former defendants and derivatively against them on behalf of the Company. The Stockholder Litigation Settlement does not contain
+any admission of liability, wrongdoing or responsibility by any of the parties, and provides for mutual releases by all parties.
+Each stockholder of the Company is a member of the plaintiff class unless such stockholder opts out of the class. The Company expects
+that the full amount of the $260,000 settlement payment will be covered by insurance proceeds. The Stipulation remains subject
+to approval by the court. The Stipulation is independent of the Settlement Agreement and Share Repurchase Agreement that the Company
+had entered into with the Investor Parties.
+ 
+Although the Company believes
+that the Stipulation represents a fair and reasonable compromise of the matters in dispute in the Stockholder Litigation, there
+can be no assurance that the court will approve the Stipulation as proposed, or at all. Under the terms of the Stipulation, plaintiff
+Ms. Paskowitz has filed the Stipulation with the court and has requested a date for a final hearing on the approval of the Settlement
+and plaintiff’s application for an award of counsel fees and the reimbursement of expenses. The Stipulation is filed as an
+exhibit to the Company’s Current Report on Form 8-K filed by the Company with the SEC on December 17, 2019.
+  
+
+
+Page 14
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+November 30, 2019
+(Unaudited)
+ 
+
+9.Recently Adopted
+                                         Accounting Pronouncements
+
+ 
+Effective June 1, 2019, the
+Company adopted Accounting Standards Update (“ASU”) No. 2016-02, Leases, which sets out the principle for the
+recognition, measurement, presentation and disclosure of leases for both parties to a contract (i.e., lessees and lessors). The
+new standard requires lessees to classify leases as either finance or operating leases and record a right-of-use asset and a lease
+liability for all leases with a term of greater than 12 months regardless of their classification. An accounting policy election
+may be made to account for leases with a term of 12 months or less similar to existing guidance for operating leases today. ASU
+No. 2016-02 supersedes the existing guidance on accounting for leases. In July 2018, the FASB issued ASU No. 2018-11, Leases
+(Topic 842): Targeted Improvements, which allows for an optional transition method for the adoption of Topic 842. The two permitted
+transition methods are now the modified retrospective approach, which applies the new lease requirements at the beginning of the
+earliest period presented, and the optional transition method, which applies the new lease requirements through a cumulative-effect
+adjustment to the opening balance of retained earnings in the period of adoption. ASU 2016-02 is effective for our fiscal year
+ending May 31, 2020 and the interim periods within that year. The Company adopted this standard in the first quarter of fiscal
+2020 using the optional transition method. The Company also intends to elect the practical expedients that allow us to carry forward
+the historical lease classification. The Company has established an inventory of existing leases and implemented a new process
+of evaluating the classification of each lease. The financial impact of the adoption of the new standard at June 1, 2019 increased
+total assets and total liabilities by approximately $690,000. The financial impact of the adoption primarily relates to the capitalization
+of right-of-use assets and recognition of lease liabilities related to operating leases. The Company will implement changes to
+its processes and internal controls, as necessary, to meet the reporting and disclosure requirements of the new standard.
+ 
+
+10.Leases
+
+ 
+The Company leases the space for its three offices.
+Under ASC 842, at contract inception we determine whether the contract is or contains a lease and whether the lease should be classified
+as an operating or finance lease. Operating leases are in right-of-use assets and operating lease liabilities in our consolidated
+balance sheets.
+ 
+The Company’s leases for
+its three offices are classified as operating leases.
+ 
+The lease agreements expire
+on February 28, 2020, December 31, 2020 and August 31, 2022, respectively, and do not include any renewal options.
+ 
+In addition to the monthly base
+amounts in the lease agreements, the Company is required to pay real estate taxes and operating expenses during the lease terms.
+ 
+For the three months and six
+months ended November 30, 2019, the Company’s operating lease expense for these leases was $98,000 and $197,000, respectively.
+ 
+Future minimum lease payments
+under non-cancellable operating leases as of November 30, 2019 were as follows:
+ 
+
+ 
+
+
+Page 15
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+November 30, 2019
+(Unaudited)
+ 
+The following table sets forth
+the right-of-use assets and operating lease liabilities as of November 30, 2019:
+ 
+
+
+Assets 
+  
+
+Right-of-use assets	 
+$519,381 
+
+Liabilities 
+   
+
+Current operating lease liabilities	 
+$251,576 
+
+Long-term operating lease liabilities	 
+ 270,602 
+
+Total operating lease liabilities	 
+$522,178 
+
+ 
+The weighted average remaining
+lease term for the Company’s operating leases is 2.1 years.
+ 
+
+11.Line of Credit
+
+ 
+On November 27, 2019, TSR, Inc.
+(“TSR”) closed on a revolving credit facility (the “Credit Facility”) pursuant to a Loan and Security Agreement
+with Access Capital, Inc. (the “Lender”) that may provide up to $7,000,000 in funding to TSR and its direct and indirect
+subsidiaries, TSR Consulting Services, Inc., Logixtech Solutions, LLC and Eurologix, S.A.R.L., each of which together with TSR
+is a borrower under the Credit Facility. Each of the borrowers has provided a security interest to the Lender in all of their respective
+assets to secure amounts borrowed under the Credit Facility.
+ 
+
+TSR expects to utilize the Credit
+Facility for working capital and general corporate purposes. TSR also expected to utilize the Credit Facility to complete the Repurchase
+and make the Settlement Payment; however, TSR did not complete the Repurchase and make the Settlement Payment prior to the December
+30, 2019 deadline.
+
+ 
+Inasmuch as TSR did not complete
+the Repurchase and make the Settlement Payment prior to the December 30, 2019 deadline, the maximum amount that may be advanced
+under the Credit Facility at any time shall not exceed $2,000,000.
+ 
+Advances under the Credit Facility
+accrue interest at a rate per annum equal to (x) the “base rate” or “prime rate” announced by Citibank,
+N.A. from time to time, which shall be increased or decreased, as the case may be, in an amount equal to each increase or decrease
+in such “base rate” or “prime rate,” plus (y) 1.75%. The initial term of the Credit Facility is 5 years,
+which shall automatically renew for successive 5-year periods unless either TSR or the Lender gives written notice to the other
+of termination at least 60 days prior to the expiration date of the then-current term.
+ 
+TSR is obliged to satisfy certain
+financial covenants and minimum borrowing requirements under the Credit Facility, and to pay certain fees, including prepayment
+fees, and provide certain financial information to the Lender.
+ 
+As of November 30, 2019, there
+were no borrowings outstanding against this line of credit facility. Subsequent to November 30, 2019, the Company has, from time
+to time, utilized the maximum amount of $2,000,000 available under the facility to fund its payroll and other obligations.
+ 
+
+
+Page 16
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+November 30, 2019
+(Unaudited)
+ 
+
+12.Subsequent Event
+
+ 
+Inasmuch
+as the Company did not complete the Repurchase and make the Settlement Payment prior to the December 30, 2019 deadline, the
+members of the Board of Directors (other than the two directors who were elected as directors at the 2018 Annual Meeting)
+resigned from the Board effective at 5:00 p.m. Eastern Time on December 30, 2019. Immediately thereafter, the two remaining
+directors, Bradley M. Tirpak and H. Timothy Eriksen, appointed Robert Fitzgerald as a new director. Each of Mr. Tirpak, Mr.
+Eriksen and Mr. Fitzgerald qualifies as an “independent director” under the NASDAQ Stock Market Rules. These
+three individuals were also appointed to the Audit Committee, Nominating Committee, Compensation Committee and Special
+Committee. The Board appointed Mr. Tirpak as Chairman of the Board to succeed Christopher Hughes. Mr. Hughes will continue to
+serve as the Chief Executive Officer, President and Treasurer of the Company. Additionally, the Board appointed Mr. Eriksen as
+Lead Independent Director, Chairman of the Audit Committee and Chairman of the Nominating Committee. The Board also appointed
+Mr. Fitzgerald as the Chairman of the Compensation Committee and Chairman of the Special Committee.
+ 
+
+
+Page 17
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+Item 2. Management’s Discussion and Analysis of Financial
+Condition and Results of Operations
+ 
+The following discussion and analysis should
+be read in conjunction with the condensed consolidated financial statements and the notes to such financial statements.
+ 
+Forward-Looking Statements
+ 
+Certain statements contained in Management’s
+Discussion and Analysis of Financial Condition and Results of Operations, including statements concerning the Company’s plans,
+future prospects and the Company’s future cash flow requirements are forward-looking statements, as defined in the Private
+Securities Litigation Reform Act of 1995. Actual results may differ materially from those projections in the forward-looking statements
+due to known and unknown risks and uncertainties, including but not limited to the following: the statements concerning the success
+of the Company’s plan for growth, both internal and through the previously announced pursuit of suitable acquisition candidates;
+the impact of adverse economic conditions on client spending which has a negative impact on the Company’s business; risks
+relating to the competitive nature of the markets for contract computer programming services; the extent to which market conditions
+for the Company’s contract computer programming services will continue to adversely affect the Company’s business;
+the concentration of the Company’s business with certain customers; uncertainty as to the Company’s ability to maintain
+its relations with existing customers and expand its business; the impact of changes in the industry, such as the use of vendor
+management companies in connection with the consultant procurement process; the increase in customers moving IT operations offshore;
+the Company’s ability to adapt to changing market conditions; the risks, uncertainties and expense of the legal proceedings
+to which the Company is a party; and other risks and uncertainties set forth in the Company’s filings with the Securities
+and Exchange Commission. The Company is under no obligation to publicly update or revise forward-looking statements.
+ 
+Results of Operations
+ 
+The following table sets forth, for the
+periods indicated, certain financial information derived from the Company’s condensed consolidated statements of operations.
+There can be no assurance that trends in operating results will continue in the future:
+ 
+Three months ended November 30, 2019 compared with three
+months ended November 30, 2018
+ 
+
+ 
+
+
+Page 18
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+ 
+Revenue
+ 
+Revenue consists primarily of revenue from
+computer programming consulting services. Overall, revenue for the quarter ended November 30, 2019 decreased $1,168,000 or 7.1%
+from the prior year quarter. Revenue for IT consultants for the current quarter decreased by 7.2%, primarily due to lower average
+billing rates from a shift in business mix with less placements for high end skills. Revenue for administrative (non-IT workers)
+decreased by 6.7%, primarily due to reduced opportunities for placements with a large customer due to the customer’s plan
+to reduce its expenses. The overall average number of consultants on billing with customers decreased from 407 for the quarter
+ended November 30, 2018 to 378 for the quarter ended November 30, 2019, while the average number of computer programming consultants
+decreased from 346 in the quarter ended November 30, 2018 to 317 in the quarter ended November 30, 2019. The 378 consultants on
+billing for the current quarter include an equivalent 61 administrative (non-IT) workers that the Company placed at the customers’
+requests as compared to 61 in the prior year quarter.
+ 
+Cost of Sales
+ 
+Cost of sales for the quarter ended November
+30, 2019 decreased $860,000 or 6.3% to $12,784,000 from $13,644,000 in the prior year period. The decrease in cost of sales resulted
+primarily from a decrease in the average rates paid to consultants on billing and from a decrease in consultants placed with customers.
+Cost of sales as a percentage of revenue increased from 83.2% in the quarter ended November 30, 2018 to 83.9% in the quarter ended
+November 30, 2019. The percentage decrease in cost of sales for the current quarter as compared to the prior year quarter (6.3%
+decrease) was lower than the percentage decrease in revenue for the current quarter as compared to the prior year quarter (7.1%
+decrease), causing a reduction in gross margins. Customer demands for discounts and aggressive pricing combined with a competitive
+market environment have continued to apply downward pressures on gross margins, causing an increase in cost of sales as a percentage
+of revenue.
+ 
+Selling, General and Administrative Expenses
+ 
+Selling, general and administrative expenses
+consist primarily of expenses relating to account executives, technical recruiters, facilities costs, management and corporate
+overhead. These expenses decreased approximately $496,000 or 17.2% from approximately $2,882,000 in the quarter ended November
+30, 2018 to $2,386,000 in the quarter ended November 30, 2019. The decrease in these expenses primarily resulted from a significant
+decrease in amounts paid for legal and advisory services of $393,000. The legal and advisory expenses decreased in connection with
+the settlement, at the end of August 2019, of various lawsuits and the proxy contest relating to our annual meeting that was held
+on October 22, 2019 after initially being rescheduled for September 13, 2019. In addition, there was an insurance recovery of approximately
+$249,000 received during the quarter to reimburse certain of the legal expenses. Selling, general and administrative expenses,
+as a percentage of revenue, decreased from 17.5% in the quarter ended November 30, 2018 to 15.7% in the quarter ended November
+30, 2019.
+ 
+Other Income (Loss)
+ 
+Other income for the quarter ended November
+30, 2019 resulted primarily from interest and dividend income of $3,000 and a mark-to-market gain of $9,000 on the Company’s
+equity securities. Other income for the quarter ended November 30, 2018 resulted primarily from interest and dividend income of
+$5,000 and a mark-to-market gain of $1,000 on the Company’s equity securities.
+ 
+Income Tax Provision (Benefit)
+  
+The income tax provision (benefit) included
+in the Company’s results of operations for the quarters ended November 30, 2019 and 2018 reflects the Company’s estimated
+effective tax rate for the years ending May 31, 2020 and 2019, respectively. These rates resulted in a provision of 10.5% for the
+quarter ended November 30, 2019 and a benefit of 26.3% for the quarter ended November 30, 2018.
+ 
+Net Income (Loss) Attributable to TSR, Inc.
+  
+Net income attributable to TSR, Inc. was
+$62,000 in the quarter ended November 30, 2019 compared to a loss of $97,000 in the quarter ended November 30, 2018. This increase
+was primarily attributable to a decrease in legal and advisory expenses.
+ 
+
+
+Page 19
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+ 
+Six months ended November 30, 2019 compared with six months
+ended November 30, 2018
+  
+
+ 
+Revenue
+ 
+Revenue consists primarily of revenue from
+computer programming consulting services. Overall, revenue for the six months ended November 30, 2019 decreased $2,803,000 or 8.5%
+from the prior year period. Revenue for IT consultants for the current period decreased by 6.7%, primarily due to lower average
+billing rates from a shift in business mix with less placements for high end skills. Revenue for administrative (non-IT workers)
+decreased by 20.2%, primarily due to reduced opportunities for placements with a large customer due to the customer’s plan
+to reduce its expenses. The overall average number of consultants on billing with customers decreased from 398 for the six months
+ended November 30, 2018 to 377 for the six months ended November 30, 2019, while the average number of computer programming consultants
+decreased from 337 in the period ended November 30, 2018 to 323 in the period ended November 30, 2019. The 377 consultants on billing
+for the current period include an equivalent 54 administrative (non-IT) workers that the Company placed at the customers’
+requests as compared to 61 in the prior year period.
+ 
+Cost of Sales
+ 
+Cost of sales for the six months ended
+November 30, 2019 decreased $2,173,000 or 7.9% to $25,455,000 from $27,628,000 in the prior year period. The decrease in cost of
+sales resulted primarily from a decrease in the average rates paid to consultants on billing and from a decrease in consultants
+placed with customers. Cost of sales as a percentage of revenue increased from 83.8% in the six months ended November 30, 2018
+to 84.3% in the six months ended November 30, 2019. The percentage decrease in cost of sales for the current period as compared
+to the prior year period (7.9% decrease) was lower than the percentage decrease in revenue for the current period as compared to
+the prior year period (8.5% decrease), causing a reduction in gross margins. Customer demands for discounts and aggressive pricing
+combined with a competitive market environment have continued to apply downward pressures on gross margins, causing an increase
+in cost of sales as a percentage of revenue.
+ 
+Selling, General and Administrative Expenses
+ 
+Selling, general and administrative expenses
+consist primarily of expenses relating to account executives, technical recruiters, facilities costs, management and corporate
+overhead. These expenses increased approximately $172,000 or 3.2% from approximately $5,403,000 in the six months ended November
+30, 2018 to $5,575,000 in the six months ended November 30, 2019. The increase in these expenses primarily resulted from a significant
+increase in amounts paid for legal and advisory services of $373,000. The legal and advisory expenses increased in connection with
+various stockholder lawsuits and the contested proxy solicitation relating to our annual meeting that was originally scheduled
+to be held on November 28, 2018, but which was postponed in order to provide the Company with
+ 
+
+
+Page 20
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+ 
+additional time to review and respond to certain stockholder proposals, and due to the uncertainty caused by certain
+stockholder litigations against the Company and current and former members of its Board of Directors that were commenced prior
+to the original date for the annual meeting. The annual meeting was held on October 22, 2019 after initially being rescheduled
+for September 13, 2019. Certain of these litigations have been settled and the legal expenses are expected to decrease going forward.
+Selling, general and administrative expenses, as a percentage of revenue, increased from 16.3% in the six months ended November
+30, 2018 to 18.5% in the six months ended November 30, 2019.
+ 
+Other Income
+  
+Other income for the six months ended November
+30, 2019 resulted primarily from interest and dividend income of $8,000 and a mark to market gain of $11,000 on the Company’s
+equity securities. Other income for the six months ended November 30, 2018 resulted primarily from interest and dividend income
+of $10,000 and a mark to market loss of $5,000 on the Company’s equity securities.
+ 
+Income Tax Benefit
+ 
+The income tax benefit included in the Company’s results
+of operations for the six months ended November 30, 2019 and 2018 reflects the Company’s estimated effective tax rate for
+the years ending May 31, 2020 and 2019, respectively. These rates were a benefit of 28.8% for the six months ended November 30,
+2019 and a benefit of 27.9% for the six months ended November 30, 2018.
+ 
+Net Loss Attributable to TSR, Inc.
+ 
+Net loss attributable to TSR, Inc. increased
+from a net loss of $59,000 in the six months ended November 30, 2018 to a net loss of $602,000 in the six months ended November
+30, 2019. This increase in net loss was primarily attributable to the increase in legal and advisory expenses and a decrease in
+revenue.
+ 
+Liquidity and Capital Resources
+ 
+The Company expects that its cash and cash
+equivalents, certificates of deposit and marketable securities, cash flow provided by operations and the Company’s line of
+credit will be sufficient to provide the Company with adequate resources to meet its liquidity requirements for at least the next
+12 months from the issuance of these financial statements. Utilizing its accounts receivable as collateral, the Company has secured
+a line of credit to increase its liquidity (see Note 11 to the Condensed Consolidated Financial Statements).
+ 
+At November 30, 2019, the Company had working
+capital (total current assets in excess of total current liabilities) of $5,125,000 including cash and cash equivalents and certificates
+of deposit and marketable securities of $2,988,000 as compared to working capital of $6,225,000 including cash and cash equivalents
+and certificates of deposit and marketable securities of $4,222,000 at May 31, 2019.
+ 
+For the six months ended November 30, 2019,
+net cash used in operating activities was $1,234,000 compared to net cash used in operating activities of $726,000 for the six
+months ended November 30, 2018. The cash used in operating activities in the six months ended November 30, 2019 resulted primarily
+from the consolidated net loss of $592,000, a decrease in accounts payable and other payables and accrued expenses of $633,000
+and an increase in deferred income taxes of $252,000, which were offset, to an extent, by a decrease in accounts receivable of
+$376,000. The cash used in operating activities in the six months ended November 30, 2018 resulted primarily from an increase in
+accounts receivable of $743,000.
+ 
+Net cash provided by investing activities
+of $247,000 for the six months ended November 30, 2019 primarily resulted from not reinvesting a certificate of deposit that matured
+during that period. There was no net cash provided by or used in investing activities for the six months ended November 30, 2018.
+ 
+In the six months ended November 30, 2019,
+net cash used in financing activities resulted from distributions to the noncontrolling interest of $11,000. In the six months
+ended November 30, 2018, net cash used in financing activities resulted from distributions to the noncontrolling interest of $48,000.
+ 
+The Company’s capital resource commitments
+at November 30, 2019 consisted of lease obligations on its branch and corporate facilities. The Company intends to finance these
+lease commitments from cash flows provided by operations, available cash and short-term marketable securities, supplemented by
+the line of credit which the Company has obtained, as described above.
+ 
+
+
+Page 21
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+ 
+Recently Adopted Accounting Pronouncements
+ 
+Effective June 1, 2019, the Company adopted
+Accounting Standards Update (“ASU”) No. 2016-02, Leases, which sets out the principle for the recognition, measurement,
+presentation and disclosure of leases for both parties to a contract (i.e., lessees and lessors). The new standard requires lessees
+to classify leases as either finance or operating leases and record a right-of-use asset and a lease liability for all leases with
+a term of greater than 12 months regardless of their classification. An accounting policy election may be made to account for leases
+with a term of 12 months or less similar to existing guidance for operating leases today. ASU No. 2016-02 supersedes the existing
+guidance on accounting for leases. In July 2018, the FASB issued ASU No. 2018-11, Leases (Topic 842): Targeted Improvements,
+which allows for an optional transition method for the adoption of Topic 842. The two permitted transition methods are now the
+modified retrospective approach, which applies the new lease requirements at the beginning of the earliest period presented, and
+the optional transition method, which applies the new lease requirements through a cumulative-effect adjustment to the opening
+balance of retained earnings in the period of adoption. ASU 2016-02 is effective for our fiscal year ending May 31, 2020 and the
+interim periods within that year. The Company adopted this standard in the first quarter of fiscal 2020 using the optional transition
+method. The Company also intends to elect the practical expedients that allow us to carry forward the historical lease classification.
+The Company has established an inventory of existing leases and implemented a new process of evaluating the classification of each
+lease. The financial impact of the adoption of the new standard at June 1, 2019 increased total assets and total liabilities by
+approximately $690,000. The financial impact of the adoption primarily relates to the capitalization of right-of-use assets and
+recognition of lease liabilities related to operating leases. The Company will implement changes to its processes and internal
+controls, as necessary, to meet the reporting and disclosure requirements of the new standard.
+ 
+Critical Accounting Policies
+  
+The Securities and Exchange Commission
+defines “critical accounting policies” as those that require the application of management’s most difficult subjective
+or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain
+and may change in subsequent periods.
+ 
+The Company’s significant accounting
+policies are described in Note 1 to the Company’s consolidated financial statements, contained in its May 31, 2019 Annual
+Report on Form 10-K, as filed with the Securities and Exchange Commission. The Company believes that those accounting policies
+require the application of management’s most difficult, subjective or complex judgments. Except for the adoption of ASU No.
+2016-02, Leases, as of June 1, 2019, disclosed in Note 9 to the Condensed Consolidated Financial Statements, there have
+been no changes in the Company’s significant accounting policies as of November 30, 2019.
+ 
+
+Item 3.Controls and Procedures
+ 
+Disclosure Controls and Procedures.
+The Company conducted an evaluation, under the supervision and with the participation of the principal executive officer and principal
+accounting officer, of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under
+the Exchange Act of 1934). Based on this evaluation, the principal executive officer and principal accounting officer concluded
+that, as of the end of the period covered by this report, the Company’s disclosure controls and procedures are effective.
+ 
+Internal Control Over Financial Reporting.
+There was no change in the Company’s internal control over financial reporting (as such term is defined in Rules 13a-15(f)
+and 15d-15(f) under the Exchange Act) during the Company’s most recently reported completed fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+ 
+
+
+Page 22
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+ 
+
+Part II.Other Information
+
+ 
+
+Item 4.Exhibits
+ 
+
+ 
+
+
+Page 23
+ 
+
+ 
+TSR, INC. AND SUBSIDIARIES
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereto duly authorized.
+ 
+TSR, Inc.
+ 
+
+(Registrant)
+ 
+
+
+Date:
+January 13, 2020
+ 
+/s/ Christopher Hughes
+
+ 
+ 
+ 
+Christopher Hughes,
+ Chief Executive Officer, President,
+
+ 
+ 
+ 
+Treasurer and Principal Executive Officer
+
+ 
+ 
+ 
+ 
+
+Date:
+January 13, 2020
+ 
+/s/ John G. Sharkey
+
+ 
+ 
+ 
+John G. Sharkey,
+Sr. Vice President and Principal Accounting Officer
+
+ 
+ 
+ 
+Page 24
+
+ 
+ 
+ 
+ 
+
+

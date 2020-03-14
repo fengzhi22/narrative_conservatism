@@ -1,0 +1,1304 @@
+
+10-Q
+1
+form10-q.htm
+
+
+ 
+
+ 
+ 
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+ 
+FORM
+10-Q
+ 
+(Mark
+One)
+[X]
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+ 
+For
+the quarterly period ended December 31, 2019
+ 
+OR
+ 
+[  ]
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For
+the transition period from ________ to ________
+ 
+Commission
+File Number: 811-08387
+ 
+WATERSIDE
+CAPITAL CORPORATION
+(Exact
+name of registrant as specified in its charter)
+ 
+
+
+Virginia
+ 
+54-1694665
+
+(State
+    of incorporation)
+ 
+(I.R.S.
+    Employer Identification No.)
+
+ 
+
+ 
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports)
+and, (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [  ]
+ 
+Indicate
+by check mark whether the registrant has submitted electronically, if any, every Interactive Data File required to be submitted
+pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period
+that the registrant was required to submit such files). Yes [  ] No [X]
+ 
+Indicate
+by check mark whether the registrant is a Indicate by checkmark whether the registrant is a large accelerated filer, an accelerated
+filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large
+accelerated filer”, “accelerated filer”, “smaller reporting company”, and “emerging growth
+company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large
+    accelerated filer [  ]
+ 
+Accelerated
+    filer [  ]
+ 
+Non-accelerated
+    filer [X]
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Smaller
+    reporting company [X]
+ 
+Emerging
+    growth company [  ]
+
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+ 
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes [X] No [  ]
+ 
+The
+outstanding number of shares of common stock as of February 10, 2020 was: 1,915,548.
+ 
+Securities
+registered pursuant to Section 12(b) of the Act:
+ 
+
+
+Title
+    of each class:
+ 
+Trading
+    Symbol(s)
+ 
+Name
+    of each exchange on which registered:
+
+None
+ 
+ 
+ 
+ 
+
+ 
+Documents
+incorporated by reference: None
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+FORM
+10-Q
+TABLE
+OF CONTENTS
+ 
+
+ 
+
+ 2 
+ 
+
+ 
+PART
+I
+FINANCIAL
+INFORMATION
+ 
+ITEM
+1. FINANCIAL STATEMENTS
+ 
+WATERSIDE
+CAPITAL CORPORATION
+BALANCE
+SHEETS
+As
+of June 30, 2019 and December 31, 2019 (Unaudited)
+ 
+
+ 
+See
+the accompanying Notes, which are an integral part of these unaudited Financial Statements
+ 
+
+ 3 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+STATEMENTS
+OF OPERATIONS
+For
+the Three and Six Months Ended December 31, 2019 and 2018
+(Unaudited)
+ 
+
+ 
+See
+the accompanying Notes, which are an integral part of these unaudited Financial Statements
+ 
+
+ 4 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+STATEMENTS
+OF STOCKHOLDERS’ EQUITY
+For
+the Three and Six Months Ended December 31, 2019 and 2018
+(Unaudited)
+ 
+
+ 
+See
+the accompanying Notes, which are an integral part of these unaudited Financial Statements
+ 
+
+ 5 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+STATEMENTS
+OF CASH FLOWS
+For
+the Six Months Ended December 31, 2019 and 2018
+(Unaudited)
+ 
+
+ 
+See
+the accompanying Notes, which are an integral part of these unaudited Financial Statements
+ 
+
+ 6 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+NOTE
+1 – ORGANIZATION AND OPERATIONS
+ 
+Waterside
+Capital Corporation (the “Company”) was incorporated in the Commonwealth of Virginia on July 13, 1993 and was a closed-end
+investment company licensed by the Small Business Administration (the “SBA”) as a Small Business Investment Company
+(“SBIC”). The Company previously made equity investments in, and provided loans to, small businesses to finance
+their growth, expansion, and development. Under applicable SBA regulations, the Company was restricted to investing only in qualified
+small businesses as contemplated by the Small Business Investment Act of 1958. As a registered investment company under the Investment
+Company Act of 1940, as amended (the “Investment Company Act”), the Company’s investment objective was to provide
+its shareholders with a high level of income, with capital appreciation as a secondary objective. The Company made its first investment
+in a small business in October 1996.
+ 
+On
+May 28, 2014, with the Company’s consent, the court having jurisdiction over the action filed by the SBA (the “Court”)
+entered a Consent Order and Judgment Dismissing Counterclaim, Appointing Receiver, Granting Permanent Injunctive Relief and Granting
+Money Judgment (the “Order”). The Order appointed the SBA receiver of the Company for the purpose of marshaling
+and liquidating in an orderly manner all of the Company’s assets and entered judgment in favor of the United States of America,
+on behalf of the SBA, against the Company in the amount of $11,770,722. The Court assumed jurisdiction over the Company and the
+SBA was appointed receiver effective May 28, 2014.
+ 
+The
+Company effectively stopped conducting an active business upon the appointment of the SBA as the receiver and the commencement
+of the court-ordered receivership (the “Receivership”). Over the course of the Receivership, the activity of
+the Company was limited to the liquidation of the Company’s assets by the receiver and the payment of the proceeds therefrom
+to the SBA and for the expenses of the Receivership. On June 28, 2017, the Receivership was terminated with the entry of a Final
+Order by the Court. The Final Order specifically stated that “Control of Waterside shall be unconditionally transferred
+and returned to its shareholders c/o Roran Capital, LLC (“Roran”) upon notification of entry of this Order”.
+Upon termination of the Receivership, Roran took possession of all books and records made available to it by the SBA.
+ 
+The
+Company has no operating assets of any value, and the Company no longer has the SBIC license from the SBA. The Company is no longer operating as a registered investment company under the Investment Company Act. The Company will now seek to either (i)
+enter into a new business; or, (ii) merge with, or otherwise acquire, an active business which would benefit from operating as
+a public entity, and has undertaken a search to identify the best possible candidate(s) in order to provide value to the shareholders
+of the Company.
+ 
+The
+Company has filed with the SEC an application pursuant to Section 8(f) of the Investment Company Act of 1940 for an order declaring
+that the Company has ceased to be a registered investment company. In response to that filing, the SEC issued to the Company comments
+in a letter dated May 16, 2018. The Company responded to those comments with the filing of an Amended Application on June 4, 2018.
+As of the date of this Quarterly Statement, the Company has filed its Fifth Amended Application and expects to reach a
+resolution in the near future.
+ 
+The
+unaudited financial statements herein have been prepared by the Company pursuant to the rules and regulations of the United States
+Securities and Exchange Commission (“SEC”). The accompanying interim unaudited financial statements have been prepared
+under the presumption that users of the interim financial information have either read or have access to the audited financial
+statements for the latest year ended June 30, 2019. Accordingly, note disclosures which would substantially duplicate the disclosures
+contained on June 30, 2019, audited financial statements have been omitted from these interim unaudited financial statements.
+The Company evaluated all subsequent events and transactions through the date of filing this report.
+ 
+Certain
+information and note disclosures normally included in financial statements prepared in accordance with the United States generally
+accepted accounting principles (“GAAP”) have been condensed or omitted pursuant to such rules and regulations. In
+the opinion of management, all adjustments considered necessary for a fair presentation have been included. Operating results
+for the three and six months ended December 31, 2019, are not necessarily indicative of the results that may be expected for the
+year ending June 30, 2020. For further information, refer to the audited financial statements and notes for the year ended June
+30, 2019, included in the Company’s Annual Report on Form 10-K filed with the SEC on September 30, 2019.
+ 
+Going
+Concern
+ 
+The
+accompanying financial statements of our Company have been prepared in accordance with accounting principles generally accepted
+in the United States. The Company effectively ceased operations, has no significant liquid assets and continues to have net losses
+through the date of these financial statements. Our financial statements have been presented on the basis that our business is
+a going concern, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business.
+We are subject to the risks and uncertainties associated with a business with no operating business or assets and no revenue,
+as well as limitations on our operating capital resources. We have incurred operating losses and negative operating cash flows
+since the Receivership, and we expect to continue to incur operating losses and negative operating cash flows at least through
+the near future. Roran, which is a related party to the Company, has agreed to advance our Company a limited amount of funding
+in order to partially meet our most critical cash requirements. For further discussion of the advances made by Roran, see Notes
+3 and 5.
+ 
+
+ 7 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+NOTE
+2 - SIGNIFICANT ACCOUNTING POLICIES
+ 
+Significant
+Accounting Policies
+ 
+There
+have been no material changes in the Company’s significant accounting policies to those previously disclosed in the Company’s
+June 30, 2019 Financial statements included in its 2019 Annual Report on Form 10-K.
+ 
+Fiscal
+Year-End
+ 
+The
+Company elected June 30th as its fiscal year-end date.
+ 
+Use
+of Estimates and Assumptions and Critical Accounting Estimates and Assumptions
+ 
+The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the dates of the financial statements and the reported amounts of revenues and expenses
+during the reporting periods.
+ 
+These
+significant accounting estimates or assumptions bear the risk of change due to the fact that there are uncertainties attached
+to these estimates or assumptions, and certain estimates or assumptions are difficult to measure or value.
+ 
+Management
+bases its estimates on historical experience and on various assumptions that are believed to be reasonable in relation to the
+financial statements taken as a whole under the circumstances, the results of which form the basis for making judgments about
+the carrying values of assets and liabilities that are not readily apparent from other sources.
+ 
+Management
+regularly evaluates the key factors and assumptions used to develop the estimates utilizing currently available information, changes
+in facts and circumstances, historical experience and reasonable assumptions. After such evaluations, if deemed appropriate, those
+estimates are adjusted accordingly.
+ 
+Actual
+results could differ from those estimates.
+ 
+Convertible
+Financial Instruments
+ 
+The
+Company bifurcates conversion options from their host instruments and accounts for them as free standing derivative financial
+instruments if certain criteria are met. The criteria include circumstances in which (a) the economic characteristics and risks
+of the embedded derivative instrument are not clearly and closely related to the economic characteristics and risks of the host
+contract, (b) the hybrid instrument that embodies both the embedded derivative instrument and the host contract is not re-measured
+at fair value under otherwise applicable generally accepted accounting principles with changes in fair value reported in earnings
+as they occur and (c) a separate instrument with the same terms as the embedded derivative instrument would be considered a derivative
+instrument. An exception to this rule is when the host instrument is deemed to be conventional, as that term is described under
+applicable GAAP.
+ 
+When
+the Company has determined that the embedded conversion options should not be bifurcated from their host instruments, discounts
+are recorded for the intrinsic value of conversion options embedded in the instruments based upon the differences between the
+fair value of the underlying common stock at the commitment date of the transaction and the effective conversion price embedded
+in the instrument.
+ 
+
+ 8 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+Beneficial
+conversion feature – The issuance of the convertible debt described in Note 3 generated a beneficial conversion feature
+(“BCF”), which arises when a debt or equity security is issued with a non-separated embedded conversion option that
+is beneficial to the investor or in the money at inception because the conversion option has an effective strike price that is
+less than the market price of the underlying stock at the commitment date. The Company recognized the BCF by allocating the intrinsic
+value of the conversion option, which is the number of shares of common stock available upon conversion multiplied by the difference
+between the effective conversion price per share and the fair value of common stock per share on the commitment date, resulting
+in a discount on the convertible debt (recorded as a component of additional paid-in capital). The BCF is amortized into interest
+expense over the life of the related debt.
+ 
+Related
+Parties
+ 
+The
+Company follows subtopic 850-10 of the FASB Accounting Standards Codification (“ASC”) for the identification of related
+parties and disclosure of related party transactions.
+ 
+Pursuant
+to ASC 850-10-20 related parties include (a) affiliates (“Affiliate” means, with respect to any specified Person,
+any other Person that, directly or indirectly through one or more intermediaries, controls, is controlled by or is under common
+control with such Person, as such terms are used in and construed under Rule 405 under the Securities Act) of the Company; (b)
+entities for which investments in their equity securities would be required, absent the election of the fair value option under
+the Fair Value Option Subsection of ASC 825–10–15, to be accounted for by the equity method by the investing entity;
+(c) trusts for the benefit of employees, such as pension and profit-sharing trusts that are managed by or under the trusteeship
+of management; (d) principal owners of the Company; e) management of the Company; (f) other parties with which the Company may
+deal if one party controls or can significantly influence the management or operating policies of the other to an extent that
+one of the transacting parties might be prevented from fully pursuing its own separate interests; and (g) other parties that can
+significantly influence the management or operating policies of the transacting parties or that have an ownership interest in
+one of the transacting parties and can significantly influence the other to an extent that one or more of the transacting parties
+might be prevented from fully pursuing its own separate interests.
+ 
+The
+financial statements shall include disclosures of material related party transactions, other than compensation arrangements, expense
+allowances, and other similar items in the ordinary course of business. However, disclosure of transactions that are eliminated
+in the preparation of consolidated or combined financial statements is not required in those statements. The disclosures shall
+include: (a) the nature of the relationship(s) involved; (b) a description of the transactions, including transactions to which
+no amounts or nominal amounts were ascribed, for each of the periods for which income statements are presented, and such other
+information deemed necessary to an understanding of the effects of the transactions on the financial statements; (c) the dollar
+amounts of transactions for each of the periods for which income statements are presented and the effects of any change in the
+method of establishing the terms from that used in the preceding period; and, (d) amounts due from or to related parties as of
+the date of each balance sheet presented and, if not otherwise apparent, the terms and manner of settlement.
+ 
+Commitments
+and Contingencies
+ 
+The
+Company follows ASC 450-20 to report accounting for contingencies. Certain conditions may exist as of the date the financial statements
+are issued, which may result in a loss to the Company, but which will only be resolved when one or more future events occur or
+fail to occur. Management assesses such contingent liabilities, and such assessment inherently involves an exercise of judgment.
+In assessing loss contingencies related to legal proceedings that are pending against the Company or un-asserted claims that may
+result in such proceedings, management evaluates the perceived merits of any legal proceedings or un-asserted claims as well as
+the perceived merits of the amount of relief sought or expected to be sought therein.
+ 
+If
+the assessment of a contingency indicates that it is probable that a material loss has been incurred and the amount of the liability
+can be estimated, then the estimated liability would be accrued in the Company’s financial statements. If the assessment
+indicates that a potentially material loss contingency is not probable but is reasonably possible, or is probable but cannot be
+estimated, then the nature of the contingent liability, and an estimate of the range of possible losses, if determinable and material,
+would be disclosed.
+ 
+
+ 9 
+ 
+
+
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+Loss
+contingencies considered remote are generally not disclosed unless they involve guarantees, in which case the guarantees would
+be disclosed.
+ 
+Deferred
+Tax Assets and Income Taxes Provision
+ 
+The
+Company adopted the provisions of ASC 740-10-25-13. ASC 740-10-25-13 which addresses the determination of whether tax benefits
+claimed or expected to be claimed on a tax return should be recorded in the financial statements. Under ASC 740-10-25-13, the
+Company may recognize the tax benefit from an uncertain tax position only if it is more likely than not that the tax position
+will be sustained on examination by the taxing authorities, based on the technical merits of the position. The tax benefits recognized
+in the financial statements from such a position should be measured based on the largest benefit that has a greater than fifty
+percent (50%) likelihood of being realized upon ultimate settlement. ASC 740-10-25-13 also provides guidance on de-recognition,
+classification, interest, and penalties on income taxes, accounting in interim periods and requires increased disclosures. The
+Company had no material adjustments to its liabilities for unrecognized income tax benefits according to the provisions of ASC
+740-10-25-13.
+ 
+The
+estimated future tax effects of temporary differences between the tax basis of assets and liabilities are reported in the accompanying
+balance sheets, as well as tax credit carry-backs and carry-forwards. The Company periodically reviews the recoverability of deferred
+tax assets recorded on its balance sheets and provides valuation allowances as management deems necessary.
+ 
+Management
+makes judgments as to the interpretation of the tax laws that might be challenged upon an audit and cause changes to previous
+estimates of tax liability. In addition, the Company operates within multiple taxing jurisdictions and is subject to audit in
+these jurisdictions. In management’s opinion, adequate provisions for income taxes have been made for all years. If actual
+taxable income by tax jurisdiction varies from estimates, additional allowances or reversals of reserves may be necessary.
+ 
+Tax
+years that remain subject to examination by major tax jurisdictions are generally the prior three (3) years for federal purposes,
+and the prior four (4) years for state purposes; however, as a result of the Company’s operating losses, all tax years remain
+subject to examination by tax authorities.
+ 
+Net
+Loss Per Common Share
+ 
+The
+Company computes net income or loss per share in accordance with ASC 260 Earnings Per Share. Under the provisions of the Earnings
+per Share Topic ASC, basic net loss per share is computed by dividing the net loss available to common stockholders for the period
+by the weighted average number of shares of common stock outstanding during the period. The calculation of diluted net loss per
+share gives effect to common stock equivalents; however, potential common shares are excluded if their effect is anti-dilutive.
+ 
+Recently
+Issued Accounting Pronouncements
+ 
+From
+time to time, new accounting pronouncements are issued by the FASB or other standard-setting bodies that are adopted by the Company
+as of the specified effective date. Unless otherwise discussed, we believe that the impact of recently issued standards that are
+not yet effective will not have a material impact on our financial position or results of operations upon adoption.
+ 
+
+ 10 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+NOTE
+3 – NOTES PAYABLE
+ 
+On
+March 30, 2010, the SBA notified the Company that its account had been transferred to liquidation status and that the then outstanding
+debentures of $16.1 million-plus accrued interest (the “Debentures”) were due and payable within fifteen days of the
+date of the letter. The Company did not possess adequate liquid assets to make this payment. The Company negotiated terms of a
+settlement agreement with the SBA effective September 1, 2010, which allowed the Company’s management to liquidate the portfolio
+so long as there are no events of default. The Debentures were repurchased by the SBA in September 2010, represented by a Note
+Agreement between the SBA and the Company. The Note Agreement had a maturity of March 31, 2013. In the event of a default, the
+SBA had the ability to seek receivership.
+ 
+On
+May 24, 2012 the SBA delivered to the Company a notice of an event of default for failure to meet the principal repayment schedule
+under the Note Agreement (the “Notice”). Under the terms of the Notice and the Note Agreement, the SBA maintained
+a continuing right to terminate the Note Agreement and appoint a receiver to manage the Company’s assets.
+ 
+On
+November 20, 2013, the SBA filed a complaint in the United States District Court for the Eastern District of Virginia seeking,
+among other things, receivership for the Company and judgment in the amount outstanding under the Note Agreement plus continuing
+interest. The complaint alleged that as of October 31, 2013, there remained an outstanding balance of $11,762,634 under the Note
+Agreement, including interest, which continued to accrue at the rate of $2,021 per day. The SBA, in filing the complaint, requested
+that the court take exclusive jurisdiction of the Company and all of its assets wherever located and appoint the SBA as permanent
+receiver of the Company to liquidate all of the Company’s assets and satisfy the claims of its creditors in the order of
+priority as determined by the court.
+ 
+The
+Company initially took steps to contest the legal action initiated by the SBA and to oppose the receivership action. On April
+29, 2014, the Board of Directors of the Company, as then constituted (the “Board”), met to reconsider the decision
+to contest the SBA’s legal action. In light of developments occurring since December of 2013, including projections of its
+portfolio companies and discussions with the SBA, the Board determined, after consultation with and advice of its counsel, that
+it was not in the best interests of the Company and its shareholders to continue to contest the legal action. The SBA was informed
+of this determination. The Board also decided to consent to the receivership process.
+ 
+
+ 11 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+On
+May 28, 2014, with the Company’s consent, the court having jurisdiction over the action filed by the SBA (the “Court”)
+entered a Consent Order and Judgment Dismissing Counterclaim, Appointing Receiver, Granting Permanent Injunctive Relief and Granting
+Money Judgment (the “Order”). The Order appointed the SBA receiver of the Company to marshal and liquidate
+in an orderly manner all of the Company’s assets and entered judgment in favor of the United States of America, on behalf
+of the SBA, against the Company in the amount of $11,770,722. Such amount represents $11,700,000 in principal and $70,722 in accrued
+interest. The Court assumed jurisdiction over the Company and the SBA was appointed receiver effective May 28, 2014.
+ 
+On
+June 28, 2017, the Receivership was terminated and a final order entered by the Court provided Roran with control of the Company.
+As of June 30, 2019, the Company’s outstanding judgment payable totaled $0, as the judgment had been satisfied in full.
+ 
+Roran
+purchased the Company’s outstanding judgment payable owed to the SBA from the SBA in July 2017. As such, all amounts due
+under the outstanding judgment payable were owed to Roran rather than the SBA. Upon purchase, the Company began to accrue
+interest that was due under the original terms of the judgment payable. On May 16, 2019, Roran forgave the entire principal amount
+and interest due thereon of $10,609,635.
+ 
+On
+September 19, 2017, the Company entered into a Convertible Loan Agreement with Roran (the “Loan Agreement”). Pursuant
+to the Loan Agreement, Roran agreed to loan the Company an amount not to exceed a total of $150,000 in principal over 18-months.
+On June 17, 2019, the Company amended the Loan Agreement increasing the loan amount to $200,000 and extending the maturity date
+to September 19, 2019. Each advance under the Loan Agreement will be documented under a Convertible Promissory Note issued by
+the Company in favor of Roran (the “Note”). The Note bears interest at the rate of 12% per annum.
+Roran has the right to convert all or any portion of the Note into shares of the Company’s common stock at a conversion
+price equal to 60% of the share price. As a result of the advances made pursuant to the Loan Agreement, the Company has incurred
+total obligations of $190,768 as of December 31, 2019. The Company recorded a BCF due to the conversion option of $116,800, which
+has been fully amortized as of September 30, 2019. The debt discount has been amortized as interest expense through September
+30, 2019. On December 13, 2019, the Company amended its Loan Agreement and Promissory Note with Roran as follows: (i)
+the total amount to be loaned was increased to $250,000, and (ii) the maturity date was extended to June 19, 2020.
+ 
+
+ 12 
+ 
+
+ 
+WATERSIDE
+CAPITAL CORPORATION
+NOTES
+TO UNAUDITED FINANCIAL STATEMENTS
+December
+31, 2019
+ 
+NOTE
+4 - RELATED PARTY TRANSACTIONS
+ 
+The
+following individuals and entities have been identified as related parties based on their family affiliation with our Chairman
+of the Board:
+ 
+Yitzhak
+Zelmanovitch
+ 
+Roran
+Capital LLC
+ 
+The
+following amounts were owed to related parties, affiliated with the CEO and Chairman of the Board, at the dates indicated:
+ 
+
+ 
+NOTE
+5 – SUBSEQUENT EVENTS
+ 
+The
+Company has evaluated all events that occurred after the balance sheet date through the date of the filing of this Quarterly Report
+on Form 10-Q to determine if they must be reported, and there are no subsequent events to be reported except that Roran has agreed
+to extend the convertible note payable until negotiations have been concluded.
+ 
+
+ 13 
+ 
+
+ 
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+Forward-Looking
+Statements
+ 
+This
+Quarterly Report on Form 10-Q, including “Management’s Discussion and Analysis of Financial Condition and Results
+of Operations” in Item 2 of Part I of this report, include forward-looking statements. Information in this report contains
+“forward-looking statements” which may be identified by the use of forward-looking terminology, such as “may”,
+“shall”, “will”, “could”, “expect”, “estimate”, “anticipate”,
+“predict”, “probable”, “possible”, “should”, “continue”, “believes”,
+“estimates”, “projects”, “targets”, or similar terms, variations of those terms or the negative
+of those terms. Our management has compiled the forward-looking statements specified in the following information based on assumptions
+made by management and considered by management to be reasonable. Our future operating results, however, are impossible to predict
+and no representation, guaranty, or warranty is to be inferred from those forward-looking statements. Statements in this report
+concerning the following, without limitation, are forward-looking statements:
+ 
+
+
+ 
+●
+future
+    financial and operating results;
+
+ 
+ 
+ 
+
+ 
+●
+our
+    ability to fund operations and business plans, and the timing of any funding or corporate development transactions we may
+    pursue;
+
+ 
+ 
+ 
+
+ 
+●
+our
+    ability to either (i) enter into a new business; or, (ii) merge with, or otherwise acquire, an active business which would
+    benefit from operating as a public entity;
+
+ 
+ 
+ 
+
+ 
+●
+current
+    and future economic and political conditions;
+
+ 
+ 
+ 
+
+ 
+●
+overall
+    industry and market trends;
+
+ 
+ 
+ 
+
+ 
+●
+management’s
+    goals and plans for future operations; and
+
+ 
+ 
+ 
+
+ 
+●
+other
+    assumptions described in this report underlying or relating to any forward-looking statements.
+
+ 
+
+ 14 
+ 
+
+ 
+All
+references to “Waterside”, “we”, “our,” “us” and the “Company” in
+this Item 2 refer to Waterside Capital Corporation.
+ 
+The
+discussion in this section contains forward-looking statements. These statements relate to future events or our future financial
+performance. We have attempted to identify forward-looking statements by terminology such as “anticipate,” “believe,”
+“can,” “continue,” “could,” “estimate,” “expect,” “intend,”
+“may,” “plan,” “potential,” “predict,” “should,” “would”
+or “will” or the negative of these terms or other comparable terminology, but their absence does not mean that a statement
+is not forward-looking. These statements are only predictions and involve known and unknown risks, uncertainties and other factors,
+which could cause our actual results to differ from those projected in any forward-looking statements we make. You should understand
+that it is not possible to predict or identify all risks and uncertainties and you should not consider the risks and uncertainties
+identified by us to be a complete set of all potential risks or uncertainties that could materially affect us. You should not
+place undue reliance on the forward-looking statements we make herein because some or all of them may turn out to be wrong. We
+undertake no obligation to update any of the forward-looking statements contained herein to reflect future events and developments,
+except as required by law.
+ 
+The
+following discussion of the results of operations for the three and six months ended December 31, 2019, and 2018, respectively,
+should be read in conjunction with our financial statements and the notes to those financial statements that are included elsewhere
+in this Quarterly Report on Form 10-Q. Our discussion includes forward-looking statements based upon current expectations that
+involve risks and uncertainties, such as our plans, objectives, expectations and intentions. Actual results and the timing of
+events could differ materially from those anticipated in these forward-looking statements because of a number of factors. An investment
+in our common stock involves a high degree of risk. Readers of this Quarterly Report on Form 10-Q should carefully consider the
+risks set forth in the Risk Factors and Business sections of our Annual Report on Form 10-K for the year ended June 30, 2019,
+filed with the SEC on September 30, 2019. Our management has compiled the forward-looking statements specified in the following
+information based on assumptions made by management and considered by management to be reasonable. Our future operating results,
+however, are impossible to predict and no representation, guaranty, or warranty is to be inferred from those forward-looking statements.
+ 
+The
+assumptions used for purposes of the forward-looking statements specified in the following information represent estimates of
+future events and are subject to uncertainty as to possible changes in economic, legislative, industry, and other circumstances.
+As a result, the identification and interpretation of data and other information and their use in developing and selecting assumptions
+from and among reasonable alternatives require the exercise of judgment. To the extent that the assumed events do not occur, the
+outcome may vary substantially from anticipated or projected results, and, accordingly, no opinion is expressed on the achievability
+of those forward-looking statements. No assurance can be given that any of the assumptions relating to the forward-looking statements
+specified in the following information are accurate, and we assume no obligation to update any such forward-looking statements.
+ 
+Overview
+ 
+The
+Company was formed in the Commonwealth of Virginia on July 13, 1993, and was a closed-end investment company licensed by the SBA
+as an SBIC. The Company previously made equity investments in and provided loans to, small businesses to finance their growth,
+expansion, and development. Under applicable SBA regulations, the Company was restricted to investing only in qualified small
+businesses as contemplated by the Small Business Investment Act of 1958. As a registered investment company under the Investment
+Company Act, the Company’s investment objective was to provide its shareholders with a high level of income, with capital
+appreciation as a secondary objective. The Company made its first investment in a small business in October 1996.
+ 
+
+ 15 
+ 
+
+ 
+In
+May 2014 the Company effectively ceased operations. The Company consented to a court order appointing the SBA as receiver of the
+Company to marshal and liquidate in an orderly manner all of the Company’s assets. That order also entered judgment in favor
+of the United States of America, on behalf of the SBA, against the Company in the amount of $11,770,722. The SBA was appointed
+receiver effective May 28, 2014.
+ 
+Over
+the course of the Receivership, the activity of the Company was limited to the liquidation of the Company’s assets by the
+receiver and the payment of the proceeds therefrom to the SBA and for the expenses of the Receivership. The SBIC license granted
+to the Company by the SBA was revoked by the SBA effective March 20, 2017. On June 28, 2017, the Receivership was terminated.
+The Final Order specifically stated that “Control of Waterside shall be unconditionally transferred and returned to its
+shareholders c/o Roran Capital, LLC (“Roran”) upon notification of entry of this Order.
+ 
+Upon
+termination of the Receivership, Roran took possession of all books and records made available to it by the SBA. With no assets
+and no SBIC license from the SBA, no income, and liabilities, at that time, in excess of $10,000,000, it became clear to the Company
+that continuing to operate as a registered investment company was impossible. The Company and Roran entered in to a Convertible
+Loan Agreement on September 19, 2017, as amended, to fund the Company’s expenses while it sought a new business to
+undertake or to merge with an existing business. The New Board has continued to work toward achieving that goal.
+ 
+The
+Company is no longer operating as a registered investment company under the Investment Company Act. The Company has engaged and
+intends to continue to engage, qualified professionals and personnel in order to bring the Company current in its SEC filings
+and audits. The Company filed all delinquent SEC filings as a registered investment company. The Company believes
+that as of June 28, 2017, it ceased to be a registered investment company so it did not file as a registered investment company
+for the period ended June 30, 2017. Instead, the Company filed a Form 10-K for that period. Prior to the filing of that 10-K,
+on January 18, 2018, the Company filed with the SEC an application pursuant to Section 8(f) of the Investment Company Act of 1940
+for an order declaring that the Company has ceased to be a registered investment company. In response to that filing, the SEC
+issued to the Company comments in a letter dated May 16, 2018. The Company responded to those comments with the filing of an Amended
+Application on June 4, 2018. As of the date of this Quarterly Statement, the Company has submitted a Fifth Amended Application
+and expects resolution soon.
+ 
+From
+time-to-time, new accounting pronouncements are issued by the Financial Accounting Standards Board (“FASB”), or other
+standard-setting bodies, relating to the treatment and recording of certain accounting transactions. Unless otherwise discussed
+herein, the management of the Company has determined that these recent accounting pronouncements will not have a material impact
+on the financial position or results of operations of the Company.
+ 
+Critical
+Accounting Policies
+ 
+Critical
+Accounting Policies and Significant Judgments and Estimates
+ 
+Our
+management’s discussion and analysis of our financial condition and results of operations are based on our financial statements
+which we have been prepared in accordance with the U.S. generally accepted accounting principles. In preparing our financial statements,
+we are required to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of
+contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during
+the reporting periods.
+ 
+Critical
+accounting estimates are estimates for which (a) the nature of the estimate is material due to the levels of subjectivity and
+judgment necessary to account for highly uncertain matters or the susceptibility of such matters to change and (b) the impact
+of the estimate on financial condition or operating performance is material.
+ 
+
+ 16 
+ 
+
+ 
+These
+significant accounting estimates or assumptions bear the risk of change due to the fact that there are uncertainties attached
+to these estimates or assumptions, and certain estimates or assumptions are difficult to measure or value.
+ 
+Management
+bases its estimates on historical experience and on various assumptions that are believed to be reasonable in relation to the
+financial statements taken as a whole under the circumstances, the results of which form the basis for making judgments about
+the carrying values of assets and liabilities that are not readily apparent from other sources.
+ 
+Management
+regularly evaluates the key factors and assumptions used to develop the estimates utilizing currently available information, changes
+in facts and circumstances, historical experience and reasonable assumptions. After such evaluations, if deemed appropriate, those
+estimates are adjusted accordingly.
+ 
+Actual
+results could differ from those estimates.
+ 
+While
+our significant accounting policies are described in more detail in Note 2 of our quarterly financial statements included in this
+Quarterly Report, we believe the following accounting policies to be critical to the judgments and estimates used in the preparation
+of our financial statements:
+ 
+Assumption
+as a Going Concern
+ 
+Management
+prepares the Company’s financial statements on the basis that the Company will continue as a going concern, which contemplates
+continuity of operations, the realization of assets, and liquidation of liabilities in the normal course of business. However,
+given our current financial position and lack of liquidity, there is substantial doubt about our ability to continue as a going
+concern.
+ 
+Convertible
+Financial Instruments
+ 
+The
+Company bifurcates conversion options from their host instruments and accounts for them as free-standing derivative financial
+instruments if certain criteria are met. The criteria include circumstances in which (a) the economic characteristics and risks
+of the embedded derivative instrument are not clearly and closely related to the economic characteristics and risks of the host
+contract, (b) the hybrid instrument that embodies both the embedded derivative instrument and the host contract is not re-measured
+at fair value under otherwise applicable generally accepted accounting principles with changes in fair value reported in earnings
+as they occur and (c) a separate instrument with the same terms as the embedded derivative instrument would be considered a derivative
+instrument. An exception to this rule is when the host instrument is deemed to be conventional, as that term is described under
+applicable GAAP.
+ 
+When
+the Company has determined that the embedded conversion options should not be bifurcated from their host instruments, discounts
+are recorded for the intrinsic value of conversion options embedded in the instruments based upon the differences between the
+fair value of the underlying common stock at the commitment date of the transaction and the effective conversion price embedded
+in the instrument.
+ 
+Beneficial
+Conversion Feature
+ 
+The
+issuance of the convertible debt issued by the Company (described in Note 3 to the Financial Statements) generated a beneficial
+conversion feature (“BCF”), which arises when a debt or equity security is issued with an embedded conversion option
+that is beneficial to the investor or in the money at inception because the conversion option has an effective strike price that
+is less than the market price of the underlying stock at the commitment date. The Company recognized the BCF by allocating the
+intrinsic value of the conversion option, which is the number of shares of common stock available upon conversion multiplied by
+the difference between the effective conversion price per share and the fair value of common stock per share on the commitment
+date, resulting in a discount on the convertible debt (recorded as a component of additional paid-in capital).
+ 
+
+ 17 
+ 
+
+ 
+Fair
+Value of Financial Instruments
+ 
+The
+Company follows paragraph 825-10-50-10 of the FASB Accounting Standards Codification for disclosures about fair value of its financial
+instruments and has adopted paragraph 820-10-35-37 of the FASB Accounting Standards Codification (“Paragraph 820-10-35-37”)
+to measure the fair value of its financial instruments. Paragraph 820-10-35-37 establishes a framework for measuring fair value
+in accounting principles generally accepted in the United States of America (U.S. GAAP), and expands disclosures about fair value
+measurements. To increase consistency and comparability in fair value measurements and related disclosures, Paragraph 820-10-35-37
+establishes a fair value hierarchy which prioritizes the inputs to valuation techniques used to measure fair value into three
+(3) broad levels. The three (3) levels of fair value hierarchy defined by Paragraph 820-10-35-37 are described below:
+ 
+
+
+ 
+Level
+    1: Quoted market prices available in active markets for identical assets or liabilities as of the reporting date.
+
+ 
+ 
+
+
+ 
+Level
+    2: Pricing inputs other than quoted prices in active markets included in Level 1, which are either directly or indirectly
+    observable as of the reporting date.
+
+ 
+ 
+
+
+ 
+Level
+    3: Pricing inputs that are generally unobservable inputs and not corroborated by market data.
+
+ 
+Financial
+assets are considered Level 3 when their fair values are determined using pricing models, discounted cash flow methodologies or
+similar techniques and at least one significant model assumption or input is unobservable.
+ 
+The
+fair value hierarchy gives the highest priority to quoted prices (unadjusted) in active markets for identical assets or liabilities
+and the lowest priority to unobservable inputs. If the inputs used to measure the financial assets and liabilities fall within
+more than one level described above, the categorization is based on the lowest level input that is significant to the fair value
+measurement of the instrument.
+ 
+Transactions
+involving related parties cannot be presumed to be carried out on an arms-length basis, as the requisite conditions of competitive,
+free-market dealings may not exist. Representations about transactions with related parties, if made, shall not imply that the
+related party transactions were consummated on terms equivalent to those that prevail in arm’s-length transactions unless
+such representations can be substantiated.
+ 
+Deferred
+Tax Assets and Income Taxes Provision
+ 
+The
+Company adopted the provisions of paragraph 740-10-25-13 of the FASB Accounting Standards Codification. Paragraph 740-10-25-13
+which addresses the determination of whether tax benefits claimed or expected to be claimed on a tax return should be recorded
+in the financial statements. Under paragraph 740-10-25-13, the Company may recognize the tax benefit from an uncertain tax position
+only if it is more likely than not that the tax position will be sustained on examination by the taxing authorities, based on
+the technical merits of the position. The tax benefits recognized in the financial statements from such a position should be measured
+based on the largest benefit that has a greater than fifty percent (50%) likelihood of being realized upon ultimate settlement.
+Paragraph 740-10-25-13 also provides guidance on de-recognition, classification, interest, and penalties on income taxes, accounting
+in interim periods and requires increased disclosures. The Company had no material adjustments to its liabilities for unrecognized
+income tax benefits according to the provisions of paragraph 740-10-25-13.
+ 
+The
+estimated future tax effects of temporary differences between the tax basis of assets and liabilities are reported in the accompanying
+balance sheets, as well as tax credit carry-backs and carry-forwards. The Company periodically reviews the recoverability of deferred
+tax assets recorded on its balance sheets and provides valuation allowances as management deems necessary.
+ 
+Management
+makes judgments as to the interpretation of the tax laws that might be challenged upon an audit and cause changes to previous
+estimates of tax liability. In addition, the Company operates within multiple taxing jurisdictions and is subject to audit in
+these jurisdictions. In management’s opinion, adequate provisions for income taxes have been made for all years. If actual
+taxable income by tax jurisdiction varies from estimates, additional allowances or reversals of reserves may be necessary.
+ 
+
+ 18 
+ 
+
+ 
+Management
+assumes that the realization of the Company’s net deferred tax assets resulting from its net operating loss (“NOL”)
+carryforwards for Federal income tax purposes that may be offset against future taxable income was not considered more likely
+than not and accordingly, a full valuation allowance offsets the potential tax benefits of the net loss carry-forwards. Management
+made this assumption based on (a) the Company has incurred recurring losses and presently has no revenue-producing business, (b)
+general economic conditions, and (c) its ability to raise additional funds to support its daily operations by way of a public
+or private offering, among other factors.
+ 
+Comparison
+of Three and Six Months Ended December 31, 2019, And 2018
+ 
+During
+the three and six month periods ended December 31, 2019, and 2018, the Company did not have any operations, and therefore, there
+were no revenues. Expenses were limited to maintaining the Company in good standing and staying current, respectively, in its
+filing obligations with the SEC.
+ 
+Administrative
+Expense
+ 
+Professional
+fees totaled $19,655 and $21,876 for the three months ended December 31, 2019, and 2018. The decrease in professional fee expense
+was primarily due to more efficient use of professionals.
+ 
+Professional
+fees totaled $32,452 and $30,100 for the six months ended December 31, 2019, and 2018. The increase in professional fee expense
+was primarily due to the fees expended in converting the issuer from a 1940 Act Company to a 1934 Act Company.
+ 
+Interest
+Expense
+ 
+Interest
+expense totaled $7,239 and $28,412 for the three months ended December 31, 2019, and 2018. The decrease in interest expense was
+due to the loan forgiveness of the judgement payable which reduced the amount of interest due.
+ 
+Interest
+expense totaled $29,900 and $49,577 for the six months ended December 31, 2019, and 2018. The decrease in interest expense was
+due to the loan forgiveness of the judgement payable which reduced the amount of interest due.
+ 
+Net
+Loss
+ 
+We
+reported a net loss of $26,895 and $50,288 during the three months ended December 31, 2019, and 2018. The decrease in net loss
+was directly attributable to the decrease in interest expense.
+ 
+We
+reported a net loss of $62,352 and $79,677 during the six months ended December 31, 2019, and 2018. The decrease in net loss was
+directly attributable to the decrease in interest expense.
+ 
+
+ 19 
+ 
+
+ 
+Liquidity
+and Capital Resources
+ 
+We
+have incurred recurring operating losses and negative operating cash flows in fiscal 2018 and through December 31, 2019, and we
+expect to continue to incur operating losses and negative operating cash flows at least through the near future. We have obtained
+funding through a convertible loan facility of up to $250,000 to meet our most critical cash requirements, and of this
+amount, we have drawn approximately $190,768 as of December 31, 2019. The loan facility matures on June
+19, 2020.
+ 
+As
+a result of the aforementioned factors, management has concluded that there is substantial doubt about our ability to continue
+as a going concern. Our independent registered public accounting firm, in its report on our fiscal 2019 financial statements,
+raised substantial doubt about our ability to continue as a going concern. Our financial statements as of and for the period ended
+December 31, 2019, do not contain any adjustments for this uncertainty. In response to our Company’s cash needs, we raised
+funding as described in our financial statements. Any additional amounts raised will be used for our future investing and operating
+cash flow needs. However, there can be no assurance that we will be successful in raising additional amounts of financing.
+ 
+Management’s
+Plans
+ 
+We
+plan to seek, investigate, and consummate a merger or other business combination, purchase of assets or other strategic transaction
+(i.e., a merger) with a corporation, partnership, limited liability company or other operating business entity, or enter into
+a new business (collectively, a “Business Target”) desiring the perceived advantages of becoming a publicly reporting
+and publicly held corporation. We have no operating business, and conduct minimal operations necessary to meet regulatory requirements.
+Our ability to commence any operations is contingent upon obtaining adequate financial resources.
+ 
+We
+are not currently engaged in any business activities that provide cash flow. The costs of investigating and analyzing business
+combinations for the next 12 months and beyond such time will be paid with money borrowed from Roran.
+ 
+During
+the next twelve months, we anticipate incurring costs related to (i) filing of Exchange Act reports; and, (ii) identifying and
+consummating a transaction with a Business Target. We believe we will be able to meet these costs through the use of funds borrowed
+from Roran, or other amounts to be loaned to or invested in us by other investors.
+ 
+We
+may consider a business which has recently commenced operations, is a developing company in need of additional funds for expansion
+into new products or markets, is seeking to develop a new product or service, or is an established business which may be experiencing
+financial or operating difficulties and needs additional capital. In the alternative, a business combination may involve the acquisition
+of, or merger with, a company which does not require substantial additional capital, but which desires to establish a public trading
+market for its shares, while avoiding, among other things, the time delays, significant expense, and loss of voting control which
+may occur in a public offering.
+ 
+Zindel
+Zelmanovitch is our president, secretary, and our chief financial officer. Mr. Zelmanovitch is only required to devote a small
+portion of his time to our affairs on a part-time or as-needed basis. No compensation has been paid to Mr. Zelmanovitch for his
+services as an officer and director. We do not anticipate hiring any full-time employees as long as we are seeking and evaluating
+Business Targets.
+ 
+At
+December 31, 2019, we had only $10,333 cash on hand. Since we have no revenue or plans to generate any revenue, we will be dependent
+upon loans to fund expenses incurred in excess of our cash. Also, related party obligations totaling $224,781, which includes
+convertible note outstanding and accrued interest payable, are due and payable as of December 31, 2019.
+ 
+Off-Balance
+Sheet Arrangements
+ 
+There
+are no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial condition,
+changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources
+that are material to investors.
+ 
+
+ 20 
+ 
+
+ 
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+ 
+Not
+applicable.
+ 
+ITEM
+4. CONTROLS AND PROCEDURES
+ 
+Evaluation
+of disclosure controls and procedures
+ 
+Our
+management is responsible for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule
+13a-15(e)) under the Exchange Act) that is designed to ensure that information required to be disclosed by our Company in the
+reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time specified
+in the Commission’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures
+designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange
+Act is accumulated and communicated to the issuer’s management, including its principal executive officer or officers and
+principal financial officer or officers, or persons performing similar functions, as appropriate to allow timely decisions regarding
+required disclosure.
+ 
+Pursuant
+to Rule 13a-15(b) under the Exchange Act, our Company carried out an evaluation with the participation of our Company’s
+management, including our Company’s Chief Executive Officer (“CEO”) and our Company’s Chief Financial
+Officer (“CFO”), of the effectiveness of our Company’s disclosure controls and procedures (as defined under
+Rule 13a-15(e) under the Exchange Act) as of December 31, 2019. Based upon that evaluation, our Company’s CEO and CFO concluded
+that our Company’s disclosure controls and procedures were not effective as of December 31, 2019 due to our Company’s
+limited internal resources and lack of ability to have multiple levels of transaction review.
+ 
+Management
+is in the process of determining how best to change our current system and implement a more effective system to insure that information
+required to be disclosed in the reports that we file or submit under the Exchange Act have been recorded, processed, summarized
+and reported accurately. Our management intends to develop procedures to address the current deficiencies to the extent possible
+given limitations in financial and personnel resources. While management is working on a plan, no assurance can be made at this
+point that the implementation of such controls and procedures will be completed in a timely manner or that they will be adequate
+once implemented.
+ 
+Changes
+in internal control over financial reporting
+ 
+There
+have been no changes in our internal control over financial reporting during the period ended December 31, 2019 that have materially
+affected, or are reasonably likely to materially affect, our internal controls over financial reporting.
+ 
+PART
+II
+OTHER
+INFORMATION
+ 
+ITEM
+1. LEGAL PROCEEDINGS
+ 
+From
+time to time, we may be involved in routine legal proceedings, as well as demands, claims and threatened litigation that arise
+in the normal course of our business. The ultimate amount of liability, if any, for any claims of any type (either alone or in
+the aggregate) may materially and adversely affect our financial condition, results of operations and liquidity. In addition,
+the ultimate outcome of any litigation is uncertain. Any outcome (including any for the actions described above), whether favorable
+or unfavorable, may materially and adversely affect us due to legal costs and expenses, diversion of management attention and
+other factors. We expense legal costs in the period incurred. We cannot assure you that additional contingencies of a legal nature
+or contingencies having legal aspects will not be asserted against us in the future, and these matters could relate to prior,
+current or future transactions or events.
+ 
+
+ 21 
+ 
+
+ 
+We
+are not currently a party to any other material legal proceedings. We are not aware of any pending or threatened litigation against
+us that in our view would have a material adverse effect on our business, financial condition, liquidity, or operating results.
+However, legal claims are inherently uncertain, and we cannot assure you that we will not be adversely affected in the future
+by legal proceedings.
+ 
+ITEM
+1A. RISK FACTORS
+ 
+Not
+applicable for a small reporting company.
+ 
+ITEM
+2. UNREGISTERD SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ 
+On
+September 19, 2017, the Company issued a Convertible Promissory Note in an amount up to $150,000 in favor of Roran which was increased
+to $200,000 on June 17, 2019 and $250,000 on December 13, 2019 (the “Note”), and as of December 31,
+2019, approximately $190,768 has been drawn by the Company under the Note. The Note was issued pursuant to a Convertible
+Loan Agreement with Roran (the “Loan Agreement”). Amounts borrowed under the Note bear interest at 12% per
+annum. All outstanding principal and accrued interest on the Note is due and payable on the maturity date, which was March 19,
+2019 and then extended to September 19, 2019 and then June 19, 2020. The Note is convertible into shares of the Company’s
+common stock (“Common Stock”) at any time at the discretion of Roran any time after the first 90-days under
+the Note at a conversion price per share equal to the lesser of: (i) 60% multiplied by the lowest trading price for the Common
+Stock during the 20 trading days prior to the date of the Note; or, (ii) 60% multiplied by the lowest trading price for the Common
+Stock during the 20 trading days prior to the date of conversion. The Note may be repaid in whole at any time. The repayment amount
+is subject to a premium on the outstanding principal balance of if repaid after 90-days, ranging from 10% to 25%, depending upon
+when repayment is tendered. If the Company fails to meet its obligations under the terms of the Note or the Loan Agreement, the
+Note shall become immediately due and payable and subject to penalties provided for in the Note, which has matured and is currently
+in default, although the parties are discussing an extension. The foregoing descriptions of the Loan Agreement and the Note do
+not purport to be complete and are qualified in their entirety by the terms and conditions of the Loan Agreement and the Note.
+ 
+The
+Note issued under the Loan Agreement was offered and sold without registration under the Securities Act in reliance on the exemptions
+provided by Section 4(a)(2) of the Securities Act and/or Regulation D promulgated thereunder, and in reliance on similar exemptions
+under applicable state laws.
+ 
+ITEM
+3. DEFAULTS UPON SENIOR SECURITIES
+ 
+None.
+ 
+ITEM
+4. MINE SAFETY DISCLOSURES
+ 
+Not
+applicable.
+ 
+ITEM
+5. OTHER INFORMATION
+ 
+None.
+ 
+
+ 22 
+ 
+
+ 
+ITEM
+6. EXHIBITS
+ 
+
+ 
+
+ 23 
+ 
+
+ 
+SIGNATURES
+ 
+In
+accordance with Section 13 or 15(d) of the Exchange Act, our Company caused this report to be signed on its behalf by the undersigned,
+thereunto duly authorized.
+ 
+
+
+Date:
+    February 11, 2020
+WATERSIDE
+    CAPITAL CORPORATION
+
+ 
+ 
+ 
+
+ 
+By:
+/s/
+    Zindel Zelmanovitch
+
+ 
+Name:
+Zindel
+    Zelmanovitch
+
+ 
+
+ 24 
+ 
+
+ 
+
+

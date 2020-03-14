@@ -1,0 +1,1889 @@
+
+10-Q
+1
+form10-q.htm
+
+
+ 
+
+ 
+ 
+U.S.
+Securities and Exchange Commission
+Washington,
+DC 20549
+ 
+FORM
+10-Q
+ 
+[X]
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR
+THE QUARTERLY PERIOD ENDED
+ 
+December
+31, 2019
+ 
+[  ]
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For
+the transition period from__________________ to _______________________.
+ 
+Commission
+File Number 000-27019
+ 
+Investview,
+Inc.
+(Exact
+name of registrant as specified in its charter)
+ 
+
+
+Nevada
+ 
+87-0369205
+
+(State
+    or other jurisdiction of incorporation)
+ 
+(I.R.S.
+    Employer Identification No.)
+
+ 
+234
+Industrial Way West, Ste A202
+Eatontown,
+New Jersey 07724
+(Address
+of principal executive offices)
+ 
+Issuer’s
+telephone number: 732-889-4300
+ 
+Securities
+registered pursuant to Section 12(b) of the Act: None
+ 
+
+
+Title
+    of each class
+ 
+Trading
+    Symbol(s)
+ 
+Name
+    of each exchange on which registered
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+ 
+
+
+
+Yes
+[X]
+No
+ [  ]
+
+
+ 
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit and post such files).
+ 
+
+
+
+Yes
+[X]
+No
+[  ]
+
+
+ 
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+ 
+Large
+    accelerated filer [  ]
+ 
+Accelerated
+    filer [  ]
+
+ 
+Non-accelerated
+    filer [  ]
+ 
+Smaller
+    reporting company [X]
+
+ 
+Emerging
+    growth company [  ]
+ 
+ 
+
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+ 
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).
+ 
+
+
+
+Yes
+[  ]
+No
+[X]
+
+ 
+ 
+Indicate
+the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date. As
+of February 12, 2020, there were 3,013,490,408 shares of common stock, $0.001 par value, outstanding.
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+ 
+
+ 
+INVESTVIEW,
+INC.
+ 
+Form
+10-Q for the Three and Nine Months Ended December 31, 2019
+ 
+Table
+of Contents
+ 
+
+
+ 
+
+
+ 2 
+ 
+
+ 
+PART
+I – FINANCIAL INFORMATION
+ 
+ITEM
+1 – FINANCIAL STATEMENTS
+
+ 
+
+INVESTVIEW, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+ 
+
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements
+ 
+
+ 3 
+ 
+
+ 
+INVESTVIEW, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND OTHER COMPREHENSIVE INCOME
+(Unaudited)
+ 
+
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements
+ 
+
+ 4 
+ 
+
+ 
+INVESTVIEW, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (DEFICIT)
+(Unaudited)
+ 
+
+
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements
+ 
+
+ 5 
+ 
+
+ 
+INVESTVIEW INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+ 
+
+ 
+The accompanying notes are an integral part of these condensed consolidated financial statements
+ 
+
+ 6 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+NOTE
+1 – ORGANIZATION AND NATURE OF BUSINESS
+ 
+Organization
+ 
+Investview,
+Inc. was incorporated on January 30, 1946, under the laws of the state of Utah as the Uintah Mountain Copper Mining Company. In
+January 2005 the Company changed domicile to Nevada, and changed its name to Voxpath Holding, Inc. In September of 2006 the Company
+merged The Retirement Solution Inc. through a Share Purchase Agreement into Voxpath Holdings, Inc. and then changed its name to
+TheRetirementSolution.Com, Inc. In October 2008 the Company changed its name to Global Investor Services, Inc., before changing
+its name to Investview, Inc., on March 27, 2012.
+ 
+On
+March 31, 2017, we entered into a Contribution Agreement with the members of Wealth Generators, LLC, a limited liability company
+(“Wealth Generators”), pursuant to which the Wealth Generators members agreed to contribute 100% of the outstanding
+securities of Wealth Generators in exchange for an aggregate of 1,358,670,942 shares of our common stock. The closing of the Contribution
+Agreement was effective April 1, 2017, and Wealth Generators became our wholly owned subsidiary and the former members of Wealth
+Generators became our stockholders and control the majority of our outstanding common stock.
+ 
+On
+June 6, 2017, we entered into an Acquisition Agreement with Market Trend Strategies, LLC, a company whose members are also former
+members of our management. Under the Acquisition Agreement, we spun-off our operations that existed prior to the merger with Wealth
+Generators and sold the intangible assets used in those pre-merger operations in exchange for Market Trend Strategies’ assumption
+of $419,139 in pre-merger liabilities.
+ 
+On
+February 28, 2018, we filed a name change for Wealth Generators, LLC to Kuvera, LLC (“Kuvera”) and on May 7, 2018
+we established WealthGen Global, LLC as a Utah limited liability company and a wholly owned subsidiary of Investview, Inc.
+ 
+On
+July 20, 2018, we entered into a Purchase Agreement with United Games Marketing LLC, a Utah limited liability company, to purchase
+its wholly owned subsidiaries United Games, LLC and United League, LLC for 50,000,000 shares of our common stock.
+ 
+On
+November 12, 2018, we established Kuvera France, S.A.S. to handle sales of our financial education and research in the European
+Union.
+ 
+On
+December 30, 2018, our wholly owned subsidiary S.A.F.E. Management, LLC received its registration and disclosure approval from
+the National Futures Association. S.A.F.E. Management, LLC is now a New Jersey State Registered Investment Adviser, Commodities
+Trading Advisor, Commodity Pool Operator, and approved for over the counter FOREX advisory services.
+ 
+On
+January 17, 2019 we renamed our non-operating wholly owned subsidiary WealthGen Global, LLC to SafeTek, LLC, a Utah Limited Liability
+Company.
+ 
+Effective
+July 22, 2019 we renamed our non-operating wholly owned subsidiary Razor Data, LLC to APEX Tek, LLC, a Utah Limited Liability
+Company.
+ 
+Nature
+of Business
+ 
+Investview
+owns a number of companies that each operate independently but are accretive to one another. Investview is establishing a portfolio
+of wholly owned subsidiaries delivering leading edge technologies, services and research, dedicated primarily to the individual
+consumer. Following is a description of each of our companies.
+ 
+Kuvera,
+LLC provides research, education, and investment tools designed to assist the self-directed investor in successfully navigating
+the financial markets. These services include research, trade alerts, and live trading rooms that include instruction in equities,
+options, FOREX, ETFs, binary options, crowdfunding and cryptocurrency sector education. In addition to trading tools and research,
+we also offer full education and software applications to assist the individual in debt reduction, increased savings, budgeting,
+and proper tax management. Each product subscription includes a core set of trading tools/research along with the personal finance
+management suite to provide an individual with complete access to the information necessary to cultivate and manage his or her
+financial situation. Different packages are available through a monthly subscription that can be cancelled at any time at the
+discretion of the customer. A unique component of the product marketing plan is the distribution method whereby all subscriptions
+are sold via current participating customers who choose to distribute and sell the services by participating in the bonus plan.
+The bonus plan participation is purely optional but enables individuals to create an additional income stream to further support
+their personal financial goals and objectives.
+ 
+
+ 7 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Kuvera
+France S.A.S. is our entity in France that will distribute Kuvera products and services throughout the European Union.
+ 
+S.A.F.E.
+Management, LLC is a Registered Investment Adviser and Commodity Trading Adviser that has been established to deliver automated
+trading strategies to individuals who find they lack the time to trade for themselves.
+ 
+United
+League, LLC owns a number of proprietary technologies including FIREFAN a social app for sports enthusiasts. Technologies
+created to support any of the Investview companies are held under the United League structure.
+ 
+United
+Games, LLC is the distribution network for United League technologies. Since the acquisition of United Games in July of 2018,
+we are working to combine the distributors of Kuvera and United Games. This is an on-going process that is not yet complete.
+ 
+SAFETek,
+LLC (formerly WealthGen Global, LLC) is a new addition that we are currently establishing for expansion plans in the high-speed
+processing and cloud computing environment.
+ 
+Apex
+Tek, LLC (formerly Razor Data, LLC) is the sales and distribution company for APEX packages and technology. It offers a unique
+passive income model for those interested in earning through the purchase and leaseback of high-speed specialized data processing
+equipment. This model has drawn considerable institutional interest.
+ 
+Investment
+Tools & Training, LLC currently has no operations or activities.
+ 
+NOTE
+2 – SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+Basis
+of Presentation
+ 
+The
+accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the rules and regulations
+(Regulation S-X) of the Securities and Exchange Commission (the “SEC”) and with the instructions to Form 10-Q. Accordingly,
+they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial
+statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a
+fair presentation have been included. The results of operations for the nine months ended December 31, 2019, are not necessarily
+indicative of the operating results that may be expected for the year ending March 31, 2020. These unaudited condensed consolidated
+financial statements should be read in conjunction with the March 31, 2019 consolidated financial statements and notes thereto
+included in our Annual Report on Form 10-K for the year ended March 31, 2019.
+ 
+Principles
+of Consolidation
+ 
+The
+consolidated financial statements include the accounts of Investview, Inc., and our wholly owned subsidiaries, Kuvera, LLC, Investment
+Tools & Training, LLC, Apex Tek, LLC (formerly Razor Data, LLC), S.A.F.E. Management, LLC, SafeTek, LLC (formerly WealthGen
+Global, LLC), United Games, LLC, United League, LLC, and Kuvera France S.A.S. Through March 31, 2019 we had determined that one
+affiliated entity, Kuvera LATAM S.A.S., which we previously conducted business with, was a variable interest entity and we were
+the primary beneficiary of the entity’s activities, which are similar to those of Kuvera, LLC. As a result, through March
+31, 2019 we had consolidated the accounts of this variable interest entity into the accompanying consolidated financial statements.
+Further, because the Company did not have any ownership interest in this variable interest entity, the Company had allocated the
+contributed capital in the variable interest entity as a component of noncontrolling interest. As of April 1, 2019 Kuvera LATAM
+S.A.S. had no operations and ceased to exist, therefore, as of that date, no consolidation of the entity is necessary and we recorded
+a gain on deconsolidation of $53,739 to eliminate the intercompany account with Kuvera LATAM S.A.S. All intercompany transactions
+and balances have been eliminated in consolidation.
+ 
+Financial
+Statement Reclassification
+ 
+Certain
+account balances from prior periods have been reclassified in these consolidated financial statements to conform to current period
+classifications.
+ 
+
+ 8 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Use
+of Estimates
+ 
+The
+preparation of these unaudited condensed consolidated financial statements in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses
+during the reporting period. Actual results could differ from those estimates.
+ 
+Foreign
+Exchange
+ 
+We
+have consolidated the accounts of Kuvera France S.A.S. into our consolidated financial statements and have consolidated the accounts
+of Kuvera LATAM S.A.S. through March 31, 2019. The operations of Kuvera France S.A.S. are conducted in France and its functional
+currency is the Euro. The operations of Kuvera LATAM S.A.S. were conducted in Colombia and its functional currency is the Colombian
+Peso.
+ 
+The
+financial statements of Kuvera France S.A.S. and Kuvera LATAM S.A.S. are prepared using their respective functional currency and
+have been translated into U.S. dollars (“USD”). Assets and liabilities are translated into USD at the applicable exchange
+rates at period-end. Stockholders’ equity is translated using historical exchange rates. Revenue and expenses are translated
+at the average exchange rates for the period. Any translation adjustments are included as foreign currency translation adjustments
+in accumulated other comprehensive income in our stockholders’ equity (deficit).
+ 
+The
+following rates were used to translate the accounts of Kuvera France S.A.S. and Kuvera LATAM S.A.S. into USD at the following
+balance sheet dates.
+ 
+
+ 
+The
+following rates were used to translate the accounts of Kuvera France S.A.S. and Kuvera LATAM S.A.S. into USD for the following
+operating periods.
+ 
+
+ 
+Cryptocurrencies
+ 
+We
+hold cryptocurrency-denominated assets (“cryptocurrencies”) and include them in our consolidated balance sheet as
+other current assets. We record cryptocurrencies at fair market value and recognize the change in the fair value of our cryptocurrencies
+as an unrealized gain or loss in the consolidated statement of operations. As of December 31, 2019 and March 31, 2019 the fair
+value of our cryptocurrencies was $156,448 and $142,061, respectively. During the nine months ended December 31, 2019 we recorded
+$(657) and $8,445 as a total realized and unrealized gain (loss) on cryptocurrency, respectively. During the nine months ended
+December 31, 2018 we recorded $16,363 and $95,810 as a total realized and unrealized gain (loss) on cryptocurrency, respectively.
+During the three months ended December 31, 2019 we recorded $10 and $(16,885) as a total realized and unrealized gain (loss) on
+cryptocurrency, respectively. During the three months ended December 31, 2018 we recorded $10 and $(16,885) as a total realized
+and unrealized gain (loss) on cryptocurrency, respectively.
+ 
+Fixed
+Assets
+ 
+Fixed
+assets are stated at cost and depreciated using the straight-line method over their estimated useful lives. When retired or otherwise
+disposed, the carrying value and accumulated depreciation of the fixed asset is removed from its respective accounts and the net
+difference less any amount realized from disposition is reflected in earnings. Expenditures for maintenance and repairs which
+do not extend the useful lives of the related assets are expensed as incurred.
+ 
+
+ 9 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+As
+of December 31, 2019 fixed assets were made up of the following:
+ 
+
+ 
+Total
+depreciation expense for the nine months ended December 31, 2019 and 2018, was $320,528 and $4,126, respectively.
+ 
+Long-Lived
+Assets – Intangible Assets & License Agreement
+ 
+We
+account for our intangible assets and long-term license agreement in accordance with ASC Subtopic 350-30, General Intangibles
+Other Than Goodwill, and ASC Subtopic 360-10-05, Accounting for the Impairment or Disposal of Long-Lived Assets. ASC Subtopic
+350-30 requires assets to be measured based on the fair value of the consideration given or the fair value of the assets (or net
+assets) acquired, whichever is more clearly evident and, thus, more reliably measurable. Further, ASC Subtopic 350-30 requires
+an intangible asset to be amortized over its useful life and for the useful life to be evaluated every reporting period to determine
+whether events or circumstances warrant a revision to the remaining period of amortization. If the estimate of useful life is
+changed the remaining carrying amount of the intangible asset is amortized prospectively over the revised remaining useful life.
+Costs of internally developing, maintaining, or restoring intangible assets are recognized as an expense when incurred.
+ 
+In
+June of 2017 we issued 80,000,000 shares of common stock with a value of $2,256,000 for a 15-year license agreement. Annual amortization
+over the 15-year life is expected to be $150,400 per year. Amortization recognized for the nine months ended December 31, 2019
+and 2018 was $113,315 and $113,315, respectively, and the long-term license agreement was recorded at a net value of $1,869,905
+and $1,983,220 as of December 31, 2019 and March 31, 2019, respectively.
+ 
+In
+June of 2018 we purchased United Games, LLC and United League, LLC and recorded the transaction as a business combination. Intangible
+assets acquired in the business combination were recorded at fair value on the date of acquisition and are being amortized on
+a straight-line method over their estimated useful lives. During the nine months ended December 31, 2019 we impaired the value
+of the customer contracts/relationships originally acquired.
+ 
+
+ 
+
+ 10 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Amortization
+expense is expected to be as follows:
+ 
+
+ 
+Impairment
+of Long-Lived Assets
+ 
+We
+have adopted ASC Subtopic 360-10, Property, Plant and Equipment (“ASC 360-10”). ASC 360-10 requires that long-lived
+assets and certain identifiable intangibles held and used by the Company be reviewed for impairment whenever events or changes
+in circumstances indicate that the carrying amount of an asset may not be recoverable or when the historical cost carrying value
+of an asset may no longer be appropriate. Events relating to recoverability may include significant unfavorable changes in business
+conditions, recurring losses, or a forecasted inability to achieve break-even operating results over an extended period.
+ 
+The
+Company evaluates the recoverability of long-lived assets based upon future net cash flows expected to result from the asset,
+including eventual disposition. Should impairment in value be indicated, the carrying value of intangible assets will be adjusted
+and an impairment loss is recorded equal to the difference between the asset’s carrying value and fair value or disposable
+value. During the nine months ended December 31, 2019 and 2018 impairment of $627,452 and $0 was recognized, respectively.
+ 
+Fair
+Value of Financial Instruments
+ 
+Fair
+value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date, based on our principal or, in the absence of a principal, most advantageous
+market for the specific asset or liability.
+ 
+U.S.
+generally accepted accounting principles provide for a three-level hierarchy of inputs to valuation techniques used to measure
+fair value, defined as follows:
+ 
+
+
+
+ 
+Level
+    1:
+ 
+Inputs
+    that are quoted prices (unadjusted) for identical assets or liabilities in active markets that the entity can access.
+
+ 
+ 
+ 
+ 
+
+ 
+Level
+    2:
+ 
+Inputs
+    other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly,
+    for substantially the full term of the asset or liability, including:
+
+ 
+
+
+ 
+-
+quoted
+    prices for similar assets or liabilities in active markets;
+
+ 
+-
+quoted
+    prices for identical or similar assets or liabilities in markets that are not active;
+
+ 
+-
+inputs
+    other than quoted prices that are observable for the asset or liability; and
+
+ 
+-
+inputs
+    that are derived principally from or corroborated by observable market data by correlation or other means.
+
+ 
+
+
+ 
+Level
+    3:
+ 
+Inputs
+    that are unobservable and reflect management’s own assumptions about the inputs market participants would use in pricing
+    the asset or liability based on the best information available in the circumstances (e.g., internally derived assumptions
+    surrounding the timing and amount of expected cash flows).
+
+ 
+
+Our
+financial instruments consist of cash, accounts receivable, accounts payable, and debt. We have determined that the book value
+of our outstanding financial instruments as of December 31, 2019 and March 31, 2019, approximates the fair value due to their
+short-term nature.
+ 
+Items
+recorded or measured at fair value on a recurring basis in the accompanying consolidated financial statements consisted of the
+following items as of December 31, 2019:
+ 
+
+ 
+
+ 11 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Items
+recorded or measured at fair value on a recurring basis in the accompanying consolidated financial statements consisted of the
+following items as of March 31, 2019:
+ 
+
+ 
+Sale
+and Leaseback
+ 
+Through
+our wholly-owned subsidiary, APEX Tex, LLC, we sell high powered data processing equipment (“APEX”) to our customers
+and they lease the equipment back to SAFETek, LLC, another of our wholly-owned subsidiaries. We account for these transactions
+under ASC 842-40 where the leaseback has been deemed a sales-type lease due to the lease term generally covering the entire economic
+life of the equipment and our likelihood to purchase the asset at the end of the lease term. In accordance with ASC 842-40 we
+have recorded the data processing equipment as a fixed asset on our balance sheet and we have accounted for the amounts received
+for the equipment as a financial liability, in other liabilities on our balance sheet. Further, we will recognize interest on
+the financial liability over the term of the lease to ensure the financial liability equates to the total amounts to be paid over
+the life of the lease.
+ 
+During
+the nine months ended December 31, 2019 we had the following activity related to our sale and leaseback transactions:
+ 
+
+ 
+[1]
+Represents lease payments to be made in the next 12 months
+ 
+As
+of December 31, 2019 we have received proceeds of $607,205 in additional deposits for APEX sales, which has been recorded in the
+customer advance amount shown on our balance sheet.
+ 
+Revenue
+Recognition
+ 
+Subscription
+Revenue
+ 
+The
+majority of our revenue is generated by subscription sales and payment is received at the time of purchase. We recognize subscription
+revenue in accordance with ASC 606-10 where revenue is measured based on a consideration specified in a contract with a customer
+and recognized when we satisfy the performance obligation specified in each contract. Our performance obligation is to provide
+services over a fixed subscription period, therefore we recognize revenue ratably over the subscription period and deferred revenue
+is recorded for the portion of the subscription period subsequent to each reporting date. Additionally, we offer a 10-day trial
+period to subscription customers, during which a full refund can be requested if a customer does not like the product. Revenues
+are deferred during the trial period as collection is not probable until that time has passed. Revenues are presented net of refunds,
+sales incentives, credits, and known and estimated credit card chargebacks.
+ 
+
+ 12 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Equipment
+Sales
+ 
+We
+generate revenue from the sale of high-speed computer processing equipment that is used for any of the following intense processing
+activities: protein folding, CGI rendering, Game Streaming, Machine & Deep Learning, Mining, Independent Financial Verification,
+and general high-speed computing. We recognize equipment sales revenue in accordance with ASC 606-10 where revenue is measured
+based on a consideration specified in a contract with a customer and recognized when we satisfy the performance obligation specified
+in each contract. Our performance obligation is to deliver an equipment package to our customers which includes hardware, software,
+and firmware and is drop-shipped to a hosting data center. We receive payment at the time of purchase and recognize revenue when
+the equipment package is delivered and ready for maintenance and hosting, which our customers arrange for, and obtain, from a
+separate third party that provides such services.
+ 
+Cryptocurrency
+Mining Service Revenue
+ 
+We
+generate revenue from the sale of cryptocurrency mining services to our customers through an arrangement with a third-party supplier.
+We recognize cryptocurrency mining service revenue in accordance with ASC 606-10 where revenue is measured based on a consideration
+specified in a contract with a customer and recognized when we satisfy the performance obligation specified in each contract.
+Our performance obligation is to arrange for the third-party to provide mining services to our customers and payment is received
+at the time of purchase, therefore revenue is recognized upon receipt of payment. We recognize revenue in the amount of the fee
+to which we are entitled to as an agent, or the amount of consideration that we retain after paying the third-party the consideration
+received in exchange for the services the third-party is to provide.
+ 
+Mining
+Revenue
+ 
+Through
+our wholly owned subsidiary, SAFETek, LLC, we lease equipment under a sales-type lease and use the equipment on blockchain networks
+to validate and add blocks of transactions to blockchain ledgers (commonly referred to as “mining”). As compensation
+for mining we are issued fees from processors and/or block rewards that are newly created cryptocurrency units granted to us.
+Our mining activities constitute our ongoing major and central operations of SAFETek, LLC. Because we do not have contracts, nor
+do we have customers associated with our mining revenue, we recognize revenue when fees and/or rewards are settled, or ultimately
+granted to us as a result of our mining activities.
+ 
+Fee
+Revenue
+ 
+We
+generate fee revenue from our customers through SAFE Management, our subsidiary licensed as a Registered
+Investment Advisor and Commodities Trading Advisor. We recognize fee revenue in accordance with ASC 606-10 where revenue
+is measured based on a consideration specified in a contract with a customer and recognized when we satisfy the performance obligation
+specified in each contract. Our performance obligation is to deliver fully managed trading services
+to individuals who do not meet the requirements of Qualified Investors and who lack the time to trade for themselves. We recognize
+fee revenue as our performance obligation is met and we receive payment for such advisory fees in the month following recognition.
+ 
+Revenue
+generated for the nine months ended December 31, 2019 is as follows:
+ 
+
+ 
+Revenue
+generated for the nine months ended December 31, 2018 is as follows:
+ 
+
+ 
+
+ 13 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Revenue
+generated for the three months ended December 31, 2019 is as follows:
+ 
+
+ 
+Revenue
+generated for the three months ended December 31, 2018 is as follows:
+ 
+
+ 
+Net
+Income (Loss) per Share
+ 
+We
+follow ASC subtopic 260-10, Earnings per Share (“ASC 260-10”), which specifies the computation, presentation, and
+disclosure requirements of earnings per share information. Basic loss per share has been calculated based upon the weighted average
+number of common shares outstanding. Convertible debt, stock options, and warrants have been excluded as common stock equivalents
+in the diluted loss per share because their effect is anti-dilutive on the computation.
+ 
+Potentially
+dilutive securities excluded from the computation of basic and diluted net loss per share are as follows:
+  
+
+ 
+Lease
+Obligation
+ 
+We
+determine if an arrangement is a lease at inception. Operating leases are included in the operating lease right-of-use asset account,
+the operating lease liability, current account, and the operating lease liability, long term account in our balance sheet. Right-of-use
+assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make
+lease payments arising from the lease. 
+ 
+Operating
+lease right-of-use assets and liabilities are recognized at commencement date based on the present value of lease payments over
+the lease term. For leases in which the rate implicit in the lease is not readily determinable, we use our incremental borrowing
+rate based on the information available at commencement date in determining the present value of lease payments. We have elected
+to not apply the recognition requirements of ASC 842 to short-term leases (leases with terms of twelve months or less). Lease
+terms include options to extend or terminate the lease when it is reasonably certain that we will exercise that option. Lease
+expense for operating lease arrangements is recognized on a straight-line basis over the lease term. We have elected the practical
+expedient and will not separate non-lease components from lease components and will instead account for each separate lease component
+and non-lease component associated with the lease components as a single lease component.
+ 
+
+ 14 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+NOTE
+3 – RECENT ACCOUNTING PRONOUNCEMENTS
+ 
+There
+are no recently issued accounting pronouncements that the Company has not yet adopted that they believe are applicable or would
+have a material impact on the financial statements of the Company.
+ 
+NOTE
+4 – GOING CONCERN AND LIQUIDITY
+ 
+Our
+financial statements are prepared using generally accepted accounting principles applicable to a going concern that contemplates
+the realization of assets and liquidation of liabilities in the normal course of business. We have incurred significant recurring
+losses, which have resulted in an accumulated deficit of $33,684,432 as of December 31, 2019, along with a net loss of $8,587,449
+for the nine months ended December 31, 2019. Additionally, as of December 31, 2019, we had cash of $263,600 and a working capital
+deficit of $10,938,623. These factors raise substantial doubt about our ability to continue as a going concern.
+ 
+Historically
+we have relied on increasing revenues and new debt and equity financing to pay for operational expenses and debt as it came due.
+During the nine months ended December 31, 2019, we raised $2,177,452 in cash proceeds from new debt arrangements, raised $2,164,500
+in cash proceeds from related parties, and received $825,000 from the sale of our common stock. Additionally, net cash provided
+by operations was $4,690,473 for the nine months ended December 31, 2019.
+ 
+Since
+our acquisition of Wealth Generators in April of 2017 we have implemented a number of initiatives and we are beginning to see
+the positive impact of these actions. First, our largest subsidiary, Kuvera, has a bonus plan structure for distributors of our
+services which consistently paid out beyond our maximum threshold. Adjustments to this bonus plan have been made over the last
+12 months. This resulted in a gradual reduction in bonus payouts which reduced our losses. Second, we expanded the objectives
+of Investview through the acquisition and creation of additional subsidiaries to increase our sources of income and creating business
+activities in new sectors which includes:
+ 
+
+
+ 
+●
+Fully
+    licensing SAFE Management LLC as a Registered Investment Advisor and Commodities Trading Advisor.
+    This was done so SAFE Management could offer fully managed trading services to individuals who lacked the time to trade for
+    themselves and provide reasonable advisory fees and minimum investment amounts to service individuals who do not meet the
+    requirements of Qualified Investors.
+
+ 
+ 
+ 
+
+ 
+●
+We
+    acquired the assets of United Games LLC and United League LLC which provided us highly experienced
+    management, programmers, marketing and compliance personnel along with key technology components such as a fully coded back
+    office and trademarked FIREFAN app. We are still in the process of adapting their technology to Kuvera operations and working
+    on various distribution plans for FIREFAN.
+
+ 
+ 
+ 
+
+ 
+●
+We
+    changed the name of our subsidiary WealthGen Global, which was an unused entity, to SAFETek LLC
+    in preparation for our entry into the high-performance computing space to meet the needs of 4IR (Fourth Industrial Revolution)
+    business needs which includes mining, blockchain technologies, gaming, artificial intelligence and 3-Dimensional rendering.
+    This will enable us to provide HPC services to small, medium and startup entities who require specialized high-speed processing
+    but cannot afford the infrastructure. By leasing our processing to these companies, we will aid these entities in bringing
+    their products, inventions, improvements to market.
+
+ 
+ 
+ 
+
+ 
+●
+We
+    have designed a program known as APEX which enables individuals to purchase highly customized
+    data processing equipment which SAFETek will lease from the purchasers for a fixed period of time at a fixed monthly lease
+    payment. This enables individuals to participate in emerging growth without experiencing the volatility and potential loss
+    experienced in the sector.
+
+ 
+ 
+ 
+
+ 
+●
+We
+    have renamed our subsidiary Razor Data LLC to APEX Tek LLC. APEX Tek will be solely responsible for the sales and marketing
+    of the APEX Package.
+
+ 
+These
+companies provide Investview a stake in 4IR, HPC, app development, fintech, blockchain and personal money management sectors.
+Each of these are areas that are targeted for significant growth spurred by innovations through technology.
+ 
+While
+our liabilities are larger than our assets it is important to note that we seek to keep operating expenses low. The assets we
+have acquired and will continue to seek out are those of technology, mobile apps, and human resources. These assets are not easily
+defined on our balance sheet but represent our ability to carry out our objectives which we believe will ultimately generating
+positive cash flow, reduced debt and then profitability.
+ 
+
+ 15 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Further,
+while we have reported reoccurring losses and have an operating capital deficiency, we have been able to establish multiple companies
+to create various revenue streams as we move forward. Our largest challenge is operational cash flow as lending arrangements continue
+to be expensive causing us to deploy incoming cash to prior debt. We continue to seek short term capital in arrangements that
+are partnership-based with elements of debt and equity combined. Additionally, our immediate focus is the continued reduction
+in losses by controlling expenses, increasing revenue, and generating additional revenue streams.
+ 
+Accordingly,
+the accompanying financial statements have been prepared in conformity with accounting principles generally accepted in the United
+States of America, which contemplate our continuation as a going concern and the realization of assets and satisfaction of liabilities
+in the normal course of business. The carrying amounts of assets and liabilities presented in the financial statements do not
+necessarily purport to represent realizable or settlement values. The financial statements do not include any adjustment that
+might result from the outcome of this uncertainty.
+ 
+NOTE
+5 – RELATED-PARTY TRANSACTIONS
+ 
+Our
+related-party payables consisted of the following:
+ 
+
+ 
+ 
+
+
+
+
+ 
+
+ 16 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+
+NOTE
+6 – DEBT
+ 
+Our
+debt consisted of the following:
+ 
+
+ 
+ 
+
+
+
+
+ 
+
+ 
+During
+January 2019, we entered into a Secured Merchant Agreement for future receivables with an entity that provides quick access to
+working capital. On January 11, 2019, we received proceeds from this arrangement of $349,851. In accordance with the terms of
+the agreement, we were required to repay $489,650 by making daily ACH payments of $1,000 for the first 30 days following the date
+of the agreement and daily ACH payments of $2,999 thereafter. Accordingly, we recorded $139,799 as a debt discount at the inception
+of the agreement, which was the difference between the funds received and the amount that was to be repaid. In February 2019 we
+replaced this agreement with a new Secured Merchant Agreement (see below), therefore transferring $449,657 of amounts owed to
+a new agreement. However, prior to the terminating the January agreement, we made payments of $39,993 and amortized $139,799 into
+interest expense.
+ 
+During
+February 2019, we entered into a Secured Merchant Agreement for future receivables with an entity that provides quick access to
+working capital. On February 15, 2019, we received proceeds from this arrangement of $73,801 after paying off $233,501 from a
+September 2018 agreement (see above) and $449,657 from a January 2019 agreement (see above). In accordance with the terms of the
+agreement, we were required to repay $909,350 by making daily ACH payments of $5,049. Accordingly, we recorded $152,391 as a debt
+discount at the inception of the agreement, which was the difference between the funds received plus the earlier debt paid off,
+and the amount that was to be repaid. During the year ended March 31, 2019, we repaid $141,372 and amortized $26,100 into interest
+expense.
+ 
+Effective
+August 16, 2019 this debt was refinanced and the outstanding balance of $316,093 was rolled into a new debt arrangement, see notation
+[10] below. During the nine months ended December 31, 2019, prior to the refinance, we repaid $451,886 and amortized $126,292
+into interest expense.
+ 
+
+ 
+
+
+
+ 17 
+ 
+
+ 
+INVESTVIEW,
+INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+AS
+OF DECEMBER 31, 2019
+(Unaudited)
+ 
+
+During
+February 2019, we entered into a Secured Merchant Agreement for future receivables with an entity that provides quick access to
+working capital. On February 15, 2019, we received proceeds from this arrangement of $126,932 after paying off $421,600 from a
+December 2018 agreement (see above). In accordance with the terms of the agreement, we are required to repay $840,000 by making
+daily ACH payments of $4,649. Accordingly, we recorded $291,468 as a debt discount at the inception of the agreement, which was
+the difference between the funds received plus the earlier debt paid off, and the amount that was to be repaid. During the year
+ended March 31, 2019, we repaid $129,388 and amortized $49,646 into interest expense.
+ 
+Effective
+August 16, 2019 this debt was refinanced and the outstanding balance of $297,033 was rolled into a new debt arrangement, see notation
+[10] below. During the nine months ended December 31, 2019, prior to the refinance, we repaid $413,580 and amortized $241,823
+into interest expense.
+ 
+
+ 
+During
+February 2019, we entered into a Secured Merchant Agreement for future receivables with an entity that provides quick access to
+working capital. On February 15, 2019, we received proceeds from this arrangement of $126,932 after paying off $327,880 from an
+October 2018 agreement (see above). In accordance with the terms of the agreement, we are required to repay $629,550 by making
+daily ACH payments of $3,498. Accordingly, we recorded $224,410 as a debt discount at the inception of the agreement, which was
+the difference between the funds received plus the earlier debt paid off, and the amount that was to be repaid. Also during February
+2019, we entered into a second Secured Merchant Agreement with this same entity, receiving proceeds of $288,000. In accordance
+with the terms of the agreement, we are required to repay $419,700 by making daily ACH payments of $2,332. Accordingly, we recorded
+$131,700 as a debt discount at the inception of the agreement, which was the difference between the funds received and the amount
+that was to be repaid. During the year ended March 31, 2019, we repaid $157,410 on these two agreements and amortized $61,330
+into interest expense.
+ 
+Effective
+August 16, 2019 this debt was refinanced and the outstanding balance of $382,000 was rolled into a new debt arrangement, see notation
+[11] below. During the nine months ended December 31, 2019, prior to the refinance, we repaid $509,840 and amortized $294,780
+into interest expense.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 18 
+ 
+
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+
+
+
+ 
+
+ 
+Effective
+December 10, 2019 this debt was refinanced and the outstanding balance of $839,514 was rolled into a new Secured Merchant Agreement
+for future receivables. During the nine months ended December 31, 2019, prior to the refinance, we repaid $559,486 and amortized
+$446,605 into interest expense related to the August 2019 arrangement. As a result of the refinancing arrangement we received
+proceeds of $854,801. In accordance with the terms of the agreement, we were required to repay $2,448,250 by making daily ACH
+payments of $10,999. Accordingly, we recorded $753,935 as a debt discount at the inception of the agreement, which was the difference
+between the funds received plus the earlier debt paid off, and the amount that was to be repaid. During the nine months ended
+December 31, 2019, after the refinance, we repaid $153,986 and amortized $54,094 into interest expense related to the new December
+2019 arrangement.
+ 
+
+ 
+
+ 
+
+ 
+In
+addition to the above debt transactions that were outstanding as of September 30, 2019 and March 31, 2019, during the nine months
+ended December 31, 2019, we also received proceeds of $200,000 from two additional short-term notes ($100,000 each) and received
+proceeds of $140,000 from a convertible promissory note. During the nine months ended December 31, 2019, we recorded interest
+expense of $30,000 for fixed interest and extension fees on the short-term notes and made total cash payments of $230,000 to extinguish
+the interest and principal amounts due on the short-term notes. During the nine months ended December 31, 2019, we accounted for
+the conversion feature in the convertible note as a derivative instrument, therefore at inception recorded a debt discount of
+$143,000 and captured loan fees, recorded as interest expense, of $718,518. By the time we repaid the convertible note in December
+of 2019 we had amortized the full $143,000 into interest expense, recorded additional interest expense on the note of $45,094
+(inclusive of a prepayment penalty), and paid off the note, accrued interest, and prepayment penalties for $188,094.
+ 
+
+ 19 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+
+NOTE
+7 – DERIVATIVE LIABILITY
+ 
+During the nine months ended December 31, 2019,
+we had the following activity in our derivative liability account:
+ 
+
+ 
+We
+use the binomial option pricing model to estimate fair value for those instruments convertible into common stock, at inception,
+at conversion date, and at each reporting date. During the nine months ended December 31, 2019, the assumptions used in our binomial
+option pricing model were in the following range:
+ 
+
+ 
+NOTE
+8 – STOCKHOLDERS’ EQUITY (DEFICIT)
+ 
+Preferred
+Stock
+ 
+We
+are authorized to issue up to 10,000,000 shares of preferred stock with a par value of $0.001 and our Board of Directors has the
+authority to issue one or more classes of preferred stock with rights senior to those of common stock and to determine the rights,
+privileges and preferences of that preferred stock.
+ 
+As
+of December 31, 2019 and March 31, 2019 we had no preferred stock issued or outstanding.
+ 
+Common
+Stock
+ 
+During
+the nine months ended December 31, 2019, we issued 59,215,648 shares of common stock in exchange for net proceeds of $825,000.
+ 
+In
+conjunction with the sale of common stock during the year ended March 31, 2018, we provided a guarantee to certain individuals
+such that we would issue additional shares of our common stock if the average closing price of our common stock fell below $0.02
+per share on the 20 days preceding the 18-month anniversary of the date the shares were originally sold. As a result of this guarantee,
+we had recorded $626,388 in accounts payable and accrued liabilities on our balance sheet as of March 31, 2018. During the year
+ended March 31, 2019, the 18-month anniversary passed without the common stock falling below the set threshold, therefore, we
+were released from the guarantee, and we increased additional paid-in capital by $525,000 to remove the previously recorded offering
+costs. During the nine months ended December 31, 2019, the 18-month anniversary passed without the common stock falling below
+the set threshold, therefore, we were released from the guarantee, and we increased additional paid-in capital by $101,387 to
+remove the previously recorded offering costs.
+ 
+Also
+during the nine months ended December 31, 2019, we issued 241,000,000 shares of common stock, valued at $3,865,500 based on the
+market value on the day of issuance, to multiple employees for services and compensation, which is subject to forfeiture if the
+employee is not in good standing at the time the shares are fully vested. Of the $3,865,500 value we recognized $1,844,639 as
+an expense during the nine months ending December 31, 2019 and the remaining $2,020,861 will be recognized ratably over the vesting
+term. In addition to the shares issued to employees, we also issued an additional 285,618,592 shares of common stock, valued at
+$831,800 based on the market value on the day of issuance, for services.
+ 
+During
+the nine months ended December 31, 2019 we repurchased 5,150 shares of common stock for $102 and we cancelled 22,500,000 shares
+that were returned in accordance with the terms of a Convertible Promissory Note (see Note 6), reducing common stock by $22,500
+and increasing additional paid in capital by the same. We also cancelled 200,000,000 shares returned in conjunction with the termination
+of a Joint Venture Agreement entered into in March of 2019, reducing common stock by $200,000, reducing additional paid in capital
+by $3,180,000, offset with a reduction in our prepaid asset of $3,380,000. During the nine months ended December 31, 2019 we recorded
+a beneficial conversion feature of $1,000,000 related to a convertible promissory note entered into with a related party (see
+Note 5).
+ 
+
+ 20 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+
+As
+of December 31, 2019 and March 31, 2019, the Company had 3,003,490,408 and 2,640,161,318 shares of common stock issued and outstanding,
+respectively.
+ 
+Employee
+Stock Options
+ 
+The
+nonqualified plan adopted in 2007 authorized 65,000 shares, of which 47,500 had been granted as of March 31, 2018. The qualified
+plan adopted in October of 2008 authorizes 125,000 shares and was approved by a majority of our shareholders on September 16,
+2009. As of March 31, 2018, 42,500 shares had been granted under the 2008 plan. Effective April 1, 2018 we cancelled both the
+2007 and 2008 plans, as well as any shares that were allocated under the plans and were not yet issued.
+ 
+The
+following table summarizes the changes in employee stock options outstanding and the related prices for the shares of our common
+stock issued to employees under two employee stock option plans:
+ 
+
+ 
+Stock-based
+compensation expense in connection with options granted to employees for the three months ended December 31, 2019 and 2018, was
+$0.
+ 
+Warrants
+ 
+The
+following table summarizes the warrants outstanding and the related prices for the shares of our common stock as of December 31,
+2019:
+ 
+
+ 
+
+ 21 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+Transactions
+involving our warrant issuance are summarized as follows:
+ 
+
+ 
+NOTE
+9 – COMMITMENTS AND CONTINGENCIES
+ 
+Litigation
+ 
+In
+the ordinary course of business, we may be or have been involved in legal proceedings from time to time. Below is a description
+of all legal proceedings we were involved in during the nine months ended December 31, 2019.
+ 
+
+ 
+NOTE
+10 – OPERATING LEASE
+ 
+In
+February 2016, the FASB issued ASU No. 2016-02, Leases. The new standard establishes a right-of-use (“ROU”)
+model that requires a lessee to record a ROU asset and a lease liability on the balance sheet for all leases. Leases are classified
+as either finance or operating with classification affecting the pattern of expense recognition in the statement of operations.
+We adopted ASU No. 2016-02 on April 1, 2019. We did not record a lease asset and lease liability as of the adoption date as we
+had no lease arrangements or lease obligation at that time.
+ 
+During
+the nine months ended December 31, 2019 we entered two operating leases for office space in Eatontown, New Jersey (the “Eatontown
+Lease”) and Kaysville, Utah (the “Kaysville Lease”). We have the option to extend the three year lease term
+of the Eatontown Lease for a period of one year. In addition, we are obligated to pay twelve monthly installments to cover an
+annual utility charge of $1.75 per rentable square foot for electric usage within the demised premises. As the lessor has the
+right to digitally meter and charge us accordingly, these payments were deemed variable and will be expensed as incurred. During
+the three and nine months ended December 31, 2019 the variable lease costs amounted to $831 and $1,385, respectively. At commencement
+of the Eatontown Lease, right-of-use assets obtained in exchange for new operating lease liabilities amounted to $110,097. We
+have the option to extend the twelve-and-a-half-month lease term of the Kaysville Lease for a period of one year. At commencement
+of the Kaysville Lease, right-of-use assets obtained in exchange for new operating lease liabilities amounted to $21,147.
+ 
+Operating
+lease expense was $16,397 and $24,630 for the three and nine months ended December 31, 2019, respectively. Operating cash flows
+used for the operating leases during the three and nine months ended December 31, 2019 were $12,897 and $18,797, respectively.
+As of December 31, 2019, the weighted average remaining lease term was 2.34 years and the weighted average discount rate was 12%.
+ 
+
+ 22 
+ 
+
+ 
+
+INVESTVIEW, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+AS OF DECEMBER 31, 2019
+(Unaudited)
+ 
+
+Future
+minimum lease payments under non-cancellable leases as of December 31, 2019 were as follows:
+ 
+
+ 
+[1]
+Represents lease payments to be made in the next 12 months
+ 
+NOTE
+11 – SUBSEQUENT EVENTS
+ 
+Subsequent
+to December 31, 2019 we received $1,070,000 in proceeds from related party advances and issued 10,000,000 shares of our common
+stock for services.
+ 
+In
+accordance with ASC Topic 855, Subsequent Events, we have evaluated subsequent events through the date of this filing and have
+determined that there are no additional subsequent events that require disclosure.
+ 
+
+ 23 
+ 
+
+ 
+
+ITEM
+2 – MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+Forward-Looking
+Statements
+ 
+The
+following discussion should be read in conjunction with our consolidated financial statements and notes to our financial statements
+included elsewhere in this report. This discussion contains forward-looking statements that involve risks and uncertainties. When
+the words “believe,” “expect,” “plan,” “project,” “estimate,” and
+similar expressions are used, they identify forward-looking statements. These forward-looking statements are based on management’s
+current beliefs and assumptions and information currently available to management, and involve known and unknown risks, uncertainties,
+and other factors that may cause the actual results, performance, or achievements to be materially different from any future results,
+performance, or achievements expressed or implied by these forward-looking statements. Information concerning factors that could
+cause our actual results to differ materially from these forward-looking statements can be found in our periodic reports filed
+with the Securities and Exchange Commission (“SEC”). The forward-looking statements included in this report are made
+only as of the date of this report. We disclaim any obligation to update any forward-looking statements whether as a result of
+new information, future events, or otherwise.
+ 
+Business
+Overview
+ 
+We
+are an emerging leader in the financial technology (FINTECH) sector, leveraging the latest innovations in technology for financial
+education, services and interactive tools. Our family of subsidiaries focus on delivering products that serve individuals around
+the world. From personal money management, to advancements in blockchain technologies, our companies are forging a path for individuals
+to take advantage of financial and technical innovations.
+ 
+Under
+our parent company, Investview, Inc., our significant operating subsidiaries include:
+ 
+Kuvera,
+LLC and Kuvera France S.A.S. – provides financial education and cost savings tools for individuals worldwide.
+ 
+S.A.F.E.
+Management, LLC – trade advisory services for those who lack the time to trade for themselves.
+ 
+SAFETek,
+LLC – deploying next generation processing technologies for artificial intelligence, data mining and blockchain technologies.
+ 
+APEX
+Tek, LLC – sells and distributes the APEX program which is a passive income model for those who seek to purchase assets
+that will generate monthly cash flow. This model has drawn considerable institutional interest.
+ 
+Results
+of Operations
+ 
+Three
+Months Ended December 31, 2019 Compared to Three Months Ended December 31, 2018
+ 
+Revenues
+ 
+We
+recorded net revenue of $4,963,611 for the three months ended December 31, 2019, which was a decrease of $2,769,423 or 36%, from
+the prior period revenue of $7,733,034. This decrease was due to a minor loss of repeat subscription customers coupled with our
+lack of cryptocurrency service revenue. The lack of cryptocurrency revenue can be explained by our termination of the agent arrangement
+with a third-party supplier of crypotocurrency mining services.
+ 
+Operating
+Costs and Expenses
+ 
+We
+recorded operating costs and expenses of $6,702,907 for the three months ended December 31, 2019, which was a decrease of $1,272,015,
+or 16%, from the prior period’s operating costs and expenses of $7,974,922. The decrease can be fully explained by the decrease
+in commissions, which was a result of our bonus plans paying out beyond our maximum threshold in the prior period due to certain
+bonus programs in place, which has since been adjusted to reduce such payouts. For the three months ended December 31, 2019 commissions
+as a percent of total net revenue was 32%, versus 66% in the prior period.
+ 
+Other
+Income and Expenses
+ 
+We
+recorded other expense of $2,086,434 for the three months ended December 31, 2019, which was a difference of $1,878,614, or 904%,
+from the prior period other expense of $207,820. The change is due to the interest expense incurred in the three months ended
+December 31, 2019 of $1,794,623 versus only $206,007 incurred in the prior period.
+ 
+
+ 24 
+ 
+
+ 
+
+Nine
+Months Ended December 31, 2019 Compared to Nine Months Ended December 31, 2018
+ 
+Revenues
+ 
+We
+recorded net revenue of $19,717,448 for the nine months ended December 31, 2019, which was a decrease of $3,625,155 or 16%, from
+the prior period revenue of $23,342,603. This decrease was due to a minor loss of repeat subscription customers coupled with our
+lack of cryptocurrency service revenue. The lack of cryptocurrency revenue can be explained by our termination of the agent arrangement
+with a third-party supplier of crypotocurrency mining services.
+ 
+Operating
+Costs and Expenses
+ 
+We
+recorded operating costs and expenses of $24,355,004 for the nine months ended December 31, 2019, which was a decrease of $1,872,691,
+or 7%, from the prior period’s operating costs and expenses of $26,227,695. This change is principally a result of a decrease
+of $6,494,247, or 38%, in commissions which was a result of our bonus plans paying out beyond our maximum threshold in the prior
+period due to certain bonus programs in place, which has since been adjusted to reduce such payouts. The decrease was offset by
+an increase in salary and related costs which was due to the Company recording $2,676,439 worth of stock for services and compensation.
+ 
+Other
+Income and Expenses
+ 
+We recorded other expense of $3,940,313
+for the nine months ended December 31, 2019, which was a difference of $5,859,552, or 305%, from the prior period other income
+of $1,919,239. The change is due to the gain on bargain purchase recorded as a result of the United Games, LLC and United League,
+LLC acquisition that took place during the nine months ended December 31, 2018, as compared to no such gain in the
+prior period. Additionally, in the current period there was interest expense recorded of $5,536,354 offset by a gain on debt extinguishment
+of $1,725,384, whereas in the prior period interest expense was only $215,154 and there was a gain on debt extinguishment of $19,387.
+ 
+Liquidity
+and Capital Resources
+ 
+During
+the nine months ended December 31, 2019, we incurred a net loss of $8,587,449. This loss was funded by cash provided by operating
+activities of $4,690,473 offset by cash used in investing activities of $4,171,341 and cash used in financing activities of $389,212.
+As a result, our cash and cash equivalents increased by $129,956 to $263,600 as compared to $133,644 at the beginning of the fiscal
+year.
+ 
+Our
+current liabilities exceeded our current assets (working capital deficit) by $10,938,623 as of December 31, 2019, as compared
+to $2,222,990 at March 31, 2019. The increase in the working capital deficit is due to an increase in our other current liabilities
+of $7,576,800 which is due to cash received for our APEX program, which results in the Company recording financial liabilities
+for amounts to be repaid under the program.
+ 
+During
+the nine months ended December 31, 2019, we raised $2,177,452 in cash proceeds from new debt arrangements, raised $2,164,500 in
+cash proceeds from related parties, and received $825,000 from the sale of our common stock. Additionally, net cash provided by
+operations was $4,690,473 for the nine months ended December 31, 2019 due mostly do the receipt of $9,693,141 of cash received
+in from our APEX program.
+ 
+Going
+Concern
+ 
+These
+interim unaudited financial statements have been prepared on the going concern basis, which assumes that adequate sources of financing
+will be obtained as required and that our assets will be realized and liabilities settled in the ordinary course of business.
+Accordingly, the interim unaudited financial statements do not include any adjustments related to the recoverability of assets
+and classification of assets and liabilities that might be necessary should we not be unable to continue as a going concern.
+ 
+Our
+audited consolidated financial statements for the year ended March 31, 2019, state that our historical losses, accumulated deficit,
+cash balance, and working capital deficit raise substantial doubts about our ability to continue as a going concern. Historically
+we have relied on increasing revenues and new debt and equity financing to pay for operational expenses and debt as it came due.
+Going forward, we plan to reduce obligations with cash flow provided by operational growth as we have been, and plan to continue,
+reducing bonus payouts, increasing sources of income and business activities in new sectors, and utilizing our acquired assets
+to generate positive cash flow and reduce debt. Additionally, we plan to pursue additional debt and equity financing and to find
+short term capital in arrangements that are partnership based with elements of debt and equity combined.
+ 
+
+ 25 
+ 
+
+ 
+Critical
+Accounting Policies
+ 
+Basis
+of Presentation
+ 
+The
+accompanying unaudited condensed consolidated financial statements have been prepared in accordance with the rules and regulations
+(Regulation S-X) of the Securities and Exchange Commission (the “SEC”) and with the instructions to Form 10-Q. Accordingly,
+they do not include all of the information and footnotes required by generally accepted accounting principles for complete financial
+statements. In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a
+fair presentation have been included. The results of operations for the three and nine months ended December 31, 2019, are not
+necessarily indicative of the operating results that may be expected for the year ending March 31, 2020. These unaudited condensed
+consolidated financial statements should be read in conjunction with the March 31, 2019 consolidated financial statements and
+notes thereto included in our Annual Report on Form 10-K for the year ended March 31, 2019.
+ 
+Principles
+of Consolidation
+ 
+The
+consolidated financial statements include the accounts of Investview, Inc., and our wholly owned subsidiaries, Kuvera, LLC, Investment
+Tools & Training, LLC, Apex Tek, LLC (formerly Razor Data, LLC), S.A.F.E. Management, LLC, SafeTek, LLC (formerly WealthGen
+Global, LLC), United Games, LLC, United League, LLC, and Kuvera France S.A.S. Through March 31, 2019 we had determined that one
+affiliated entity, Kuvera LATAM S.A.S., which we previously conducted business with, was a variable interest entity and we were
+the primary beneficiary of the entity’s activities, which are similar to those of Kuvera, LLC. As a result, through March
+31, 2019 we had consolidated the accounts of this variable interest entity into the accompanying consolidated financial statements.
+Further, because the Company did not have any ownership interest in this variable interest entity, the Company had allocated the
+contributed capital in the variable interest entity as a component of noncontrolling interest. As of April 1, 2019 Kuvera LATAM
+S.A.S. had no operations and ceased to exist, therefore, as of that date, no consolidation of the entity is necessary and we recorded
+a gain on deconsolidation of $53,739 to eliminate the intercompany account with Kuvera LATAM S.A.S. All intercompany transactions
+and balances have been eliminated in consolidation.
+ 
+Use
+of Estimates
+ 
+The
+preparation of these unaudited condensed consolidated financial statements in conformity with generally accepted accounting principles
+requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure
+of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenue and expenses
+during the reporting period. Actual results could differ from those estimates.
+ 
+Sale
+and Leaseback
+ 
+Through
+our wholly-owned subsidiary, APEX Tex, LLC, we sell high powered data processing equipment (“APEX”) to our customers
+and they lease the equipment back to SAFETek, LLC, another of our wholly-owned subsidiaries. We account for these transactions
+under ASC 842-40 where the leaseback has been deemed a sales-type lease due to the lease term generally covering the entire economic
+life of the equipment and our likelihood to purchase the asset at the end of the lease term. In accordance with ASC 842-40 we
+have recorded the data processing equipment as a fixed asset on our balance sheet and we have accounted for the amounts received
+for the equipment as a financial liability, in other liabilities on our balance sheet. Further, we will recognize interest on
+the financial liability over the term of the lease to ensure the financial liability equates to the total amounts to be paid over
+the life of the lease.
+ 
+During
+the nine months ended December 31, 2019 we had the following activity related to our sale and leaseback transactions:
+ 
+
+ 
+[1]
+Represents lease payments to be made in the next 12 months
+ 
+As
+of December 31, 2019 we have received proceeds of $607,205 in additional deposits for APEX sales, which has been recorded in the
+customer advance amount shown on our balance sheet.
+ 
+
+ 26 
+ 
+
+ 
+Revenue
+Recognition
+ 
+Subscription
+Revenue
+ 
+The
+majority of our revenue is generated by subscription sales and payment is received at the time of purchase. We recognize subscription
+revenue in accordance with ASC 606-10 where revenue is measured based on a consideration specified in a contract with a customer
+and recognized when we satisfy the performance obligation specified in each contract. Our performance obligation is to provide
+services over a fixed subscription period, therefore we recognize revenue ratably over the subscription period and deferred revenue
+is recorded for the portion of the subscription period subsequent to each reporting date. Additionally, we offer a 10-day trial
+period to subscription customers, during which a full refund can be requested if a customer does not like the product. Revenues
+are deferred during the trial period as collection is not probable until that time has passed. Revenues are presented net of refunds,
+sales incentives, credits, and known and estimated credit card chargebacks.
+ 
+Equipment
+Sales
+ 
+We
+generate revenue from the sale of high-speed computer processing equipment that is used for any of the following intense processing
+activities: protein folding, CGI rendering, Game Streaming, Machine & Deep Learning, Mining, Independent Financial Verification,
+and general high-speed computing. We recognize equipment sales revenue in accordance with ASC 606-10 where revenue is measured
+based on a consideration specified in a contract with a customer and recognized when we satisfy the performance obligation specified
+in each contract. Our performance obligation is to deliver an equipment package to our customers which includes hardware, software,
+and firmware and is drop-shipped to a hosting data center. We receive payment at the time of purchase and recognize revenue when
+the equipment package is delivered and ready for maintenance and hosting, which our customers arrange for, and obtain, from a
+separate third party that provides such services.
+ 
+Cryptocurrency
+Mining Service Revenue
+ 
+We
+generate revenue from the sale of cryptocurrency mining services to our customers through an arrangement with a third-party supplier.
+We recognize cryptocurrency mining service revenue in accordance with ASC 606-10 where revenue is measured based on a consideration
+specified in a contract with a customer and recognized when we satisfy the performance obligation specified in each contract.
+Our performance obligation is to arrange for the third-party to provide mining services to our customers and payment is received
+at the time of purchase, therefore revenue is recognized upon receipt of payment. We recognize revenue in the amount of the fee
+to which we are entitled to as an agent, or the amount of consideration that we retain after paying the third-party the consideration
+received in exchange for the services the third-party is to provide.
+ 
+Mining
+Revenue
+ 
+Through
+our wholly owned subsidiary, SAFETek, LLC, we lease equipment under a sales-type lease and use the equipment on blockchain networks
+to validate and add blocks of transactions to blockchain ledgers (commonly referred to as “mining”). As compensation
+for mining we are issued fees from processors and/or block rewards that are newly created cryptocurrency units granted to us.
+Our mining activities constitute our ongoing major and central operations of SAFETek, LLC. Because we do not have contracts, nor
+do we have customers associated with our mining revenue, we recognize revenue when fees and/or rewards are settled, or ultimately
+granted to us as a result of our mining activities.
+ 
+Fee
+Revenue
+ 
+We
+generate fee revenue from our customers through SAFE Management, our subsidiary licensed as a Registered
+Investment Advisor and Commodities Trading Advisor. We recognize fee revenue in accordance with ASC 606-10 where revenue
+is measured based on a consideration specified in a contract with a customer and recognized when we satisfy the performance obligation
+specified in each contract. Our performance obligation is to deliver fully managed trading services
+to individuals who do not meet the requirements of Qualified Investors and who lack the time to trade for themselves. We recognize
+fee revenue as our performance obligation is met and we receive payment for such advisory fees in the month following recognition.
+ 
+Revenue
+generated for the nine months ended December 31, 2019 is as follows:
+ 
+
+ 
+
+ 27 
+ 
+
+ 
+Revenue
+generated for the nine months ended December 31, 2018 is as follows:
+ 
+
+ 
+Revenue
+generated for the three months ended December 31, 2019 is as follows:
+ 
+
+ 
+Revenue
+generated for the three months ended December 31, 2018 is as follows:
+ 
+
+ 
+Recently
+Issued Accounting Pronouncements
+ 
+There
+are no recently issued accounting pronouncements that the Company has not yet adopted that they believe are applicable or would
+have a material impact on the financial statements of the Company.
+ 
+Off-Balance
+Sheet Arrangements
+ 
+We
+do not have any off-balance sheet arrangements that are reasonably likely to have a current or future effect on our financial
+condition, revenues, and results of operations, liquidity, or capital expenditures.
+ 
+ITEM
+3 – QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ 
+We
+are a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934 and, as such, are not required
+to provide the information under this item.
+ 
+ITEM
+4 – CONTROLS AND PROCEDURES
+ 
+Evaluation
+of Disclosure Controls and Procedures
+ 
+Our
+management, with the participation of our Chief Executive Officer and Acting Chief Financial Officer, evaluated the effectiveness
+of our disclosure controls and procedures (as defined in Rule 13a-15 under the Securities Exchange Act of 1934 (the “Exchange
+Act”) as of the end of the period covered by this Quarterly Report on Form 10-Q. In designing and evaluating the disclosure
+controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can
+provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls
+and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment
+in evaluating the benefits of possible controls and procedures relative to their costs.
+ 
+
+ 28 
+ 
+
+ 
+Our
+disclosure controls and procedures are designed to provide reasonable, not absolute, assurance that the objectives of our disclosure
+control system are met. Because of inherent limitations in all control systems, no evaluation of controls can provide absolute
+assurance that all control issues, if any, within a company have been detected. Our Chief Executive Officer and Acting Chief Financial
+Officer have concluded, based on their evaluation as of the end of the period covered by this report, that our disclosure controls
+and procedures were not effective.
+ 
+Changes
+in Internal Controls
+ 
+There
+were no changes in our internal controls over financial reporting during the fiscal quarter ended December 31, 2019, that have
+materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+ 
+PART
+II – OTHER INFORMATION
+ 
+ITEM
+1 – LEGAL PROCEEDINGS
+ 
+In
+the ordinary course of business, we may be or have been involved in legal proceedings from time to time. Below is a description
+of all legal proceedings we were involved in during the nine months ended December 31, 2019.
+ 
+
+ 
+ITEM
+1.A – RISK FACTORS
+ 
+N/A
+ 
+ITEM
+2 – UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ 
+In
+October 2019 we received $175,000 in proceeds from the sale of 7,000,000 shares of our common stock and issued 12,400,000 shares
+of our common stock for services.
+ 
+In
+December 2019 we issued 3,218,592 shares of our common stock for services that has not been previously reported in any of our
+SEC filings.
+ 
+In
+January and February 2020 we issued 10,000,000 shares of our common stock for services.
+ 
+The
+securities represented by each of the transactions described above were issued in reliance on the exemption from registration
+provided in Section 4(a)(2) of the Securities Act of 1933, as amended, for transactions not involving any public offering. Each
+of the investors is either an “accredited investor” as defined in Rule 501(a) of Regulation D or a sophisticated investor
+able to bear the risks of the investment. Each investor confirmed the foregoing and acknowledged that the securities must be acquired
+and held for investment. All certificates evidencing the shares of common stock issued or issuable upon conversion of the notes,
+issuances under the restricted stock grants, or upon the exercise of the warrants will bear a restrictive legend. No underwriter
+participated in the offer and sale of these securities, and no commission or other remuneration was paid or given directly or
+indirectly in connection therewith.
+ 
+ITEM
+3 – DEFAULTS UPON SENIOR SECURITIES
+ 
+None.
+ 
+ITEM
+4 – MINE SAFETY DISCLOSURES
+ 
+Not
+applicable.
+ 
+
+ 29 
+ 
+
+ 
+ITEM
+5 – OTHER INFORMATION
+ 
+None.
+ 
+ITEM
+6 – EXHIBITS
+ 
+The
+following exhibits are filed as a part of this report:
+ 
+
+ 
+ 
+
+
+ 
+*
+All
+    exhibits are numbered with the number preceding the decimal indicating the applicable SEC reference number in Item 601 and
+    the number following the decimal indicating the sequence of the particular document. Omitted numbers in the sequence refer
+    to documents previously filed as an exhibit.
+
+ 
+
+
+ 
+**
+Identifies
+    each management contract or compensatory plan or arrangement required to be filed as an exhibit as required by Item 15(a)(3)
+    of Form 10-K.
+
+ 
+
+ 
+
+ 30 
+ 
+
+ 
+SIGNATURE
+PAGE
+ 
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf
+by the undersigned hereunto duly authorized.
+ 
+
+
+ 
+INVESTVIEW,
+    INC.
+
+ 
+ 
+ 
+
+Dated:
+    February 14, 2020
+By: 
+/s/
+    Joseph Cammarata
+
+ 
+ 
+Joseph
+    Cammarata
+
+ 
+ 
+Chief
+    Executive Officer
+
+ 
+ 
+(Principal
+    Executive Officer)
+
+ 
+ 
+ 
+
+Dated:
+    February 14, 2020
+By:
+/s/
+    Jayme L. McWidener
+
+ 
+ 
+Jayme
+    L. McWidener
+
+ 
+ 
+Chief
+    Financial Officer
+
+ 
+ 
+(Principal
+    Financial Officer and Accounting Officer)
+
+ 
+
+ 31 
+
+
+
+
+
+ 
+
+
+

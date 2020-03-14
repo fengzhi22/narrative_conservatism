@@ -1,0 +1,1577 @@
+
+10-Q
+1
+form10q_010920.htm
+Q1FY20 FORM 10Q 1-9-20
+
+
+
+
+
+
+
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+
+FORM 10-Q
+
+
+(Mark One)
+
+
+
+
+
+
+
+
+[X]
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+
+
+
+For the quarterly period ended November 30, 2019
+
+
+
+
+
+
+
+
+[   ]
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+
+
+
+
+
+For the transition period from __________ to __________
+
+
+Commission file no. 1-11107
+
+FRANKLIN COVEY CO.
+(Exact name of registrant as specified in its charter)
+ 
+
+
+
+
+
+
+ 
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+Title of Each Class
+
+
+Trading Symbol(s)
+
+
+Name of each exchange on which registered
+
+
+
+
+Common Stock, $.05 Par Value
+
+
+FC
+
+
+New York Stock Exchange
+
+
+
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required
+      to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes ☒  No ☐
+
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12
+      months (or for such shorter period that the registrant was required to submit such files).  Yes ☒  No ☐
+ 
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See definitions of “large
+      accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+
+
+               Large Accelerated Filer
+
+
+☐
+
+
+Accelerated Filer
+
+
+☒
+
+
+
+
+               Non-accelerated Filer
+
+
+☐
+
+
+Smaller Reporting Company
+
+
+☒
+
+
+
+
+               Emerging Growth Company
+
+
+☐
+
+ 
+ 
+
+
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to
+      Section 13(a) of the Exchange Act. ☐
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐   No ☒
+
+
+Indicate the number of shares outstanding of each of the issuer’s classes of Common Stock as of the latest practicable date:
+ 
+
+13,830,256 shares of Common Stock as of December 31, 2019
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+PART I.  FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS
+
+
+FRANKLIN COVEY CO.
+
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands, except per-share amounts)
+
+
+
+
+
+
+
+
+
+
+
+
+
+See notes to condensed consolidated financial statements
+
+2
+
+
+
+
+
+FRANKLIN COVEY CO.
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND STATEMENTS OF COMPREHENSIVE LOSS
+(in thousands, except per-share amounts)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See notes to condensed consolidated financial statements
+
+3
+
+
+
+
+
+FRANKLIN COVEY CO.
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+
+
+
+ 
+
+See notes to condensed consolidated financial statements
+
+4
+
+
+
+
+
+FRANKLIN COVEY CO.
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY
+(in thousands and unaudited)
+
+
+
+
+
+
+
+
+
+
+
+
+
+FRANKLIN COVEY CO.
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY – PRIOR FISCAL YEAR
+(in thousands and unaudited)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See notes to condensed consolidated financial statements
+
+5
+
+
+
+
+
+FRANKLIN COVEY CO.
+
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)
+
+
+
+
+NOTE 1 – BASIS OF PRESENTATION
+
+
+General
+
+
+Franklin Covey Co. (hereafter referred to as us, we, our, or the Company) is a global company focused on organizational performance improvement.  Our mission is to “enable greatness in people and organizations everywhere,” and our global structure
+      is designed to help individuals and organizations achieve sustained superior performance through changes in human behavior.  We are fundamentally a content and solutions company, and we believe that our offerings and services create the connection
+      between capabilities and results.  Our expertise extends to seven crucial areas: Leadership, Execution, Productivity, Trust, Educational Improvement, Sales Performance, and Customer Loyalty.  We believe that our clients are able to utilize our
+      content to create cultures whose hallmarks are high-performing, collaborative individuals, led by effective, trust-building leaders who execute with excellence and deliver measurably improved results for all of their key stakeholders.
+
+
+In the training and consulting marketplace, we believe there are three important characteristics that distinguish us from our competitors.
+
+
+
+
+
+
+•
+
+
+World Class Content – Our content is principle-centered and based on natural laws of human behavior and effectiveness.  When our content is applied consistently in an
+                organization, we believe the culture of that organization will change to enable the organization to achieve their own great purposes.  Our content is designed to build new skillsets, establish new mindsets, and provide enabling toolsets to
+                our clients.
+
+
+
+
+
+
+
+
+
+
+•
+
+
+Breadth and Scalability of Delivery Options – We have a wide range of content delivery options, including: subscription offerings, which includes the All Access Pass (available
+                in multiple languages), the Leader in Me membership, and other subscription offerings; intellectual property licenses; on-site training; training led through certified facilitators; on-line
+                learning; and organization-wide transformational processes, including consulting and coaching services.
+
+
+
+
+
+
+
+
+
+
+•
+
+
+Global Capability – We have sales professionals in the United States and Canada who serve clients in the private sector and in governmental organizations; wholly-owned
+                subsidiaries in Australia, China, Japan, the United Kingdom, Germany, Switzerland, and Austria; and we contract with licensee partners who deliver our content and provide related services in over 140 other countries and territories around
+                the world.
+
+
+
+
+
+
+We are committed to, and measure ourselves by, our clients’ achievement of transformational results.
+
+
+We have some of the best-known offerings in the training industry, including a suite of individual-effectiveness and leadership-development training content based on the best-selling books, The 7 Habits of Highly
+        Effective People, The Speed of Trust, The Leader in Me, and The 4 Disciplines of Execution, and proprietary content
+      in the areas of Execution, Sales Performance, Productivity, Educational Improvement, and Customer Loyalty.  Our offerings are described in further detail at www.franklincovey.com.  The information posted on our website is not incorporated into this
+      report.
+ 
+
+
+6
+
+
+
+
+
+The accompanying unaudited condensed consolidated financial statements reflect, in the opinion of management, all adjustments (consisting of normal recurring accruals) necessary to present fairly the financial position and results of operations of
+      the Company as of the dates and for the periods indicated.  Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America
+      have been condensed or omitted pursuant to Securities and Exchange Commission (SEC) rules and regulations.  The information included in this quarterly report on Form 10-Q should be read in conjunction with the consolidated financial statements and
+      related notes included in our annual report on Form 10-K for the fiscal year ended August 31, 2019.
+
+
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities
+      and the disclosure of contingent assets and liabilities at the dates of the financial statements, and the reported amounts of revenues and expenses during the reporting periods.  Actual results could differ from those estimates.
+
+
+Our fiscal year ends on August 31 of each year and our fiscal quarters end on the last day of November, February, and May of each year.
+
+
+The results of operations for the quarter ended November 30, 2019 are not necessarily indicative of results expected for the entire fiscal year ending August 31, 2020, or for any future periods.
+
+
+Accounting Pronouncements Issued and Adopted
+
+
+In February 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2016-02, Leases (Topic 842), which supersedes FASB Accounting Standards Codification (ASC) Topic 840, Leases.  The new guidance requires lessees to recognize a lease liability and corresponding right-of-use asset for all leases greater than 12 months.  Recognition, measurement, and presentation of
+      expenses depends upon whether the lease is classified as a finance or operating lease.  We adopted the new lease guidance prospectively on September 1, 2019.  As part of the adoption of ASU 2016-02, we elected to apply the package of practical
+      expedients, which allows us to not reassess prior conclusions related to lease classification, not to recognize short-term leases on our balance sheet, and not to separate lease and non-lease components for our leases.  On September 1, 2019, the
+      adoption of ASU 2016-02 resulted in the recognition of $1.5 million of lease liabilities and right-of-use assets on our condensed consolidated balance sheets for operating leases.  For lessors, accounting for leases is substantially the same as in
+      prior periods and there was no impact from the adoption of ASU 2016-02 for those leases where we are the lessor.  Refer to Note 6, Leases for further information regarding our leasing activity.
+
+
+The lease for our corporate campus is currently accounted for as a financing obligation and related building asset on our consolidated balance sheets, as the contract represented a failed sale-leaseback under previous leasing guidance.  In
+      transition to Topic 842, we reassessed whether the previously failed sale-leaseback met the sale criteria under the new leasing standard.  Based on this assessment, we determined that the sale criteria under the new leasing standard was not met and
+      we will continue to account for the corporate campus lease as a finance obligation on our consolidated balance sheet in future periods.
+
+
+
+7
+
+
+
+
+
+Accounting Pronouncements Issued Not Yet Adopted
+
+
+Credit Losses on Financial Instruments
+
+
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments.  This accounting standard changes the methodology
+      for measuring credit losses on financial instruments, including trade accounts receivable, and the timing of when such losses are recorded.  ASU No. 2016-13 is effective for fiscal years, and interim periods within those years, beginning after
+      December 15, 2019.  However, in November 2019, the FASB issued ASU No. 2019-10, Financial Instruments-Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842) which deferred the
+      adoption of ASU 2016-13 for smaller reporting companies to fiscal years beginning after December 15, 2022.  Early adoption is permitted for fiscal years, and interim periods within those years, beginning after December 15, 2018.  We are currently
+      evaluating the impact of ASU No. 2016-13 on our financial position, results of operations, and liquidity.
+
+
+Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement
+
+
+In August 2018, the FASB issued ASU No. 2018-15, Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Customer's Accounting for Implementation Costs Incurred in a Cloud Computing Arrangement
+        That Is a Service Contract (ASU 2018-15).  This guidance clarifies the accounting for implementation costs in a cloud computing arrangement that is a service contract and aligns the requirements for capitalizing those costs with the
+      capitalization requirements for costs incurred to develop or obtain internal-use software.  The new standard is effective for interim and annual periods beginning after December 15, 2019, and early adoption is permitted.  We are currently evaluating
+      the effects, if any, the adoption of ASU 2018-15 may have on our financial position, results of operations, cash flows, or disclosures.
+
+
+
+
+NOTE 2 – INVENTORIES
+
+
+Inventories are stated at the lower of cost or net realizable value, cost being determined using the first-in, first-out method, and were comprised of the following (in thousands):
+
+
+
+
+
+NOTE 3 – TERM LOANS PAYABLE
+
+
+Pursuant to the credit agreement we obtained in August 2019 (the 2019 Credit Agreement), we have the ability to borrow up to $25.0 million in term loans.  At August 31, 2019, we had borrowed $20.0 million of the available term loan amount.  During
+      November 2019, we borrowed the remaining $5.0 million term loan available on the 2019 Credit Agreement.  The additional $5.0 million term loan has the same terms and conditions as the previous term loan and does not change our quarterly principal
+      payments.  However, the maturity date of the term loans is extended for an additional year.  At November 30, 2019, our future principal payments on the term loans are as follows (in thousands):
+ 
+
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE 4 – FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+
+At November 30, 2019, the carrying value of our financial instruments approximated their fair values.  The fair values of our contingent consideration liabilities from business acquisitions are considered “Level 3” measurements because we use
+      various estimates in the valuation models to project the timing and amount of future contingent payments.  The fair value of the contingent consideration liabilities from the acquisitions of Robert Gregory Partners (RGP) and Jhana Education (Jhana)
+      changed as follows during the quarter ended November 30, 2019 (in thousands):
+
+
+
+
+
+At November 30, 2019, we estimated the fair value of the contingent liabilities from both the RGP and Jhana acquisitions through the use of Monte Carlo simulations.  Based on expected payments, approximately $1.0 million of the Jhana and $0.5
+      million of the RGP contingent consideration liabilities were recorded as components of accrued liabilities on our condensed consolidated balance sheet at November 30, 2019.  The remainder of our contingent consideration liabilities are classified as
+      other long-term liabilities.  Adjustments to the fair value of our contingent consideration liabilities are included in selling, general, and administrative expense in the accompanying condensed consolidated statements of operations.
+
+
+
+
+NOTE 5 – REVENUE
+
+
+Contract Balances
+
+
+Our deferred revenue totaled $56.9 million at November 30, 2019 and $65.8 million at August 31, 2019, of which $4.2 million and $3.6 million were classified as components of other long-term liabilities at November 30, 2019, and August 31, 2019,
+      respectively.  The amount of deferred revenue that was generated from subscription offerings totaled $48.7 million at November 30, 2019 and $58.2 million at August 31, 2019.  During the quarter ended November 30, 2019, we recognized $21.1 million of
+      previously deferred subscription revenue.
+
+
+Remaining Performance Obligations
+
+
+When possible, we enter into multi-year non-cancellable contracts which are invoiced either upon execution of the contract or at the beginning of each annual contract period.  ASC Topic 606 introduced the concept of remaining transaction price
+      which represents contracted revenue that has not yet been 
+
+ 
+
+
+9
+
+
+
+ 
+
+recognized, including unearned revenue and unbilled amounts that will be recognized as revenue in future periods.  Transaction price is influenced by factors such as seasonality, the average length of the contract term, and the ability of the
+      Company to continue to enter multi-year non-cancellable contracts.  At November 30, 2019, we had $82.7 million of remaining performance obligations, including the amount of deferred revenue related to our subscription offerings, of which
+      approximately 75 percent will be recognized over the next 12 months.  The remaining performance obligation does not include other deferred revenue, as amounts included in other deferred revenue include items such as deposits that are generally
+      refundable at the client’s request prior to the satisfaction of the obligation.
+
+
+Disaggregated Revenue Information
+
+
+Refer to Note 10, Segment Information, to these condensed consolidated financial statements for our disaggregated revenue information.
+
+
+
+
+NOTE 6 – LEASES
+
+
+Lease Expense
+
+
+In the normal course of business, we rent office space, primarily for international sales administration offices, in commercial office complexes that are conducive to sales and administrative operations.  We also rent warehousing and distribution
+      facilities that are designed to provide secure storage and efficient distribution of our training products, books, and accessories.  All of these leases are classified as operating leases.  Operating lease assets and liabilities are recognized at the
+      commencement date based on the present value of the lease payments over the lease term.  Since most of our leases do not provide an implicit rate, we use our incremental borrowing rate based on the information available at the commencement date in
+      determining the present value of lease payments.  Leases with an initial term of 12 months or less are not recorded on the balance sheet.  For operating leases, expense is recognized on a straight-line basis over the lease term.  We do not have
+      significant amounts of variable lease payments.
+
+
+Some of our operating leases contain renewal options that may be exercised at our discretion after the completion of the base rental term.  At November 30, 2019, we had operating leases with remaining terms ranging from less than one year to
+      approximately six years.  The amounts of assets and liabilities (in thousands) and other information related to our operating leases follows:
+
+
+
+
+
+
+10
+
+
+
+
+
+During each of the quarters ended November 30, 2019 and November 30, 2018, we recognized $0.4 million of lease expense associated with operating leases, which is reported in selling, general, and administrative expense.
+
+
+The approximate future minimum lease payments under our operating leases at November 30, 2019, is as follows (in thousands):
+
+
+
+
+
+Lease Income
+
+
+We have subleased the majority of our corporate headquarters campus located in Salt Lake City, Utah to multiple tenants.  These sublease agreements are accounted for as operating leases.  We recognize sublease income on a straight-line basis over
+      the life of the sublease agreement.  The cost basis of our corporate campus was $35.1 million, which had a carrying value of $6.0 million at November 30, 2019.  The following future minimum lease payments due to us from our sublease agreements at
+      November 30, 2019, are as follows (in thousands):
+
+
+
+
+
+Sublease revenue totaled $1.0 million during each of the quarters ended November 30, 2019 and November 30, 2018, and was included in net sales in the accompanying condensed consolidated statements of operations.
+
+
+
+
+NOTE 7 – STOCK-BASED COMPENSATION
+
+
+The cost of our stock-based compensation plans is included in selling, general, and administrative expense in the accompanying condensed consolidated statements of operations.  Our stock-based compensation expense was comprised of the following
+      for the periods presented (in thousands):
+
+11
+
+
+
+
+
+
+
+
+During the quarter ended November 30, 2019, we issued 8,466 shares of our common stock under various stock-based compensation arrangements.  Our stock-based compensation plans also allow shares to be withheld to cover statutory income taxes if so
+      elected by the award recipient.  During the first quarter of fiscal 2020, we withheld 88 shares of our common stock for taxes on stock-based compensation arrangements with a fair value of approximately $3,000.  The following is a description of the
+      developments in our stock-based compensation plans during the quarter ended November 30, 2019.
+
+
+Fiscal 2020 Long-Term Incentive Plan Award
+
+
+On October 18, 2019, the Organization and Compensation Committee of the Board of Directors granted a new long-term incentive plan (LTIP) award to our executive officers and members of senior management.  The fiscal 2020 LTIP award is similar to
+      the fiscal 2019 LTIP award and has three tranches, one of which has a time-based vesting condition and two of which have performance-based vesting conditions as described below:
+
+
+
+
+
+
+•
+
+
+Time-Based Award Shares – Twenty-five percent of the 2020 LTIP award shares vest to participants after three years of service.  The total number of shares that may be earned by participants after
+                three years of service is 25,101 shares.  The number of shares awarded in this tranche is not variable and will not fluctuate based on financial measures.
+
+
+
+
+
+
+
+
+
+
+
+The fiscal 2020 LTIP has a three-year life and expires on August 31, 2022.
+
+
+Compensation expense recognized during the quarter ended November 30, 2019, for long-term incentive plan awards in the table above includes expense related to awards granted in previous periods for which we believe the performance conditions are
+      probable of being achieved.
+
+
+Employee Stock Purchase Plan
+
+
+We have an employee stock purchase plan (ESPP) that offers qualified employees the opportunity to purchase shares of our common stock at a price equal to 85 percent of the average fair market value of our common stock on the last trading day of
+      each fiscal quarter.  During the quarter ended November 30, 2019, we issued 8,134 shares of our common stock to participants in the ESPP.
+ 
+
+
+12
+
+
+
+
+
+NOTE 8 – INCOME TAXES
+
+
+For the quarter ended November 30, 2019, we computed income taxes by applying an estimated annual effective income tax rate to the consolidated pre-tax loss for the period, which was adjusted for discrete items arising during the quarter.  Based
+      on this methodology, we recorded an income tax benefit of $0.2 million for the quarter ended November 30, 2019 on a pre-tax loss of $0.8 million, resulting in an effective tax benefit rate of 28.4 percent.  Our annual effective tax rate was increased
+      by Global Intangible Low-Taxed Income (GILTI) tax expense, non-deductible expenses, and effective foreign tax rates which are significantly higher than the U.S. statutory rate.  Net operating loss carryforwards currently prevent us from utilizing
+      foreign tax credits against our GILTI tax liability.  Unlike regular foreign tax credits, we permanently forego any unused foreign tax credits applicable to GILTI.
+
+
+
+
+NOTE 9 – LOSS PER SHARE
+
+
+The following schedule shows the calculation of loss per share for the periods presented (in thousands, except per-share amounts).
+
+
+
+
+
+Since we incurred a net loss for the quarter ended November 30, 2019, no potentially dilutive securities are included in the calculation of diluted loss per share because such effect would be anti-dilutive.  The number of dilutive stock options
+      and other stock-based awards for the quarter ended November 30, 2019 would have been approximately 264,000 shares.
+
+
+
+
+
+13
+
+
+
+
+
+NOTE 10 – SEGMENT INFORMATION
+
+
+Segment Information
+
+
+Our sales are primarily comprised of training and consulting services.  Our internal reporting and operating structure is currently organized around two divisions.  The Enterprise Division, which consists of our Direct Office and International
+      Licensee segments and the Education Division, which is comprised of our Education practice.  Based on the applicable guidance, our operations are comprised of three reportable segments and a corporate services group.  The following is a brief
+      description of our reportable segments:
+
+
+
+
+
+
+•
+
+
+Direct Offices – Our Direct Office segment has a depth of expertise in helping organizations solve problems that require changes in human behavior, including leadership,
+                productivity, execution, trust, and sales performance.  We have a variety of principle-based offerings that help build winning and profitable cultures.  This segment includes our sales personnel that serve the United States and Canada; our
+                international sales offices located in Japan, China, the United Kingdom, Australia, and our new operations in Germany, Switzerland, and Austria; our government services sales channel; and our public programs operations.
+
+
+
+
+
+
+
+
+
+
+•
+
+
+International Licensees – Our independently owned international licensees provide our offerings and services in countries where we do not have a directly-owned office.  These
+                licensee partners allow us to expand the reach of our services to large multinational organizations as well as smaller organizations in their countries.  This segment’s results are primarily comprised of royalty revenues received from these
+                licensees.
+
+
+
+
+
+
+
+
+
+
+•
+
+
+Education Practice – Centered around the principles found in The Leader in Me, the Education practice is dedicated to helping
+                educational institutions build a culture that will produce great results.  We believe these results are manifested by increases in student performance, improved school culture, decreased disciplinary issues, and increased teacher engagement
+                and parental involvement.  This segment includes our domestic and international Education practice operations, which are focused on sales to educational institutions such as elementary schools, high schools, and colleges and universities.
+
+
+
+
+
+
+
+
+
+
+•
+
+
+Corporate and Other – Our corporate and other information includes leasing operations, shipping and handling revenues, royalty revenues from Franklin Planner Corp. (Note 11),
+                and certain corporate administrative expenses.
+
+
+
+
+
+
+We have determined that the Company’s chief operating decision maker is the Chief Executive Officer (CEO), and the primary measurement tool used in business unit performance analysis is Adjusted EBITDA, which may not be calculated as similarly
+      titled amounts disclosed by other companies.  Adjusted EBITDA is a non-GAAP financial measure.  For reporting purposes, our consolidated Adjusted EBITDA may be calculated as our net income or loss from excluding interest expense, income taxes,
+      depreciation expense, amortization expense, stock-based compensation expense, and certain other charges such as adjustments for changes in the fair value of contingent liabilities arising from business acquisitions.  The Company references this
+      non-GAAP financial measure in its decision making because it provides supplemental information that facilitates consistent internal comparisons to the historical operating performance of prior periods and we believe it provides investors with greater
+      transparency to evaluate operational activities and financial results.
+ 
+
+
+14
+
+
+
+
+
+Our operations are not capital intensive and we do not own any manufacturing facilities or equipment.  Accordingly, we do not allocate assets to the reportable segments for analysis purposes.  Interest expense and interest income are primarily
+      generated at the corporate level and are not allocated.  Income taxes are likewise calculated and paid on a corporate level (except for entities that operate in foreign jurisdictions) and are not allocated for analysis purposes.  We periodically make
+      minor changes to our reporting structure in the normal course of operations.  The segment information presented below reflects certain revisions to our reporting structure which occurred during the second quarter of fiscal 2019.  Prior period segment
+      information has been revised to conform with our current segment reporting.
+
+
+We account for the following segment information on the same basis as the accompanying condensed consolidated financial statements (in thousands).
+
+
+
+
+
+
+15
+
+
+
+
+
+A reconciliation of our consolidated Adjusted EBITDA to consolidated net loss is provided below (in thousands).
+
+
+
+
+
+Revenue by Category
+
+
+The following table presents our revenue disaggregated by geographic region (in thousands).
+
+
+
+
+
+
+16
+
+
+
+
+
+The following table presents our revenue disaggregated by type of service (in thousands).
+
+
+
+
+
+
+
+
+
+
+
+NOTE 11 – INVESTMENT IN FC ORGANIZATIONAL PRODUCTS
+
+
+We owned a 19.5 percent interest in FC Organizational Products (FCOP), an entity that purchased substantially all of our consumer solutions business unit assets in fiscal 2008 for the purpose of selling planners and related organizational products
+      under a comprehensive licensing agreement.  On November 4, 2019, FCOP sold substantially all of its assets to Franklin Planner Corporation (FPC), a new unrelated entity, and FCOP was dissolved.  FPC is expected to continue FCOP’s business of selling
+      planners and other related consumer products based on the license agreement which granted FCOP the exclusive rights described below.  In connection with this transaction, we exchanged approximately $3.2 million of receivables from FCOP to amend the
+      term and royalty provisions of the existing license agreement.  The $3.2 million included a $2.6 million note receivable, which represented FCOP’s third-party bank debt that we purchased directly from the bank on the transaction date.  The amended
+      license agreement grants the exclusive right to use certain of our trademarks and other intellectual property in connection with certain consumer products and provides us with minimum royalties of approximately $1.3 million per year.  We are also
+      entitled to additional variable royalties if certain FPC financial metrics exceed specified levels.  FPC assumed the amended license agreement from FCOP upon the purchase of FCOP assets.  We recorded the $3.2 million consideration for the amendment
+      to the license agreement as a capitalized cost of the license and will reduce the royalty revenue by amortizing this amount over the remainder of the initial term of the license agreement, which ends in approximately 30 years.  During the quarter
+      ended November 30, 2019, we recognized $0.4 million of royalty revenues from this amended license agreement with FPC.
+
+
+We do not have an ownership interest in FPC, do not have any obligation to provide additional subordinated support to FPC, and do not have control over the day-to-day operations of FPC, which primarily consist of the sale of planning products and
+      accessories.  We receive payment for royalties and rented space from FPC.  At November 30, 2019, we had $0.9 million receivable from FPC and at August 31, 2019, we had $1.0 million receivable from FCOP, each of which are recorded in current assets. 
+      Since most of FPC’s sales and cash flows are seasonal and occur between October and January, we expect to receive the majority of the required cash payments for royalties and outstanding receivables during our second and third quarters of each fiscal
+      year.
+
+
+
+17
+
+
+
+
+
+NOTE 12 – SUBSEQUENT EVENT
+
+
+In December 2019, Knowledge Capital Investment Group (Knowledge Capital), an investor which held 2.8 million shares of our common stock stemming from its initial investment in Franklin Covey over 20 years ago, wound up its operations and
+      distributed its assets to investors.  On December 9, 2019, prior to the distribution of its assets to investors, we purchased 284,608 shares of our common stock from Knowledge Capital at $35.1361 per share, for an aggregate purchase price of
+      approximately $10 million.  Our CEO and a member of our Board of Directors each owned a partnership interest in Knowledge Capital.  As of the date hereof, Knowledge Capital does not own any shares of our common stock.
+ 
+
+ 
+
+
+18
+
+
+
+
+
+ITEM 2.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+
+
+ 
+
+
+
+Management’s discussion and analysis contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.  These statements are based upon management’s current expectations and are subject to various
+      uncertainties and changes in circumstances.  Important factors that could cause actual results to differ materially from those described in forward-looking statements are set forth below under the heading “Safe Harbor Statement Under the Private
+      Securities Litigation Reform Act of 1995.”
+
+
+We suggest that the following discussion and analysis be read in conjunction with the Consolidated Financial Statements and Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form
+      10-K for the year ended August 31, 2019.
+
+
+
+
+RESULTS OF OPERATIONS
+
+
+Overview
+
+
+Franklin Covey Co. is a global company focused on individual and organizational performance improvement.  We believe that our content and services create the connection between capabilities and results.  Our business is currently structured around
+      two divisions, the Enterprise Division and the Education Division.  The Enterprise Division consists of our Direct Office and International Licensee segments and is focused on selling our offerings to corporations, governments, not-for-profits, and
+      other related organizations.  Franklin Covey offerings delivered through the Enterprise Division are designed to help organizations and individuals achieve their own great results.  Our Education Division is centered around the principles found in The Leader in Me and is dedicated to helping educational institutions build cultures that will produce great results, including increased student performance, improved school culture, and increased parental and
+      teacher involvement.
+
+
+During 2016, we introduced the All Access Pass (AAP), which we believe is a ground-breaking subscription service that allows our clients unlimited access to our content through an electronic portal.  We believe the All Access Pass is a
+      revolutionary and innovative way to deliver our content to clients of various sizes, including large, multinational organizations in a flexible and cost-effective manner.  Clients may utilize complete offerings such as The 7 Habits of Highly Effective People and The 5 Choices to Extraordinary Productivity, or use individual concepts from any of our well-known offerings to create a custom solution to fit
+      their organizational or individual training needs.  We have also translated All Access Pass materials into numerous additional languages, which allows the AAP to be used effectively by multinational entities and provides for greater international
+      sales opportunities.  The AAP is primarily sold through our Enterprise Division.
+
+
+In our Education Division, we have launched our Leader in Me membership, which provides coaching, access to the Leader in Me online service, and authorizes use of
+      Franklin Covey’s proprietary intellectual property.  The Leader in Me online service provides access to student leadership guides, leadership lessons, illustrated leadership stories, and a variety of other
+      resources to enable an educational institution to effectively implement and utilize the Leader in Me program.  We believe that the tools and resources available through the Leader
+
+
+
+
+        in Me membership will provide measurable results that are designed to develop student leadership, improve school culture, and increase academic proficiency.
+ 
+
+
+19
+
+
+
+
+
+Our financial performance for the first quarter of fiscal 2020, which ended on November 30, 2019, set a solid foundation for continued growth and improved results over the prior year.  For the quarter ended November 30, 2019, our consolidated
+      sales increased nine percent to $58.6 million compared with $53.8 million in the first quarter of fiscal 2019.  Sales growth in the first quarter of fiscal 2020 was broad based through both our Enterprise and Education Divisions.  Increased sales
+      during the quarter led to increased gross profit and improved operating results when compared with the prior year.
+
+
+For the quarter ended November 30, 2019, our reported subscription and subscription-related revenue grew 21 percent compared with the first quarter of fiscal 2019.  At November 30, 2019, we had $48.7 million of deferred subscription revenue on our
+      balance sheet, an 18 percent, or $7.2 million, increase compared with deferred subscription revenue on our balance sheet at November 30, 2018.  At November 30, 2019, we had $34.0 million of unbilled deferred revenue compared with $24.4 million of
+      unbilled deferred revenue at November 30, 2018.  Unbilled deferred revenue represents business that is contracted but unbilled, and excluded from our balance sheet.
+
+
+Our financial results for the quarter ended November 30, 2019 were influenced by a number of factors, which are described in further detail throughout this discussion and analysis.  The following is a summary of key financial results for the first
+      quarter of fiscal 2020:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+
+
+
+
+
+Further details regarding these factors and their impact on our operating results and liquidity are provided throughout the following management’s discussion and analysis.
+
+
+Quarter Ended November 30, 2019 Compared with the Quarter Ended November 30, 2018
+
+
+Enterprise Division
+
+
+Direct Offices Segment
+The Direct Office segment includes our sales personnel that serve clients in the United States and Canada; our directly owned international offices in Japan, China, the United Kingdom, Australia, and our offices in Germany, Switzerland, and
+      Austria (GSA) which were acquired in the second quarter of fiscal 2019; and other groups such as our government services office.  The following comparative information is for our Direct Offices segment for the periods indicated (in thousands):
+
+
+
+
+
+Sales.  For the quarter ending November 30, 2019, our U.S./Canada sales grew $2.4 million and international direct office revenue grew $1.4 million compared with the prior year.  Increased direct office
+      sales were primarily attributable to the growth of the All Access Pass and recognition of previously deferred subscription revenues, as well as new contracts and increased facilitator sales recognized during the quarter.  Sales increased at each of
+      our international direct offices except for the United Kingdom office, which decreased $0.1 million against the first quarter of fiscal 2019.  We expect the United Kingdom office to resume a growth trajectory later in fiscal 2020.  The new GSA direct
+      office also contributed $0.7 million of sales during the quarter.  Foreign exchange rates had an immaterial impact on Direct Office sales and operating results during the first quarter of fiscal 2020.
+
+
+Gross Profit.  Gross profit increased due to increased sales in the quarter as previously described.  Direct Office gross margin increased primarily due to the mix of services and products sold during the
+      quarter, including increased subscription and facilitator sales, which have higher gross margins than most of our other offerings.
+
+
+SG&A Expense.  Direct Office operating expenses increased primarily due to new sales and sales related personnel, increased commissions on higher sales, and GSA expenses that totaled $0.5 million
+      during the first quarter of fiscal 2020.
+
+
+
+21
+
+
+
+
+
+International Licensees Segment
+In countries or foreign locations where we do not have a directly owned office, our training and consulting services are delivered through independent licensees.  The following comparative information is for our international licensee operations
+      for the periods indicated (in thousands):
+
+
+
+
+
+Sales.  International licensee revenues are primarily comprised of royalty revenues.  During the quarter ended November 30, 2019, increased royalty revenues were partially offset by decreased revenues from
+      new licenses sold and from decreased sales of materials (primarily kits) to the licensees during the quarter.  Royalty revenue increased by $0.3 million compared with the first quarter of fiscal 2019 as sales increased at certain licensees during the
+      quarter.  Foreign exchange rates had an immaterial impact on international licensee sales and operating results during the first quarter of fiscal 2020.
+
+
+Gross Profit.  Gross profit improved due to increased royalty revenues during the quarter, which also significantly improved international licensee gross margin when compared with the prior year.
+
+
+SG&A Expense.  International licensee SG&A expenses decreased primarily due to cost reduction initiatives implemented in the third and fourth quarters of fiscal 2019.  We anticipate further
+      improvements to the international licensee operating results throughout the remainder of fiscal 2020.
+
+
+Education Division
+
+
+Our Education Division is comprised of our domestic and international Education practice operations (focused on sales to educational institutions) and includes our widely acclaimed Leader In Me program
+      designed for students primarily in K-6 elementary schools.  The following comparative information is for our Education Division in the periods indicated (in thousands):
+
+
+
+
+
+Sales.  For the quarter ended November 30, 2019, our Education Division sales increased primarily due to increased subscription revenues and the addition of new schools.  Consistent with prior years, we
+      continue to see increased demand for the Leader in Me program throughout the world.  As of November 30, 2019, the Leader in Me program is used in over 4,100 schools and in over 50 countries.
+
+
+Gross Profit.  Education Division gross profit increased primarily due to increased sales as previously described.  Education segment gross margin was slightly lower than the prior year primarily due to
+      increased costs associated with our symposium events and increased travel costs related to Leader in Me onsite training days, which are offered in connection with the Leader
+        in Me subscription offering.
+ 
+
+
+22
+
+
+
+
+
+SG&A Expenses.  Education SG&A expense increased primarily due to investments in additional sales and sales-related personnel, and increased commissions and related costs on higher sales.
+
+
+Other Expenses
+
+
+Depreciation – Depreciation expense increased due to the acquisition of capital assets in fiscal 2019 and the first quarter of fiscal 2020.  Based
+      on capital asset acquisition activity in prior periods, and expected capital additions during fiscal 2020, we expect depreciation expense will total approximately $6.7 million in fiscal 2020.
+
+
+Income Taxes
+
+
+Our effective income tax benefit rate for the quarter ended November 30, 2019 was 28.4 percent compared with a negative effective benefit rate of (8.0) percent in the first quarter of fiscal 2019.  For the quarter ended November 30, 2019, we
+      applied an estimated annual effective income tax rate to the consolidated pre-tax loss for the period, adjusted for discrete items arising during the period. The annual effective tax rate was increased by Global Intangible Low-Taxed Income (GILTI)
+      tax expense, non-deductible expenses, and effective foreign tax rates which are significantly higher than the U.S. statutory rate. The negative effective benefit rate in the first quarter of fiscal 2019 resulted primarily from the amplified impact of
+      GILTI and disallowed meals and entertainment deductions over the relatively small amount of pre-tax loss for the quarter.
+
+
+Although we paid $0.9 million in cash for income taxes during the quarter ended November 30, 2019, we anticipate that our total cash paid for income taxes over the coming three to five years will be less than our total income tax provision as we
+      utilize net operating loss carryforwards, foreign tax credit carryforwards, and other deferred income tax assets.
+
+
+
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+
+Introduction
+
+
+Our cash and cash equivalents at November 30, 2019, totaled $32.8 million, with $14.9 million available on our revolving line of credit facility.  Of our $32.8 million in cash at November 30, 2019, $8.8 million was held at our foreign
+      subsidiaries.  We routinely repatriate cash from our foreign subsidiaries and consider cash generated from foreign activities a key component of our overall liquidity position.  Our primary sources of liquidity are cash flows from the sale of
+      services in the normal course of business, available proceeds from our revolving line of credit facility, and term loans.  Our primary uses of liquidity include payments for operating activities, capital expenditures (including curriculum
+      development), debt payments, contingent liability payments from the acquisition of businesses, working capital expansion, and purchases of our common stock.
+
+
+Pursuant to the credit agreement we obtained in August 2019 (the 2019 Credit Agreement), we have the ability to borrow up to $25.0 million in term loans.  At August 31, 2019, we had borrowed $20.0 million of the available term loan amount.  During
+      November 2019, we borrowed the remaining $5.0 million term loan available on the 2019 Credit Agreement.  The additional $5.0 million term loan has the same terms and conditions as the previous term loan and does not change our quarterly principal
+      payments.  The additional term loan extended the maturity of our term loan obligation by one year.
+ 
+
+
+23
+
+
+
+
+
+We may use the proceeds from our 2019 Credit Agreement for general corporate purposes as well as for other transactions, unless specifically prohibited by the terms of the agreement.  Our 2019 Credit Agreement contains customary representations
+      and guarantees, as well as provisions for repayment and liens.  The 2019 Credit Agreement also includes the following financial covenants: (i) a Funded Indebtedness to Adjusted EBITDAR Ratio of less than 3.00 to 1.00; (ii) a Fixed Charge Coverage
+      ratio not less than 1.15 to 1.00; (iii) an annual limit on capital expenditures (excluding capitalized curriculum development costs) of $8.0 million; and (iv) consolidated accounts receivable of not less than 150% of the aggregate amount of the
+      outstanding borrowings on the revolving line of credit, the undrawn amount of outstanding letters of credit, and the amount of unreimbursed letter of credit disbursements.  We believe that we were in compliance with the financial covenants and other
+      terms applicable to the 2019 Credit Agreement at November 30, 2019.
+
+
+In addition to our term-loan obligation and available borrowings on our revolving line of credit, we have a long-term rental agreement on our corporate campus that is accounted for as a financing obligation.
+
+
+The following discussion is a description of the primary factors affecting our cash flows and their effects upon our liquidity and capital resources during the quarter ended November 30, 2019.
+
+
+Cash Flows From Operating Activities
+
+
+Our primary source of cash from operating activities was the sale of services to our customers in the normal course of business.  Our primary uses of cash for operating activities were payments for selling, general, and administrative expenses,
+      payments for direct costs necessary to conduct training programs, payments to suppliers for materials used in training manuals sold, and to fund working capital needs.  Our cash provided by operating activities during the quarter ended November 30,
+      2019 was $6.8 million compared with $8.1 million in the first quarter of fiscal 2019.  The decrease was primarily due to cash used to support changes in our working capital balances.  However, we continue to expect that our cash flows from operating
+      activities for the full fiscal year ended August 31, 2020 will exceed cash flows provided by operating activities in fiscal 2019.  Our collection of accounts receivable remained strong during the first quarter of fiscal 2020 and provided a
+      significant amount of cash to support operations, pay our obligations, and make critical investments.  Although we are required to defer AAP and other subscription revenues over the lives of the underlying contracts, we invoice the entire contract
+      amount and collect the associated receivable at the inception of the agreement.
+
+
+Cash Flows From Investing Activities and Capital Expenditures
+
+
+Our cash used for investing activities during the first quarter of fiscal 2020 totaled $4.5 million.  The primary uses of cash for investing activities included the purchase of a note receivable from a bank used as consideration for an amended
+      license agreement with FCOP (Note 11), purchases of property and equipment in the normal course of business, and additional investments in the development of our offerings.
+
+
+In November 2019, we purchased $2.6 million of notes payable from a bank that were the obligation of FCOP.  We exchanged the receivable from FCOP to modify the term and royalty provisions of a long-term licensing agreement that is expected to
+      increase our cash flows over the duration of the license agreement.  The licensing arrangement was assumed by Franklin Planner Corp., a new unrelated entity that purchased substantially all of the assets of FCOP in November 2019.
+
+
+Our purchases of property and equipment, which totaled $1.4 million in the first quarter of fiscal 2020, consisted primarily of hardware, software, and leasehold improvements on leased office space.  We currently anticipate that our purchases of
+      property and equipment will total approximately $6.0 million in fiscal 2020.
+ 
+
+
+24
+
+
+
+
+
+We spent $0.5 million during the first quarter of fiscal 2020 on the development of various offerings.  We believe continued investment in our offerings is critical to our future success and anticipate that our capital spending for curriculum
+      development will total $5.0 million during fiscal 2020.
+
+
+Cash Flows From Financing Activities
+
+
+During the quarter ended November 30, 2019, our cash provided by financing activities totaled $2.7 million.  As previously mentioned, in November 2019, we elected to obtain the remaining $5.0 million of term loan borrowing capacity associated with
+      the 2019 Credit Agreement.  The proceeds from this term loan were partially offset by $1.8 million of cash used for principal payments on our term loans and the financing obligation on our corporate campus, and $0.8 million of cash used to pay
+      contingent liabilities from previous business acquisitions.
+
+
+On November 15, 2019, our Board of Directors approved a new plan to repurchase up to $40.0 million of the Company’s outstanding common stock.  The previously existing common stock repurchase plan was canceled and the new common share repurchase
+      plan does not have an expiration date.  We did not purchase any shares of our common stock under this new repurchase plan during the quarter ended November 30, 2019.  Our uses of financing cash during the remainder of fiscal 2020 are expected to
+      include purchases of common stock under the terms of our new Board approved purchase plan, required payments on our term loans and financing obligation, and contingent consideration payments from previous business acquisitions.  However, the timing
+      and amount of common stock purchases is dependent on a number of factors, including available resources, and we are not obligated to make purchases of our common stock during any future period.
+
+
+Subsequent to November 30, 2019, we purchased 284,608 shares of our common stock from Knowledge Capital for approximately $10 million (Note 12) prior to the distribution of Knowledge Capital assets to its investors.  This purchase of shares from
+      Knowledge Capital was completed under a separate Board of Director authorization and will not be included in the November 15, 2019 authorized purchase plan.
+
+
+Sources of Liquidity
+
+
+We expect to meet our projected capital expenditures, repay amounts borrowed on our 2019 Credit Agreement, service our existing financing obligation, and meet other working capital requirements during fiscal 2020 from current cash balances, future
+      cash flows from operating activities, and available borrowings from our Credit Agreement.  Going forward, we will continue to incur costs necessary for the day-to-day operation and potential growth of the business and may use our revolving line of
+      credit and other financing alternatives, if necessary, for these expenditures.  Our 2019 Credit Agreement expires in August 2024 and we expect to renew and amend the 2019 Credit Agreement on a regular basis to maintain the long-term borrowing
+      capacity of this credit facility.  At November 30, 2019, we had $14.9 million of available borrowing capacity on our 2019 Credit Agreement, which consisted of available credit on our revolving credit facility (amount reduced by $0.1 million of open
+      standby letters of credit).  Additional potential sources of liquidity available to us include factoring receivables, issuance of additional equity, or issuance of debt from public or private sources.  If necessary, we will evaluate all of these
+      options and select one or more of them depending on overall capital needs and the associated cost of capital.
+
+
+We believe that our existing cash and cash equivalents, cash generated by operating activities, and availability of external funds as described above, will be sufficient for us to maintain our operations on both a short- and long-term basis. 
+      However, our ability to maintain adequate capital for our operations in the future is dependent upon a number of factors, including sales trends, macroeconomic activity, our ability to contain costs, levels of capital expenditures, collection of
+      accounts receivable, and other factors.  Some of the factors that influence our operations are not within our control, such as general economic conditions and the introduction of new offerings or technology by our competitors.  We will continue to
+      monitor our liquidity position and may pursue additional financing alternatives, as described above, to maintain sufficient resources for future growth and capital requirements.  However, there can be no assurance such financing alternatives will be
+      available to us on acceptable terms, or at all.
+ 
+
+
+25
+
+
+
+
+
+Contractual Obligations
+
+
+We have not structured any special purpose entities, or participated in any commodity trading activities, which would expose us to potential undisclosed liabilities or create adverse consequences to our liquidity.  Required contractual payments
+      primarily consist of rental payments resulting from the sale of our corporate campus (financing obligation); repayment of term loan obligations; expected contingent consideration payments from business acquisitions; short-term purchase obligations
+      for inventory items and other products and services used in the ordinary course of business; minimum operating lease payments; and minimum payments for outsourced warehousing and distribution service charges.  For further information on our
+      contractual obligations, please refer to the table included in our annual report on Form 10-K for the fiscal year ended August 31, 2019.
+
+
+
+
+ACCOUNTING PRONOUNCEMENTS ISSUED NOT YET ADOPTED
+
+
+Refer to the discussion of new accounting pronouncements as found in Note 1 to the financial statements as presented within this report.
+
+
+
+
+USE OF ESTIMATES AND CRITICAL ACCOUNTING POLICIES
+
+
+Our consolidated financial statements were prepared in accordance with accounting principles generally accepted in the United States of America.  The significant accounting policies used to prepare our consolidated financial statements, including
+      our revenue recognition policy, are outlined primarily in Note 1 to the consolidated financial statements presented in Part II, Item 8 of our annual report on Form 10-K for the fiscal year ended August 31, 2019.  Please refer to these disclosures for
+      further information regarding our uses of estimates and critical accounting policies.  There have been no significant changes to our previously disclosed estimates or critical accounting policies.
+
+
+Estimates
+
+
+Some of the accounting guidance we use requires us to make estimates and assumptions that affect the amounts reported in our consolidated financial statements.  We regularly evaluate our estimates and assumptions and base those estimates and
+      assumptions on historical experience, factors that are believed to be reasonable under the circumstances, and requirements under accounting principles generally accepted in the United States of America.  Actual results may differ from these estimates
+      under different assumptions or conditions, including changes in economic conditions and other circumstances that are not within our control, but which may have an impact on these estimates and our actual financial results.
+
+
+
+
+SAFE HARBOR STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995
+
+
+Certain statements made by the Company in this report are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 and Section 21E of the Securities Exchange Act of 1934 as amended (the Exchange
+      Act).  Forward-looking statements include, without limitation, any statement that may predict, forecast, indicate, or imply future results, performance, or
+ 
+
+
+26
+
+
+
+ 
+
+achievements, and may contain words such as “believe,” “anticipate,” “expect,” “estimate,” “project,” or words or phrases of similar meaning.  In our reports and filings we may make forward-looking statements regarding, among other things, our
+      expectations about future sales levels and financial results, future training and consulting sales activity, expected sales and benefits from the All Access Pass, anticipated renewals of subscription offerings, the expected impact of new revenue
+      recognition rules, the change in our business model associated with subscription offerings, the expected growth of our Education practice, potential growth opportunities associated with the acquisition of the GSA licensee, the impact of new
+      accounting standards on our financial condition and results of operations, the amount and timing of capital expenditures, anticipated expenses, including SG&A expenses, depreciation, and amortization, future gross margins, the release of new
+      services or products, the adequacy of existing capital resources, our ability to extend our line of credit facility, the amount of cash expected to be paid for income taxes, our ability to maintain adequate capital for our operations for at least the
+      upcoming 12 months, the seasonality of future sales, future compliance with the terms and conditions of our line of credit, the ability to borrow on our line of credit, expected collection of accounts receivable, estimated capital expenditures, and
+      cash flow estimates used to determine the fair value of long-lived assets.  These, and other forward-looking statements, are subject to certain risks and uncertainties that may cause actual results to differ materially from the forward-looking
+      statements.  These risks and uncertainties are disclosed from time to time in reports filed by us with the SEC, including reports on Forms 8-K, 10-Q, and 10-K.  Such risks and uncertainties include, but are not limited to, the matters discussed in
+      Item 1A of our annual report on Form 10-K for the fiscal year ended August 31, 2019, entitled “Risk Factors.”  In addition, such risks and uncertainties may include unanticipated developments in any one or more of the following areas:  cybersecurity
+      risks; unanticipated costs or capital expenditures; delays or unanticipated outcomes relating to our strategic plans; dependence on existing products or services; the rate and consumer acceptance of new product introductions, including the All Access
+      Pass; competition; the impact of foreign exchange rates; the number and nature of customers and their product orders, including changes in the timing or mix of product or training orders; pricing of our products and services and those of competitors;
+      adverse publicity; and other factors which may adversely affect our business.
+
+
+The risks included here are not exhaustive.  Other sections of this report may include additional factors that could adversely affect our business and financial performance.  Moreover, we operate in a very competitive and rapidly changing
+      environment.  New risk factors may emerge and it is not possible for our management to predict all such risk factors, nor can we assess the impact of all such risk factors on our business or the extent to which any single factor, or combination of
+      factors, may cause actual results to differ materially from those contained in forward-looking statements.  Given these risks and uncertainties, investors should not rely on forward-looking statements as a prediction of actual results.
+
+
+The market price of our common stock has been and may remain volatile.  In addition, the stock markets in general have experienced increased volatility.  Factors such as quarter-to-quarter variations in revenues and earnings or losses and our
+      failure to meet expectations could have a significant impact on the market price of our common stock.  In addition, the price of our common stock can change for reasons unrelated to our performance.  Due to our low market capitalization, the price of
+      our common stock may also be affected by conditions such as a lack of analyst coverage and fewer potential investors.
+
+
+Forward-looking statements are based on management’s expectations as of the date made, and we do not undertake any responsibility to update any of these statements in the future except as required by law.  Actual future performance and results
+      will differ and may differ materially from that contained in or suggested by forward-looking statements as a result of the factors set forth in this Management’s Discussion and Analysis of Financial Condition and Results of Operations and elsewhere
+      in our filings with the SEC.
+
+
+
+27
+
+
+
+
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+
+Interest Rate Sensitivity
+
+
+At November 30, 2019, our other long-term obligations primarily consisted of term loans payable, a long-term lease agreement (financing obligation) on our corporate headquarters facility, and potential contingent consideration payments resulting
+      from previous business acquisitions.  Our overall interest rate sensitivity is primarily influenced by any amounts borrowed on term loans or our revolving line of credit facility, and the prevailing interest rates on these instruments.  The effective
+      interest rate on our term loans payable and line of credit facility is variable and was 3.9 percent at November 30, 2019.  Accordingly, we may incur additional expense if interest rates increase in future periods.  For example, a one-percent increase
+      in the effective interest rate on our term loans outstanding at November 30, 2019 would result in approximately $0.2 million of additional interest expense over the next 12 months.  Our financing obligation has a payment structure equivalent to a
+      long-term leasing arrangement with a fixed interest rate of 7.7 percent, and our contingent consideration liabilities are not subject to interest rates.
+
+
+There have been no other material changes from the information previously reported under Item 7A of our Annual Report on Form 10-K for the fiscal year ended August 31, 2019.  We did not utilize any foreign currency or interest rate derivative
+      instruments during the quarter ended November 30, 2019.
+
+
+
+
+ITEM 4.  CONTROLS AND PROCEDURES
+
+
+Evaluation of Disclosure Controls and Procedures
+
+
+We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company’s Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the
+      Securities and Exchange Commission’s rules and forms and that such information is accumulated and communicated to our management, including the Chief Executive Officer and the Chief Financial Officer, as appropriate, to allow for timely decisions
+      regarding required disclosure.  In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving
+      the desired control objectives, and management is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+
+
+We evaluated the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of the Exchange Act, as of the end of the period covered by this report.  Based on this evaluation,
+      the Chief Executive Officer and the Chief Financial Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this Quarterly Report on Form 10-Q.
+
+
+There were no changes in our internal controls over financial reporting (as defined in Rule 13a-15(f) or 15d-15(f)) during the most recently completed fiscal quarter that have materially affected, or are reasonably likely to materially affect, our
+      internal controls over financial reporting.
+ 
+
+
+28
+
+
+
+ 
+
+PART II.  OTHER INFORMATION
+
+
+Item 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+    The following table summarizes the purchases of our common stock during the fiscal quarter ended November 30, 2019:
+    
+
+
+
+
+
+
+
+
+
+
+
+29
+
+
+
+
+
+Item 6.  EXHIBITS
+
+
+ 
+
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+**Filed herewith.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGNATURES
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+
+FRANKLIN COVEY CO.
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Date:
+
+
+January 9, 2020
+
+ 
+
+By:
+
+
+/s/ Robert A. Whitman
+
+
+
+ 
+ 
+ 
+ 
+
+Robert A. Whitman
+
+
+
+ 
+ 
+ 
+ 
+
+Chief Executive Officer
+
+
+
+ 
+ 
+ 
+ 
+
+(Duly Authorized Officer)
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Date:
+
+
+January 9, 2020
+
+ 
+
+By:
+
+
+/s/ Stephen D. Young
+
+
+
+ 
+ 
+ 
+ 
+
+Stephen D. Young
+
+
+
+ 
+ 
+ 
+ 
+
+Chief Financial Officer
+
+
+
+ 
+ 
+ 
+ 
+
+(Principal Financial and Accounting Officer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30
+
+

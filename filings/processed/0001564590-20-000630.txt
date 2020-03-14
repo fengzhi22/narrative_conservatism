@@ -1,0 +1,838 @@
+
+
+
+
+lnn-10q_20191130.htm
+
+
+
+
+Table of Contents
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 10‑Q
+ 
+(MARK ONE)
+
+
+
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended November 30, 2019
+OR
+ 
+
+
+
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number 1-13419
+ 
+Lindsay Corporation
+(Exact name of registrant as specified in its charter)
+ 
+ 
+
+
+
+
+Delaware
+
+ 
+
+47-0554096
+
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+ 
+
+(I.R.S. Employer
+Identification No.)
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+18135 Burke Street, Suite 100, Omaha, Nebraska
+
+ 
+
+68022
+
+
+
+(Address of principal executive offices)
+
+ 
+
+(Zip Code)
+
+
+ 
+402‑829-6800
+(Registrant's telephone number, including area code)
+ 
+ 
+Securities registered pursuant to Section 12(b) of the Act:  
+
+
+
+
+
+
+
+
+
+Title of each class
+
+Trading Symbol(s)
+
+Name of each exchange on which registered
+
+
+
+Common Stock, $1.00 par value
+
+LNN
+
+New York Stock Exchange, Inc.
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes ☒   No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes ☒   No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act:   
+ 
+
+
+
+
+Large accelerated filer
+
+  ☒  
+
+ 
+
+Accelerated filer
+
+  ☐  
+
+
+
+Non‑accelerated filer
+
+  ☐  
+
+ 
+
+Smaller reporting company
+
+  ☐  
+
+
+
+Emerging growth company
+
+  ☐  
+
+ 
+
+ 
+
+ 
+
+
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐   No ☒
+As of January 7, 2020, 10,813,363 shares of the registrant’s common stock were outstanding.
+- 1 -
+
+Table of Contents
+ 
+Lindsay Corporation
+INDEX FORM 10-Q
+ 
+
+
+ 
+- 2 -
+
+Table of Contents
+ 
+Part I – FINANCIAL INFORMATION
+ITEM 1 - Financial Statements
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+(Unaudited)
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements.
+- 3 -
+
+Table of Contents
+ 
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(Unaudited)
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements.
+- 4 -
+
+Table of Contents
+ 
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+ 
+
+
+See accompanying notes to condensed consolidated financial statements.
+ 
+ 
+ 
+- 5 -
+
+Table of Contents
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+- 6 -
+
+Table of Contents
+ 
+LINDSAY CORPORATION AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+ 
+
+
+ 
+ 
+ 
+
+
+
+
+NONCASH INVESTING ACTIVITIES:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Note receivable from sale of business
+
+ 
+$                     ─
+
+ 
+
+$
+
+5,823
+
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements.
+- 7 -
+
+Table of Contents
+ 
+LINDSAY CORPORATION AND SUBSIDIARIES
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+Note 1 – Basis of Presentation
+The condensed consolidated financial statements are presented in accordance with the rules and regulations of the Securities and Exchange Commission (the “SEC”) and do not include all of the disclosures normally required by U.S. generally accepted accounting principles (“U.S. GAAP”) as contained in Lindsay Corporation’s (the “Company”) Annual Report on Form 10-K.  Accordingly, these condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in the Company’s most recent Annual Report on Form 10-K for the fiscal year ended August 31, 2019.
+In the opinion of management, the condensed consolidated financial statements of the Company reflect all adjustments (consisting of normal recurring accruals) necessary to present fairly the financial position and the results of operations and cash flows for the periods presented.  The results for interim periods are not necessarily indicative of trends or results expected by the Company for a full year.  The condensed consolidated financial statements were prepared using U.S. GAAP. These principles require us to make estimates and assumptions that affect the reported amounts of assets and liabilities, the disclosure of contingent assets and liabilities and the reported amounts of revenues and expenses. Actual results could differ from these estimates.  
+ 
+Recent Accounting Guidance Not Yet Adopted
+In June 2016, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2016-13, Financial Instruments - Credit Losses (Topic 326), Measurement of Credit Losses on Financial Instruments. The standard replaces the incurred loss impairment methodology in current U.S. GAAP with a methodology that reflects expected credit losses on instruments within its scope, including trade receivables. This update is intended to provide financial statement users with more decision-useful information about the expected credit losses. The effective date of ASU No. 2016-13 will be the first quarter of the Company’s fiscal 2021 with early adoption permitted. The Company is currently evaluating the impact of the adoption of ASU No. 2016-13 on its consolidated financial statements.
+Recent Accounting Guidance Adopted
+In February 2016, the FASB issued ASU 2016-02, Leases, which requires lessees to recognize a right-of-use asset and a lease liability for most leases and disclose key information about leasing arrangements. The new guidance became effective for the Company in the first quarter of fiscal 2020.  The Company implemented Accounting Standards Codification (“ASC”) 842 and recorded a right of use asset and lease liability of $26.2 million and $29.5 million, respectively, upon adoption of the standard on the first day of fiscal 2020. 
+ 
+In August 2017, the FASB issued ASU No. 2017-12, Targeted Improvements to Accounting for Hedging Activities, which modifies the financial reporting of hedging relationships through changes to both the designation and measurement guidance for qualifying hedging relationships and the presentation of hedge results. ASU No. 2017-12 became effective in the first quarter of the Company’s fiscal 2020.  The adoption of this ASU did not have a material impact on the Company’s consolidated financial statements. 
+ 
+Note 2 – Revenue Recognition 
+ 
+Disaggregation of Revenue
+ 
+A breakout by segment of revenue recognized over time versus point in time for the three months ended November 30, 2019 and 2018 is as follows:
+ 
+
+
+  
+- 8 -
+
+Table of Contents
+ 
+Further disaggregation of revenue is disclosed in the Note 16 – Industry Segment Information.
+ 
+For contracts with a length longer than twelve months, the unsatisfied performance obligations were $6.1 million at November 30, 2019.
+ 
+Contract Balances 
+ 
+Contract assets arise when recorded revenue for a contract exceeds the amounts billed under the terms of such contract. Contract liabilities arise when billed amounts exceed revenue recorded. Amounts are billable to customers upon various measures of performance, including achievement of certain milestones and completion of specified units of completion of the contract. At November 30, 2019 and August 31, 2019, contract assets amounted to $1.2 million and $1.3 million respectively. These amounts are included within other current assets on the condensed consolidated balance sheet.  
+  
+Contract liabilities include advance payments from customers and billings in excess of delivery of performance obligations. At November 30, 2019 and August 31, 2019, contract liabilities amounted to $14.7 million and $18.4 million, respectively. Contract liabilities are included within other current liabilities on the condensed consolidated balance sheets. During the Company’s three months ended November 30, 2019 and November 30, 2018, the Company recognized $6.4 million and $4.6 million of revenue that were included in the liabilities as of August 31, 2019 and August 31, 2018, respectively. The revenue recognized was due to applying advance payments received for the performance obligations completed during the quarter.  
+ 
+Note 3 – Divestitures and Held-For-Sale
+ 
+The Company completed the divestiture of its Company-owned irrigation dealership during the first quarter of fiscal 2019 and recorded a loss on sale of $0.1 million included in general and administrative expense on the condensed consolidated statement of earnings for the three months ended November 30, 2018.  The Company received a note of $5.8 million as proceeds for this sale. This is included as a noncash investing activity on the condensed consolidated statement of cash flows for the three months ended November 30, 2018.
+ 
+Additionally, during the fourth quarter of fiscal 2018, the Company closed one of its infrastructure manufacturing facilities in North America and consolidated its operations with an irrigation manufacturing facility.  The building related to the closure is currently listed for sale and is included within the caption “Assets held-for-sale” for $2.7 million in the condensed consolidated balance sheet as of November 30, 2019, November 30, 2018 and August 31, 2019.
+ 
+Note 4 – Net Earnings per Share
+Basic earnings per share is calculated on the basis of weighted average outstanding common shares.  Diluted earnings per share is calculated on the basis of basic weighted average outstanding common shares adjusted for the dilutive effect of stock options, restricted stock unit awards and other dilutive securities.  When a period results in a net loss, the impact of outstanding stock awards is excluded from the diluted loss per share calculation as the inclusion would have an anti-dilutive effect. 
+The following table shows the computation of basic and diluted net earnings per share for the three months ended November 30, 2019 and 2018:
+ 
+
+
+ 
+- 9 -
+
+Table of Contents
+ 
+Certain stock options and restricted stock units were excluded from the computation of diluted net earnings per share because their effect would have been anti-dilutive.  Performance stock units are excluded from the calculation of dilutive potential common shares until the threshold performance conditions have been satisfied.  In addition, the following table shows the securities excluded from the computation of earnings per share because their effect would have been anti-dilutive:
+ 
+
+
+ 
+ 
+Note 5 – Income Taxes
+ 
+The Company recorded income tax expense of $2.9 million and $0.5 million for the three months ended November 30, 2019 and 2018, respectively. 
+ 
+It is the Company’s policy to report income tax expense for interim periods using an estimated annual effective income tax rate. The estimated annual effective income tax rate was 25.8 percent and 27.9 percent for the three months ended November 30, 2019 and 2018, respectively. The decrease in the estimated annual effective income tax rate from November 2018 to November 2019 relates primarily to the change in earnings mix among foreign operations.  The tax effects of significant or unusual items are not considered in the estimated annual effective income tax rate. The tax effects of such discrete events are recognized in the interim period in which the events occur, but the Company did not record any such effects within income tax expense for the three months ended November 30, 2019 or 2018. 
+ 
+The United States enacted significant tax reform into law on December 22, 2017. U.S. Tax Reform made complex and broad changes to the U.S. tax laws.  U.S. Tax Reform established new income tax provisions that will affect the Company’s fiscal year 2020, including, but not limited to, establishing a new minimum tax on global intangible low-taxed income (“GILTI”).  The Company has elected to account for GILTI as a period cost, the effect of which is reflected in the estimated annual effective tax rate of 25.8 percent for the three months ended November 30, 2019.  
+  
+ 
+Note 6 – Inventories
+Inventories consisted of the following as of November 30, 2019, November 30, 2018, and August 31, 2019:
+ 
+
+
+ 
+ 
+- 10 -
+
+Table of Contents
+ 
+Note 7 – Long-Term Debt 
+The following table sets forth the outstanding principal balances of the Company’s long-term debt as of the dates shown: 
+ 
+
+
+ 
+Principal payments on the debt are due as follows:
+ 
+
+
+ 
+Note 8 – Financial Derivatives 
+The Company uses certain financial derivatives to mitigate its exposure to volatility in foreign currency exchange rates.  The Company uses these derivative instruments to hedge exposures in the ordinary course of business and does not invest in derivative instruments for speculative purposes.  The Company manages market and credit risks associated with its derivative instruments by establishing and monitoring limits as to the types and degree of risk that may be undertaken, and by entering into transactions with counterparties that have investment grade credit ratings.  Fair values of derivative instruments are as follows:
+ 
+
+
+ 
+Accumulated other comprehensive income included realized and unrealized after-tax gains of $6.9 million, $5.7 million, and $7.0 million at November 30, 2019, November 30, 2018, and August 31, 2019, respectively, related to derivative contracts designated as hedging instruments.
+- 11 -
+
+Table of Contents
+ 
+Net Investment Hedging Relationships
+The amount of gain (loss) recognized in other comprehensive income is as follows:
+ 
+
+
+ 
+For the three months ended November 30, 2019 and 2018, the Company settled foreign currency forward contracts resulting in an after-tax net gain of $0.8 million and $0.7 million, respectively, which were included in other comprehensive income as part of a currency translation adjustment. There were no amounts recorded in the condensed consolidated statements of earnings related to ineffectiveness of foreign currency forward contracts related to net investment hedges for the three months ended November 30, 2019 and 2018. 
+At November 30, 2019, November 30, 2018, and August 31, 2019, the Company had outstanding foreign currency forward contracts to sell a notional amount of 32.7 million Euro, 32.5 million Euro, and 32.7 million Euro, respectively, at fixed prices to settle during the next fiscal quarter.  The Company’s foreign currency forward contracts qualify as hedges of a net investment in foreign operations. 
+Derivatives Not Designated as Hedging Instruments
+The Company generally does not elect hedge accounting treatment for derivative contracts related to future settlements of foreign denominated intercompany receivables and payables.  If the Company does not elect hedge accounting treatment for a derivative, the Company carries the derivative at its fair value in the condensed consolidated balance sheets and recognizes any subsequent changes in its fair value during a period through earnings in the condensed consolidated statements of earnings.  At November 30, 2019, November 30, 2018, and August 31, 2019, the Company had notional value of $0.5 million, $1.9 million, and $1.8 million, respectively, of U.S. dollar equivalent of foreign currency forward contracts outstanding that are not designated as hedging instruments.
+Note 9 – Leases
+ 
+The Company, as lessee, has operating leases primarily for office space, manufacturing facilities, equipment, and vehicles. The Company determines if a contract is or contains a lease at the inception of the contract based on whether the contract conveys the right to control the use of an identified asset over a period of time in exchange for consideration.
+ 
+The Company elected, for all classes of underlying assets, to not separate lease and non-lease components and instead will treat the lease agreement as a single lease component for all asset classes. The Company additionally elected practical expedients to not reassess whether existing contracts are or contain leases, the classification of any existing leases, accounting for initial direct costs for any existing leases, and hindsight in determining the lease term and in assessing impairment of the right-of-use (“ROU”) asset. 
+ 
+Short-term operating leases, which have an initial expected term of twelve months or less, are not recorded on the condensed consolidated balance sheet. Such fixed lease payments are recognized within the condensed consolidated statement of earnings on a straight-line basis over the lease term. Any variable payments associated with short-term operating leases are recognized within the condensed consolidated statement of earnings as they are incurred. The Company did not recognize any expense for such leases during the three months ended November 30, 2019.
+ 
+Many of the Company’s leases contain renewal or extension options. The Company includes all renewal or extension periods that it is reasonably certain to exercise at lease commencement within the measurement of the ROU asset and lease liability. 
+ 
+The Company’s lease portfolio consists of operating leases which are included in operating lease ROU assets and operating lease liabilities in the condensed consolidated balance sheet. Operating lease ROU assets and liabilities are recognized at the lease commencement date based on the present value of lease payments over the lease term. To calculate the present value of future lease payments, the Company uses an incremental borrowing rate that estimates a collateralized rate based on the expected term of the lease.
+- 12 -
+
+Table of Contents
+ 
+Lease cost and other information related to the Company’s operating leases are as follows:
+
+
+ 
+Supplemental balance sheet information related to operating leases for the first quarter of 2020 is as follows:
+
+
+The minimum lease payments under operating leases expiring subsequent to November 30, 2019 are as follows:
+ 
+
+
+ 
+As previously disclosed in our Annual Report on Form 10-K for the year ended August 31, 2019 and under the previous lease accounting standard, future minimum lease payments under operating leases with an initial or remaining term in excess of one year at August 31, 2019 would have been as follows:
+ 
+
+
+ 
+Note 10 – Fair Value Measurements
+The following table presents the Company’s financial assets and liabilities measured at fair value, based upon the level within the fair value hierarchy in which the fair value measurements fall, as of November 30, 2019, November 30, 2018, and August 31, 2019, respectively. There were no transfers between any levels for the periods presented.
+- 13 -
+
+Table of Contents
+ 
+ 
+
+
+ 
+ 
+There were no required fair value adjustments for assets and liabilities measured at fair value on a non-recurring basis for the three months ended November 30, 2019 or 2018.
+Note 11 – Commitments and Contingencies
+In the ordinary course of its business operations, the Company enters into arrangements that obligate it to make future payments under contracts such as lease agreements. Additionally, the Company is involved, from time to time, in commercial litigation, employment disputes, administrative proceedings, business disputes and other legal proceedings.  The Company has established accruals for certain proceedings where those proceedings present loss contingencies that are both probable and reasonably estimable at the time of determination. The Company believes that any such currently-pending proceedings are either covered by insurance or would not have a material effect on the business or its consolidated financial statements if decided in a manner that is unfavorable to the Company. Such proceedings are exclusive of environmental remediation matters which are discussed separately below. 
+Infrastructure Products
+The Company is currently defending a number of product liability lawsuits arising out of vehicle collisions with highway barriers incorporating the Company’s X-Lite® end terminal.  Despite the September 2017 reversal of a sizable judgment against a competitor, the Company expects that the significant attention brought to the infrastructure products industry by the original judgment may lead to additional lawsuits being filed against the Company and others in the industry.  The Company believes it has meritorious factual and legal defenses to each of these lawsuits and is prepared to vigorously defend its interests.  Based on the information currently available to the Company, the Company does not believe that a loss is probable in any of these lawsuits; therefore, no accrual has been included in the Company’s condensed consolidated financial statements.  While it is possible that a loss may be incurred, the Company is unable to estimate a range of potential loss due to the complexity and current status of these lawsuits. However, the Company maintains insurance coverage to mitigate the impact of adverse exposures in these lawsuits and does not expect that these lawsuits will have a material adverse effect on its business or its consolidated financial statements.
+In June 2019, the Company was informed by letter that the Department of Justice, Civil Division and U.S. Attorney’s Office for the Northern District of New York, with the assistance of the Department of Transportation, Office of Inspector General, are conducting an investigation of the Company relating to the Company’s X-Lite end terminal and potential violations of the federal civil False Claims Act.  Depending on the outcome of this matter, there could be a material adverse effect on the Company’s business or its consolidated financial statements.  Given the current posture of the matter, the Company is unable to estimate a range of potential loss, if any, or to express an opinion regarding the ultimate outcome.
+Environmental Remediation
+The Company has committed to a preliminary plan to remediate environmental contamination of the groundwater at and adjacent to its Lindsay, Nebraska facility (the “site”) as a result of discussions with the U.S. Environmental Protection Agency (the “EPA”) and the Nebraska Department of Environmental Quality (the “NDEQ”) during the third quarter of fiscal 2016.  The proposed remediation plan is preliminary and has not been approved by the EPA or the NDEQ.  Based on guidance from third-party environmental experts and the preliminary discussions with the EPA, the Company anticipates that a definitive plan will not be agreed upon until the second half of fiscal 2020 or later. 
+- 14 -
+
+Table of Contents
+ 
+The current estimated aggregate accrued cost of this remediation plan of $15.8 million is based on consideration of several remediation options that would use different technologies, each of which the Company believes could be successful in meeting the long-term regulatory requirements of the site.  The Company accrues the anticipated cost of investigation and remediation when the obligation is probable and can be reasonably estimated. While the Company believes the current accrual is a good faith estimate of the long-term cost of remediation at this site based on the preliminary analysis available at the time of this filing, the estimate of costs and their timing could change as a result of a number of factors, including (1) EPA and NDEQ input on the proposed remediation plan and any changes which they may subsequently require, (2) refinement of cost estimates and length of time required to complete remediation and post-remediation operations and maintenance, (3) effectiveness of the technology chosen in remediation of the site as well as changes in technology that may be available in the future, and (4) unforeseen circumstances existing at the site. As a result of these factors, the actual amount of costs incurred by the Company in connection with the remediation of contamination of its Lindsay, Nebraska site could exceed the amounts accrued for this expense at this time.  While any revisions could be material to the operating results of any fiscal quarter or fiscal year, the Company does not expect such additional expenses would have a material adverse effect on its liquidity or financial condition. The following table summarizes the undiscounted environmental remediation liability classifications included in the condensed consolidated balance sheets as of November 30, 2019, November 30, 2018, and August 31, 2019:
+ 
+
+
+ 
+Note 12 – Warranties 
+The following table provides the changes in the Company’s product warranties:
+ 
+
+
+ 
+Note 13 – Share-Based Compensation
+ 
+The Company’s current share-based compensation plans, approved by the stockholders of the Company, provides for awards of stock options, restricted shares, restricted stock units (“RSUs”), stock appreciation rights, performance shares, and performance stock units (“PSUs”) to employees and non-employee directors of the Company.  The Company measures and recognizes compensation expense for all share-based payment awards made to employees and directors based on estimated fair values. Share-based compensation expense was $1.2  million and $1.3 million for the three months ended November 30, 2019 and 2018, respectively. 
+ 
+ 
+The following table illustrates the type and fair value of share-based compensation awards granted during the three months ended November 30, 2019 and 2018:
+ 
+
+
+ 
+The RSUs granted during the three months ended November 30, 2019 and 2018 consisted of 2,730 and 3,071, respectively, of awards that will be settled in cash. The weighted average stock price on the date of grant was $94.36 and $91.87 for the 
+- 15 -
+
+Table of Contents
+ 
+three months ended November 30, 2019 and 2018, respectively. Share issuances are presented net of share repurchases to cover payroll taxes of $1.1 million for the three months ended November 30, 2019 and 2018.
+ 
+The following table provides the assumptions used in determining the fair value of the stock options awarded during the three months ended November 30, 2019 and 2018:
+ 
+
+
+ 
+The PSUs granted during fiscal 2020 include performance goals based on a return on net assets and total shareholder return (TSR) relative to the Company’s peers during the performance period. The awards actually earned will range from zero to two hundred percent of the targeted number of PSUs and will be paid in shares of common stock. Shares earned will be distributed upon vesting on the first day of November following the end of the three-year performance period.  For the return on net assets portion of the award, the Company is accruing compensation expense based on the estimated number of shares expected to be issued utilizing the most current information available to the Company at the date of the financial statements.  For the TSR portion of the award, compensation expense is recorded ratably over the three-year term of the award based on the estimated grant date fair value. 
+ 
+The fair value of the TSR portion of the awards granted during the three months ended November 30, 2019 and 2018 was estimated at the grant date using a Monte Carlo simulation model which included the following assumptions: 
+ 
+
+
+ 
+ 
+Note 14 – Other Current Liabilities
+ 
+
+
+ 
+Note 15 – Share Repurchases
+There were no shares repurchased during the three months ended November 30, 2019 and November 30, 2018 under the Company’s share repurchase program. The remaining amount available under the repurchase program was $63.7 million as of November 30, 2019. 
+ 
+Note 16 – Industry Segment Information
+The Company manages its business activities in two reportable segments: irrigation and infrastructure.  The Company evaluates the performance of its reportable segments based on segment sales, gross profit and operating income, with 
+- 16 -
+
+Table of Contents
+ 
+operating income for segment purposes excluding unallocated corporate general and administrative expenses, interest income, interest expense, other income and expenses and income taxes.  Operating income for segment purposes includes general and administrative expenses, selling expenses, engineering and research expenses and other overhead charges directly attributable to the segment.  There are no inter-segment sales included in the amounts disclosed. The Company had no single customer who represented 10 percent or more of its total revenues during the three months ended November 30, 2019 and 2018. 
+ 
+Irrigation - This reporting segment includes the manufacture and marketing of center pivot, lateral move, and hose reel irrigation systems, as well as various innovative technology solutions such as GPS positioning and guidance, variable rate irrigation, remote irrigation management and scheduling technology, irrigation consulting and design and industrial “internet of things”, or IoT, solutions.  The irrigation reporting segment consists of one operating segment.   
+Infrastructure – This reporting segment includes the manufacture and marketing of moveable barriers, specialty barriers, crash cushions and end terminals, and road marking and road safety equipment; the manufacturing and selling of large diameter steel tubing and railroad signals and structures; and providing outsourced manufacturing and production services.  The infrastructure reporting segment consists of one operating segment. 
+ 
+
+
+ 
+
+
+ 
+ 
+- 17 -
+
+Table of Contents
+ 
+ITEM 2 ‑ Management's Discussion and Analysis of Financial Condition and Results of Operations
+Concerning Forward‑Looking Statements
+This Quarterly Report on Form 10-Q contains not only historical information, but also forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.  Statements that are not historical are forward-looking and reflect information concerning possible or assumed future results of operations and planned financing of the Company.  In addition, forward-looking statements may be made orally or in press releases, conferences, reports, on the Company's web site, or otherwise, in the future by or on behalf of the Company.  When used by or on behalf of the Company, the words “expect,” “anticipate,” “estimate,” “believe,” “intend,” “will,” “plan,” “predict,” “project,” “outlook,” “could,” “may,” “should” or similar expressions generally identify forward-looking statements.  The entire section entitled “Executive Overview and Outlook” should be considered forward-looking statements.  For these statements, the Company claims the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995.
+Forward-looking statements involve a number of risks and uncertainties, including but not limited to those discussed in the “Risk Factors” section in the Company’s Annual Report on Form 10-K for the year ended August 31, 2019.  Readers should not place undue reliance on any forward-looking statement and should recognize that the statements are predictions of future results or conditions, which may not occur as anticipated.  Actual results or conditions could differ materially from those anticipated in the forward-looking statements and from historical results, due to the risks and uncertainties described herein and in the Company’s other public filings with the Securities and Exchange Commission, including the Company’s Annual Report on Form 10-K for the Company’s fiscal year ended August 31, 2019, as well as other risks and uncertainties not now anticipated.  The risks and uncertainties described herein and in the Company’s other public filings are not exclusive and further information concerning the Company and its businesses, including factors that potentially could materially affect the Company's financial results, may emerge from time to time.  Except as required by law, the Company assumes no obligation to update forward-looking statements to reflect actual results or changes in factors or assumptions affecting such forward-looking statements. 
+Accounting Policies
+In preparing the Company’s condensed consolidated financial statements in conformity with U.S. GAAP, management must make a variety of decisions which impact the reported amounts and the related disclosures.  These decisions include the selection of the appropriate accounting principles to be applied and the assumptions on which to base accounting estimates.  In making these decisions, management applies its judgment based on its understanding and analysis of the relevant circumstances and the Company’s historical experience.  
+The Company’s accounting policies that are most important to the presentation of its results of operations and financial condition, and which require the greatest use of judgments and estimates by management, are designated as its critical accounting policies.  See discussion of the Company’s critical accounting policies under Item 7 in the Company’s Annual Report on Form 10-K for the Company’s fiscal year ended August 31, 2019.  Management periodically re-evaluates and adjusts its critical accounting policies as circumstances change.  There were no changes in the Company’s critical accounting policies during the three months ended November 30, 2019.
+Recent Accounting Guidance
+See Note 1 – Basis of Presentation and the disclosure therein of recent accounting guidance (adopted and not yet adopted) to the condensed consolidated financial statements set forth in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+Executive Overview and Outlook
+Operating revenues for the three months ended November 30, 2019 were $109.4 million, a decrease of 2 percent compared to $112.0 million for the three months ended November 30, 2018.  Irrigation segment revenues decreased 6 percent to $82.4 million and infrastructure segment revenues increased 11 percent to $27.0 million.  Net earnings for the three months ended November 30, 2019 were $8.3 million, or $0.77 per diluted share, compared to net earnings of $1.2 million, or $0.11 per diluted share, for the three months ended November 30, 2018.  
+Net earnings for the three months ended November 30, 2018 were reduced by after-tax costs of $2.9 million, or $0.27 per diluted share, related to the Company’s “Foundation for Growth” initiative.  These costs primarily consisted of professional consulting fees and severance costs and were not incurred during the fiscal quarter ended November 30, 2019.   
+The Company’s irrigation revenues are highly dependent upon the need for irrigated agricultural crop production, which, in turn, depends upon many factors, including the following primary drivers:
+- 18 -
+
+Table of Contents
+ 
+
+
+
+
+ 
+
+•
+
+Agricultural commodity prices – As of November 2019, corn prices have increased 3 percent and soybean prices have increased approximately 1 percent from November 2018. While commodity prices have improved slightly from the prior year, they remain substantially lower than the peak levels in 2013.     
+
+
+
+
+
+
+ 
+
+•
+
+Weather conditions – Demand for irrigation equipment is often positively affected by storm damage and prolonged periods of drought conditions as producers look for ways to reduce the risk of low crop production and crop failures.  Conversely, demand for irrigation equipment can be negatively affected during periods of more predictable or excessive natural precipitation.  
+
+
+
+
+ 
+
+•
+
+Governmental policies – A number of governmental laws and regulations can affect the Company’s business, including:
+
+
+
+
+
+
+ 
+
+•
+
+The U.S. Tax Cuts and Jobs Act (“U.S. Tax Reform”) enacted in December 2017 increased the benefit of certain tax incentives, such as the Section 179 income tax deduction and Section 168 bonus depreciation, which are intended to encourage equipment purchases by allowing the entire cost of equipment to be treated as an expense in the year of purchase rather than amortized over its useful life.  
+
+
+
+
+ 
+
+•
+
+Biofuel production continues to be a major demand driver for irrigated corn, sugar cane and soybeans as these crops are used in high volumes to produce ethanol and biodiesel.  On December 19, 2019, the U.S. Environmental Protection Agency finalized Renewable Fuels Standard (RFS) volume requirements for 2020 that slightly increased volumes of conventional biofuels as well as volumes for advanced and cellulosic biofuels.  
+
+
+
+
+ 
+
+•
+
+Many international markets are affected by government policies such as subsidies and other agriculturally related incentives.  While these policies can have a significant effect on individual markets, they typically do not have a material effect on the consolidated results of the Company. 
+
+
+
+
+ 
+
+•
+
+Currency – The value of the U.S. dollar fluctuates in relation to the value of currencies in a number of countries to which the Company exports products and in which the Company maintains local operations. The strengthening of the dollar increases the cost in the local currency of the products exported from the U.S. into these countries and, therefore, could negatively affect the Company’s international sales and margins. In addition, the U.S. dollar value of sales made in any affected foreign currencies will decline as the value of the dollar rises in relation to these other currencies.
+International irrigation markets remain active with opportunities for further development and expansion, however regional political and economic factors, currency conditions and other factors can create a challenging environment.  Additionally, international results are heavily dependent upon project sales which tend to fluctuate and can be difficult to forecast accurately.  
+The infrastructure business is dependent to some extent on government spending for road construction.  In December 2015, the U.S. government enacted a five-year, $305 billion highway-funding bill (the “FAST Act”) to fund highway and bridge projects.  The FAST Act is scheduled to expire in September 2020 unless it is reauthorized by Congress.  In addition, the Federal Highway Administration has changed highway safety product certification requirements. The change has required additional research and development spending and could have an impact on the competitive positioning of the Company’s highway safety products.  In spite of government spending uncertainty, opportunities exist for market expansion in each of the infrastructure product lines. Demand for the Company’s transportation safety products continues to be driven by population growth and the need for improved road safety.
+The backlog of unshipped orders at November 30, 2019 was $69.2 million compared with $49.2 million at November 30, 2018.  Included in these backlogs are amounts of $5.2 million and $0.5 million, respectively, for orders that are not 
+- 19 -
+
+Table of Contents
+ 
+expected to be fulfilled within the subsequent twelve months. The Company’s backlog can fluctuate from period to period due to the seasonality, cyclicality, timing and execution of contracts.  Backlog typically represents long-term projects as well as short lead-time orders, and therefore is generally not a good indication of the next fiscal quarter’s revenues. 
+The global drivers for the Company’s markets of population growth, expanded food production, efficient water use and infrastructure expansion support the Company’s long-term growth goals.  The most significant opportunities for growth over the next several years are in international markets, where irrigation use is less developed and demand is driven primarily by food security, water scarcity and population growth. 
+Results of Operations
+ 
+For the Three Months ended November 30, 2019 compared to the Three Months ended November 30, 2018
+ 
+The following section presents an analysis of the Company’s operating results displayed in the condensed consolidated statements of earnings for the three months ended November 30, 2019 and 2018.  It should be read together with the industry segment information in Note 16 to the condensed consolidated financial statements:
+ 
+
+
+                     
+
+
+ 
+Revenues
+Operating revenues for the three months ended November 30, 2019 decreased 2 percent to $109.4 million from $112.0 million for the three months ended November 30, 2018, as irrigation revenues decreased $5.3 million and infrastructure revenues increased $2.7 million.  The irrigation segment provided 75 percent of the Company’s revenue during the three months ended November 30, 2019 as compared to 78 percent for the three months ended November 30, 2018.
+ 
+North America irrigation revenues for the three months ended November 30, 2019 of $52.6 million decreased $3.9 million, or 7 percent, from $56.5 million for the three months ended November 30, 2018.  Approximately $3.3 million of the decrease in North America irrigation revenues during the quarter compared to the same prior year period is attributable to a business divestiture completed in the first quarter of fiscal 2019.  In addition, the impact of higher irrigation equipment unit volume was partially offset by lower sales of replacement parts. 
+ 
+- 20 -
+
+Table of Contents
+ 
+International irrigation revenues for the three months ended November 30, 2019 of $29.7 million decreased by $1.4 million, or 5 percent, from $31.1 million for the three months ended November 30, 2018.  Revenues decreased $1.1 million, or 3 percent, due to differences in foreign currency translation rates compared to the same prior year period.  Excluding the impact of foreign currency translation, overall international irrigation revenues were comparable to the same prior year period. Increased sales in Brazil, Europe and Australia were offset by declines in other markets.
+ 
+Infrastructure segment revenues for the three months ended November 30, 2019 of $27.0 million increased $2.7 million, or 11 percent, from $24.3 million for the three months ended November 30, 2018.  The increase resulted from higher sales of road safety products as well as from an increase in Road Zipper System® lease revenues.
+ 
+Gross Profit
+Gross profit for the three months ended November 30, 2019 of $34.1 million increased 19 percent from $28.6 million for the three months ended November 30, 2018.  Gross profit increased on slightly lower revenues as a result of an increase in gross margin to 31.1 percent of sales for the three months ended November 30, 2019 compared with 25.6 percent of sales for the three months ended November 30, 2018.  Gross margin improvement resulted from a more profitable mix of infrastructure revenues as well as from the results of margin improvement initiatives. 
+ 
+Operating Expenses
+Operating expenses of $21.8 million for the three months ended November 30, 2019 decreased $4.8 million, or 18 percent, compared with $26.6 million for the three months ended November 30, 2018.  Costs of $4.0 million incurred in connection with the Company’s Foundation for Growth initiative during the three months ended November 30, 2018 did not repeat during the current year period.  In addition, a reduction in selling expense was partially offset by an increase in general and administrative expense.
+ 
+Income Taxes
+The Company recorded income tax expense of $2.9 million and $0.5 million for the three months ended November 30, 2019 and November 30, 2018, respectively.  The effective income tax rate was 25.9 percent and 27.9 percent for the three months ended November 30, 2019 and 2018, respectively.  The decrease in the effective tax rate from November 2018 to November 2019 relates primarily to the change in earnings mix among foreign operations.
+Liquidity and Capital Resources
+The Company's cash and cash equivalents totaled $120.9 million at November 30, 2019 compared with $137.2 million at November 30, 2018 and $127.2 million at August 31, 2019.  The Company requires cash for financing its receivables and inventories, paying operating expenses and capital expenditures, and for dividends and share repurchases.  The Company meets its liquidity needs and finances its capital expenditures from its available cash and funds provided by operations along with borrowings under its credit arrangements described below.  The Company believes its current cash resources, projected operating cash flow, and remaining capacity under its continuing bank lines of credit are sufficient to cover all of its expected working capital needs, planned capital expenditures and dividends.  The Company may require additional borrowings to fund potential acquisitions in the future. 
+The Company’s total cash and cash equivalents held by foreign subsidiaries were approximately $43.5 million, $30.2 million, and $48.1 million as of November 30, 2019, November 30, 2018, and August 31, 2019, respectively.  The Company considers earnings in foreign subsidiaries to be indefinitely reinvested and would need to accrue and pay incremental state, local, and foreign taxes if such earnings were repatriated to the United States.  The Company does not intend to repatriate the funds and does not expect these funds to have a significant impact on the Company’s overall liquidity.   
+Net working capital was $231.8 million at November 30, 2019, as compared with $242.3 million at November 30, 2018 and $231.4 million at August 31, 2019.  Cash provided by operating activities totaled $1.5 million during the three months ended November 30, 2019, compared to cash used in operating activities of $14.3 million during the three months ended November 30, 2018.  This change was primarily due to higher net earnings and lower increases in receivables, inventories, and accounts payable compared to the same prior year period. 
+Cash flows used in investing activities totaled $3.2 million during the three months ended November 30, 2019 compared to $4.7 million during the three months ended November 30, 2018.  The decrease is primarily attributable to a decrease in capital expenditures compared to the same prior year period.
+Cash flows used in financing activities totaled $4.5 million during the three months ended November 30, 2019 compared to cash flows used in financing activities of $4.3 million during the three months ended November 30, 2018.  Amounts related to dividend payments and employee restricted stock activity were similar between the periods.
+ 
+- 21 -
+
+Table of Contents
+ 
+Capital Allocation Plan
+The Company’s capital allocation plan is to continue investing in revenue and earnings growth, combined with a defined process for enhancing returns to stockholders. Under the Company’s capital allocation plan, the priorities for uses of cash include:
+
+
+
+
+ 
+
+•
+
+Investment in organic growth including capital expenditures and expansion of international markets,
+
+
+
+
+ 
+
+•
+
+Dividends to stockholders, along with expectations to increase dividends over time,
+
+
+
+
+ 
+
+•
+
+Synergistic acquisitions that provide attractive returns to stockholders, and
+
+
+
+
+ 
+
+•
+
+Opportunistic share repurchases taking into account cyclical and seasonal fluctuations. 
+Capital Expenditures
+Capital expenditures for fiscal 2020 are expected to be between $15.0 million and $20.0 million, including equipment replacement, productivity improvements and new product development.  The Company’s management does maintain flexibility to modify the amount and timing of some of the planned expenditures in response to economic conditions.
+Dividends
+In the first quarter of fiscal 2020, the Company paid a quarterly cash dividend of $0.31 per common share, or $3.4 million, to stockholders as compared to $0.31 per common share, or $3.3 million, in the first quarter of fiscal 2019.  
+Share Repurchases
+The Company’s Board of Directors authorized a share repurchase program of up to $250.0 million of common stock with no expiration date.  Under the program, shares may be repurchased in privately negotiated and/or open market transactions as well as under formalized trading plans in accordance with the guidelines specified under Rule 10b5-1 of the Securities Exchange Act of 1934, as amended.  There were no shares repurchased during the three months ended November 30, 2019 and 2018, respectively. The remaining amount available under the repurchase program was $63.7 million as of November 30, 2019.   
+Long-Term Borrowing Facilities
+ 
+Senior Notes.  The Company has outstanding $115.0 million in aggregate principal amount of Senior Notes, Series A (the “Senior Notes”).  The entire principal of the Senior Notes is due and payable on February 19, 2030.  Interest on the Senior Notes is payable semi-annually at a fixed annual rate of 3.82 percent.  On May 31, 2019, the Company and holders of the Senior Notes agreed, among other things, to temporarily increase the Company’s maximum permitted funded debt to EBITDA leverage ratio from 3.0 to 3.5 through the fiscal quarter ending May 31, 2020, provided that, if such ratio exceeds the original maximum permitted ratio during such period, the interest rate on the Senior Notes shall be increased by up to 0.50% depending on the degree to which the Company exceeds such ratio.  During fiscal 2019 the Company did not exceed the original permitted ratio.  Borrowings under the Senior Notes are unsecured.  The Company used the proceeds of the sale of the Senior Notes for general corporate purposes, including acquisitions and dividends.
+Revolving Credit Facility. The Company has outstanding a $50.0 million unsecured Amended and Restated Revolving Credit Facility (the “Revolving Credit Facility”) with Wells Fargo Bank, National Association (“Wells Fargo”) expiring May 31, 2022.  The Company intends to use borrowings under the Revolving Credit Facility for working capital purposes and to fund acquisitions. At November 30, 2019 and November 30, 2018, the Company had no outstanding borrowings under the Revolving Credit Facility.  The amount of borrowings available at any time under the Revolving Credit Facility is reduced by the amount of standby letters of credit issued by Wells Fargo then outstanding.  At November 30, 2019, the Company had the ability to borrow up to $50.0 million under the Revolving Credit Facility. Borrowings under the Revolving Credit Facility bear interest at a variable rate equal to LIBOR plus 90 basis points (2.85 percent at November 30, 2019), subject to adjustment as set forth in the loan documents for the Revolving Credit Facility.  Interest is paid on a monthly to quarterly basis depending on loan type.  The Company currently pays an annual commitment fee of 0.25 percent on the unused portion of the Revolving Credit Facility.
+Borrowings under the Revolving Credit Facility have equal priority with borrowings under the Company’s Senior Notes.  Each of the credit arrangements described above include certain covenants relating primarily to the Company’s financial condition. These financial covenants include a funded debt to EBITDA leverage ratio and an interest coverage ratio.  In the event that the loan documents for the Revolving Credit Facility were to require the Company to comply with any financial 
+- 22 -
+
+Table of Contents
+ 
+covenant that is not already included or is more restrictive than what is already included in the arrangement governing the Senior Notes, then such covenant shall be deemed incorporated by reference for the benefit of holders of the Senior Notes.  Upon the occurrence of any event of default of these covenants, including a change in control of the Company, all amounts outstanding thereunder may be declared to be immediately due and payable.  At November 30, 2019 and November 30, 2018, the Company was in compliance with all financial loan covenants contained in its credit arrangements in place as of each of those dates.
+Series 2006A Bonds.  Elecsys International Corporation, a wholly owned subsidiary of the Company, has outstanding $1.6 million in principal amount of industrial revenue bonds that were issued in 2006 (the “Series 2006A Bonds”).  Principal and interest on the Series 2006A Bonds are payable monthly through maturity on September 1, 2026.  The interest rate is adjustable every five years based on the yield of the 5-year United States Treasury Notes, plus 0.45 percent (1.92 percent as of November 30, 2019).  This rate was adjusted on September 1, 2016 in accordance with the terms of the bonds, and the adjusted rate will be in force until September 1, 2021.  The obligations under the Series 2006A Bonds are secured by a first priority security interest in certain real estate.
+Contractual Obligations and Commercial Commitments
+There have been no material changes in the Company’s contractual obligations and commercial commitments as described in the Company’s Annual Report on Form 10-K for the fiscal year ended August 31, 2019.
+ITEM 3 – Quantitative and Qualitative Disclosures About Market Risk
+There have been no material changes from the Company’s quantitative and qualitative disclosures about market risk previously disclosed in the Company’s most recent Annual Report on Form 10-K.  See discussion of the Company’s quantitative and qualitative disclosures about market risk under Part II, Item 7A in the Company’s Annual Report on Form 10-K for the fiscal year ended August 31, 2019.
+ITEM 4 – Controls and Procedures
+Disclosure Controls and Procedures
+The Company carried out an evaluation under the supervision and the participation of the Company’s management, including the Company’s Chief Executive Officer (CEO) and Chief Financial Officer (CFO), of the effectiveness of the design and operation of the Company’s disclosure controls and procedures pursuant to Exchange Act Rules 13a-15(e) and 15d-15(e).  Based upon that evaluation, the CEO and CFO concluded that the Company’s disclosure controls and procedures were ineffective as of November 30, 2019 due to the material weakness previously disclosed in Part II, Item 9A of the Company’s Annual Report on Form 10-K for the fiscal year ended August 31, 2019.
+As previously disclosed, in connection with management’s assessment of internal control over financial reporting as of August 31, 2019, the Company identified a material weakness related to ineffective internal control over indirect tax credits in a foreign jurisdiction. The Company’s control was not designed effectively to include evaluation of the recoverability of the credits due to ineffective risk assessment that did not identify the risk related to valuation of the tax credits. This deficiency resulted in a material misstatement that was corrected before the Company issued the consolidated financial statements included in the Annual Report on Form 10‑K for the fiscal year ended August 31, 2019.
+During the first quarter of fiscal 2020, the Company began executing its remediation plan to address the material weakness identified above, which includes the implementation of new controls focused on the valuation of the tax credits. The weakness will not be considered remediated until the applicable controls have operated for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively. The Company expects to complete the remediation of this material weakness during fiscal 2020.
+Changes in Internal Control over Financial Reporting 
+Additionally, other than with respect to the remediation efforts described above and implementation of ASC 842 described below, the CEO and CFO determined that there has not been any significant change to the Company’s internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) during the last fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+ 
+Effective September 1, 2019, the Company implemented ASC 842, Leases. Management did implement changes to its processes related to leases and the control activities within them. These included the development of new policies, new training, identification and review of lease contracts, and gathering of information provided for disclosures.
+ 
+- 23 -
+
+Table of Contents
+ 
+Part II – OTHER INFORMATION
+ITEM 1 – Legal Proceedings
+See the disclosure in Note 10 – Commitments and Contingencies to the condensed consolidated financial statements set forth in Part I, Item 1 of this Quarterly Report on Form 10-Q, which disclosure is hereby incorporated herein by reference.
+ITEM 1A – Risk Factors
+There have been no material changes from risk factors previously disclosed in the Company’s most recent Annual Report on Form 10-K. See the discussion of the Company’s risk factors under Part I, Item 1A in the Company’s Annual Report on Form 10-K for the fiscal year ended August 31, 2019.
+ITEM 2 – Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+ITEM 3 – Defaults Upon Senior Securities
+None.
+ITEM 4 – Mine Safety Disclosures
+Not applicable.
+ITEM 5 – Other Information
+None.
+- 24 -
+
+Table of Contents
+ 
+ITEM 6 – Exhibits 
+ 
+
+
+† Management contract or compensatory plan or arrangement required to be filed as an exhibit hereto pursuant to Item 6 of Part II of Form 10-Q. 
+* Filed herein. 
+** Certain confidential portions of this Exhibit were omitted by means of marking such portions with brackets and asterisks because the identified confidential portions (i) are not material and (ii) would be competitively harmful if publicly disclosed.
+ 
+- 25 -
+
+Table of Contents
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized on this 9th day of January 2020.
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+LINDSAY CORPORATION
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+By:
+
+ 
+
+/s/ BRIAN L. KETCHAM
+
+
+
+ 
+
+Name:
+
+ 
+
+Brian L. Ketcham
+
+
+
+ 
+
+Title:
+
+ 
+
+Senior Vice President and Chief Financial Officer
+
+
+
+ 
+
+ 
+
+ 
+
+(on behalf of the registrant and as principal financial officer)
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+- 26 -
+

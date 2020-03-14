@@ -1,0 +1,1042 @@
+
+10-Q
+1
+ssy-10q_20191231.htm
+10-Q
+
+
+
+ssy-10q_20191231.htm
+
+
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington D.C. 20549
+ 
+FORM 10-Q
+ 
+ 
+
+
+
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended December 31, 2019
+OR
+ 
+
+
+
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                      to                     
+Commission File Number 1-12607
+ 
+SUNLINK HEALTH SYSTEMS, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+Ohio
+
+ 
+
+31-0621189
+
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+ 
+
+(I.R.S. Employer
+Identification No.)
+
+
+900 Circle 75 Parkway, Suite 1120, Atlanta, Georgia 30339
+(Address of principal executive offices)
+(Zip Code)
+(770) 933-7000
+(Registrant’s telephone number, including area code)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered Symbol(s)
+
+
+
+Common Shares without par value
+
+ 
+
+SSY
+
+ 
+
+NYSE American
+
+
+
+Preferred Share Purchase Rights
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filings requirements for the past 90 days.    Yes  ☒     No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (of for such shorter period that the registrant was required to submit such files).    Yes  ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+
+Large accelerated filer
+
+ 
+
+☐
+
+  
+
+Accelerated filer
+
+ 
+
+☐
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Non-accelerated filer
+
+ 
+
+☐
+
+  
+
+Smaller reporting company
+
+ 
+
+☒
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+  
+
+Emerging growth company
+
+ 
+
+☐
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.     ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes   ☐    No  ☒ 
+Securities registered pursuant to Section 12(b) of the Act: 
+ The number of Common Shares, without par value, outstanding as of February 13, 2020 was 6,978,769. 
+ 
+ 
+ 
+
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+ 
+SUNLINK HEALTH SYSTEMS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+ 
+
+
+ 
+See notes to condensed consolidated financial statements.
+2
+
+SUNLINK HEALTH SYSTEMS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+AND COMPREHENSIVE EARNINGS (LOSS)
+(In thousands, except per share amounts)
+(Unaudited)
+ 
+
+
+ 
+See notes to condensed consolidated financial statements.
+3
+
+SUNLINK HEALTH SYSTEMS, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+(Unaudited)
+ 
+
+
+ 
+See notes to condensed consolidated financial statements.
+4
+
+SUNLINK HEALTH SYSTEMS, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+THREE AND SIX MONTHS ENDED DECEMBER 31, 2019
+(all dollar amounts in thousands except per share amounts)
+(Unaudited)
+Note 1. –Basis of Presentation and Adoption of Recently Issued Accounting Standards
+Basis of Presentation
+The accompanying unaudited Condensed Consolidated Financial Statements as of December 31, 2019 and for the three and six month periods ended December 31, 2019 and 2018 have been prepared in accordance with Rule 10-01 of Regulation S-X of the Securities and Exchange Commission (“SEC”) and, as such, do not include all information required by accounting principles generally accepted in the United States of America (“GAAP”). The condensed consolidated June 30, 2019 balance sheet included in this interim filing has been derived from the audited financial statements at that date but does not include all of the information and related notes required by GAAP for complete financial statements. These Condensed Consolidated Financial Statements should be read in conjunction with the audited consolidated financial statements included in the SunLink Health Systems, Inc. (“SunLink”, “we”, “our”, “ours”, “us” or the “Company”) Annual Report on Form 10-K for the fiscal year ended June 30, 2019, filed with the SEC on September 27, 2019. In the opinion of management, the Condensed Consolidated Financial Statements, which are unaudited, include all adjustments, consisting only of normal recurring adjustments, necessary to present fairly the financial position and results of operations for the periods indicated. The results of operations for the three and six month periods ended December 31, 2019 are not necessarily indicative of the results that may be expected for the entire fiscal year or any other interim period.
+Throughout these notes to the consolidated financial statements, SunLink Health Systems, Inc., and its consolidated subsidiaries are referred to on a collective basis as “SunLink”, “we”, “our”, “ours”, “us” or the “Company.” This drafting style is not meant to indicate that the publicly traded Company or any particular subsidiary of the Company owns or operates any particular asset, business or property. Each operation and business described in this filing is owned and operated by a distinct and indirect subsidiary of SunLink Health System, Inc.
+Adoption of Recently Issued Accounting Standards
+ASC 842, “Leases” – On July 1, 2019, the Company adopted cumulative accounting standard updates initially issued by the Financial Accounting Standards Board (“FASB”) that amend the accounting for leases and are codified as Accounting Standards Codification (“ASC”) 842. These lease accounting changes require operating leases be recorded on the balance sheet through the recognition of a liability for the discounted present value of future fixed lease payments and a corresponding right-of-use (“ROU”) asset.  The Company’s accounting for finance leases remained substantially unchanged from its prior accounting for capital leases. The ROU asset recorded at commencement of the lease represents the right to use the underlying asset over the lease term in exchange for the lease payments. Leases with an initial term of 12 months or less which do not have an option to purchase the underlying asset that is deemed reasonably certain to be exercised are not recorded on the balance sheet; rather, rent expense for these leases is recognized on a straight-line basis over the lease term, or when incurred if a month-to-month lease. When readily determinable, the Company uses the interest rate implicit in a lease to determine the present value of future lease payments. For leases where the implicit rate is not readily determinable, the Company’s incremental borrowing rate is utilized. Our lease agreements do not contain any material residual value guarantees.
+The Company elected the amended transition requirements allowed for by the FASB in Accounting Standards Update (“ASU”) 2018-11, which provides relief from requirements to recast prior comparative periods under ASC 842. As a result, the prior year comparative financial statements have not been restated to reflect the adoption of ASC 842. Additionally, the Company elected the “package of practical expedients” available in ASC 842 whereby an entity need not reassess expired contracts for lease identification or classification as a finance or operating lease, or reassess the initial direct costs. The Company has not elected the practical expedient to use hindsight to determine the lease term for its leases at transition. Certain of the Company’s lease agreements have lease and non-lease components, which for the majority of leases the Company accounts for separately when the actual lease 
+5
+
+and non-lease components are determinable. For equipment leases with immaterial non-lease components incorporated into the fixed rent payment, the Company accounts for the lease and non-lease components as a single lease component in determining the lease payment. 
+The adoption of ASC 842 on July 1, 2019 resulted in the Company recording $1,423 of operating lease liabilities and an equal amount of ROU assets with no impact on retained earnings. The adoption did not have a material impact on the Company’s condensed consolidated statement of operations or condensed consolidated statement of cash flows for the three and six months ended December 31, 2019.    
+Note 2. – Business Operations
+SunLink Health Systems, Inc., through subsidiaries, owns businesses which are providers of healthcare services in certain markets in the United States. SunLink’s subsidiaries’ businesses are composed of two business segments:
+Healthcare Services
+
+
+
+
+ 
+
+•
+
+A subsidiary which owns and operates Trace Regional Hospital and Floy Dyer Nursing Home (“Trace”), an 84 licensed-bed acute care hospital, located in Houston, Mississippi, which includes an 18-bed geriatric psychology unit (“GPU”), and a 66-bed nursing home. This facility focuses primarily on senior healthcare services.   
+
+
+
+
+ 
+
+•
+
+A subsidiary, SunLink Health Systems Technology (SHS Technology), based in Atlanta, Georgia, which provides information technology (IT) services to outside customers and to SunLink subsidiaries.
+
+
+
+
+ 
+
+•
+
+A subsidiary which owns approximately five (5) acres of unimproved land in Houston, Mississippi. 
+Pharmacy
+The Pharmacy segment is composed of four operational areas which are conducted primarily in rural markets in Louisiana:
+
+
+
+
+ 
+
+•
+
+Retail pharmacy products and services, provided by a retail pharmacy. 
+
+
+
+
+ 
+
+•
+
+Institutional pharmacy services consisting of the provision of specialty and non-specialty pharmaceutical and biological products to institutional clients or to patients in institutional settings, such as nursing homes, assisted living facilities, behavioral and specialty hospitals, hospice, and correctional facilities.
+
+
+
+
+ 
+
+•
+
+  Non-institutional pharmacy services consisting of the provision of specialty and non-specialty pharmaceutical and biological products to clients or patients in non-institutional settings including private residential homes. 
+
+
+
+
+ 
+
+•
+
+ Durable medical equipment products and services (“DME”), consisting primarily of the sale and rental of products for institutional clients or to patients in institutional settings and patient-administered home care.
+SunLink subsidiaries have conducted the Healthcare Services business since 2001 and the Pharmacy operations since 2008. Our Pharmacy segment currently is operated through Carmichael’s Cashway Pharmacy, Inc. (“Carmichael”), a subsidiary of our SunLink ScriptsRx, LLC subsidiary. 
+.
+6
+
+Note 3. – Discontinued Operations
+All the businesses discussed in the note below are reported as discontinued operations and the condensed consolidated financial statements for all prior periods have been adjusted to reflect this presentation.
+Results for all the businesses included in discontinued operations are presented in the following table:
+ 
+
+
+ 
+Parkside Nursing Home — On March 17, 2019, a subsidiary of the Company sold its Parkside Ellijay Nursing Home and related real estate for $7,300 subject to adjustment for the book value of certain assets and liabilities on the sale date. The pre-tax gain on the sale was $2,136, which was recognized in the fiscal year ended June 30, 2019.  The net proceeds of the sale were retained for working capital and general corporate purposes. 
+ 
+Sold Hospitals – Subsidiaries of the Company have sold substantially all the assets of four hospitals (“Sold Hospitals”) during the period July 2, 2012 to August 19, 2016. The loss before income taxes of the Sold Hospitals results primarily from the effects of retained professional liability insurance and claims expenses.
+Life Sciences and Engineering Segment —SunLink retained a defined benefit retirement plan which covered substantially all the employees of this segment when the segment was sold in fiscal 1998. Effective February 28, 1997, the plan was amended to freeze participant benefits and close the plan to new participants. Pension expense and related tax benefit or expense is reflected in the results of operations for this segment for the three and six months ended December 31, 2019 and 2018, respectively.
+The components of pension expense for the three months ended December 31, 2019 and 2018, respectively, were as follows:
+ 
+
+
+ 
+SunLink contributed $66  to the plan in the six months ended December 31, 2019 and expects to contribute an additional $66 during the remaining two fiscal quarters of the fiscal year ending June 30, 2020.
+7
+
+Note 4. – Shareholders’ Equity
+2019-2020 Common Share Repurchase Program – On October 8, 2019, the Company announced a share repurchase program (“2019-2020 Program”) approved by its Board of Directors which authorizes the Company to purchase up to $750 of its common shares in the open market.  As of December 31, 2019, a total of 3,814 shares have been repurchased at a cost of approximately $4. The chart below shows by month the total shares repurchased and average price per share paid for the 2019-2020 Program through December 31, 2019. As of the date of this filing, the Company has repurchased 8,086 shares at a cost of approximately $9. On January 31, 2020, the Company announced its Board of Directors had extended the terminate date of the 2019-2020 Program to June 1, 2020, unless it further extended or earlier terminated by the Company. 
+ 
+
+
+2018 Common Share Repurchase Program – On November 29, 2018, the Company announced a share repurchase program (“2018 Program”) approved by its Board of Directors, which authorized the Company to purchase up to 300,000 shares of its common shares.  On December 13, 2018, the Company announced it had purchased the 300,000 shares authorized under the 2018 Program, and that its Board of Directors had authorized an additional 450,000 shares to be purchased under the 2018 Program.  As of October 3, 2019, the 2018 Program termination date, a total of 359,959 shares were repurchased at a cost of approximately $372, excluding fees and expenses relating to the offer.  The chart below shows by month the total shares repurchased and average price per share paid for the 2018 Program prior to its termination.
+
+
+ 
+Stock-Based Compensation – For the three months ended December 31, 2019 and 2018, the Company recognized  no stock-based compensation for options issued to employees and directors of the Company.  For the six months ended December 31, 2019 and 2018, the Company recognized $27 and $1, respectively, in stock-based compensation for options issued to employees and directors of the Company. The fair value of the share options granted was estimated using the Black-Scholes option-pricing model.  There were 50,000 share options granted under the 2011 Director Stock Option Plan during the six months ended December 31, 2019, and no shares granted under the 2011 Director Stock Option Plan during the six months ended December 31, 2018.
+Note 5. – Revenue and Accounts Receivables
+Revenues by payor were as follows for the three months ended December 31, 2019 and 2018:
+ 
+
+
+8
+
+ 
+Summary information for accounts receivable is as follows:
+ 
+
+
+ 
+The following is a summary of the activity in the allowance for concession adjustments for the Healthcare Services Segment and the Pharmacy Segment for the three months ended December 31, 2019 and 2018:
+ 
+
+
+ 
+
+
+ 
+9
+
+Note 6. – Intangible Assets
+Intangibles consist of the following, net of amortization:
+ 
+
+
+ 
+Amortization expense was $29 and $29 for the three months ended December 31, 2019 and 2018, respectively. Amortization expense was $58 and $58 for the six months ended December 31, 2019 and 2018, respectively.
+Note 7. – Long-Term Debt
+Long-term debt consisted of the following:
+ 
+
+
+ 
+Trace RDA Loan— Southern Health Corporation of Houston, Inc. (“Trace”) a wholly owned subsidiary of the Company, closed on a $9,975 Mortgage Loan Agreement (“Trace RDA Loan”) with a bank, dated as of July 5, 2012. The Trace RDA Loan has a term of 15 years with level monthly payments of principal and interest until repaid.  The Trace RDA Loan interest rate is the prime rate (as published in the Wall Street Journal) plus 1% with a floor of 5.5%, (5.75% at December 31, 2019). The Trace RDA Loan is collateralized by real estate and equipment of Trace and is partially guaranteed under the U.S. Department of Agriculture, Rural Development Business and Industry Program.
+On October 7, 2019, the Company made a $2,500 pre-payment on the Trace RDA Loan.  The pre-payment was made with cash on hand.  The Company recorded a non-cash loss on early extinguishment of debt relating to the pre-payment of $160 during the three and six months ended December 31, 2019. 
+Based on the current Trace RDA Loan amortization schedule, the outstanding balance of the Loan is required to be repaid in October 2020.  Accordingly, the outstanding loan amount at December 31, 2019 is classified as a current liability.
+On February 12, 2020, the Company paid the outstanding balance of the Trace RDA Loan.  See Note 16. – Subsequent Events. 
+The Trace RDA Loan contains various covenants, terms and conditions, including financial restrictions and limitations, and affirmative and negative covenants and is guaranteed by SunLink.  The covenants include financial covenants measured on a quarterly basis that require Trace to comply with a ratio of current assets to current liabilities, debt service coverage, fixed charge ratio, and funded debt to EBITDA, all as defined in the Trace RDA Loan. At June 30, 2019, Trace was not in compliance with the debt service coverage, fixed charge coverage and 
+10
+
+funded debt to EBITDA ratios.  The Company had discussed with the lender a waiver of this non-compliance, but a waiver of non-compliance has not been received as of the date of filing this report. Trace was in compliance with the covenants as measured at September 30, 2019 and December 31, 2019. No event of default has been declared by the lender as of the date of the filing of this report nor is such a declaration currently anticipated.    
+Note 8. – Income Taxes
+Income tax benefit of $0 ($0 federal  and state tax  expense) and income tax expense of $0 ($0 federal tax and state tax expense) was recorded for continuing operations for the three and six months ended December 31, 2019 and 2018, respectively.       
+In accordance with the Financial Accounting Standards Board Accounting Standards Codification (‘ASC”) 740, we evaluate our deferred taxes quarterly to determine if adjustments to our valuation allowance are required based on the consideration of available positive and negative evidence using a “more likely than not” standard with respect to whether deferred tax assets will be realized. Our evaluation considers, among other factors, our historical operating results, our expectation of future results of operations, the duration of applicable statuary carryforward periods and conditions of the healthcare industry. The ultimate realization of our deferred tax assets depends primarily on our ability to generate future taxable income during the periods in which the related temporary differences in the financial basis and the tax basis of the assets become deductible. The value of our deferred tax assets will depend on applicable income tax rates.
+At December 31, 2019, consistent with the above process, we evaluated the need for a valuation against our deferred tax assets and determined that it was more likely than not that none of our deferred tax assets would be realized. As a result, in accordance with ASC 740, we recognized a valuation allowance of $8,674 against the deferred tax asset so that there is no net long-term deferred income tax asset or liability at December 31, 2019. We conducted our evaluation by considering available positive and negative evidence to determine our ability to realize our deferred tax assets. In our evaluation, we gave more significant weight to evidence that was objective in nature as compared to subjective evidence. Also, more significant weight was given to evidence that directly related to our current financial performance as compared to less current evidence and future plans.
+The principal negative evidence that led us to determine at December 31, 2019 that all the deferred tax assets should have full valuation allowances was the three-year cumulative pre-tax loss from continuing operations as well as the underlying negative business conditions for rural healthcare businesses in which our Healthcare Services Segment businesses operate.   
+For Federal income tax purposes, at December 31, 2019, the Company had approximately $19,200 of estimated net operating loss carry-forwards available for use in future years subject to the limitations of the provisions of Internal Revenue Code Section 382. These net operating loss carryforwards expire primarily in fiscal 2023 through fiscal 2038; however, with the enactment of the TCJA on December 22, 2017, federal net operating loss carryforwards generated in taxable years beginning after December 31, 2017 now have no expiration date. The Company’s returns for the periods prior to the fiscal year ended June 30, 2016 are no longer subject to potential federal and state income tax examination.
+ 
+11
+
+Note 9. – Leases
+The Company has operating leases and a financing lease relating to its pharmacy operations, medical office buildings, certain medical equipment and office equipment. All lease agreements generally require the Company to pay maintenance, repairs, property taxes and insurance costs, which are variable amounts based on actual costs. Variable lease costs also include escalating rent payments that are not fixed at commencement but are based on an index determined in future periods over the lease term based on changes in the Consumer Price Index or other measure of cost inflation. Some leases include one or more options to renew the lease at the end of the initial term, with renewal terms that generally extend the lease at the then market rental rates. Leases may also include an option to buy the underlying asset at or a short time prior to the termination of the lease. All such options are at the Company’s discretion and are evaluated at the commencement of the lease, with only those that are reasonably certain of exercise included in determining the appropriate lease term. The components of lease cost and rent expense for the three and six months ended December 31, 2019 are as follows:  
+ 
+
+
+ 
+Supplemental balance sheet information to leases was as follows:
+ 
+
+
+ 
+12
+
+Supplemental cash flow and other information related to leases as of and for the three and six months ended December 31, 2019 are as follows:
+ 
+
+
+ 
+Commitments relating to non-cancellable operating and finance leases as of December 31, 2019 for each of the next five years and thereafter are as follows:
+ 
+
+
+ 
+13
+
+Note 10. – Accrued Sales Tax 
+During the fiscal year ended June 30, 2019, the Pharmacy segment business amended its sales tax position to exempt from sales tax consideration any revenue from sales of products and services to beneficiaries of government insurance programs to the extent reimbursed by the administrators of such programs. No sales taxes are included in the related reimbursement received from sales of such products and services from the government payers’ insurance programs. The Company is in the process of filing amended sales tax returns for periods still available to file such amended returns under the applicable statutes of limitations, and it intends to file amended sales tax returns for all such prior periods. Refunds have been received from two taxing authorities in the amounts claimed in such amended returns. Amounts claimed for these two taxing authorities believed to be estimable and probable of collection have been recorded in the quarter ended December 31, 2019 in the amount of $267. The subsidiary’s position with other local taxing authorities has not yet been determined probable of collection; therefore, the subsidiary has continued to accrue the amounts for sales tax estimates that it believes would be payable if its amended returns position is challenged and the Company does not prevail.  The sales tax accrued at December 31, 2019 is $1,132 compared to $843 at June 30, 2019. 
+ 
+Note 11. – Commitments and Contingencies
+Contractual obligations, commitments and contingencies related to outstanding debt and interest on outstanding debt from continuing operations at December 31, 2019 were as follows:
+ 
+
+
+ 
+Contingencies do not reflect potential amounts for claims, litigation and other uncertainties, which matters are not probable or cannot be estimated, such as for certain professional liabilities and contract matters, including those relating to prior assets sales.
+Note 12. – Related Party Transactions
+A director of the Company is a member of a law firm which provides services to SunLink. The Company expensed an aggregate of $62 and $59 for legal services to this law firm in the three months ended December 31, 2019 and 2018, respectively.  The Company expensed an aggregate of $180 and $135 for legal services to this law firm in the six months ended December 31, 2019 and 2018, respectively.  Included in the Company’s condensed consolidated balance sheets at December 31, 2019 and June 30, 2019 is $19 and $47, respectively, of amounts payable to this law firm.        
+Note 13. – Asset Sales
+On September 9, 2019, the Company sold approximately 11.4 acres of undeveloped land in Fulton, MO. After expenses, the Company received net proceeds from the sale of $348, which was retained for working capital and general corporate purposes. The pre-tax gain on the sale of property was $100 and is included in the Company’s results for the six months ended December 31, 2019.
+On December 20, 2019, the Company sold a medical office building and approximately 4 acres of land in Clanton, AL. After expenses, the Company received net proceeds from the sale of $204, which was retained for working capital and general corporate purposes. The pre-tax gain on the sale of property was $86 and is included in the Company’s three and six months results ended December 31, 2019.
+14
+
+On October 11, 2018, the Company sold a vacant medical office building and approximately 2 adjacent acres of undeveloped land in Dahlonega, GA. After expenses, the Company received net proceeds from the sale of $935, which was retained for working capital and general corporate purposes. The pre-tax gain on the sale of property of $452 is included in the Company’s three and six months results ended December 31, 2018.
+ 
+Note 14. – Land Acquisition
+In conjunction with the 2014 settlement of a lawsuit, the Company received a five-year promissory note maturing in October 2019. The note was secured by a non-recourse mortgage on approximately 24.74 acres of real property in Ellijay, Georgia.  The terms of the Note and mortgage provided that if the owner of the real property did not pay the note at maturity, the Company could foreclose and take title to the property.  The real property was conveyed to the Company on November 1, 2019 by deed in lieu of payment of the note.  The market value of the note was estimated to be $371 which was based on a September 2019 appraisal of the property and the land was valued at $371 at the conveyance of the property by the Company. 
+Note 15. – Financial Information by Segment
+Under ASC Topic No. 280, Segment Reporting, operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker, or decision-making group, in deciding how to allocate resources and in assessing performance. Our chief operating decision-making group is composed of SunLink’s chief executive officer and other members of SunLink’s senior management. Our two reportable operating segments are Healthcare Services and Pharmacy.  
+15
+
+We evaluate performance of our operating segments based on revenue and operating profit (loss). At the beginning of the current fiscal year, the Company modified the approach to certain assets, and expense allocations to calculate segment assets, operating profit and depreciation and amortization. All prior year amounts have been changed to consistently apply the changed allocation method used in the current year. Segment information as of December 31, 2019 and 2018 and for the three and six months then ended is as follows:
+ 
+
+
+ 
+Note 16. – Subsequent Events
+ 
+Payment of Trace RDA Loan outstanding balance– On February 12, 2020, the Company paid the total $278 outstanding balance of the Trace RDA loan. The pre-payment was made with cash on hand.  The Company expects to report, in the quarter ended March 31, 2020, a non-cash loss on early extinguishment of debt relating to the pre-payment of approximately $20.
+ 
+ 
+  
+16
+
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS
+(Dollars in thousands, except per share and admissions data)
+Forward-Looking Statements
+This Quarterly Report and the documents that are incorporated by reference in this Quarterly Report contain certain forward-looking statements within the meaning of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995. Forward-looking statements include all statements that do not relate solely to historical or current facts and may be identified by the use of words such as “may,” “believe,” “will,” “seeks to”, “expect,” “project,” “estimate,” “anticipate,” “plan” or “continue.” These forward-looking statements are based on the current plans and expectations and are subject to a number of risks, uncertainties and other factors which could significantly affect current plans and expectations and our future financial condition and results. Throughout item 2, SunLink Health Systems, Inc., and its consolidated subsidiaries are referred to on a collective basis as “SunLink”, “we”, “our”, “ours”, “us” or the “Company.” This drafting style is not meant to indicate that SunLink Health Systems, Inc. or any particular subsidiary of SunLink Health Systems, Inc. owns or operates any asset, business, or property. Healthcare services, pharmacy operations and other businesses described in this filing are owned and operated by distinct and indirect subsidiaries of SunLink Health System, Inc. These forward-looking statements are based on current plans and expectations and are subject to a number of risks, uncertainties and other factors that could significantly affect current plans and expectations and our future financial condition and results. These factors, which could cause actual results, performance and achievements to differ materially from those anticipated, include, but are not limited to:
+General Business Conditions
+
+
+
+
+ 
+
+•
+
+general economic and business conditions in the U.S., both nationwide and in the states in which we operate;
+
+
+
+
+ 
+
+•
+
+increases in uninsured and/or underinsured patients due to unemployment or other conditions, higher deductibles and co-insurance, or other terms of health insurance and drug coverage resulting in higher bad debt amounts;
+
+
+
+
+ 
+
+•
+
+the competitive nature of the U.S. community hospital, nursing home, and pharmacy businesses;
+
+
+
+
+ 
+
+•
+
+demographic changes in areas where we operate;
+
+
+
+
+ 
+
+•
+
+the availability of cash or borrowings to fund working capital, renovations, replacements, expansions, and capital improvements at existing healthcare and pharmacy facilities and for acquisitions and replacement of such facilities;
+
+
+
+
+ 
+
+•
+
+changes in accounting principles generally accepted in the U.S.; and
+
+
+
+
+ 
+
+•
+
+Fluctuations in the market value of equity securities including SunLink common shares.
+Operational Factors
+
+
+
+
+ 
+
+•
+
+the ability or inability to operate profitably in one or more segments of the healthcare business;
+
+
+
+
+ 
+
+•
+
+the availability of, and our ability to attract and retain, sufficient qualified staff physicians, management, nurses, pharmacists, and staff personnel for our operations;
+
+
+
+
+ 
+
+•
+
+timeliness and amount of reimbursement payments received under government programs;
+
+
+
+
+ 
+
+•
+
+changes in interest rates under lending agreements and other indebtedness;
+
+
+
+
+ 
+
+•
+
+the ability or inability to refinance or pay principal on existing indebtedness and existing or potential defaults under existing indebtedness;
+
+
+
+
+ 
+
+•
+
+restrictions imposed by existing or future lending agreements or other indebtedness;
+
+
+
+
+ 
+
+•
+
+the cost and availability of insurance coverage including professional liability (e.g., medical malpractice) and general, employment, fiduciary and other liability insurance;
+17
+
+
+
+
+
+ 
+
+•
+
+the efforts of insurers, healthcare providers, and others to contain healthcare costs;
+
+
+
+
+ 
+
+•
+
+the impact on hospital, clinic and nursing home services of the treatment of patients in alternative or lower acuity healthcare settings, such as with drug therapy or in surgery centers, and urgent care centers, retirement homes or at home;
+
+
+
+
+ 
+
+•
+
+changes in medical and other technology;
+
+
+
+
+ 
+
+•
+
+changes in estimates of self-insurance claims and reserves;
+
+
+
+
+ 
+
+•
+
+changes in prices of materials and services utilized in our Healthcare Services and Pharmacy segments;
+
+
+
+
+ 
+
+•
+
+changes in wages as a result of inflation or competition for physician, nursing, pharmacy, management and staff positions;
+
+
+
+
+ 
+
+•
+
+changes in the amount and risk of collectability of accounts receivable, including deductibles and co-pay amounts;
+
+
+
+
+ 
+
+•
+
+the functionality of or costs with respect to our information systems for our Healthcare Services and Pharmacy segments and our corporate office, including both software and hardware;
+
+
+
+
+ 
+
+•
+
+the availability of and competition from alternative drugs or treatments to those provided by our Pharmacy segment; and
+
+
+
+
+ 
+
+•
+
+the restrictions, clawbacks, processes, and conditions relating to our Pharmacy segment imposed by pharmacy benefit managers, drug manufacturers, and distributors.
+Liabilities, Claims, Obligations and Other Matters
+
+
+
+
+ 
+
+•
+
+claims under leases, guarantees, disposition agreements, and other obligations relating to asset sales or discontinued operations, including claims from sold or leased facilities and services, retained liabilities or retained subsidiaries;
+
+
+
+
+ 
+
+•
+
+potential adverse consequences of known and unknown government investigations;
+
+
+
+
+ 
+
+•
+
+claims for product and environmental liabilities from continuing and discontinued operations;
+
+
+
+
+ 
+
+•
+
+professional, general, and other claims which may be asserted against us; and
+
+
+
+
+ 
+
+•
+
+natural disasters and weather-related events such as tornados, earthquakes, hurricanes, flooding, snow, ice and wind damage, and population evacuations affecting areas in which we operate.
+Regulation and Governmental Activity
+
+
+
+
+ 
+
+•
+
+existing and proposed governmental budgetary constraints;
+
+
+
+
+ 
+
+•
+
+Federal and state insurance exchanges and their rules relating to reimbursement terms;
+
+
+
+
+ 
+
+•
+
+the decision by Mississippi (where we operate our remaining hospital and nursing home) to not expand Medicaid;
+
+
+
+
+ 
+
+•
+
+the regulatory environment for our businesses, including state certificate of need laws and regulations, pharmacy licensing laws and regulations, rules and judicial cases relating thereto;
+
+
+
+
+ 
+
+•
+
+changes in the levels and terms of government (including Medicare, Medicaid and other programs) and private reimbursement for SunLink’s healthcare services including the payment arrangements and terms of managed care agreements; EHR reimbursement and indigent care reimbursements (Medicare Upper Payment Limit “UPL” and Disproportionate Share Hospital “DSH” adjustments);
+
+
+
+
+ 
+
+•
+
+changes in or failure to comply with Federal, state or local laws and regulations and enforcement interpretations of such laws and regulations affecting our Healthcare Services and Pharmacy segments; and
+
+
+
+
+ 
+
+•
+
+the possible enactment of additional Federal healthcare reform laws or reform laws in states where our subsidiaries operate hospital and pharmacy facilities (including Medicaid waivers, bundled payments, accountable care and similar organizations, competitive bidding and other reforms).
+18
+
+Dispositions, Acquisition and Renovation Related Matters
+
+
+
+
+ 
+
+•
+
+the ability to dispose of underperforming facilities and business segments;
+
+
+
+
+ 
+
+•
+
+the availability of cash and the terms of capital to fund acquisitions, improvements, renovations or replacement facilities; and
+
+
+
+
+ 
+
+•
+
+competition in the market for acquisitions of hospitals, nursing homes, pharmacy facilities, and healthcare businesses.
+The foregoing are significant factors we think could cause our actual results to differ materially from expected results. However, there could be additional factors besides those listed herein that also could affect SunLink in an adverse manner. You should read this Quarterly Report completely and with the understanding that actual future results may be materially different from what we expect. You are cautioned not to unduly rely on forward-looking statements when evaluating the information presented in this Quarterly Report or our other disclosures because current plans, anticipated actions, and future financial conditions and results may differ from those expressed in any forward-looking statements made by or on behalf of SunLink.
+We have not undertaken any obligation to publicly update or revise any forward-looking statements. All of our forward-looking statements speak only as of the date of the document in which they are made or, if a date is specified, as of such date. We disclaim any obligation or undertaking to provide any updates or revisions to any forward-looking statement to reflect any change in our expectations or any changes in events, conditions, circumstances or information on which the forward-looking statement is based, except as required by applicable law. All subsequent written and oral forward-looking statements attributable to us or persons acting on our behalf are expressly qualified in their entirety by the foregoing factors and the other risk factors set forth elsewhere in this report and in our Annual Report on Form 10-K.
+Business Strategy: Operations, Dispositions and Acquisitions
+The business strategy of SunLink is to focus its efforts on improving the operations, services and profitability of its existing Healthcare Services and Pharmacy businesses. 
+The Company has used a portion of the cash proceeds from recent dispositions of assets to pay down debt and certain other liabilities, to repurchase common shares, including through tender offers completed in February and December 2017, a private purchase and open market repurchases of its common shares in November and December 2018 and in November and December 2019, and to make improvements to its Healthcare Services and Pharmacy businesses. The Company may also use existing cash to, among other things, prepay debts, return capital to shareholders, including through potential public or private purchases of shares, improve its existing businesses, make selective acquisitions of Healthcare Services, Pharmacy or other businesses (including incurring additional debt to do so), and for other general corporate purposes. There is no assurance that any further dispositions of assets will be authorized by the Company’s Board of Directors or, if authorized, that any such transactions will be completed or, if completed, will result in net cash proceeds to the Company on a before or after-tax basis. The Company considers the disposition of business segments, facilities and operations based on a variety of factors in addition to under-performance, including asset values, return on investments, competition from existing and potential competitors, capital improvement needs, the prevailing reimbursement environment under various Federal and state programs (e.g., Medicare and Medicaid) and private payors, and other corporate objectives. The Company believes certain portions in its Healthcare Services segment as well as its Pharmacy segment continue to under-perform, but the Company is not currently offering any of its businesses for sale. 
+Critical Accounting Estimates
+The preparation of financial statements in accordance with U.S. GAAP requires us to make estimates and assumptions that affect reported amounts and related disclosures. We consider an accounting estimate to be critical if it requires assumptions to be made that were uncertain at the time the estimate was made; and changes in the estimate or different estimates that could have been made could have a material impact on our consolidated results of operations or financial condition.
+19
+
+Our critical accounting estimates are more fully described in our 2019 Annual Report on Form 10-K and continue to include the following areas: receivables – net and provision for doubtful accounts; revenue recognition and net patient service revenues; goodwill, intangible assets and accounting for business combinations; professional and general liability claims; and accounting for income taxes.
+Financial Summary
+The results of continuing operations shown in the financial summary below are for our two business segments, Healthcare Services and Pharmacy.
+ 
+
+
+ 
+Results of Operations
+Our net revenues are from our two business segments, Healthcare Services and Pharmacy.  The Company’s revenues by payor were as follows for the three and six months ended December 31, 2019 and 2018:
+ 
+
+
+ 
+The Healthcare Services segment in the current year is composed of one hospital, one nursing home, a subsidiary which provides information technology services to outside customers and SunLink subsidiaries, a leased medical office building and unimproved land. Healthcare Services net revenues increased $233, or 5.7%, for the three months ended December 31, 2019 compared to net revenues for the comparable prior year period. The increase in net revenues for the second fiscal quarter this year resulted from increased nursing home patient days which were only partially offset by decreased information technology services net revenues. The settlement of prior year Medicare and Medicaid cost reports increased net revenues from continuing operations by $107 for the three and six months ended December 31, 2019 and decreased net revenues from continuing operations by $15 for the three and six months ended December 31, 2018. 
+ 
+Pharmacy segment net revenues for the three months ended December 31, 2019 increased $421, or 5% from the three months ended December 31, 2018. The increased net revenues resulted from an increase in Durable Medical Equipment (“DME”) sales orders sold and Retail Pharmacy scripts filled this quarter, over the comparable prior year period.  
+20
+
+ 
+Healthcare Services net revenues increased $774, or 10.0%, for the six months ended December 31, 2019 compared to net revenues for the comparable prior year period. The increase in net revenues for the six months this year resulted from increased hospital and nursing home patient days only partially offset by decreased information technology services net revenues. 
+Pharmacy segment net revenues for the six months ended December 31, 2019 increased $1,325 or 9.1% from the six months ended December 31, 2018. The increased net revenues resulted from an increase in DME sales orders and increases in Institutional Pharmacy and Retail Pharmacy scripts filled. 
+Costs and expenses, including depreciation and amortization, were $12,524 and $12,285 for the three months ended December 31, 2019 and 2018, respectively. Costs and expenses, including depreciation and amortization, were $24,396 and $23,219 for the six months ended December 31, 2019 and 2018, respectively. 
+ 
+
+
+ 
+All expense categories except purchased services decreased as a percent of net revenues for the three and six months ended December 31, 2019 compared to same period last fiscal year primarily due to the higher net revenues this year. Purchased services increased this year primarily due to the addition of a contracted new service line at a hospital. 
+ 
+Operating Profit (Loss)
+ 
+The Company reported an operating profit of $239 for the three months ended December 31, 2019 compared to an operating loss of $134 for the three months ended December 31, 2018. The increase in operating profit for the three months ended December 31, 2019 compared to the operating loss for the prior year’s three-month period was primarily a result of the 5% increase in net revenues this year. The Company reported an operating profit of $19 for the six months ended December 31, 2019 compared to an operating loss of $861 for the six months ended December 31, 2018. The increase in operating profit for the six months ended December 31, 2019 compared to the operating loss for the prior year’s six month period was primarily a result of the 9% increase in net revenues this year. 
+Asset Sales
+On December 20, 2019, the Company sold a medical office building and approximately 4 acres of land in Clanton, AL. After expenses, the Company received net proceeds from the sale of $204, which was retained for working capital and general corporate purposes. The pre-tax gain on the sale of property was $86 and is included in the Company’s three and six months results ended December 31, 2019.
+On September 9, 2019, the Company sold approximately 11.4 acres of undeveloped land. After expenses, the Company received net proceeds from the sale of $348, which was retained for working capital and general corporate purposes. The pre-tax gain on the sale of property was $100 and is included in the Company’s results for the six months ended December 31, 2019.
+On October 11, 2018, the Company sold a vacant medical office building and approximately 2 adjacent acres of undeveloped land in Dahlonega, GA. After expenses, the Company received net proceeds from the sale of $935, which was retained for working capital and general corporate purposes. The pre-tax gain on the sale of property of $452 is included in the Company’s three and six months results ended December 31, 2018.
+21
+
+Interest Expense -Net
+Interest expense was $4 and $60 for the three months ended December 31, 2019 and 2018, respectively. The decrease in interest expense for the three month period this year resulted from lower debt outstanding in the current fiscal year, net of interest income on short-term investments. 
+Interest expense was $34 and $121 for the six months ended December 31, 2019 and 2018, respectively. The decrease in interest expense for the six month period this year resulted from lower debt outstanding in the current fiscal year, net of interest income on short-term investments. 
+Loss on extinguishment of debt
+On October 7, 2019, the Company made a $2,500 pre-payment on the Trace RDA Loan.  The pre-payment was made with cash on hand.  The Company has recorded a non-cash loss on early extinguishment of debt relating to the pre-payment of $160 during the three and six months ended December 31, 2019. 
+Income Taxes
+ 
+No income tax benefit (federal or state tax expense) or income tax benefit (federal tax expense or state tax expense) was recorded for continuing operations for the three and months ended December 31, 2019 and 2018, respectively. 
+ 
+In accordance with the Financial Accounting Standards Board Accounting Standards Codification (‘ASC”) 740, we evaluate our deferred taxes quarterly to determine if adjustments to our valuation allowance are required based on the consideration of available positive and negative evidence using a “more likely than not” standard with respect to whether deferred tax assets will be realized. Our evaluation considers, among other factors, our historical operating results, our expectation of future results of operations, the duration of applicable statuary carryforward periods and conditions of the healthcare industry. The ultimate realization of our deferred tax assets depends primarily on our ability to generate future taxable income during the periods in which the related temporary differences in the financial basis and the tax basis of the assets become deductible. The value of our deferred tax assets will depend on applicable income tax rates.
+At December 31, 2019, consistent with the above process, we evaluated the need for a valuation against our deferred tax assets and determined that it was more likely than not that none of our deferred tax assets would be realized. As a result, in accordance with ASC 740, we recognized a valuation allowance of $8,674 against the deferred tax asset so that there is no net long-term deferred income tax asset or liability at December 31, 2019. We conducted our evaluation by considering available positive and negative evidence to determine our ability to realize our deferred tax assets. In our evaluation, we gave more significant weight to evidence that was objective in nature as compared to subjective evidence. Also, more significant weight was given to evidence that directly related to our current financial performance as compared to less current evidence and future plans.
+The principal negative evidence that led us to determine at December 31, 2019 that all the deferred tax assets should have full valuation allowances was the three-year cumulative pre-tax loss from continuing operations as well as the underlying negative business conditions for rural healthcare businesses in which our Healthcare Services Segment businesses operate. 
+For Federal income tax purposes, at December 31, 2019, the Company had approximately $19,200 of estimated net operating loss carry-forwards available for use in future years subject to the limitations of the provisions of Internal Revenue Code Section 382. These net operating loss carryforwards expire primarily in fiscal 2023 through fiscal 2038; however, with the enactment of the TCJA on December 22, 2017, federal net operating loss carryforwards generated in taxable years beginning after December 31, 2017 now have no expiration date. The Company’s returns for the periods prior to the fiscal year ended June 30, 2016 are no longer subject to potential federal and state income tax examination.
+ 
+         The Company has in effect a Tax Benefits Preservation Rights Plan (TBPRP) designed to preserve its net operating loss carry forwards (NOLs) so that they may be used in the future if the Company achieves net  taxable income arising from, among other things, operations, gains from asset sales or other corporate transactions, if any. 
+22
+
+The Company’s ability to use its NOLs would be substantially limited if an “ownership change” under Section 382 of the Internal Revenue Code were to occur. Ownership changes under Section 382 generally relate to the cumulative change in ownership among shareholders with an ownership interest of 5% or more (as determined under Section 382’s rules) over a rolling three year period. The TBPRP is designed to reduce the likelihood of an “ownership change” occurring. Under the TBPRP, if any person or group acquires 4.9% or more of the outstanding common shares of the Company without the approval of the Board of Directors, there would be a triggering event causing significant dilution in the ownership interest of such person or group. Shareholders who owned 4.9% or more of the outstanding common shares of the Company as of September 29, 2016 will trigger a dilutive event only if they acquire additional shares, subject to specified exceptions. The TBPRP is similar to rights plans adopted by other public companies with significant net operating losses.
+Earnings (Loss) from Continuing Operations after Income Taxes
+Earnings from continuing operations after income tax was $203 for the three months ended December 31, 2019 as compared to earnings from continuing operations after income tax of $258 for the three months ended December 31, 2018. The lower earnings from continuing operations resulted from the decrease in gains on sale of assets this quarter. 
+Earnings from continuing operations after income tax was $60 for the six months ended December 31, 2019 as compared to a loss from continuing operations after income tax of $528 for the six months ended December 31, 2018. The higher earnings from continuing operations resulted primarily from the $2,099 increase in net revenues this year.
+Loss from Discontinued Operations after Income Taxes
+The loss from discontinued operations after income taxes was $245 for the three months ended December 31, 2019 compared to earnings from discontinued operations after income taxes of $47 for the three months ended December 31, 2018. The loss in the current year second quarter resulted primarily from the settlement of a lawsuit of a disposed business and related legal fees. The loss from discontinued operations after income taxes was $363 for six months ended December 31, 2019 and $47 for the six months ended December 31, 2018. 
+Net Earnings (Loss)
+Net loss for the three months ended December 31, 2019 was $42 (a loss of $0.01 per fully diluted share) as compared to net earnings of $305 ($0.04 per fully diluted share) for the three months ended December 31, 2018. Net loss for the six months ended December 31, 2019 was $303 (a loss of $0.04 per fully diluted share) as compared to a net loss of $575 (a loss of $0.08 per fully diluted share) for the six months ended December 31, 2018. 
+Liquidity and Capital Resources
+Overview
+Our primary source of liquidity is unrestricted cash on hand, which was $4,607 at December 31, 2019. Currently, the Company’s ability to raise capital (debt or equity) in the public or private markets on what it considers acceptable terms is uncertain. We from time-to-time nevertheless may seek options to obtain financing for the liquidity needs of the Company or individual subsidiaries based on anticipated needs. The Company and its subsidiaries currently are funding working capital needs primarily from cash on hand. 
+23
+
+ 
+Subject to the risks and uncertainties discussed herein, we believe we have adequate financing and liquidity to support our current level of operations through the next twelve months.
+Subsidiary Loans
+ 
+Trace RDA Loan— Southern Health Corporation of Houston, Inc. (“Trace”) a wholly owned subsidiary of the Company, closed on a $9,975 Mortgage Loan Agreement (“Trace RDA Loan”) with a bank, dated as of July 5, 2012. The Trace RDA Loan has a term of 15 years with level monthly payments of principal and interest until repaid.  The Trace RDA Loan interest rate is the prime rate (as published in the Wall Street Journal) plus 1% with a floor of 5.5%, (5.75% at December 31, 2019). The Trace RDA Loan is collateralized by real estate and equipment of Trace and is partially guaranteed under the U.S. Department of Agriculture, Rural Development Business and Industry Program.
+On October 7, 2019, the Company made a $2,500 pre-payment on the Trace RDA Loan.  The pre-payment was made with cash on hand.  The Company has recorded a non-cash loss on early extinguishment of debt relating to the pre-payment of $160 during the three and six months ended December 31, 2019. 
+Based on the current Trace RDA Loan amortization schedule, the outstanding balance of the Loan is required to be repaid in October 2020.  Accordingly, the outstanding loan amount at December 31, 2019 is classified as a current liability.
+ 
+On February 12, 2020, the Trace RDA loan outstanding balance of $278 was repaid. The pre-payment was made with cash on hand.  The Company expects to report, in the quarter ended March 31, 2020, a non-cash loss on early extinguishment of debt relating to the pre-payment of approximately $20.
+The Trace RDA Loan contains various covenants, terms and conditions, including financial restrictions and limitations, and affirmative and negative covenants and is guaranteed by SunLink.  The covenants include financial covenants measured on a quarterly basis that require Trace to comply with a ratio of current assets to current liabilities, debt service coverage, fixed charge ratio, and funded debt to EBITDA, all as defined in the Trace RDA Loan. At June 30, 2019, Trace was not in compliance with the debt service coverage, fixed charge coverage and funded debt to EBITDA ratios.  The Company has discussed with the lender a waiver of this non-compliance, but a waiver of non-compliance has not been received as of the date of filing this report. Trace was in compliance with the covenants as measured at September 30, 2019 and December 31, 2019. No event of default has been declared by the lender as of the date of the filing of this report nor is such a declaration currently anticipated. 
+ Contractual Obligations, Commitments and Contingencies
+Contractual obligations, commitments and contingencies related to outstanding debt, noncancelable operating leases and interest on outstanding debt from continuing operations at December 31, 2019 were as follows:
+ 
+
+
+ 
+24
+
+At December 31, 2019, we had outstanding debt of $459 consisting of $349 under the Trace RDA Loan and $110 of capital lease debt.
+Discontinued Operations
+ 
+Sold Hospitals and Nursing Homes– Subsidiaries of the Company have sold substantially all of the assets of four hospitals (“Sold Facilities”) during the period July 2, 2012 to March 17, 2019. The loss before income taxes of the Sold Facilities results primarily from the effects of retained professional liability insurance and claims expenses and settlement of a lawsuit.
+ 
+Life Sciences and Engineering Segment —SunLink retained a defined benefit retirement plan which covered substantially all of the employees of this segment when the segment was sold in fiscal 1998. Effective February 28, 1997, the plan was amended to freeze participant benefits and close the plan to new participants. Pension expense and related tax benefit or expense is reflected in the results of operations for this segment for the three and six months ended December 31, 2019 and 2018, respectively.
+Related Party Transactions 
+A director of the Company is a member of a law firm which provides services to SunLink. The Company expensed an aggregate of $62 and $59 for legal services to this law firm in the three months ended December 31, 2019 and 2018, respectively.  The Company expensed an aggregate of $180 and $135 for legal services to this law firm in the six months ended December 31, 2019 and 2018, respectively.  Included in the Company’s condensed consolidated balance sheets at December 31, 2019 and June 30, 2019 is $19 and $47, respectively, of amounts payable to this law firm.                
+
+
+
+
+ITEM 3.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+We have not entered into any transactions using derivative financial instruments or derivative commodity instruments and believe that our exposure to market risk associated with other financial instruments (such as investments and borrowings) and interest rate risk is not material.
+
+
+
+
+ITEM 4.
+
+CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+As required by Rule 13a-15 and Rule 15d-15(e) under the Securities Exchange Act of 1934 (the “ Exchange Act ”), as of the end of the period covered by this report, we carried out an evaluation of the effectiveness of the design and operation of our Company’s disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) and the changes in our disclosure controls and procedures during the quarter. Under the direction of our chief executive officer and chief financial officer, we evaluated our disclosure controls and procedures and internal control over financial reporting and concluded that our disclosure controls and procedures were effective as of December 31, 2019.
+Disclosure controls and procedures and other procedures are designed to ensure that information required to be disclosed in our reports or submitted under the Exchange Act, such as this Quarterly Report on Form 10-Q, is recorded, processed, summarized and reported within the time period specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in our reports filed under the Exchange Act is accumulated and communicated to management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+Based on an evaluation of the effectiveness of disclosure controls and procedures performed in connection with the preparation of this Form 10-Q, our chief executive officer and chief financial officer concluded that our disclosure controls and procedures were effective as of December 31, 2019.
+25
+
+Changes in Internal Control Over Financial Reporting
+There were no changes during the quarter ended December 31, 2019 in our internal control over financial reporting that materially affected, or is likely to materially affect, our internal controls over financial reporting.
+26
+
+PART II. OTHER INFORMATION
+Items required under Part II not specifically shown below are not applicable.
+ 
+ITEM 1.      LEGAL PROCEEDINGS
+The Company and its subsidiaries are subject to various claims and litigation that arise from time to time in the ordinary course of business, relating to, among other things, taxes, contracts, workers compensation claims and medical malpractice claims. Medical malpractice and certain other claims are generally covered by malpractice, general liability or other insurance but are subject to provisions under which the Company retains a portion of the risk, which retention, particularly in the case of claims of medical malpractice, can be material.  Based on current knowledge, the Company’s management does not believe that current pending claims and litigation will have a material adverse effect on the Company’s consolidated financial position or its liquidity.  However, in light of the uncertainties involved and indeterminate damages sought in some such claims and litigation, an adverse outcome could be material to our results of operations or cash flows in any reporting period. 
+
+
+
+
+ITEM 1A.
+
+RISK FACTORS
+Risk Factors Relating to an Investment in SunLink
+Information regarding risk factors appears in “MD&A – Forward-Looking Statements,” in Part I – Item 2 of this Form 10-Q and in “MD&A -Risks Factors Relating to an Investment in SunLink” in Part I – Item 1A of the Company’s Annual Report on Form 10-K for the year ended June 30, 2019. While we believe there have been no material changes from the risk factors previously disclosed in such Annual Report except as set forth herein, you should carefully consider, in addition to the other information set forth in this report, the risk factors discussed in our Annual Report that could materially affect our business, financial condition or future results. Such risk factors are expressly incorporated herein by reference. The risks described in our Annual Report are not the only risks facing our Company. In addition to risks and uncertainties inherent in forward-looking statements contained in this Report on Form 10-Q, additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results. Whenever we refer to “SunLink,” “Company”, “we,” “our,” or “us” in this Item 1A, we mean SunLink Health Systems, Inc. and its subsidiaries, unless the context suggests otherwise.
+
+
+
+
+ITEM 6.
+
+EXHIBITS
+Exhibits:
+ 
+
+
+ 
+27
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, SunLink Health Systems, Inc. has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+SunLink Health Systems, Inc.
+
+
+
+ 
+
+ 
+
+
+
+By:
+
+/s/ Mark J. Stockslager
+
+
+
+ 
+
+Mark J. Stockslager
+
+
+
+ 
+
+Chief Financial Officer
+
+
+ 
+Dated: February 13, 2020
+28
+
+

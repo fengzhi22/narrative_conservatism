@@ -1,0 +1,1763 @@
+
+10-Q
+1
+f10q_010820p.htm
+FORM 10-Q
+
+
+
+
+
+ 
+
+ 
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+______________________________
+ 
+FORM 10-Q
+(Mark one)
+ ☒   QUARTERLY REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended
+November 30, 2019
+ 
+ ☐   TRANSITION REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from ________________
+to __________________
+ 
+Commission File Number: 001-11038
+____________________
+ 
+NORTHERN TECHNOLOGIES
+INTERNATIONAL CORPORATION
+(Exact name of registrant as specified in its charter)
+ 
+
+
+
+Delaware
+(State or other jurisdiction of incorporation or organization)
+
+41-0857886
+(I.R.S. Employer Identification No.)
+
+
+ 
+4201 Woodland Road
+P.O. Box 69
+Circle Pines, Minnesota 55014
+(Address of principal executive offices) (Zip Code)
+ 
+
+(763) 225-6600
+(Registrant’s telephone number, including area code)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+
+Common stock, par value $0.02 per share
+NTIC
+Nasdaq Global Market
+
+ 
+Indicate by check mark whether the
+registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days. Yes  ☒   No ☐
+ 
+Indicate by check mark whether the
+registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation
+S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required
+to submit such files). Yes  ☒   No ☐
+ 
+Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions
+of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging
+growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large accelerated filer ☐
+Accelerated filer ☒
+
+Non-accelerated filer ☐
+
+Smaller reporting company ☒
+Emerging growth company ☐
+
+
+ 
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+Indicate by check mark whether the
+registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES  ☐   NO ☒
+ 
+As of January 6, 2020, there were 9,097,236 shares of common stock
+of the registrant outstanding.
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+NORTHERN
+TECHNOLOGIES INTERNATIONAL CORPORATION
+FORM 10-Q
+November 30, 2019
+ 
+TABLE OF CONTENTS
+ 
+
+ 
+_________________
+ 
+This quarterly report on Form 10-Q contains certain forward-looking statements that
+are within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act
+of 1934, as amended, and are subject to the safe harbor created by those sections. For more information, see “Part I. Financial
+Information – Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations –
+Forward-Looking Statements.”
+ 
+
+
+i
+
+
+ 
+_________________
+ 
+As used in this report, references to “NTIC,” the “Company,”
+“we,” “our” or “us,” unless the context otherwise requires, refer to Northern Technologies
+International Corporation and its wholly-owned and majority-owned subsidiaries, all of which are consolidated on NTIC’s consolidated
+financial statements. 
+ 
+As used in this report, references to: (1) “NTIC China” refer to NTIC’s
+wholly-owned subsidiary in China, NTIC (Shanghai) Co., Ltd.; (2) “NTI Europe” refer to NTIC’s wholly-owned subsidiary
+in Germany, NTIC Europe GmbH; (3) “Zerust Mexico” refer to NTIC’s wholly-owned subsidiary in Mexico, ZERUST-EXCOR
+MEXICO, S. de R.L. de C.V; and (4)“NTI Asean” refer to NTIC’s majority-owned holding company subsidiary, NTI
+Asean LLC, which holds investments in certain entities that operate in the Association of Southeast Asian Nations (ASEAN) region,
+including the following countries: Indonesia, South Korea, Malaysia, Philippines, Singapore, Taiwan, Thailand and Vietnam.
+ 
+NTIC’s consolidated financial statements do not include the accounts of any
+of its joint ventures. Except as otherwise indicated, references in this report to NTIC’s joint ventures do not include any
+of NTIC’s wholly-owned or majority-owned subsidiaries.
+ 
+As used in this report, references to “EXCOR” refer to NTIC’s joint
+venture in Germany, Excor Korrosionsschutz – Technologien und Produkte GmbH.
+ 
+As used in this report, references to “Tianjin Zerust” refer to NTIC’s
+former joint venture in China, Tianjin-Zerust Anticorrosion Co., Ltd.
+ 
+All trademarks, trade names or service marks referred to in this report are the property
+of their respective owners.
+ 
+On June 3, 2019, the Company’s Board of Directors declared a two-for-one stock
+split of the Company’s common stock effected in the form of a 100% share dividend distributed on June 28, 2019 to record
+holders as of June 17, 2019. All share and per share values in this report have been adjusted to retroactively reflect the effect
+of the two-for-one stock split.
+ 
+ 
+ 
+
+
+ii
+
+
+ 
+PART I - FINANCIAL INFORMATION
+ 
+
+ITEM 1.FINANCIAL STATEMENTS
+ 
+NORTHERN
+TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED BALANCE SHEETS AS OF NOVEMBER 30, 2019 (UNAUDITED) AND AUGUST 31, 2019 (AUDITED)
+
+ 
+
+ 
+
+ 
+See notes to consolidated financial statements.
+ 
+
+
+1
+
+
+ 
+NORTHERN
+TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED
+STATEMENTS OF OPERATIONS (UNAUDITED) 
+FOR
+THE THREE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+
+ 
+
+ 
+
+ 
+*Share
+and per share data have been adjusted for all periods presented to reflect the two-for-one stock split effective June 28, 2019.
+ 
+See
+notes to consolidated financial statements.
+ 
+
+
+2
+
+
+ 
+NORTHERN
+TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED
+STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED) 
+FOR
+THE THREE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+
+ 
+
+ 
+
+ 
+See
+notes to consolidated financial statements.
+ 
+ 
+ 
+ 
+ 
+
+
+3
+
+
+ 
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EQUITY (UNAUDITED)
+FOR
+THE THREE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+
+ 
+ 
+
+ 
+ 
+ 
+*Share and per share data have been adjusted
+for all periods presented to reflect the two-for-one stock split effective June 28, 2019.
+ 
+See notes to consolidated financial statements.
+ 
+
+
+4
+
+
+ 
+
+NORTHERN
+TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES 
+CONSOLIDATED
+STATEMENTS OF CASH FLOWS (UNAUDITED)
+FOR
+THE THREE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+
+ 
+ 
+
+ 
+
+See notes to
+consolidated financial statements.
+ 
+
+
+5
+
+
+ 
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+ 
+
+1.INTERIM FINANCIAL INFORMATION
+
+ 
+In the opinion of management, the accompanying unaudited consolidated financial statements
+contain all necessary adjustments, which are of a normal recurring nature, and present fairly the consolidated financial position
+of Northern Technologies International Corporation and its subsidiaries (the Company) as of November 30, 2019 and August 31,
+2019 and the results of the Company’s operations for the three months ended November 30, 2019 and 2018, the changes in stockholders’
+equity for the three months ended November 30, 2019 and 2018 and the Company’s cash flows for the three months ended November
+30, 2019 and 2018, in conformity with accounting principles generally accepted in the United States of America (U.S. GAAP).
+ 
+These consolidated financial statements should be read in conjunction with the consolidated
+financial statements and related notes contained in the Company’s annual report on Form 10-K for the fiscal year ended August
+31, 2019. These consolidated financial statements also should be read in conjunction with the “Management’s Discussion
+and Analysis of Financial Condition and Results of Operations” section appearing in this report.
+ 
+On June 3, 2019, the Company’s Board of Directors declared a two-for-one stock
+split of the Company’s common stock effected in the form of a 100% share dividend distributed on June 28, 2019 to record
+holders as of June 17, 2019. All share and per share values in this report have been adjusted to retroactively reflect the effect
+of the two-for-one stock split.
+ 
+Operating results for the three months ended November 30, 2019 are not necessarily indicative
+of the results that may be expected for the full fiscal year ending August 31, 2020.
+ 
+The Company evaluates events occurring after the date of the consolidated financial statements
+requiring recording or disclosure in the consolidated financial statements.
+ 
+
+2.Accounting PronouncementS
+
+ 
+New Accounting Pronouncements Adopted
+ 
+In February 2016, the Financial Accounting Standards Board (FASB) issued Accounting Standards
+Update (ASU) No. 2016-02, Leases. The guidance in ASU 2016-02 supersedes the lease recognition requirements in the Accounting
+Standards Codification Topic 840, Leases. ASU 2016-02 requires an entity to recognize assets and liabilities arising from a lease
+for both financing and operating leases, along with additional qualitative and quantitative disclosures. This standard became effective
+for the Company on September 1, 2019.
+ 
+The FASB has subsequently issued the following amendments to ASU 2016-02, which have
+the same effective date and transition date of September 1, 2019, and which are collectively referred to as the new leasing standards:
+ 
+
+ 
+
+•ASU No. 2018-10, Codification Improvements to Topic 842, Leases, which amends certain narrow aspects of the guidance issued
+in ASU 2016-02.
+ 
+
+•ASU No. 2018-11, Leases (Topic 842): Targeted Improvements, which allows for a transition approach to initially apply ASU 2016-02
+at the adoption date and recognize a cumulative-effect adjustment to the opening balance of retained earnings in the period of
+adoption as well as an additional practical expedient for lessors to not separate non-lease components from the associated lease
+component.
+ 
+
+
+•ASU No. 2018-20, Narrow-Scope Improvements for Lessors, which contains certain narrow scope improvements to the guidance issued
+in ASU 2016-02.
+
+ 
+
+ 
+6
+
+
+ 
+
+Additional information and disclosures required by this new standard are contained in
+Note 12, titled “Commitments and Contingencies.”
+ 
+The Company adopted the new leasing standards on September 1, 2019, using a modified
+retrospective transition approach to be applied to leases existing as of, or entered into after, September 1, 2019; and, consequently,
+financial information will not be updated and the disclosures required under Topic 842 will not be provided for dates and periods
+prior to September 1, 2019. The Company has reviewed its existing lease contracts and the impact of the new leasing standards on
+its consolidated results of operations, financial position and disclosures. Upon adoption of the new leasing standards, the Company
+recognized a lease liability and related right-of-use asset on our consolidated balance sheet of approximately $600,000.
+ 
+Recently Issued Accounting Pronouncements 
+ 
+In February 2018, the FASB issued ASU No. 2018-02, Income Statement – Reporting
+Comprehensive Income (Topic 220) Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income, which
+will allow a reclassification from accumulated other comprehensive income to retained earnings for the tax effects resulting from
+the Tax Cuts and Jobs Act (Tax Reform Act) that are stranded in accumulated other comprehensive income. This standard also requires
+certain disclosures about stranded tax effects. ASU No. 2018-02, however, does not change the underlying guidance that requires
+that the effect of a change in tax laws or rates be included in income from continuing operations. ASU No. 2018-02 will become
+effective for the Company’s fiscal year 2020, with the option for early adoption at any time prior to the effective date.
+It must be applied either in the period of adoption or retrospectively to each period in which the effect of the change in the
+U.S. federal corporate income tax rate in the Tax Reform Act is recognized. The Company is currently assessing the impact this
+new accounting guidance will have on its consolidated financial statements.
+ 
+Although there are several other new accounting pronouncements issued or proposed by
+the FASB, which the Company has adopted or will adopt, as applicable, the Company does not believe any of these accounting pronouncements
+has had or will have a material impact on the Company’s consolidated financial position or operating results.
+ 
+
+3.INVENTORIES
+
+ 
+Inventories consisted of the following:
+ 
+
+ 
+
+4.PROPERTY AND EQUIPMENT, NET
+
+ 
+Property and equipment, net consisted of the following:
+ 
+
+ 
+
+
+7
+
+
+ 
+
+5.PATENTS AND TRADEMARKS, NET
+
+ 
+Patents and trademarks, net consisted of the following:
+ 
+
+ 
+Patent and trademark costs are amortized over seven years. Costs incurred related to
+patents and trademarks are capitalized until filed and approved, at which time the amounts capitalized to date are amortized, and
+any further costs, including maintenance costs, are expensed as incurred. Amortization expense is estimated to be $200,000 in each
+of the next five fiscal years.
+ 
+
+6.INVESTMENTS IN JOINT VENTURES
+
+ 
+The consolidated financial statements of the Company’s foreign joint ventures are
+initially prepared using the accounting principles accepted in the respective joint ventures’ countries of domicile. Amounts
+related to foreign joint ventures reported in the below tables and the accompanying consolidated financial statements have subsequently
+been adjusted to conform with U.S. GAAP in all material respects. All material profits recorded that remain on the consolidated
+balance sheet of sales from the Company to its joint ventures and from joint ventures to other joint ventures have been eliminated
+for financial reporting purposes.
+ 
+Financial information from the audited and unaudited financial statements of the Company’s
+joint venture in Germany, Excor Korrosionsschutz – Technologien und Produkte GmbH (EXCOR) and all the Company’s other
+joint ventures, are summarized as follows:
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+8
+
+
+ 
+
+ 
+
+ 
+The Company did not make any joint venture investments during the three months ended
+November 30, 2019 or 2018.
+ 
+
+7.CORPORATE DEBT
+
+ 
+The Company has a revolving line of credit with PNC Bank, National Association (PNC Bank)
+of $3,000,000. No amounts were outstanding under the line of credit as of both November 30, 2019 and August 31, 2019. At the option
+of the Company, outstanding advances under the line of credit bear interest at either (a) an annual rate based on LIBOR plus 2.15%
+for the applicable LIBOR interest period selected by the Company or (b) at the rate publicly announced by PNC Bank from time to
+time as its prime rate.
+ 
+The line of credit is governed under a loan agreement. The loan agreement contains standard
+covenants, including affirmative financial covenants, such as the maintenance of a minimum fixed charge coverage ratio, and negative
+covenants, which, among other things, limit the incurrence of additional indebtedness, loans and equity investments, disposition
+of assets, mergers and consolidations and other matters customarily restricted in such agreements. Under the loan agreement, the
+Company is subject to a minimum fixed charge coverage ratio of 1.10:1.00. As of November 30, 2019, the Company was in compliance
+with all debt covenants.
+ 
+The revolving credit facility allows the Company to request that PNC Bank issue letters
+of credit up to $1,200,000. The Company did not have any letters of credit reserved against the available letters of credit balance
+as of November 30, 2019 and August 31, 2019 with PNC Bank. The availability of advances under the line of credit are reduced by
+the face amount of any letter of credit issued and outstanding (whether or not drawn) under the revolving credit facility. 
+ 
+On December 16, 2019, the Company and PNC Bank extended the maturity date of the line
+of credit from January 7, 2020 to January 7, 2021. All other terms of the line of credit and the loan agreement and other documents
+evidencing the line of credit remain the same.
+ 
+As of November 30, 2019 and August 31, 2019, the Company had $88,831 of letters of credit
+with JP Morgan Chase Bank that are performance based and set to expire between 2020 and 2022.
+ 
+
+
+9
+
+
+ 
+
+8.STOCKHOLDERS’ EQUITY
+
+ 
+On June 3, 2019, the Company’s Board of Directors declared a two-for-one stock
+split of the Company’s common stock effected in the form of a 100% share dividend distributed on June 28, 2019 to record
+holders as of June 17, 2019. All share and per share values have been adjusted to retroactively reflect the effect of the two-for-one
+stock split.
+ 
+On October 22, 2019, the Company’s Board of Directors declared a cash dividend
+of $0.065 per share of NTIC’s common stock, payable on November 20, 2019 to stockholders of record on November 6, 2019. On
+October 24, 2018, the Company’s Board of Directors declared a cash dividend of $0.06 per share of NTIC’s common stock,
+payable on November 21, 2018 to stockholders of record on November 7, 2018.
+ 
+During the three months ended November 30, 2019 and 2018, the Company repurchased no
+shares of its common stock.
+ 
+During the three months ended November 30, 2019, the Company granted stock options under
+the Northern Technologies International Corporation 2019 Stock Incentive Plan (the 2019 Plan) to purchase an aggregate of 300,770
+shares of its common stock to various employees and directors. The weighted average per share exercise price of the stock options
+is $10.80. The exercise price of the stock options is equal to the fair market value of the Company’s common stock on the
+date of grant. During the three months ended November 30, 2019, no stock options to purchase common stock were exercised.
+ 
+During the three months ended November 30, 2018, the Company granted stock options under
+the Northern Technologies International Corporation Amended and Restated 2007 Stock Incentive Plan (the 2007 Plan) to purchase
+an aggregate of 141,768 shares of its common stock to various employees and directors. The weighted average per share exercise
+price of the stock options is $18.23, which was equal to the fair market value of the Company’s common stock on the date
+of grant. During the three months ended November 30, 2018, no stock options to purchase common stock were exercised.
+ 
+The Company issued 3,597 and 1,748 shares of common stock on September 1, 2019 and 2018,
+respectively, under the Northern Technologies International Corporation Employee Stock Purchase Plan (the ESPP).
+ 
+
+9.NET INCOME PER COMMON SHARE
+
+ 
+Basic net income per common share is computed by dividing net income by the weighted
+average number of common shares outstanding. Diluted net income per share assumes the exercise of stock options using the treasury
+stock method, if dilutive.
+ 
+The following is a reconciliation of the net income per share computation for the three
+months ended November 30, 2019 and 2018:
+ 
+
+ 
+*Share and per share data have been adjusted for all periods presented to reflect the
+two-for-one stock split effective June 28, 2019.
+ 
+
+
+10
+
+
+ 
+The dilutive impact summarized above relates to the periods when the average market price
+of the Company’s common stock exceeded the exercise price of the potentially dilutive option securities granted. Net income
+per common share is based on the weighted average number of common shares outstanding during the periods when computing basic net
+income per share. When dilutive, stock options are included as equivalents using the treasury stock market method when computing
+the diluted net income per share. Excluded from the computation of diluted net income per share for the three months ended November
+30, 2019 were options outstanding to purchase 141,768 shares of common stock. Excluded from the computation of diluted net income
+per share for the three months ended November 30, 2018 were options outstanding to purchase 141,768 shares of common stock.
+ 
+
+10.STOCK-BASED COMPENSATION
+
+ 
+The Company has three stock-based compensation plans under which stock options or other
+stock-based awards have been granted: the Northern Technologies International Corporation 2019 Stock Incentive Plan (the 2019 Plan),
+which was approved by stockholders at the 2019 annual meeting of stockholders, the Northern Technologies International Corporation
+Amended and Restated 2007 Stock Incentive Plan (the 2007 Plan) and the Northern Technologies International Corporation Employee
+Stock Purchase Plan (the ESPP). The 2019 Plan replaced the 2007 Plan with respect to future grants; and, therefore, no further
+awards may be made under the 2007 Plan. The Compensation Committee of the Board of Directors and the Board of Directors administer
+these plans.
+ 
+The 2019 Plan provides for the grant of incentive stock options, non-statutory stock
+options, stock appreciation rights, restricted stock, stock unit awards, performance awards, and stock bonuses to eligible recipients
+to enable the Company and its subsidiaries to attract and retain qualified individuals through opportunities for equity participation
+in the Company and to reward those individuals who contribute to the achievement of the Company’s economic objectives. Subject
+to adjustment as provided in the 2019 Plan, up to a maximum of 800,000 shares of the Company’s common stock are issuable
+under the 2019 Plan. Options granted generally have a term of ten years and become exercisable over a one- or three- year period
+beginning on the one-year anniversary of the date of grant. Options are granted at per share exercise prices equal to the market
+value of the Company’s common stock on the date of grant. The Company issues new shares upon the exercise of options. As
+of November 30, 2019, options to purchase an aggregate of 300,770 shares of the Company’s common stock had been granted under
+the 2019 Plan.
+ 
+The maximum number of shares of common stock of the Company available for issuance under
+the ESPP is 200,000 shares, subject to adjustment as provided in the ESPP. The ESPP provides for six-month offering periods beginning
+on September 1 and March 1 of each year. The purchase price of the shares is 90% of the lower of the fair market value of common
+stock at the beginning or end of the offering period. This discount may not exceed the maximum discount rate permitted for plans
+of this type under Section 423 of the Internal Revenue Code of 1986, as amended. The ESPP is compensatory for financial reporting
+purposes. As of November 30, 2019, 87,447 shares of common stock remained available for sale under the ESPP.
+ 
+The Company granted options to purchase an aggregate of 300,770 and 141,768 shares of
+its common stock during the three months ended November 30, 2019 and 2018, respectively. The fair value of option grants is determined
+at date of grant using the Black-Scholes option pricing model with the assumptions listed below. The Company recognized compensation
+expense of $318,818 and $357,980 during the three months ended November 30, 2019 and 2018, respectively, related to the options
+that vested during such time period. As of November 30, 2019, the total compensation cost for non-vested options not yet recognized
+in the Company’s consolidated statements of operations was $1,018,956. Stock-based compensation expense of $1,018,956 is
+expected through the remainder of fiscal year 2020, and $20,834 is expected to be recognized during fiscal 2021, based on outstanding
+options as of November 30, 2019. Future option grants will impact the compensation expense recognized. Stock-based compensation
+expense is included in general and administrative expense on the consolidated statements of operations.
+ 
+
+
+11
+
+
+ 
+The fair value of each option grant is estimated on the grant date using the Black-Scholes
+option pricing model with the following assumptions and results for the grants:
+ 
+
+ 
+The weighted average per share fair value of options granted during the three months
+ended November 30, 2019 and 2018 was $4.30 and $9.02, respectively. The weighted average remaining contractual life of the options
+outstanding as of November 30, 2019 and 2018 was 6.78 years and 6.65 years, respectively.
+ 
+
+11.SEGMENT AND GEOGRAPHIC INFORMATION
+
+ 
+Segment Information
+ 
+The Company’s chief operating decision maker is its Chief Executive Officer. The
+Company’s business is organized into two reportable segments: ZERUST® and Natur-Tec®. The Company
+has been selling its proprietary ZERUST® rust and corrosion inhibiting products and services to the automotive,
+electronics, electrical, mechanical, military and retail consumer markets for over 40 years and, more recently, has targeted and
+expanded into the oil and gas industry. The Company also sells a portfolio of bio-based and compostable (fully biodegradable) polymer
+resins and finished products under the Natur-Tec® brand.
+ 
+The following table sets forth the Company’s net sales for the three months ended
+November 30, 2019 and 2018 by segment:
+ 
+
+ 
+The following table sets forth the Company’s cost of goods sold for the three months
+ended November 30, 2019 and 2018 by segment:
+ 
+
+ 
+
+*The percent of segment sales is calculated by dividing the direct cost of goods sold for each individual segment category by
+the net sales for each segment category.
+ 
+The Company utilizes product net sales and direct and indirect cost of goods sold for
+each product in reviewing the financial performance of a product type. Further allocation of Company expenses or assets, aside
+from amounts presented in the tables above, is not utilized in evaluating product performance, nor does such allocation occur for
+internal financial reporting.
+ 
+
+
+12
+
+
+ 
+Geographic Information
+ 
+Net sales by geographic location for the three months ended November 30, 2019 and 2018
+were as follows:
+ 
+
+ 
+Net sales by geographic location are based on the location of the customer.
+ 
+Fees for services provided to joint ventures by geographic location as a percentage of
+total fees for services provided to joint ventures during the three months ended November 30, 2019 and 2018 were as follows:
+ 
+
+ 
+The geographical distribution of key financial statement data is as follows:
+ 
+
+ 
+
+13
+
+
+ 
+
+ 
+Total property and equipment are periodically reviewed to assure the net realizable value
+from the estimated future production based on forecasted sales exceeds the carrying value of the assets. Total assets located in
+the United States include the Company’s investments in joint ventures.
+ 
+Sales to the Company’s joint ventures are included in the foregoing segment and
+geographic information; however, sales by the Company’s joint ventures to other parties are not included. The foregoing segment
+and geographic information represents only sales and cost of goods sold recognized directly by the Company.
+ 
+All joint venture operations, including equity in income, fees for services and related
+dividends, are primarily related to ZERUST® products and services.
+ 
+
+12.COMMITMENTS AND CONTINGENCIES
+
+ 
+Operating Leases
+ 
+The Company currently has 19 operating leases for various buildings, equipment and vehicles.
+These leases are under non-cancelable operating lease agreements with expiration dates between December 31, 2019 and June 30, 2024.
+The Company has the option to extend certain leases to five or ten-year term(s), and has the right of first refusal on any sale.
+ 
+The Company records lease liabilities within current liabilities or long-term liabilities
+based upon the length of time associated with the lease payments. The Company records its long-term operating leases as right-of-use
+assets. Upon initial adoption, using the modified retrospective transition approach, no leases with terms less than 12-months have
+been capitalized to the balance sheet consistent with ASC 842. Instead, these leases are recognized in the Consolidated Statement
+of Operations on a straight-line expense throughout the lives of the leases. All leases of the Company do not contain common area
+maintenance or security agreements.
+ 
+The Company has made certain assumptions and judgments when applying ASC 842, the most
+significant of which is that the Company elected the package of practical expedients available for transition which allow the Company
+to not reassess whether expired or existing contracts contain leases under the new definition of a lease, lease classification
+for expired or existing leases and whether previously capitalized initial direct costs would qualify for capitalization under ASC
+842. Additionally, the Company did not elect to use hindsight when considering judgments and estimates such as assessments of lessee
+options to extend or terminate a lease or purchase the underlying asset. The Company has no contingent rent agreements.
+ 
+Present Value of Long-term Leases
+ 
+
+ 
+
+
+14
+
+
+ 
+As of November 30, 2019, the weighted-average
+remaining lease term was 2.3 years. The Company’s lease agreements do not provide a readily determinable implicit rate nor
+is it available to the Company from its lessors. Instead, as of November 30, 2019, the Company estimates the weighted-average discount
+rate for its operating leases to be 4.32% to present value based on the incremental borrowing rate.
+ 
+Future minimum payments for the next five fiscal years and thereafter as of November
+30, 2019 under these long-term operating leases are as follows (in thousands):
+ 
+
+ 
+Annual Bonus Plan
+ 
+On August 31, 2019, the Compensation Committee of the Board of Directors of the Company
+approved the material terms of an annual bonus plan for the Company’s executive officers as well as certain officers and
+employees for the fiscal year ending August 31, 2020. For fiscal 2020 as in past years, the total amount available under the bonus
+plan for all plan participants, including executive officers, is dependent upon the Company’s earnings before interest, taxes
+and other income, as adjusted to take into account amounts to be paid under the bonus plan and certain other adjustments (Adjusted
+EBITOI). Each plan participant’s percentage of the overall bonus pool is based upon the number of plan participants, the
+individual’s annual base salary and the individual’s position and level of responsibility within the Company. In the
+case of each of the Company’s executive officer participants, 75% of the amount of their individual bonus payout will be
+determined based upon the Company’s actual EBITOI for fiscal 2020 compared to a pre-established target EBITOI for fiscal
+2020, and 25% of the payout will be determined based upon such executive officer’s achievement of certain pre-established
+individual performance objectives. The payment of bonuses under the plan are discretionary, and bonuses may be paid to executive
+officer participants in both cash and shares of NTIC common stock, with the exact amount and percentages determined by the Company’s
+Board of Directors, upon recommendation of the Compensation Committee, after the completion of the Company’s consolidated
+financial statements for fiscal 2020. There was $400,000 accrued for management bonuses for the three months ended November 30,
+2019 compared to $450,000 accrued for management bonuses for the three months ended November 30, 2018.
+ 
+Three joint ventures (consisting of the Company’s joint ventures in South Korea,
+Thailand and India) accounted for 51.4% of the Company’s trade joint venture receivables at November 30, 2019 and five joint
+ventures (consisting of the Company’s joint ventures in South Korea, Thailand, France, Germany and India) accounted for 69.6%
+of the Company’s trade joint venture receivables as of August 31, 2019.
+ 
+From time to time, the Company is subject to various other claims and legal actions in
+the ordinary course of its business. The Company records a liability in its consolidated financial statements for costs related
+to claims, including future legal costs, settlements and judgments, where the Company has assessed that a loss is probable and
+an amount could be reasonably estimated. If the reasonable estimate of a probable loss is a range, the Company records the most
+probable estimate of the loss or the minimum amount when no amount within the range is a better estimate than any other amount.
+The Company discloses a contingent liability even if the liability is not probable or the amount is not estimable, or both, if
+there is a reasonable possibility that material loss may have been incurred. In the opinion of management, as of November 30, 2019,
+the amount of liability, if any, with respect to these matters, individually or in the aggregate, will not materially affect the
+Company’s consolidated results of operations, financial position or cash flows.
+ 
+
+
+15
+
+
+ 
+
+13.Fair Value Measurements
+
+ 
+Assets and liabilities that are measured at fair value on a recurring basis primarily
+relate to marketable equity securities. These items are marked-to-market at each reporting period, and the Company estimates that
+market value approximates costs.
+ 
+The following tables provide information by level for assets and liabilities that are
+measured at fair value on a recurring basis:
+ 
+
+ 
+
+ 
+There were no transfers between Level 1, Level 2, or Level 3 during the three months
+ended November 30, 2019 or 2018.
+ 
+
+14.SUPPLEMENTAL CASH FLOW INFORMATION
+
+ 
+Supplemental disclosures of cash flow information consisted of:
+ 
+
+ 
+ 
+
+
+16
+
+
+ 
+
+
+
+Non-cash financing activity consisted of:
+ 
+
+
+  
+Three
+    Months Ended
+
+  
+November
+    30,
+ 2019 
+November
+    30,
+ 2018
+
+Dividends declared, not paid 
+$—  
+$— 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+17
+
+
+ 
+
+ITEM 2.MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+This Management’s Discussion and Analysis provides material historical and prospective
+disclosures intended to enable investors and other users to assess NTIC’s financial condition and results of operations.
+Statements that are not historical are forward-looking and involve risks and uncertainties discussed under the heading “Part
+I. Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations—Forward-Looking Statements”
+in this report and under “Part 1. Item 1A. Risk Factors” in our annual report on Form 10-K for the fiscal year
+ended August 31, 2019. The following discussion of the results of the operations and financial condition of NTIC should be read
+in conjunction with NTIC’s consolidated financial statements and the related notes thereto included under the heading “Part
+I. Item 1. Financial Statements.”
+ 
+Business Overview
+ 
+NTIC develops and markets proprietary, environmentally beneficial products and services
+in over 60 countries either directly or via a network of subsidiaries, joint ventures, independent distributors and agents. NTIC’s
+primary business is corrosion prevention, marketed mainly under the ZERUST® brand. NTIC has been selling its proprietary
+ZERUST® products and services to the automotive, electronics, electrical, mechanical, military and retail consumer
+markets for over 40 years and, in recent years, has targeted and expanded into the oil and gas industry. NTIC also markets and
+sells a portfolio of bio-based and certified compostable (fully biodegradable) polymer resin compounds and finished products under
+the Natur-Tec® brand. These products are intended to reduce NTIC’s customers’ carbon footprint and provide
+environmentally sound waste disposal options.
+ 
+NTIC’s ZERUST® rust and corrosion inhibiting products include plastic
+and paper packaging, liquids, coatings, rust removers, cleaners, and diffusers as well as engineered solutions designed specifically
+for the oil and gas industry. NTIC also offers worldwide, on-site technical consulting for rust and corrosion prevention issues.
+NTIC’s technical service consultants work directly with the end users of NTIC’s ZERUST® rust and corrosion
+inhibiting products to analyze their specific needs and develop systems to meet their performance requirements. In North America,
+NTIC sells its ZERUST® corrosion prevention solutions through a network of independent distributors and agents supported
+by a direct sales force. Internationally, NTIC sells its ZERUST® corrosion prevention solutions through its wholly-owned
+subsidiary in China, NTIC (Shanghai) Co., Ltd. (NTIC China), its majority-owned joint venture holding company for NTIC’s
+joint venture investments in the Association of Southeast Asian Nations (ASEAN) region, NTI Asean LLC (NTI Asean), certain other
+wholly-owned or majority-owned subsidiaries, and joint venture arrangements in North America, Europe and Asia. NTIC also sells
+products directly to its joint venture partners through its wholly-owned subsidiary in Germany, NTIC Europe GmbH (NTI Europe).
+ 
+One of NTIC’s strategic initiatives is to expand into and penetrate other markets
+for its ZERUST® corrosion prevention technologies. Consequently, for the past several years, NTIC has focused significant
+sales and marketing efforts on the oil and gas industry, as the infrastructure that supports that industry is typically constructed
+using metals that are highly susceptible to corrosion. NTIC believes that its ZERUST® corrosion prevention solutions
+will minimize maintenance downtime on critical oil and gas industry infrastructure, extend the life of such infrastructure and
+reduce the risk of environmental pollution due to leaks caused by corrosion.
+ 
+NTIC markets and sells its ZERUST® rust and corrosion prevention solutions
+to customers in the oil and gas industry across several countries either directly, through its subsidiaries or through its joint
+venture partners and other strategic partners. The sale of ZERUST® corrosion prevention solutions to customers in
+the oil and gas industry typically involves long sales cycles, often including multi-year trial periods with each customer and
+a slow integration process thereafter.
+ 
+Natur-Tec® biobased and compostable plastics are manufactured using NTIC’s
+patented and/or proprietary technologies and are intended to replace conventional petroleum-based plastics. The Natur-Tec®
+biopolymer resin compound portfolio includes formulations that have been optimized for a variety of applications, including blown-film
+extrusion, extrusion coating, injection molding, and engineered plastics. These resin compounds are certified to be fully biodegradable
+in a composting environment and are currently being used to produce finished products, including can liners, shopping and grocery
+bags, lawn and leaf bags, pet waste collection bags, cutlery and coated paper products. In North America, NTIC markets its Natur-Tec®
+resin compounds and finished products primarily through a network of regional and national distributors as well as independent
+agents. NTIC continues to see significant opportunities for finished bioplastic products and, therefore, continues to strengthen
+and expand its North American distribution network for finished Natur-Tec® bioplastic products.
+ 
+
+
+18
+
+
+ 
+Internationally, NTIC sells its Natur-Tec® resin compounds and finished
+products both directly and through its wholly-owned subsidiary in China, its majority-owned subsidiaries in India and Sri Lanka,
+and through distributors and certain joint ventures.
+ 
+NTIC’s Subsidiaries and Joint Venture Network
+ 
+NTIC has ownership interests in nine operating subsidiaries in North America, South America,
+Europe and Asia. The following table sets forth a list of NTIC’s operating subsidiaries as of November 30, 2019, the country
+in which the subsidiary is organized and NTIC’s ownership percentage in each subsidiary:
+ 
+
+ 
+
+(1)Natur Tec Lanka is 100% owned by Natur-Tec India and, therefore, indirectly owned by NTIC.
+
+(2)Zerust Singapore PTE LTD and Zerust Vietnam Co. LTD are 100% owned by NTI Asean LLC and, therefore, indirectly owned by NTIC.
+ 
+The results of these subsidiaries are fully consolidated in NTIC’s consolidated
+financial statements.
+ 
+NTIC participates in 19 active joint venture arrangements in North America, Europe and
+Asia. Each of these joint ventures generally manufactures and markets products in the geographic territory to which it is assigned.
+While most of NTIC’s joint ventures exclusively sell rust and corrosion inhibiting products, some of the joint ventures also
+sell NTIC’s Natur-Tec® resin compounds. NTIC has historically funded its investments in joint ventures with
+cash generated from operations.
+ 
+The following table sets forth a list of NTIC’s operating joint ventures as of
+November 30, 2019, the country in which the joint venture is organized and NTIC’s ownership percentage in each joint venture:
+ 
+
+
+ 
+ 
+
+
+19
+
+
+
+ 
+
+
+
+____________________
+ 
+
+(1)Indirect ownership interest through NTI Asean.
+ 
+
+
+NTIC receives funds from its joint ventures as fees for services that NTIC provides to
+its joint ventures and as dividend distributions. The fees for services provided to joint ventures are determined based on either
+a flat fee or a percentage of sales depending on local laws and tax regulations. With respect to NTIC’s joint venture in
+Germany (EXCOR), NTIC recognizes an agreed upon quarterly fee for such services. NTIC recognizes equity income from each joint
+venture based on the overall profitability of the joint venture. Such profitability is subject to variability from quarter to quarter,
+which, in turn, subjects NTIC’s earnings to variability from quarter to quarter. The profits of each joint venture are shared
+by the respective joint venture owners in accordance with their respective ownership percentages. NTIC typically directly or indirectly
+owns 50% or less of each of its joint venture entities and, thus, does not control the decisions of these entities regarding whether
+to pay dividends and, if paid, how much they should be in a given year. The payment of a dividend by an entity is determined by
+a joint vote of the owners and is not at the sole discretion of NTIC.
+ 
+NTIC accounts for the investments and financial results of its joint ventures in its
+financial statements utilizing the equity method of accounting.
+ 
+NTIC considers EXCOR to be individually significant to NTIC’s consolidated assets
+and income and, therefore, provides certain additional information regarding EXCOR in the notes to NTIC’s consolidated financial
+statements and in this section of this report.
+ 
+Financial Overview
+ 
+NTIC’s management, including its chief executive officer, who is NTIC’s chief
+operating decision maker, reports and manages NTIC’s operations in two reportable business segments based on products sold,
+customer base and distribution center: ZERUST® products and services and Natur-Tec® products. All
+share and per share data have been adjusted for all periods presented to reflect the two-for-one stock split effective June 28,
+2019.
+ 
+NTIC’s consolidated net sales increased 3.8% during the three months ended November
+30, 2019 compared to the three months ended November 30, 2018. This increase was primarily a result of an increase in sales of
+Natur-Tec® products.
+ 
+
+
+20
+
+
+ 
+During the three months ended November 30, 2019, 68.0% of NTIC’s consolidated net
+sales were derived from sales of ZERUST® products and services, which decreased 1.1% to $9,949,512 compared to $10,065,174
+for the three months ended November 30, 2018. This decrease was due to lower sales from existing customers for products as a result
+of decreased demand. NTIC has focused its sales efforts of ZERUST® products and services by strategically targeting
+customers with specific corrosion issues in new market areas, including the oil and gas industry and other industrial sectors that
+offer sizable growth opportunities. NTIC’s consolidated net sales for the three months ended November 30, 2019 included $520,844
+of sales made to customers in the oil and gas industry compared to $986,173 for the three months ended November 30, 2018. Overall
+demand for ZERUST® products and services depends heavily on the overall health of the markets in which NTIC sells
+its products, including the automotive, oil and gas, agriculture, and mining markets in particular.
+ 
+During the three months ended November 30, 2019, 32.0% of NTIC’s consolidated net
+sales were derived from sales of Natur-Tec® products compared to 28.6% during the three months ended November 30,
+2018. Net sales of Natur-Tec® products increased 16.2% during the three months ended November 30, 2019 compared
+to the three months ended November 30, 2018 primarily due to an increase in finished product sales in North America and finished
+product sales at NTIC’s majority-owned subsidiary in India.
+ 
+Cost of goods sold as a percentage of net sales decreased slightly to 67.0% during the
+three months ended November 30, 2019 compared to 67.1% during the three months ended November 30, 2018.
+ 
+NTIC’s equity in income from joint ventures decreased 35.4% to $1,293,990 during
+the three months ended November 30, 2019 compared to $2,004,162 during the three months ended November 30, 2018. This decrease
+was primarily due to a corresponding decrease in net sales at the joint ventures, which decreased 16.5% to $25,460,294 during the
+three months ended November 30, 2019 compared to $30,479,926 for the three months ended November 30, 2018. The decrease in the
+net sales of NTIC’s joint ventures was due primarily to decreased sales from existing customers for existing products as
+a result of decreased demand. The decrease in net sales of NTIC’s joint ventures resulted in a corresponding decrease in
+fees for services provided to joint ventures, as such fees are a function of net sales of NTIC’s joint ventures.
+ 
+NTIC’s total operating expenses decreased 4.5% to $5,898,620 during the three months
+ended November 30, 2019 compared to $6,179,048 for the three months ended November 30, 2018. This decrease was primarily due to
+a decrease in NTIC’s personnel expenses and achievement of various cost control actions undertaken by management.
+ 
+NTIC spent $961,641 and $872,157 during the three months ended November 30, 2019 and
+2018, respectively, in connection with its research and development activities. NTIC anticipates that it will spend between $3,600,000
+and $3,900,000 in fiscal 2020 on research and development activities.
+ 
+Net income attributable to NTIC decreased $284,509 to $1,212,550, or $0.13 per diluted
+common share, for the three months ended November 30, 2019 compared to $1,497,059, or $0.16 per diluted common share, for the three
+months ended November 30, 2018. This decrease was primarily the result of the decrease in joint venture operations during the three
+months ended November 30, 2019 compared to the three months ended November 30, 2018.
+ 
+NTIC anticipates that its quarterly net income or loss will continue to be subject to
+significant volatility primarily due to the financial performance of its subsidiaries and joint ventures, sales of its ZERUST®
+products and services into the oil and gas industry, and sales of its Natur-Tec® bioplastics products, which sales
+fluctuate more on a quarterly basis than the traditional ZERUST® business.
+ 
+NTIC’s working capital, defined as current assets less current liabilities, was
+$25,253,374 at November 30, 2019, including $4,106,796 in cash and cash equivalents and $2,987,095 in available for sale securities,
+compared to $25,460,569 at August 31, 2019, including $5,856,758 in cash and cash equivalents and $3,565,258 in available for sale
+securities.
+ 
+On October 22, 2019, the Company’s Board of Directors announced a quarterly cash
+dividend of $0.065 per share of NTIC’s common stock, payable on November 20, 2019 to stockholders of record on November 6,
+2019. During fiscal 2019, the Company’s Board of Directors declared four quarterly cash dividends of $0.06 per share each.
+Although NTIC’s Board of Directors intends to continue to declare regular quarterly cash dividends, the declaration of future
+dividends is not guaranteed and will be determined by NTIC’s Board of Directors in light of conditions then existing, including
+NTIC’s net income, financial condition, cash requirements, restrictions in financing agreements, business conditions and
+other factors.
+ 
+
+
+21
+
+
+ 
+Results of Operations 
+ 
+The following table sets forth NTIC’s results of operations for the three months
+ended November 30, 2019 and 2018.
+ 
+
+ 
+Net Sales. NTIC’s consolidated net sales increased 3.8% to $14,631,400 during
+the three months ended November 30, 2019 compared to the three months ended November 30, 2018. NTIC’s consolidated net sales
+to unaffiliated customers excluding NTIC’s joint ventures increased 3.2% to $14,045,784 during the three months ended November
+30, 2019 compared to the same period in fiscal 2019. These increases were primarily a result of an increase in sales of Natur-Tec®
+products. Net sales to joint ventures increased 21.2% to $585,616 during the three months ended November 30, 2019 compared to the
+same period in fiscal 2019. This increase was primarily a result of timing differences on various shipments to joint ventures.
+ 
+The following table sets forth NTIC’s net sales by product segment for the three
+months ended November 30, 2019 and 2018 by segment:
+ 
+
+ 
+During the three months ended November 30, 2019, 68.0% of NTIC’s consolidated net
+sales were derived from sales of ZERUST® products and services, which decreased 1.1% to $9,949,512 during the three
+months ended November 30, 2019 compared to $10,065,174 during the three months ended November 30, 2018. This decrease was primarily
+the result of decreased ZERUST® oil and gas net sales due to decreased demand. NTIC has strategically focused its
+sales efforts for ZERUST® products and services on customers with sizeable corrosion problems in industry sectors
+that offer sizable growth opportunities, including the oil and gas sector. Overall demand for ZERUST® products and
+services depends heavily on the overall health of the market segments to which NTIC sells its products, including the automotive,
+oil and gas, agriculture, and mining markets in particular.
+
+ 
+The following table sets forth NTIC’s net sales of ZERUST® products
+for the three months ended November 30, 2019 and 2018:
+ 
+
+
+22
+
+
+ 
+
+ 
+NTIC’s net sales to the oil and gas industry sector decreased during the three
+months ended November 30, 2019 compared to the prior fiscal year period, primarily due to decreased demand for ZERUST®
+oil and gas products and services. NTIC anticipates that its sales of ZERUST® products and services into the
+oil and gas industry will continue to remain subject to significant volatility from quarter to quarter as sales are recognized,
+specifically due to the volatility of oil prices. Demand for oil and gas products around the world depends primarily on market
+acceptance and the reach of NTIC’s distribution network. Because of the typical size of individual orders and overall size
+of NTIC’s net sales derived from sales of oil and gas products, the timing of one or more orders can materially affect NTIC’s
+quarterly sales compared to prior fiscal year quarters.
+ 
+During the three months ended November 30, 2019, 32.0% of NTIC’s consolidated net
+sales were derived from sales of Natur-Tec® products, which increased 16.2% to $4,681,888 during the three months
+ended November 30, 2019 compared to the three months ended November 30, 2018. This increase was primarily due to an increase in
+finished product sales in North America and finished product sales at NTIC’s majority-owned subsidiary in India.
+ 
+Cost of Goods Sold. Cost of goods sold increased 3.6% for the three months ended
+November 30, 2019 compared to the three months ended November 30, 2018. Cost of goods sold as a percentage of net sales decreased
+slightly to 67.0% for the three months ended November 30, 2019 compared to 67.1% for the three months ended November 30, 2018.
+ 
+Equity in Income from Joint Ventures. NTIC’s equity in income from joint
+ventures decreased 35.4% to $1,293,990 during the three months ended November 30, 2019 compared to $2,004,162 during the three
+months ended November 30, 2018. This decrease was primarily a result of changing profitability of the joint ventures, which fluctuates
+based on net sales, during the respective periods. Of the total equity in income from joint ventures, NTIC had equity in income
+from joint ventures of $821,164 attributable to EXCOR during the three months ended November 30, 2019 compared to $1,519,901 during
+the three months ended November 30, 2018.
+ 
+Fees for Services Provided to Joint Ventures. NTIC recognized fee income for services
+provided to joint ventures of $1,358,325 during the three months ended November 30, 2019 compared to $1,428,435 during the three
+months ended November 30, 2018, representing a decrease of $70,110, or 4.9%. Fee income for services provided to joint ventures
+is traditionally a function of the sales made by NTIC’s joint ventures. Total net sales of NTIC’s joint ventures decreased
+16.5% to $25,460,294 during the three months ended November 30, 2019 compared to $30,479,926 for the three months ended November
+30, 2018. Net sales of NTIC’s joint ventures are not included in NTIC’s consolidated financial statements. Of the total
+fee income for services provided to joint ventures, fees of $212,101 were attributable to EXCOR during the three months ended November
+30, 2019 compared to $214,992 attributable to EXCOR during the three months ended November 30, 2018.
+ 
+Selling Expenses. NTIC’s selling expenses increased 2.7% for the three months
+ended November 30, 2019 compared to the same period in fiscal 2019 due primarily to increases in operating expenses associated
+with ZERUST® sales efforts, consisting primarily of selling and personnel expenses. Selling expenses as a percentage
+of net sales decreased slightly to 19.7% for the three months ended November 30, 2019 from 19.9% during the three months ended
+November 30, 2018 primarily due to the decrease in net sales, as previously described.
+ 
+
+
+23
+
+
+ 
+General and Administrative Expenses. NTIC’s general and administrative expenses
+decreased 17.9% for the three months ended November 30, 2019 compared to the same period in fiscal 2019 primarily due to decreased
+personnel costs and the implementation of various cost control initiatives. As a percentage of net sales, general and administrative
+expenses decreased to 14.0% for the three months ended November 30, 2019 from 17.7% for the three months ended November 30,
+2018 due primarily to the decreases in expenses in North America and NTIC’s subsidiary in India, and the slight increase
+in net sales, as previously described.
+ 
+Research and Development Expenses. NTIC’s research and development expenses
+increased 10.3% for the three months ended November 30, 2019 compared to the same period in fiscal 2019 primarily due to increases
+in research and development efforts.
+ 
+Interest Income. NTIC’s interest income increased to $49,038 during the
+three months ended November 30, 2019 compared to $12,787 during the three months ended November 30, 2018 due to changing levels
+of invested cash.
+ 
+Interest Expense. NTIC’s interest expense increased to $5,444 during the
+three months ended November 30, 2019 compared to $2,357 during the three months ended November 30, 2018.
+ 
+Income Before Income Tax Expense. NTIC incurred income before income tax expense
+equal to $1,623,605 for the three months ended November 30, 2019 compared to $1,896,894 for the three months ended November 30,
+2018.
+ 
+Income Tax Expense. Income tax expense was $264,066 during the three months ended
+November 30, 2019 compared to $255,703 during the three months ended November 30, 2018. Income tax expense was calculated based
+on management’s estimate of NTIC’s annual effective income tax rate.
+ 
+NTIC considers the earnings of certain foreign joint ventures to be indefinitely invested
+outside the United States on the basis of estimates that NTIC’s future domestic cash generation will be sufficient to meet
+future domestic cash needs. As a result, U.S. income and foreign withholding taxes have not been recognized on the cumulative undistributed
+earnings of $23,373,721 and $22,178,126 at November 30, 2019 and August 31, 2019, respectively. To the extent undistributed earnings
+of NTIC’s joint ventures are distributed in the future, they are not expected to result in any material additional income
+tax liability after the application of foreign tax credits.
+ 
+Net Income Attributable to NTIC. Net income attributable to NTIC decreased $284,509
+to $1,212,550, or $0.13 per diluted common share, for the three months ended November 30, 2019 compared to $1,497,059, or $0.16
+per diluted common share, for the three months ended November 30, 2018. This decrease was primarily the result of the decrease
+in operating expenses and decrease in joint venture operations during the three months ended November 30, 2019 compared to the
+prior year period, partially offset by the increase in gross profit.
+ 
+Other Comprehensive Income - Foreign Currency Translations Adjustment. The changes
+in the foreign currency translations adjustment were due to the fluctuations of the U.S. dollar compared to the Euro and other
+foreign currencies during the three months ended November 30, 2019 compared to the same period in fiscal 2019.
+ 
+
+
+24
+
+
+ 
+
+Liquidity and Capital Resources
+ 
+Sources of Cash and Working Capital. NTIC’s working capital, defined as
+current assets less current liabilities, was $25,253,374 at November 30, 2019, including $4,106,796 in cash and cash equivalents
+and $2,987,095 in available for sale securities, compared to $25,460,569 at August 31, 2019, including $5,856,758 in cash and cash
+equivalents and $3,565,258 in available for sale securities.
+ 
+As of November 30, 2019, NTIC had a revolving line of credit with PNC Bank of $3,000,000
+with no amounts outstanding. At the option of the Company, outstanding advances under the line of credit bear interest at either
+(a) an annual rate based on LIBOR plus 2.15% for the applicable LIBOR interest period selected by the Company or (b) at the rate
+publicly announced by PNC Bank from time to time as its prime rate. On December 16, 2019, the Company and PNC Bank extended the
+maturity date of the line of credit from January 7, 2020 to January 7, 2021. All other terms of the line of credit and the loan
+agreement and other documents evidencing the line of credit remain the same. It is anticipated that, as historically has been the
+practice, the line of credit will be renewed each year for one additional year for the immediate foreseeable future.
+ 
+The line of credit is evidenced by an amended and restated committed line of credit note
+in the principal amount of up to $3,000,000. The line of credit has a $1,200,000 standby letter of credit sub-facility, with any
+standby letters of credit issued thereunder being at the sole discretion of PNC Bank. Any lines of credit issued by PNC Bank would
+decrease the availability under the revolving line of credit.
+ 
+The line of credit is subject to standard covenants, including affirmative financial
+covenants, such as the maintenance of a minimum fixed charge coverage ratio, and negative covenants, which, among other things,
+limit the incurrence of additional indebtedness, loans and equity investments, disposition of assets, mergers and consolidations
+and other matters customarily restricted in such agreements. Under the loan agreement, NTIC is subject to a minimum fixed charge
+coverage ratio of 1.10:1.00. As of November 30, 2019, NTIC was in compliance with all debt covenants.
+ 
+NTIC believes that a combination of its existing cash and cash equivalents, available
+for sale securities, forecasted cash flows from future operations, anticipated distributions of earnings, anticipated fees to NTIC
+for services provided to its joint ventures, and funds available through existing or anticipated financing arrangements will be
+adequate to fund its existing operations, investments in new or existing joint ventures or subsidiaries, capital expenditures,
+debt repayments, cash dividends and any stock repurchases for at least the next 12 months. During the remainder of fiscal 2020,
+NTIC expects to continue to invest directly and through its use of working capital in NTIC China, Zerust Mexico, NTI Europe, research
+and development, marketing efforts, resources for the application of its corrosion prevention technology in the oil and gas industry,
+and its Natur-Tec® bio-plastics business, although the amounts of these various investments are not known at this
+time. In order to take advantage of such new product and market opportunities to expand its business and increase its revenues,
+NTIC may decide to finance such opportunities by borrowing under its revolving line of credit or raising additional financing through
+the issuance of debt or equity securities. There is no assurance that any financing transaction will be available on terms acceptable
+to NTIC or at all or that any financing transaction will not be dilutive to NTIC’s current stockholders.
+ 
+NTIC traditionally has used the cash generated from its operations, distributions of
+earnings from joint ventures and fees for services provided to its joint ventures to fund NTIC’s new technology investments
+and capital contributions to new and existing subsidiaries and joint ventures. NTIC’s joint ventures traditionally have operated
+with little or no debt and have been self-financed with minimal initial capital investment and minimal additional capital investment
+from their respective owners. Therefore, NTIC believes there is limited exposure by NTIC’s joint ventures that could materially
+impact their respective operations and/or liquidity.
+ 
+Uses of Cash and Cash Flow. Net cash used in operating activities during the three
+months ended November 30, 2019 was $1,567,156, which resulted principally from NTIC’s equity in income from joint ventures,
+an increase in inventory and increases in trade receivables excluding joint ventures, and income tax payable, partially offset
+by NTIC’s net income, depreciation and amortization and an increase in accounts payable and accrued liabilities. Net cash
+used in operating activities during the three months ended November 30, 2018 was $738,606, which resulted principally from NTIC’s
+equity in income from joint ventures, an increase in inventory and increases in trade receivables excluding joint ventures, and
+income tax payable, partially offset by NTIC’s net income, depreciation and amortization and an increase in accounts payable
+and accrued liabilities.
+ 
+
+
+25
+
+
+ 
+NTIC’s cash flows from operations are impacted by significant changes in certain
+components of NTIC’s working capital, including inventory turnover and changes in receivables. NTIC considers internal and
+external factors when assessing the use of its available working capital, specifically when determining inventory levels and credit
+terms of customers. Key internal factors include existing inventory levels, stock reorder points, customer forecasts and customer
+requested payment terms. Key external factors include the availability of primary raw materials and sub-contractor production lead
+times. NTIC’s typical contractual terms for trade receivables excluding joint ventures are 30 days and 90 days for trade
+receivables from its joint ventures. Before extending unsecured credit to customers, excluding NTIC’s joint ventures, NTIC
+reviews customers’ credit histories and will establish an allowance for uncollectible accounts based upon factors surrounding
+the credit risk of specific customers and other information. Accounts receivable over 30 days are considered past due for most
+customers. NTIC does not accrue interest on past due accounts receivable. If accounts receivable in excess of the provided allowance
+are determined uncollectible, they are charged to selling expense in the period that the determination is made. Accounts receivable
+are deemed uncollectible based on NTIC exhausting reasonable efforts to collect. NTIC’s typical contractual terms for receivables
+for services provided to its joint ventures are 90 days. NTIC records receivables for services provided to its joint ventures on
+an accrual basis, unless circumstances exist that make the collection of the balance uncertain, in which case the fee income will
+be recorded on a cash basis until there is consistency in payments. This determination is handled on a case by case basis.
+ 
+NTIC experienced an increase in trade receivables and inventory as of November 30, 2019
+compared to August 31, 2019. Trade receivables excluding joint ventures as of November 30, 2019 increased $581,248 compared
+to August 31, 2019, primarily related to the timing of collections and the increase in sales.
+ 
+Outstanding trade receivables excluding joint ventures balances as of November 30, 2019
+decreased 1 day to an average of 67 days from balances outstanding from these customers as of August 31, 2019.
+ 
+Outstanding trade receivables from joint ventures as of November 30, 2019 decreased $182,798
+compared to August 31, 2019 primarily due to the timing of payments. Outstanding balances from trade receivables from joint ventures
+decreased an average of 15 days from an average of 115 days from balances outstanding from these customers compared to August 31,
+2019. The average days outstanding of trade receivables from joint ventures as of November 30, 2019 were primarily due to the receivables
+balances at NTIC’s joint ventures in South Korea, India and Thailand.
+ 
+Outstanding receivables for services provided to joint ventures as of November 30, 2019
+increased $97,864 compared to August 31, 2019 and the average days to pay increased an average of 10 days from an average of 81
+days compared to August 31, 2019.
+ 
+Net cash provided by investing activities for the three months ended November 30, 2019
+was $353,300, which was primarily the result of cash provided by the sale of available for sale securities, partially offset by
+additions to property and equipment and additions to patents. Net cash used in investing activities for the three months ended
+November 30, 2018 was $1,463,950, which was primarily the result of cash provided by the sale of available for sale securities,
+partially offset by additions to property and equipment and additions to patents.
+ 
+Net cash used in financing activities for the three months ended November 30, 2019 was
+$555,271, which resulted from dividends paid on NTIC common stock, partially offset by proceeds from NTIC’s employee stock
+purchase plan and the exercise of stock options. Net cash used in financing activities for the three months ended November 30,
+2018 was $393,346, which resulted from dividends paid on NTIC common stock, partially offset by an investment by non-controlling
+interest and proceeds from NTIC’s employee stock purchase plan.
+ 
+
+
+26
+
+
+ 
+Share Repurchase Plan. On January 15, 2015, NTIC’s Board of Directors authorized
+the repurchase of up to $3,000,000 in shares of NTIC common stock through open market purchases or unsolicited or solicited privately
+negotiated transactions. This program has no expiration date but may be terminated by NTIC’s Board of Directors at any time.
+No repurchases occurred during the three months ended November 30, 2019. As of November 30, 2019, up to $2,640,548 in shares of
+NTIC common stock remained available for repurchase under NTIC’s stock repurchase program.
+ 
+Cash Dividends. On October 22, 2019, NTIC’s Board of Directors declared
+a cash dividend of $0.065 per share of NTIC’s common stock, payable on November 20, 2019 to stockholders of record on November
+6, 2019. Although NTIC’s Board of Directors intends to continue to declare regular quarterly cash dividends, the declaration
+of future dividends is not guaranteed and will be determined by NTIC’s Board of Directors in light of conditions then existing,
+including NTIC’s net income, financial condition, cash requirements, restrictions in financing agreements, business conditions
+and other factors.
+ 
+Stock Split. On June 3, 2019, NTIC’s Board of Directors declared a two-for-one
+stock split of NTIC’s common stock effected in the form of a 100% share dividend distributed on June 28, 2019 to record holders
+as of June 17, 2019. As a result of this action, approximately 4.5 million shares were issued to stockholders of record as of June
+17, 2019. The par value of the common stock remains at $0.02 per share, and, accordingly, approximately $90,900 was transferred
+from additional paid-in capital to common stock. Net income and dividends declared per share and weighted average shares outstanding
+presented in this report reflect the 100 percent stock dividend. The two-for-one stock split is reflected in the share amounts
+in all periods presented in this report.
+ 
+Capital Expenditures and Commitments. NTIC spent $197,370 on capital expenditures
+during the three months ended November 30, 2019, which related primarily to the purchase of new equipment. NTIC expects to spend
+an aggregate of approximately $600,000 to $900,000 on capital expenditures during fiscal 2020, which it expects will relate primarily
+to the purchase of new equipment.
+ 
+Contractual Obligations 
+ 
+There has been no material change to NTIC’s
+contractual obligations as provided in “Part II. Item 7, Management’s Discussion and Analysis of Financial Condition
+and Results of Operations—Contractual Obligations,” included in NTIC’s annual report on Form 10-K for the
+fiscal year ended August 31, 2019.
+ 
+Off-Balance Sheet Arrangements
+ 
+NTIC does not have any relationships with unconsolidated entities or financial partnerships,
+such as entities often referred to as structured finance or special purpose entities, established for the purpose of facilitating
+off-balance sheet financial arrangements. As such, NTIC is not materially exposed to any financing, liquidity, market or credit
+risk that could arise if NTIC had engaged in such arrangements.
+ 
+Inflation and Seasonality
+ 
+Inflation in the United States and abroad historically has had little effect on NTIC.
+Although NTIC’s business historically has not been seasonal, NTIC believes there is some seasonality in its business. NTIC
+anticipates its net sales in the second fiscal quarter may be adversely affected by the long Chinese New Year, the North American
+holiday season and overall less corrosion taking place at lower winter temperatures worldwide.
+ 
+
+
+27
+
+
+ 
+
+Market Risk
+ 
+NTIC is exposed to some market risk stemming from changes in foreign currency exchange
+rates, commodity prices and interest rates.
+ 
+Because the functional currency of NTIC’s foreign operations and investments in
+its foreign joint ventures is the applicable local currency, NTIC is exposed to foreign currency exchange rate risk arising from
+transactions in the normal course of business. NTIC’s principal exchange rate exposure is with the Euro, the Japanese Yen,
+the Indian Rupee, the Chinese Renminbi, the South Korean Won and the English Pound against the U.S. Dollar. NTIC’s fees for
+services provided to joint ventures and dividend distributions from these foreign entities are paid in foreign currencies and,
+thus, fluctuations in foreign currency exchange rates could result in declines in NTIC’s reported net income. Since NTIC’s
+investments in its joint ventures are accounted for using the equity method, any changes in foreign currency exchange rates would
+be reflected as a foreign currency translation adjustment and would not change NTIC’s equity in income from joint ventures
+reflected in its consolidated statements of operations. NTIC does not hedge against its foreign currency exchange rate risk.
+ 
+Some raw materials used in NTIC’s products are exposed to commodity price changes.
+The primary commodity price exposures are with a variety of plastic resins.
+ 
+At the option of NTIC, outstanding advances under NTIC’s $3,000,000 revolving line
+of credit with PNC Bank bear interest at either (a) an annual rate based on LIBOR plus 2.15% for the applicable LIBOR interest
+period selected by NTIC or (b) at the rate publicly announced by PNC Bank from time to time as its prime rate and, thus, may subject
+NTIC to some market risk on interest rates. As of November 30, 2019, NTIC had no borrowings under the line of credit.
+ 
+Critical Accounting Policies and Estimates
+ 
+There have been no material changes to NTIC’s critical accounting policies and
+estimates from the information provided in “Part II. Item 7, Management’s Discussion and Analysis of Financial Condition
+and Results of Operations—Critical Accounting Policies,” included in NTIC’s annual report on Form 10-K for
+the fiscal year ended August 31, 2019.
+ 
+Recent Accounting Pronouncements
+ 
+See Note 2 to NTIC’s consolidated financial statements for a discussion of recent
+accounting pronouncements.
+ 
+Forward-Looking Statements
+ 
+This quarterly report on Form 10-Q contains not only historical information, but also
+forward-looking statements that are within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E
+of the Securities Exchange Act of 1934, as amended, and are subject to the safe harbor created by those sections. In addition,
+NTIC or others on NTIC’s behalf may make forward-looking statements from time to time in oral presentations, including telephone
+conferences and/or web casts open to the public, in press releases or reports, on NTIC’s Internet web site or otherwise.
+All statements other than statements of historical facts included in this report or expressed by NTIC orally from time to time
+that address activities, events or developments that NTIC expects, believes or anticipates will or may occur in the future are
+forward-looking statements, including, in particular, the statements about NTIC’s plans, objectives, strategies and prospects
+regarding, among other things, NTIC’s financial condition, results of operations and business, the outcome of contingencies,
+such as legal proceedings and the effect of the liquidation of Tianjin Zerust, and the operations of NTIC China. NTIC has identified
+some of these forward-looking statements in this report with words like “believe,” “can,” “may,”
+“could,” “would,” “might,” “forecast,” “possible,” “potential,”
+“project,” “will,” “should,” “expect,” “intend,” “plan,”
+“predict,” “anticipate,” “estimate,” “approximate,” “outlook” or “continue”
+or the negative of these words or other words and terms of similar meaning. The use of future dates is also an indication of a
+forward-looking statement. Forward-looking statements may be contained in the notes to NTIC’s consolidated financial statements
+and elsewhere in this report, including under the heading “Management’s Discussion and Analysis of Financial Condition
+and Results of Operations.”
+ 
+
+
+28
+
+
+ 
+Forward-looking statements are based on current expectations about future events affecting
+NTIC and are subject to uncertainties and factors that affect all businesses operating in a global market as well as matters specific
+to NTIC. These uncertainties and factors are difficult to predict, and many of them are beyond NTIC’s control. The following
+are some of the uncertainties and factors known to us that could cause NTIC’s actual results to differ materially from what
+NTIC has anticipated in its forward-looking statements:
+ 
+
+•The effect of current worldwide economic conditions and any turmoil and disruption in the global credit and financial markets
+on NTIC’s business;
+ 
+
+•The variability in NTIC’s sales of ZERUST® products and services into the oil and gas industry and Natur-Tec®
+products and NTIC’s equity income of joint ventures, which variability in sales and equity in income from joint venture,
+in turn, subject NTIC’s earnings to quarterly fluctuations;
+ 
+
+•Risks associated with NTIC’s international operations and exposure to fluctuations in foreign currency exchange rates,
+import duties, taxes and tariffs;
+ 
+
+•The effect of the United Kingdom’s process to exit the European Union on NTIC’s operating results, including, in
+particular, future net sales of NTIC’s European and other joint ventures;
+ 
+
+•The effect of the health of the U.S. automotive industry on NTIC’s business;
+ 
+
+•NTIC’s dependence on the success of its joint ventures and fees and dividend distributions that NTIC receives from them;
+ 
+
+•NTIC’s relationships with its joint ventures and its ability to maintain those relationships, especially in light of
+anticipated succession planning issues;
+ 
+
+•Fluctuations in the cost and availability of raw materials, including resins and other commodities;
+ 
+
+•The success of and risks associated with NTIC’s emerging new businesses and products and services, including in particular
+NTIC’s ability and the ability of NTIC’s joint ventures to sell ZERUST® products and services into oil
+and gas industry and Natur-Tec® products and the often lengthy and extensive sales process involved in selling such
+products and services;
+ 
+
+•NTIC’s ability to introduce new products and services that respond to changing market conditions and customer demand;
+ 
+
+•Market acceptance of NTIC’s existing and new products, especially in light of existing and new competitive products;
+ 
+
+•Maturation of certain existing markets for NTIC’s ZERUST® products and services and NTIC’s ability
+to grow market share and succeed in penetrating other existing and new markets;
+ 
+
+•Increased competition, especially with respect to NTIC’s ZERUST® products and services, and the effect
+of such competition on NTIC’s and its joint ventures’ pricing, net sales and margins;
+ 
+
+•NTIC’s reliance upon and its relationships with its distributors, independent sales representatives and joint ventures;
+ 
+
+•NTIC’s reliance upon suppliers;
+ 
+
+
+29
+
+
+ 
+
+•Oil prices, which may affect sales of NTIC’s ZERUST® products and services into the oil and gas industry;
+ 
+
+•NTIC’s operations in China and the risks associated therewith, the termination of the joint venture agreements with Tianjin
+Zerust, and the anticipated liquidation of Tianjin Zerust and the effect of all these events on NTIC’s business and future
+operating results;
+ 
+
+•The costs and effects of complying with laws and regulations and changes in tax, fiscal, government and other regulatory policies,
+including rules relating to environmental, health and safety matters;
+ 
+
+•Unforeseen product quality or other problems in the development, production and usage of new and existing products;
+ 
+
+•Unforeseen production expenses incurred in connection with new customers and new products;
+ 
+
+•Loss of or changes in executive management or key employees;
+ 
+
+•Ability of management to manage around unplanned events;
+ 
+
+•Pending and future litigation;
+ 
+
+•NTIC’s reliance on its intellectual property rights and the absence of infringement of the intellectual property rights
+of others;
+ 
+
+•NTIC’s ability to maintain effective internal control over financial reporting, especially in light of its joint venture
+arrangements;
+ 
+
+•Changes in applicable laws or regulations and NTIC’s failure to comply with applicable laws, rules and regulations;
+ 
+
+•Changes in generally accepted accounting principles and the effect of new accounting pronouncements;
+ 
+
+•Fluctuations in NTIC’s effective tax rate, including from the Tax Cuts and Jobs Act;
+ 
+
+•Effect of extreme weather conditions on NTIC’s operating results; and
+ 
+
+•NTIC’s reliance upon its management information systems.
+ 
+For more information regarding these and other uncertainties and factors that could cause
+NTIC’s actual results to differ materially from what NTIC has anticipated in its forward-looking statements or otherwise
+could materially adversely affect NTIC’s business, financial condition or operating results, see NTIC’s annual report
+on Form 10-K for the fiscal year ended August 31, 2019 under the heading “Part I. Item 1A. Risk Factors.”
+ 
+All forward-looking statements included in this report are expressly qualified in their
+entirety by the foregoing cautionary statements. NTIC wishes to caution readers not to place undue reliance on any forward-looking
+statement that speaks only as of the date made and to recognize that forward-looking statements are predictions of future results,
+which may not occur as anticipated. Actual results could differ materially from those anticipated in the forward-looking statements
+and from historical results, due to the uncertainties and factors described above, as well as others that NTIC may consider immaterial
+or does not anticipate at this time. Although NTIC believes that the expectations reflected in its forward-looking statements are
+reasonable, NTIC does not know whether its expectations will prove correct. NTIC’s expectations reflected in its forward-looking
+statements can be affected by inaccurate assumptions NTIC might make or by known or unknown uncertainties and factors, including
+those described above. The risks and uncertainties described above are not exclusive, and further information concerning NTIC and
+its business, including factors that potentially could materially affect its financial results or condition, may emerge from time
+to time. NTIC assumes no obligation to update, amend or clarify forward-looking statements to reflect actual results or changes
+in factors or assumptions affecting such forward-looking statements. NTIC advises you, however, to consult any further disclosures
+NTIC makes on related subjects in the annual reports on Form 10-K, quarterly reports on Form 10-Q and current reports on Form 8-K
+NTIC files with or furnishes to the Securities and Exchange Commission.
+ 
+
+
+30
+
+
+ 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+ 
+NTIC is exposed to some market risk stemming from changes in foreign currency exchange
+rates, commodity prices and interest rates.
+ 
+Because the functional currency of NTIC’s foreign operations and investments in
+its foreign joint ventures is the applicable local currency, NTIC is exposed to foreign currency exchange rate risk arising from
+transactions in the normal course of business. NTIC’s principal exchange rate exposure is with the Euro, the Japanese Yen,
+the Indian Rupee, the Chinese Renminbi, the South Korean Won and the English Pound against the U.S. Dollar. NTIC’s fees for
+services provided to joint ventures and dividend distributions from these foreign entities are paid in foreign currencies, and,
+thus, fluctuations in foreign currency exchange rates could result in declines in NTIC’s reported net income. Since NTIC’s
+investments in its joint ventures are accounted for using the equity method, any changes in foreign currency exchange rates would
+be reflected as a foreign currency translation adjustment and would not change NTIC’s equity in income from joint ventures
+reflected in its consolidated statements of operations. NTIC does not hedge against its foreign currency exchange rate risk.
+ 
+Some raw materials used in NTIC’s products are exposed to commodity price changes.
+The primary commodity price exposures are with a variety of plastic resins.
+ 
+At the option of NTIC, outstanding advances under NTIC’s $3,000,000 revolving line
+of credit with PNC Bank bear interest at either (a) an annual rate based on LIBOR plus 2.15% for the applicable LIBOR interest
+period selected by NTIC or (b) at the rate publicly announced by PNC Bank from time to time as its prime rate and, thus, may subject
+NTIC to some market risk on interest rates. As of November 30, 2019, NTIC had no borrowings under the line of credit.
+ 
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+ 
+Evaluation of Disclosure Controls and Procedures 
+ 
+NTIC maintains disclosure controls and procedures (as defined in Rules 13a-15(e) and
+15d-15(e) under the Securities Exchange Act of 1934, as amended) that are designed to provide reasonable assurance that information
+required to be disclosed by NTIC in the reports it files or submits under the Securities Exchange Act of 1934, as amended, is recorded,
+processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and
+forms and that such information is accumulated and communicated to NTIC’s management, including NTIC’s principal executive
+officer and principal financial officer, or persons performing similar functions, as appropriate to allow timely decisions regarding
+required disclosure. NTIC’s management evaluated, with the participation of its Chief Executive Officer and its Chief Financial
+Officer, the effectiveness of the design and operation of NTIC’s disclosure controls and procedures as of the end of the
+period covered in this report. Based on that evaluation, NTIC’s Chief Executive Officer and Chief Financial Officer concluded
+that NTIC’s disclosure controls and procedures were effective as of the end of such period to provide reasonable assurance
+that information required to be disclosed in the reports that NTIC files or submits under the Exchange Act is recorded, processed,
+summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated
+and communicated to NTIC’s management, including NTIC’s Chief Executive Officer and Chief Financial Officer, as appropriate,
+to allow timely decisions regarding required disclosure.
+ 
+
+
+31
+
+
+ 
+Changes in Internal Control over Financial Reporting
+ 
+Except for the implementation of certain internal controls related to the adoption of
+the new lease standard (Topic 842), there was no change in NTIC’s internal control over financial reporting that occurred
+during the quarter ended November 30, 2019 that has materially affected or is reasonably likely to materially affect NTIC’s
+internal control over financial reporting.
+ 
+
+PART II -OTHER INFORMATION
+
+ 
+
+ITEM 1.LEGAL PROCEEDINGS
+ 
+On March 23, 2015, NTIC and NTI Asean LLC (NTI Asean) filed a lawsuit in Tianjin No 1
+Intermediate People’s Court against two individuals, Tao Meng and Xu Hui, related to breaches of duties and contractual commitments
+owed to NTI Asean under certain agreements related to NTIC’s former joint venture in China, Tianjin Zerust Anti-Corrosion
+Technologies Ltd. (Tianjin Zerust). The lawsuit alleges, among other things, that Mr. Tao Meng and Mr. Xu Hui have engaged in self-dealing,
+usurped business opportunities, and received economic benefits that were required to go to Tianjin Zerust. As of November 30, 2019,
+NTIC is not able to reasonably estimate the amount of any recovery to NTI Asean, if any.
+ 
+
+ITEM 1A.RISK FACTORS
+ 
+This Item 1A is inapplicable to NTIC as a smaller reporting company.
+ 
+
+ITEM 2.UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+ 
+Recent Sales of Unregistered Equity Securities
+ 
+During the three months ended November 30, 2019, NTIC did not issue any shares of its
+common stock or other equity securities of NTIC that were not registered under the Securities Act of 1933, as amended.
+ 
+Issuer Purchases of Equity Securities 
+ 
+The following table shows NTIC’s first quarter of fiscal 2020 stock repurchase
+activity.
+ 
+
+ 
+
+(1)On January 15, 2015, NTIC’s Board of Directors authorized the repurchase of up to $3,000,000
+in shares of NTIC common stock through open market purchases or unsolicited or solicited privately negotiated transactions. This
+program has no expiration date but may be terminated by NTIC’s Board of Directors at any time.
+ 
+
+(2)As of November 30, 2019, up to $2,640,548 in shares of NTIC common stock remained available for
+repurchase under NTIC’s stock repurchase program.
+ 
+
+
+32
+
+
+ 
+
+ITEM 3.DEFAULTS UPON SENIOR SECURITIES
+ 
+Not applicable.
+ 
+
+ITEM 4.MINE SAFETY DISCLOSURES
+ 
+Not applicable.
+ 
+
+ITEM 5.OTHER INFORMATION
+ 
+Not applicable.
+ 
+
+ITEM 6.EXHIBITS
+ 
+The following exhibits are being filed or furnished with this quarterly report on Form
+10-Q:
+ 
+
+ 
+
+
+33
+
+
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has
+duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+
+ 
+ 
+NORTHERN TECHNOLOGIES INTERNATIONAL CORPORATION
+
+ 
+ 
+ 
+
+Date: January 8, 2020
+ 
+
+
+ 
+ 
+Matthew C. Wolsfeld, CPA
+
+ 
+ 
+Chief Financial Officer
+
+ 
+ 
+(Principal Financial and Accounting Officer and
+
+ 
+ 
+Duly Authorized to Sign on Behalf of the Registrant)
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+34
+
+ 
+
+
+

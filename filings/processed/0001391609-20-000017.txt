@@ -1,0 +1,621 @@
+
+10-Q
+1
+f10q_usbl11302019.htm
+FORM 10-Q
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington D.C. 20549
+ 
+FORM 10-Q
+ 
+(Mark One)
+ 
+[X]       QUARTERLY REPORT
+UNDER SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended November 30,
+2019
+ 
+[ ]       TRANSITION
+REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT
+ 
+For the transition period from   to
+ 
+ 
+Commission File Number 1-15913
+ 
+UNITED STATES BASKETBALL LEAGUE, INC.
+(Exact Name of Registrant as Specified in Its
+Charter)
+ 
+ 
+Delaware
+ 
+06-1120072
+
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+
+ 
+ 
+ 
+
+ 
+ 
+183 Plains Road, Suite 2 Milford, Connecticut
+06461
+(Address of Principal Executive Offices)
+ 
+ 
+(203) 877-9508
+(Registrant’s Telephone Number, Including
+Area Code)
+___________________________________________
+(Former Name, Former Address and Former Fiscal
+Year, if Changed
+Since Last Report)
+ 
+Securities registered pursuant to
+Section 12(b) of the Act:
+ 
+
+
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+
+Common Stock
+USBL
+OTC Pink
+
+ 
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [ X ] No [ ]
+ 
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (Section
+232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit
+such files). Yes [ X ] No [ ]
+
+   
+Table of Contents 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company.
+See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”,
+and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+ 
+Large accelerated filer  ☐
+Accelerated filer                 ☐
+
+
+Non-accelerated filer   
+        ☒
+
+Smaller reporting company  ☒
+
+Emerging Growth Company ☐
+ 
+ 
+
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+ 
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act).	 Yes [X] No [ ]
+ 
+Indicate the number of shares outstanding of
+each of the issuer’s classes of common stock as of the latest practicable date. As of November 30, 2019, there were 3,512,527
+shares of Common Stock, $.01 par value per share, outstanding.
+ 
+
+ 2 
+Table of Contents 
+
+ 
+UNITED STATES BASKETBALL LEAGUE, INC.
+ 
+INDEX
+ 
+
+ 
+
+
+
+ 3 
+Table of Contents 
+
+ 
+
+ 
+PART I
+FINANCIAL INFORMATION
+ 
+Item
+1.	Financial Statements.
+ 
+ 
+
+ 
+
+ 4 
+Table of Contents 
+
+ 
+ 
+
+
+UNITED STATES BASKETBALL LEAGUE, INC. 
+
+
+STATEMENTS OF OPERATIONS
+(Unaudited)
+
+
+ 
+
+
+ 
+ 
+
+
+ 5 
+Table of Contents 
+
+
+ 
+ 
+
+
+
+ 
+See notes to financial statements
+ 
+ 
+ 
+
+ 6 
+Table of Contents 
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 7 
+Table of Contents 
+
+ 
+
+UNITED STATES BASKETBALL LEAGUE, INC.
+NOTES TO FINANCIAL STATEMENTS
+NINE MONTHS ENDED NOVEMBER 30, 2019
+(Unaudited)
+ 
+ 
+1.       Description
+of Business and Basis of Presentation:
+ 
+United States Basketball
+League, Inc. (“USBL”), was incorporated in Delaware on May 29, 1984 as a wholly owned subsidiary of Meisenheimer Capital,
+Inc. (“MCI”) for the purpose of developing and managing a professional basketball league, the United States Basketball
+League (the “League”). Since the inception of the League, USBL has been primarily engaged in selling franchises and
+managing the League. From 1985 and up to the present time, USBL has sold a total of approximately forty active franchises (teams),
+a vast majority of which were terminated for non-payment of their respective franchise obligations. The seasons from 2008 through
+2019, inclusive, have been cancelled. At the present time, USBL does not have any definitive plans as to the scheduling of a new
+season. USBL is currently in the process of exploring certain strategic alternatives, including the possible sale of the League.
+ 
+On October 30,
+2014, USBL dissolved its wholly-owned subsidiary, Meisenheimer Capital Real Estate Holdings, Inc. (“MCREH”). MCREH
+owned a commercial building in Milford, Connecticut until June 19, 2014.
+ 
+At November 30, 2019, USBL had negative
+working capital of $2,394,253, and accumulated losses of $5,078,236. These factors, as well as the Company’s reliance on
+related parties (see Notes 3, 4, and 6), raise substantial doubt as to the Company’s ability to continue as a going concern.
+ 
+The Company is making efforts to
+raise equity capital, revitalize the league and market new franchises. However, there can be no assurance that the Company will
+be successful in accomplishing its objectives. The financial statements do not include any adjustments that might be necessary
+should the Company be unable to continue as a going concern.
+ 
+The accompanying unaudited financial
+statements have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission. Accordingly,
+they may not include all of the information and footnotes required by accounting principles generally accepted in the United States
+for complete financial statements. In the opinion of management, the unaudited financial statements reflect all adjustments, which
+include only normal recurring adjustments, necessary for a fair presentation. Operating results for the nine-month period ended
+November 30, 2019 may not necessarily be indicative of the results that may be expected for the year ending February 29, 2020.
+The notes to the consolidated financial statements should be read in conjunction with the notes to the financial statements contained
+in the Company’s Form 10-K for the year ended February 28, 2019.
+ 
+2.       Summary
+of Significant Accounting Policies:
+ 
+Fair value disclosures –
+The carrying amounts of the Company’s financial instruments, which consist of cash and cash equivalents, accounts
+payable and accrued expenses, credit card obligations, and due to related parties, approximate their fair value due to their short
+term nature or based upon values of comparable instruments.
+
+ 8 
+Table of Contents 
+
+
+ 
+Cash and cash equivalents -
+The Company considers all highly liquid debt instruments purchased with a maturity of three months or less to be cash equivalents.
+ 
+Revenue recognition - The
+Company generally uses the accrual method of accounting in these financial statements. However, due to the uncertainty of collecting
+royalty and franchise fees from the franchisees, USBL recorded these revenues upon receipt of cash consideration paid or the performance
+of related services by the franchisee. Franchise fees earned in nonmonetary transactions were recorded at the fair value of the
+franchise granted or the service received, based on which value was more readily determinable. Upon the granting of the franchise,
+the Company had performed essentially all material conditions related to the sale.
+ 
+Income taxes - Deferred
+tax assets and liabilities are determined based on differences between financial reporting and tax bases of assets and liabilities,
+and are measured using the enacted tax rates and laws that will be in effect when the differences are expected to reverse. A valuation
+allowance has been fully provided for the deferred tax asset (approximating $630,000 at February 28, 2019) attributable to the
+USBL net operating loss carryforward.
+ 
+As of February 28, 2019, USBL had
+a net operating loss carryforward of approximately $3,000,000 available to offset future taxable income. The carryforward expires
+in varying amounts from 2020 to 2039. Current United States income tax laws limit the amount of loss available to offset against
+future taxable income when a substantial change in ownership occurs. Therefore, the amount available to offset future taxable income
+may be limited.
+ 
+USBL files Federal and Connecticut
+income tax returns using a December 31 fiscal year. The last returns filed were for the year ended December 31, 2015.
+ 
+Estimates – The
+preparation of financial statements in conformity with accounting principles generally accepted in the United States requires management
+to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reported period.
+Actual results could differ from those estimates.
+ 
+Stock-based compensation
+– Stock-based compensation is accounted for at fair value in accordance with Accounting Standards Codification (“ASC”)
+718, “Compensation – Stock Compensation.” No stock options were granted for the periods presented and none are
+outstanding at November 30, 2019.
+Earnings
+(loss) per share – ASC 260, “Earnings Per Share”, establishes standards
+for computing and presenting earnings (loss) per share (EPS). ASC 260 requires dual presentation of basic and diluted EPS. Basic
+EPS excludes dilution and is computed by dividing net income available to common stockholders by the weighted average number of
+common shares outstanding for the period. Diluted EPS reflects the potential dilution that could occur if stock options or convertible
+securities were exercised or converted into common stock. The Company did not include the 1,105,679 shares of convertible preferred
+stock in its calculation of diluted loss per share for the three and nine months ended November 30, 2019 and 2018 as the result
+would have been antidilutive.
+ 
+Comprehensive income
+– Other comprehensive income (loss) refers to revenues, expenses, gains and losses that under generally accepted accounting
+principles are included in comprehensive income but are excluded from net income (loss) as these amounts are recorded directly
+as an adjustment to stockholders’ equity. Comprehensive income (loss) was equivalent to net income (loss) for all periods
+presented.
+ 
+
+
+
+
+
+
+
+
+
+
+3.Accounts Payable and Accrued Expenses
+
+ 
+Accounts payable and accrued expenses
+consisted of:
+ 
+
+
+ 
+
+
+
+4.Due to Related Parties
+
+ 
+
+
+
+ 
+ 
+
+
+
+ 9 
+Table of Contents 
+
+
+
+ 
+
+
+
+
+
+ 
+5.
+Stockholders’ Equity
+
+ 
+ 
+
+ 
+Each share of common stock has one vote. Each share of preferred stock has five votes, is entitled to a 2% non-cumulative annual dividend, and is convertible at any time into one share of common stock.
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 10 
+Table of Contents 
+
+
+ 
+
+
+Item 2.Management’s Discussion and Analysis
+OF FINANCIAL CONDITION AND RESULTS of Operation.
+ 
+OVERVIEW
+ 
+The Company anticipates continued reliance
+on financial assistance from affiliates. Given the current lack of capital, the Company has not been able to develop any new programs
+to revitalize the League, nor has it been able to hire sales and promotional personnel or schedule a season. As a result, the Company
+is currently dependent on the efforts of its officers for all marketing efforts. Their efforts have not resulted in any franchises.
+ 
+CRITICAL ACCOUNTING POLICIES
+ 
+Revenue Recognition
+ 
+The Company generally uses the accrual method
+of accounting. However, due to the uncertainty of collecting royalty and franchise fees from the franchisees, the USBL recorded
+these revenues upon receipt of cash consideration paid or the performance of related services by the franchisee. Franchise fees
+earned in nonmonetary transactions were recorded at the fair value of the franchise granted or the service received, based on which
+value was more readily determinable. Upon the granting of the franchise, the Company had performed essentially all material conditions
+related to the sale.
+ 
+THREE MONTHS ENDED NOVEMBER 30, 2019 AS COMPARED
+TO NOVEMBER 30, 2018
+ 
+For the three months ended
+November 30, 2019 and 2018, the Company had no franchise fees or advertising revenues as a result of the cancellation of its seasons
+from 2008 through 2019.
+ 
+Operating expenses decreased
+$9,139 from $17,381 for the three months ended November 30, 2018 to $8,242 for the three months ended November 30, 2019. The decrease
+in operating expenses was due to lower professional fees ($4,988), lower transfer agent and EDGAR agent fees ($665), lower travel
+and promotion $592, and lower other operating expenses ($181). In the three months ended November 30, 2019, the Company made one
+periodic SEC filing: the August 31, 2019 Form 10-Q.
+ 
+Other income (expenses),
+net, was $0 in 2019 compared to ($588) in 2018.
+ 
+Net loss for the three
+months ended November 30, 2019 was $8,242 as compared to net loss of $17,969 for the three months ended November 30, 2018. The
+$9,727 decrease in 2019 was due primarily to the $9,139 decrease in operating expenses.
+
+ 11 
+Table of Contents 
+
+
+ 
+NINE MONTHS ENDED NOVEMBER 30, 2019 AS COMPARED
+TO NOVEMBER 30, 2018
+ 
+For the nine months ended
+November 30, 2019 and 2018, the Company had no franchise fees or advertising revenues as a result of the cancellation of its seasons
+from 2008 through 2019.
+ 
+Operating expenses decreased
+$27,523 from $53,840 for the nine months ended November 30, 2018 to $26,317 for the nine months ended November 30, 2019. The decrease
+in operating expenses was due to lower professional fees ($15,890), lower transfer agent and EDGAR agent fees ($2,133), and lower
+travel and promotion ($1,180) offset by lower other operating expenses ($474). In the nine months, the Company made three (3) periodic
+SEC filings: the February 28, 2019 Form 10-K, the May 31, 2019 Form 10-Q, and the August 31, 2019 Form 10-Q. In the nine months
+ended November 30, 2018, the Company made four (4) periodic SEC filings: The November 30, 2017 Form 10-Q, the February 28, 2018
+Form 10-K, the May 31, 2018 Form 10-Q, and the August 31, 2018 Form 10-Q.
+ 
+Other expenses, net, was
+$0 in 2019 compared to $763 in 2018.
+ 
+Net loss for the nine months
+ended November 30, 2019 was $26,317 as compared to net loss of $54,603 for the nine months ended November 30, 2018. The $28,286
+decrease in net loss was due to the $27,523 decrease in operating expenses and the $763 decrease in other expenses, net.
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+The Company had cash of
+$642 and a working capital deficit of $2,394,253 at November 30, 2019. The Company's statement of cash flows for the nine months
+ended November 30, 2019 reflects cash provided in operating activities of $26,317, which results primarily from the $26,317 net
+loss offset by the $6,247 increase in accounts payable and accrued expenses. Net cash provided by financing activities was $21,504
+in 2019 compared to $37,250 in 2018.
+ 
+The Company expects it
+will continue to have to rely on affiliates for loans to assist it in meeting its current obligations. With respect to long term
+needs, the Company recognizes that in order for the USBL and the League to be successful, USBL has to develop a meaningful sales
+and promotional program. This will require an investment of additional capital. Given the Company’s current financial condition,
+the Company’s ability to raise additional capital other than from affiliates is questionable. At the current time, the Company
+has no definitive plan as to how to raise additional capital and schedule a 2020 season.
+
+ 12 
+Table of Contents 
+
+
+ 
+
+
+ITEM 3.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+ 
+Not applicable
+ 
+
+ITEM 4. CONTROLS AND PROCEDURES.
+
+ 
+Under the supervision and
+with the participation of our management, including our principal executive and financial officers, we have evaluated the effectiveness
+of the design and operation of our disclosure controls and procedures as of November 30, 2019 and, based on such evaluation, our
+principal executive and financial officers have concluded that these controls and procedures are effective. There were no changes
+in our internal control over financial reporting that occurred during the quarter ended November 30, 2019 that has materially affected,
+or is reasonably likely to materially affect, our internal control over financial reporting.
+ 
+Disclosure controls and
+procedures are our controls and other procedures that are designed to ensure that information required to be disclosed by us in
+the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported, within the time periods
+specified in the Securities and Exchange Commission’s rules and forms. Disclosure controls and procedures include, without
+limitation, controls and procedures designed to ensure that information required to be disclosed by us in the reports that we file
+under the Exchange Act is accumulated and communicated to our management, including our principal executive and financial officers,
+as appropriate to allow timely decisions regarding required disclosures.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 13 
+Table of Contents 
+
+
+PART II
+OTHER INFORMATION
+ 
+ 
+
+ITEM 6.EXHIBITS. 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 14 
+Table of Contents 
+
+ 
+
+SIGNATURES
+ 
+Pursuant to the requirements the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+UNITED STATES BASKETBALL
+LEAGUE,
+INC.
+ 
+ 
+Date:  February
+                                                                                                                                                                11, 2019
+ 
+By:  /s/ Daniel T. Meisenheimer, III
+
+ 
+ 
+Daniel T. Meisenheimer III
+
+ 
+ 
+Chairman and President
+
+ 
+ 
+
+
+ 
+ 
+ 
+
+Date:  February
+    11, 2019
+ 
+By:  /s/ Richard C. Meisenheimer
+
+ 
+ 
+Richard C. Meisenheimer
+
+ 
+ 
+Chief Financial Officer and
+
+ 
+ 
+Director
+
+ 
+ 
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 15 
+
+
+
+
+
+
+

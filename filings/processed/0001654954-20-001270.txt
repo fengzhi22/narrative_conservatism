@@ -1,0 +1,3796 @@
+
+10-Q
+1
+ptn_10q.htm
+QUARTERLY REPORT
+
+
+
+Blueprint
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+ 
+
+
+
+
+FORM 10 - Q
+ 
+
+
+☑ 
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+
+ 
+
+For the
+quarterly period ended December 31, 2019
+ 
+
+or
+ 
+
+
+☐ 
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+
+ 
+
+For the
+transition period from ___________ to __________
+ 
+
+Commission
+file number: 001-15543
+ 
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+(Exact
+name of registrant as specified in its charter)
+ 
+
+
+
+
+
+
+Delaware
+
+
+ 
+
+
+
+
+95-4078884
+
+
+
+
+(State
+or other jurisdiction of incorporation or
+organization)
+
+
+ 
+
+
+
+(I.R.S.
+Employer Identification No.)
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+4B Cedar Brook Drive
+
+
+Cranbury, New Jersey
+
+
+ 
+
+
+
+
+08512
+
+
+
+
+(Address
+of principal executive offices)
+
+
+ 
+
+
+
+(Zip
+Code)
+
+
+
+ 
+
+
+
+
+(609) 495-2200
+
+(Registrant’s
+telephone number, including area code)
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+
+
+Title of Each Class
+
+
+
+
+Trading Symbol
+
+
+
+
+Name of Each Exchange on Which Registered
+
+
+
+
+Common
+Stock, par value $.01 per share
+
+
+
+PTN
+
+
+
+NYSE
+American
+
+
+
+ 
+
+
+
+Indicate
+by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934, as amended during the preceding 12 months (or
+for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☑ No
+☐
+ 
+
+Indicate
+by check mark whether the registrant has submitted electronically,
+every Interactive Data File required to be submitted pursuant to
+Rule 405 of Regulation S-T 
+(§232.405 of this chapter) during the preceding 12
+months (or for such shorter period that the registrant was required
+to submit such files). Yes ☑   No ☐
+ 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer,
+an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of
+“large accelerated filer,” “accelerated
+filer,” “smaller reporting company,” and
+“emerging growth company” in Rule 12b-2 of the Exchange
+Act:
+ 
+
+
+
+
+
+Large
+accelerated filer
+
+
+
+☐
+
+
+
+Accelerated
+filer
+
+
+
+☑
+
+
+
+
+Non-accelerated
+filer
+
+
+
+☐
+
+
+
+Smaller
+reporting company
+
+
+
+☑
+
+
+
+
+Emerging
+growth company
+
+
+
+☐
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+If an
+emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided
+pursuant to Section 7(a)(2)(B) of the Exchange Act.
+☐
+ 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act). Yes ☐ No
+☑
+ 
+
+Indicate
+the number of shares outstanding of each of the registrant’s
+classes of common stock, as of the latest practicable date
+(February 7, 2020): 229,240,596
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+
+
+ 
+
+
+Table of Contents
+ 
+
+
+
+
+
+
+   
+
+
+
+ 
+i
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+Special Note Regarding Forward-Looking Statements
+ 
+
+In this
+Quarterly Report on Form 10-Q (this “Quarterly Report”)
+references to “we,” “our,”
+“us,” the “Company” or
+“Palatin” means Palatin Technologies, Inc. and its
+subsidiary.
+ 
+
+Statements
+in this Quarterly Report, as well as oral statements that may be
+made by us or by our officers, directors, or employees acting on
+our behalf, that are not historical facts constitute
+“forward-looking statements,” which are made pursuant
+to the safe harbor provisions of Section 21E of the Securities
+Exchange Act of 1934 (the “Exchange Act”). The
+forward-looking statements in this Quarterly Report do not
+constitute guarantees of future performance. Investors are
+cautioned that statements that are not strictly historical facts
+contained in this Quarterly Report, including, without limitation,
+the following are forward looking statements:
+ 
+
+
+● 
+our ability, and
+the ability of our licensees, to successfully commercialize
+Vyleesi® (the trade name for bremelanotide) for the treatment
+of premenopausal women with acquired, generalized hypoactive sexual
+desire disorder (“HSDD”) or obtain approvals in
+countries other than the United States;
+
+
+ 
+
+
+● 
+our expectations
+regarding performance of our exclusive licensees of Vyleesi for the
+treatment of premenopausal women with HSDD, which is a type of
+female sexual dysfunction (“FSD”),
+including:
+
+
+ 
+
+
+
+●
+AMAG
+Pharmaceuticals, Inc. (“AMAG”) for North
+America,
+
+
+
+
+
+●
+Shanghai Fosun
+Pharmaceutical Industrial Development Co. Ltd.
+(“Fosun”), a subsidiary of Shanghai Fosun
+Pharmaceutical (Group) Co., Ltd., for the territories of the
+People’s Republic of China, Taiwan, Hong Kong S.A.R. and
+Macau S.A.R. (collectively, “China”), and
+
+
+
+
+
+●
+Kwangdong
+Pharmaceutical Co., Ltd. (“Kwangdong”) for the Republic
+of Korea (“Korea”);
+
+
+
+ 
+
+
+
+● 
+the impact of and
+our expectations regarding AMAG’s announcement of its intent
+to divest Vyleesi and its other woman’s healthcare product,
+Intrarosa® (prasterone);
+
+
+ 
+
+
+● 
+our expectation
+regarding the timing of regulatory submissions and approvals of
+Vyleesi for HSDD in jurisdictions outside the United
+States;
+
+
+ 
+
+
+● 
+estimates of our
+expenses, future revenue and capital requirements;
+
+
+ 
+
+
+● 
+our ability to
+achieve revenues from the sale of our product candidates, and to
+achieve and maintain profitability;
+
+
+ 
+
+
+● 
+our ability to
+advance product candidates into, and successfully complete,
+clinical trials;
+
+
+ 
+
+
+● 
+the initiation,
+timing, progress and results of future preclinical studies and
+clinical trials, and our research and development
+programs;
+
+
+ 
+
+
+● 
+our expectations
+regarding the potential market size and market acceptance for
+Vyleesi for HSDD and our other product candidates, if approved for
+commercial use;
+
+
+ 
+
+
+● 
+our expectations
+regarding the clinical efficacy and utility of our melanocortin
+agonist product candidates for treatment of inflammatory and
+autoimmune related diseases and disorders, including ocular
+indications;
+
+
+ 
+
+
+● 
+our ability to
+compete with other products and technologies treating the same or
+similar indications as our product candidates;
+
+
+ 
+
+
+● 
+the ability of our
+third-party collaborators to timely carry out their duties under
+their agreements with us;
+
+
+ 
+
+
+● 
+the ability of our
+contract manufacturers to perform their manufacturing activities
+for us in compliance with applicable regulations;
+
+
+ 
+
+
+● 
+our ability to
+recognize the potential value of our licensing arrangements with
+third parties;
+
+
+ 
+
+
+● 
+our ability to
+obtain adequate reimbursement from Medicare, Medicaid, private
+insurers and other healthcare payers;
+
+
+ 
+
+
+● 
+our ability to
+maintain product liability insurance at a reasonable cost or in
+sufficient amounts, if at all;
+
+
+ 
+
+
+ 
+ii
+
+
+
+
+ 
+
+
+ 
+
+
+● 
+the performance and
+retention of our management team, senior staff professionals, and
+third-party contractors and consultants;
+
+
+ 
+
+
+● 
+the scope of
+protection we are able to establish and maintain for intellectual
+property rights covering our product candidates and technology in
+the United States and throughout the world;
+
+
+ 
+
+
+● 
+our compliance with
+federal and state laws and regulations;
+
+
+ 
+
+
+● 
+the timing and
+costs associated with obtaining regulatory approval for our product
+candidates;
+
+
+ 
+
+
+● 
+our ability to
+obtain additional financing on terms acceptable to us, or to
+all;
+
+
+ 
+  
+
+
+
+
+
+● 
+the impact of
+fluctuations in foreign exchange rates;
+
+
+ 
+
+
+● 
+the impact of
+legislative or regulatory healthcare reforms in the United
+States;
+
+
+ 
+
+
+● 
+our ability to
+adapt to changes in global economic conditions as well as competing
+products and technologies; and
+
+
+ 
+
+
+● 
+our ability to
+remain listed on the NYSE American stock exchange.
+
+
+ 
+
+Such
+forward-looking statements involve risks, uncertainties and other
+factors that could cause our actual results to be materially
+different from historical results or from any results expressed or
+implied by such forward-looking statements. Our future operating
+results are subject to risks and uncertainties and are dependent
+upon many factors, including, without limitation, the risks
+identified under the caption “Risk Factors” and
+elsewhere in this Quarterly Report, and any of those made in our
+other reports filed with the U.S. Securities and Exchange
+Commission (the “SEC”). Except as required by law, we
+do not intend, and undertake no obligation, to publicly update
+forward-looking statements to reflect events or circumstances after
+the date of this document or to reflect the occurrence of
+unanticipated events.
+ 
+
+Palatin
+Technologies® is a registered trademark of Palatin
+Technologies, Inc. Vyleesi® is a registered trademark of AMAG
+Pharmaceuticals, Inc. in North America and of Palatin Technologies,
+Inc. elsewhere in the world.
+ 
+
+
+
+
+
+ 
+iii
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+PART I – FINANCIAL
+INFORMATION
+ 
+
+
+Item 1. Financial Statements.
+ 
+
+ 
+
+
+PALATIN TECHNOLOGIES,
+INC.
+
+
+and Subsidiary
+
+
+Consolidated Balance Sheets
+
+(unaudited)
+ 
+
+
+
+
+
+ 
+
+
+
+The
+accompanying notes are an integral part of these consolidated
+financial statements.
+
+ 
+
+
+
+
+
+ 
+1
+
+
+
+
+
+ 
+
+
+  
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+
+Consolidated Statements of Operations
+
+(unaudited)
+ 
+
+
+
+
+
+ 
+
+
+
+The
+accompanying notes are an integral part of these consolidated
+financial statements.
+
+ 
+
+
+
+
+
+ 
+2
+
+
+
+
+
+ 
+
+
+
+   
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+
+Consolidated Statements of Stockholders’ Equity
+
+(unaudited)
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+The
+accompanying notes are an integral part of these consolidated
+financial statements.
+
+ 
+
+
+
+ 
+3
+
+
+
+
+
+ 
+
+
+
+   
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+
+Consolidated Statements of Stockholders’ Equity
+
+
+(unaudited)
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+The
+accompanying notes are an integral part of these consolidated
+financial statements.
+
+ 
+
+
+
+ 
+4
+
+
+
+
+
+ 
+
+
+
+   
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+
+Consolidated Statements of Cash Flows
+
+(unaudited)
+ 
+
+
+
+
+
+
+ 
+
+The
+accompanying notes are an integral part of these consolidated
+financial statements.
+
+ 
+
+
+
+ 
+5
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+
+(1)            
+ORGANIZATION
+
+
+ 
+
+
+Nature of Business - Palatin Technologies, Inc.
+(“Palatin” or the “Company”) is a
+specialized biopharmaceutical company developing first-in-class
+medicines based on molecules that modulate the activity of the
+melanocortin and natriuretic peptide receptor systems. The
+Company’s product candidates are targeted, receptor-specific
+therapeutics for the treatment of diseases with significant unmet
+medical need and commercial potential.
+ 
+
+
+Melanocortin Receptor System. The melanocortin receptor
+(“MCr”) system is hormone driven, with effects on food
+intake, metabolism, sexual function, inflammation and immune system
+responses. There are five melanocortin receptors, MC1r through
+MC5r. Modulation of these receptors, through use of
+receptor-specific agonists, which activate receptor function, or
+receptor-specific antagonists, which block receptor function, can
+have significant pharmacological effects.
+ 
+
+The
+Company’s lead product, Vyleesi®, was approved by the
+U.S. Food and Drug Administration (“FDA”) in June 2019
+and is being marketed in North America by AMAG Pharmaceuticals,
+Inc. (“AMAG”) for the treatment of hypoactive sexual
+desire disorder (“HSDD”) in premenopausal
+women.
+ 
+
+The
+Company’s new product development activities focus primarily
+on MC1r agonists, with potential to treat inflammatory and
+autoimmune diseases such as dry eye disease, which is also known as
+keratoconjunctivitis sicca, uveitis, diabetic retinopathy and
+inflammatory bowel disease. The Company believes that the MC1r
+agonist peptides in development have broad anti-inflammatory
+effects and appear to utilize mechanisms engaged by the endogenous
+melanocortin system in regulation of the immune system and
+resolution of inflammatory responses. The Company is also
+developing peptides that are active at more than one melanocortin
+receptor, and MC4r peptide and small molecule agonists with
+potential utility in obesity and metabolic-related disorders,
+including rare disease and orphan indications.
+ 
+
+
+Natriuretic Peptide Receptor System. The natriuretic peptide
+receptor (“NPR”) system regulates cardiovascular
+functions, and therapeutic agents modulating this system have
+potential to treat cardiovascular and fibrotic diseases. The
+Company has designed and is developing potential NPR candidate
+drugs selective for one or more different natriuretic peptide
+receptors, including natriuretic peptide receptor-A
+(“NPR-A”), natriuretic peptide receptor B
+(“NPR-B”), and natriuretic peptide receptor C
+(“NPR-C”).
+ 
+
+
+Business Risk and Liquidity – Since inception, the
+Company has incurred negative cash flows from operations, and has
+expended, and expects to continue to expend, substantial funds to
+complete its planned product development efforts. As shown in the
+accompanying consolidated financial statements, the Company had an
+accumulated deficit as of December 31, 2019 of $305,517,455 and a
+net loss for the three and six months ended December 31, 2019 of
+$5,243,627 and $9,744,576, respectively, and the Company
+anticipates incurring significant expenses in the future as a
+result of spending on its development programs and will require
+substantial additional financing or revenues to continue to fund
+its planned developmental activities. To achieve sustained
+profitability, if ever, the Company, alone or with others, must
+successfully develop and commercialize its technologies and
+proposed products, conduct successful preclinical studies and
+clinical trials, obtain required regulatory approvals and
+successfully manufacture and market such technologies and proposed
+products. The time required to reach sustained profitability is
+highly uncertain, and the Company may never be able to achieve
+profitability on a sustained basis, if at all.
+ 
+
+As of
+December 31, 2019, the Company’s cash and cash equivalents
+were $91,459,480 and current liabilities were $1,374,940.
+Management intends to utilize existing capital resources for
+general corporate purposes and working capital, including
+preclinical and clinical development of the Company’s MC1r
+and MC4r peptide programs and natriuretic peptide program, and
+development of other portfolio products.
+ 
+
+Management
+believes that the Company’s existing capital resources will
+be adequate to fund the Company’s planned operations through
+at least calendar year 2021. The Company will need additional
+funding to complete required clinical trials for its other product
+candidates and, assuming those clinical trials are successful, as
+to which there can be no assurance, to complete submission of
+required applications to the FDA. If the Company is unable to
+obtain approval or otherwise advance in the FDA approval process,
+the Company’s ability to sustain its operations could be
+materially adversely affected.
+
+ 
+
+
+
+
+
+ 
+6
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+The
+Company may seek the additional capital necessary to fund its
+operations through public or private equity offerings,
+collaboration agreements, debt financings or licensing
+arrangements. Additional capital that is required by the Company
+may not be available on reasonable terms, or at all.
+ 
+
+
+Concentrations – Concentrations in the Company’s
+assets and operations subject it to certain related risks.
+Financial instruments that subject the Company to concentrations of
+credit risk primarily consist of cash and cash equivalents. The
+Company’s cash and cash equivalents are primarily invested in
+one money market account sponsored by a large financial
+institution. For the three and six months ended December 31, 2019,
+the Company reported $20,610 and $117,989 in revenue, respectively,
+solely related to a license agreement with AMAG for Vyleesi for
+North America (“AMAG License Agreement”) (Notes 5 and
+14). For the six months ended December 31, 2018, the Company
+reported $34,505 in revenue solely related to the AMAG License
+Agreement.
+ 
+
+
+ (2)            
+BASIS
+OF PRESENTATION
+
+
+ 
+
+The
+accompanying unaudited consolidated financial statements have been
+prepared in accordance with accounting principles generally
+accepted in the United States of America (“U.S. GAAP”)
+for interim financial information and with the instructions to Form
+10-Q. Accordingly, they do not include all of the information and
+footnote disclosures required to be presented for complete
+financial statements. In the opinion of management, these
+consolidated financial statements contain all adjustments
+(consisting of normal recurring adjustments) considered necessary
+for fair presentation. The results of operations for the three and
+six months ended December 31, 2019 may not necessarily be
+indicative of the results of operations expected for the full
+year.
+ 
+
+The
+accompanying unaudited consolidated financial statements should be
+read in conjunction with the audited consolidated financial
+statements and notes thereto included in the Company’s Annual
+Report on Form 10-K for the year ended June 30, 2019, filed with
+the Securities and Exchange Commission (“SEC”), which
+includes consolidated financial statements as of June 30, 2019 and
+2018 and for each of the fiscal years in the three-year period
+ended June 30, 2019.
+ 
+
+
+(3)            
+SUMMARY
+OF SIGNIFICANT ACCOUNTING POLICIES
+
+
+ 
+
+
+Principles of Consolidation – The consolidated
+financial statements include the accounts of Palatin and its
+wholly-owned inactive subsidiary. All intercompany accounts and
+transactions have been eliminated in consolidation.
+ 
+
+
+Use of Estimates – The preparation of consolidated
+financial statements in conformity with U.S. GAAP requires
+management to make estimates and assumptions that affect the
+reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the consolidated
+financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ
+from those estimates.
+ 
+
+
+Cash and Cash Equivalents – Cash and cash equivalents
+include cash on hand, cash in banks and all highly liquid
+investments with a purchased maturity of less than three months.
+Cash equivalents consist of $91,257,600 and $43,381,556 in a money
+market account at December 31, 2019 and June 30, 2019,
+respectively.
+ 
+
+
+Fair Value of Financial Instruments – The
+Company’s financial instruments consist primarily of cash
+equivalents, accounts receivable and accounts payable. Management
+believes that the carrying values of cash equivalents, accounts
+receivable and accounts payable are representative of their
+respective fair values based on the short-term nature of these
+instruments.
+ 
+
+
+Credit Risk – Financial instruments which potentially
+subject the Company to concentrations of credit risk consist
+principally of cash and cash equivalents. Total cash and cash
+equivalent balances have exceeded balances insured by the Federal
+Depository Insurance Company (“FDIC”).
+ 
+
+
+Property and Equipment – Property and equipment
+consists of office and laboratory equipment, office furniture and
+leasehold improvements and includes assets acquired under capital
+leases. Property and equipment are recorded at cost. Depreciation
+is recognized using the straight-line method over the estimated
+useful lives of the related assets, generally five years for
+laboratory and computer equipment, seven years for office furniture
+and equipment and the lesser of the term of the lease or the useful
+life for leasehold improvements. Amortization of assets acquired
+under capital leases is included in depreciation expense.
+Maintenance and repairs are expensed as incurred while expenditures
+that extend the useful life of an asset are capitalized.
+Accumulated depreciation and amortization was $2,425,149 and
+$2,388,644 as of December 31, 2019 and June 30, 2019,
+respectively.
+
+ 
+
+
+
+
+
+ 
+7
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+
+Impairment of Long-Lived Assets – The Company reviews
+its long-lived assets for impairment whenever events or changes in
+circumstances indicate that the carrying amount of the assets may
+not be fully recoverable. To determine recoverability of a
+long-lived asset, management evaluates whether the estimated future
+undiscounted net cash flows from the asset are less than its
+carrying amount. If impairment is indicated, the long-lived asset
+would be written down to fair value. Fair value is determined by an
+evaluation of available price information at which assets could be
+bought or sold, including quoted market prices, if available, or
+the present value of the estimated future cash flows based on
+reasonable and supportable assumptions.
+ 
+
+
+Revenue Recognition – In
+May 2014, the Financial Accounting Standards Board
+(“FASB”) issued Accounting Standards Update
+(“ASU”) No. 2014-09, Revenue from Contracts with
+Customers (“ASC Topic
+606”), which, along with amendments from 2015 and 2016
+requires an entity to recognize the amount of revenue to which it
+expects to be entitled for the transfer of promised goods or
+services to customers. ASC Topic 606 replaced most existing revenue
+recognition guidance in U.S. GAAP when it became
+effective.
+ 
+
+
+On July 1, 2018, the Company adopted ASC Topic 606 using the
+modified retrospective approach, a practical expedient permitted
+under ASC Topic 606, and applied this approach only to contracts
+that were not completed as of July 1, 2018.
+ 
+
+For
+licenses of intellectual property, the Company assesses, at
+contract inception, whether the intellectual property is distinct
+from other performance obligations identified in the arrangement.
+If the licensing of intellectual property is determined to be
+distinct, revenue is recognized for nonrefundable, upfront license
+fees when the license is transferred to the customer and the
+customer can use and benefit from the license. If the licensing of
+intellectual property is determined not to be distinct, then the
+license will be bundled with other promises in the arrangement into
+one performance obligation. The Company needs to determine if the
+bundled performance obligation is satisfied over time or at a point
+in time. If the Company concludes that the nonrefundable, upfront
+license fees will be recognized over time, the Company will need to
+assess the appropriate method of measuring proportional
+performance.
+ 
+
+Regulatory
+milestone payments are excluded from the transaction price due to
+the inability to estimate the probability of reversal. Revenue
+relating to achievement of these milestones is recognized in the
+period in which the milestone is achieved.
+ 
+
+Sales-based
+royalty and milestone payments resulting from customer contracts
+solely or predominately for the license of intellectual property
+will only be recognized upon occurrence of the underlying sale or
+achievement of the sales milestone and such sales-based royalties
+and milestone payments are recognized in the same period
+earned.
+ 
+
+
+The Company recognizes revenue for reimbursements of research and
+development costs under collaboration agreements as the services
+are performed. The Company records these reimbursements as revenue
+and not as a reduction of research and development expenses as the
+Company is the principal in the research and development activities
+based upon its control of such activities, which is considered part
+of its ordinary activities.
+ 
+
+
+Development milestone payments are generally due 30 business days
+after the milestone is achieved. Sales milestone payments are
+generally due 45 business days after the calendar year in which the
+sales milestone is achieved. Royalty payments are generally due on
+a quarterly basis 20 business days after being
+invoiced.
+ 
+
+
+Research and Development Costs – The costs of research
+and development activities are charged to expense as incurred,
+including the cost of equipment for which there is no alternative
+future use.
+ 
+
+
+Accrued Expenses – Third parties perform a significant
+portion of the Company’s development activities. The Company
+reviews the activities performed under all contracts each quarter
+and accrues expenses and the amount of any reimbursement to be
+received from its collaborators based upon the estimated amount of
+work completed. Estimating the value or stage of completion of
+certain services requires judgment based on available information.
+If the Company does not identify services performed for it but not
+billed by the service-provider, or if it underestimates or
+overestimates the value of services performed as of a given date,
+reported expenses will be understated or overstated.
+
+ 
+
+
+
+
+
+ 
+8
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+
+Stock-Based Compensation – The Company charges to
+expense the fair value of stock options and other equity awards
+granted. Compensation costs for stock-based awards with time-based
+vesting are determined using the quoted market price of the
+Company’s common stock on the date of grant or for stock
+options, the value determined utilizing the Black-Scholes option
+pricing model, and are recognized on a straight-line basis, while
+awards containing a market condition are valued using multifactor
+Monte Carlo simulations. Compensation costs for awards containing a
+performance condition are determined using the quoted price of the
+Company’s common stock on the date of grant or for stock
+options, the value is determined utilizing the Black Scholes option
+pricing model, and are recognized based on the probability of
+achievement of the performance condition over the service period.
+Forfeitures are recognized as they occur.
+ 
+
+
+Income Taxes – The Company and its subsidiary file
+consolidated federal and separate-company state income tax returns.
+Income taxes are accounted for under the asset and liability
+method. Deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the
+financial statement carrying amounts of assets and liabilities and
+their respective tax basis and operating loss and tax credit
+carryforwards. Deferred tax assets and liabilities are measured
+using enacted tax rates expected to apply to taxable income in the
+years in which those temporary differences or operating loss and
+tax credit carryforwards are expected to be recovered or settled.
+The effect on deferred tax assets and liabilities of a change in
+tax rates is recognized in the period that includes the enactment
+date. The Company has recorded and continues to maintain a full
+valuation allowance against its deferred tax assets based on the
+history of losses incurred and lack of experience projecting future
+sales-based royalty and milestone payments.
+ 
+
+
+Net Loss per Common Share - Basic and diluted loss per
+common share (“EPS”) are calculated in accordance with
+the provisions of FASB Accounting Standards Codification
+(“ASC”) Topic 260, Earnings per Share.
+ 
+
+For the
+three and six months ended December 31, 2019 and 2018, no
+additional common shares were added to the computation of diluted
+EPS because to do so would have been anti-dilutive. The potential
+number of common shares excluded from diluted EPS during the three
+and six months ended December 31, 2019 and 2018 was 33,143,857 and
+40,850,175 respectively.
+ 
+
+Included
+in the weighted average common shares used in computing basic and
+diluted net loss per common share are 6,167,750 and 3,952,875
+vested restricted stock units that had not been issued as of
+December 31, 2019 and 2018, respectively, due to a provision in the
+restricted stock unit agreements to delay delivery.
+ 
+
+
+(4)            
+NEW
+AND RECENTLY ADOPTED ACCOUNTING PRONOUNCEMENTS
+
+
+ 
+
+
+In December 2019, the FASB issued ASU No. 2019-12,
+Income
+Taxes (Topic 740): Simplifying the Accounting for Income
+Taxes. The amendments in this
+update simplify the accounting for income taxes by removing certain
+exceptions to the general principles in Topic 740. The amendments
+also improve consistent application and simplify U.S. GAAP for
+other areas of Topic 740 by clarifying and amending existing
+guidance. The guidance is effective for public entities for fiscal
+years beginning after December 15, 2020, and for interim periods
+within those fiscal years, with early adoption permitted. The
+guidance is applicable to the Company beginning July 1, 2021. The
+Company is currently evaluating the potential effects of this
+guidance on its consolidated financial
+statements.
+ 
+
+
+In November 2018, the FASB issued ASU No. 2018-18,
+Collaborative
+Arrangements (Topic 808): Clarifying the Interaction between Topic
+808 and Topic 606. This
+update provides clarification on the interaction between Revenue
+Recognition (Topic 606) and Collaborative Arrangements (Topic 808),
+including the alignment of unit of account guidance between the two
+topics. The guidance is
+effective for public entities for fiscal years beginning after
+December 15, 2019, and for interim periods within those fiscal
+years, with early adoption permitted. The guidance is
+applicable to the Company beginning July 1, 2020. The Company is
+currently evaluating the potential effects of this guidance on its
+consolidated financial statements.
+ 
+
+In June
+2016, the FASB issued ASU No. 2016-13, Financial Instruments - Credit Losses:
+Measurement of Credit Losses on Financial Instruments, which
+requires measurement and recognition of expected credit losses for
+financial assets held at the reporting date based on historical
+experience, current conditions, and reasonable and supportable
+forecasts. This is different from the current guidance as this will
+require immediate recognition of estimated credit losses expected
+to occur over the remaining life of many financial assets. The new
+guidance will be effective for the Company on July 1, 2020. The
+Company is currently evaluating the effect that ASU No. 2016-13
+will have on its consolidated financial statements and related
+disclosures.
+
+ 
+
+
+
+
+
+ 
+9
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+On July
+1, 2019, the Company adopted the requirements of ASU No.2016-02,
+Leases (“Topic
+842”). The objective of this ASU, along with several related
+ASUs issued subsequently, is to increase transparency and
+comparability between organizations that enter into lease
+agreements. For lessees, the key difference of the new standard
+from the previous guidance (“Topic 840”) is the
+recognition of a right-of-use (“ROU”) asset and lease
+liability on the balance sheet. The most significant change is the
+requirement to recognize ROU assets and lease liabilities for
+leases classified as operating leases. The standard requires
+disclosures to meet the objective of enabling users of financial
+statements to assess the amount, timing, and uncertainty of cash
+flows arising from leases. As part of the transition to the new
+standard, the Company elected to measure and recognize leases that
+existed at July 1, 2019 using a modified retrospective approach,
+including the option to not restate comparative periods. For leases
+existing at the effective date, the Company elected the package of
+three transition practical expedients and therefore did not
+reassess whether an arrangement is or contains a lease, did not
+reassess lease classification, and did not reassess what qualifies
+as an initial direct cost. Additionally, the Company elected, as
+practical expedients, not separating lease and non-lease components
+for all of its leases and the short-term lease recognition
+exemption for all of its leases that qualify. The Company did not
+elect the use of the hindsight practical expedient. The adoption of
+Topic 842 resulted in the recognition of an operating ROU asset and
+operating lease liability of $225,134 as of July 1, 2019. The
+adoption did not have a material impact on the consolidated
+statements of operations, stockholder’s equity and cash flows
+for the six months ended December 31, 2019.
+ 
+
+At
+lease inception, the Company determines whether an arrangement is
+or contains a lease. Operating leases are included in operating
+lease ROU assets, current operating lease liabilities, and
+noncurrent operating lease liabilities in the consolidated
+financial statements. ROU assets represent the Company’s
+right to use leased assets over the term of the lease. Lease
+liabilities represent the Company’s contractual obligation to
+make lease payments over the lease term. For operating leases, ROU
+assets and lease liabilities are recognized at the commencement
+date. The lease liability is measured as the present value of the
+lease payments over the lease term. The Company uses the rate
+implicit in the lease if it is determinable. When the rate implicit
+in the lease is not determinable, the Company uses an estimate
+based on a hypothetical rate provided by a third party as the
+Company currently does not have issued debt. Operating ROU assets
+are calculated as the present value of the remaining lease payments
+plus unamortized initial direct costs plus any prepayments less any
+unamortized lease incentives received. Lease terms may include
+renewal or extension options to the extent they are reasonably
+certain to be exercised. The assessment of whether renewal or
+extension options are reasonably certain to be exercised is made at
+lease commencement. Factors considered in determining whether an
+option is reasonably certain of exercise include, but are not
+limited to, the value of any leasehold improvements, the value of
+renewal rates compared to market rates, and the presence of factors
+that would cause incremental costs to the Company if the option
+were not exercised. Lease expense is recognized on a straight-line
+basis over the lease term. The Company has elected not to recognize
+an ROU asset and obligation for leases with an initial term of
+twelve months or less. The expense associated with short term
+leases is included in general and administrative expense in the
+statement of operations. To the extent a lease arrangement includes
+both lease and non-lease components, the Company has elected to
+account for the components as a single lease
+component.
+ 
+
+
+ (5)            
+AGREEMENT
+WITH AMAG
+
+
+ 
+
+On
+January 8, 2017, the Company entered into the AMAG License
+Agreement. Under the terms of the AMAG License Agreement, the
+Company granted to AMAG (i) an exclusive license in all countries
+of North America (the “Territory”), with the right to
+grant sub-licenses, to research, develop and commercialize products
+containing Vyleesi (each a “Product”, and collectively,
+“Products”), (ii) a non-exclusive license in the
+Territory, with the right to grant sub-licenses, to manufacture the
+Products, and (iii) a non-exclusive license in all countries
+outside the Territory, with the right to grant sub-licenses, to
+research, develop and manufacture (but not commercialize) the
+Products.
+
+ 
+
+
+
+
+
+ 
+10
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+Following
+the satisfaction of certain conditions to closing, the license
+agreement became effective on February 2, 2017. On that date, AMAG
+paid the Company $60,000,000 as a one-time initial payment.
+Pursuant to the terms of and subject to the conditions in the AMAG
+License Agreement, AMAG was required to reimburse the Company up to
+an aggregate amount of $25,000,000 for reasonable, documented,
+direct out-of-pocket expenses incurred by the Company following
+February 2, 2017, in connection with the development and regulatory
+activities necessary to file a New Drug Application
+(“NDA”) for Vyleesi for HSDD in the United States
+related to Palatin’s development obligations.
+ 
+
+The
+Company determined there was no stand-alone value for the license,
+and that the license and the reimbursable direct out-of-pocket
+expenses, pursuant to the terms of the License Agreement,
+represented a combined unit of accounting which totaled
+$85,000,000. The Company recognized revenue of the combined unit of
+accounting over the arrangement using the input-based proportional
+method as the Company completed its development obligations. During
+the three and six months ended December 31, 2019, license and
+contract revenue included additional billings for AMAG related
+Vyleesi costs of $20,610 and $117,989, respectively. During the six
+months ended December 31, 2018, license and contract revenue
+included additional billings for AMAG related Vyleesi costs of
+$34,505.
+ 
+
+On June
+4, 2018, the FDA accepted the Vyleesi NDA for filing. The
+FDA’s acceptance triggered a $20,000,000 milestone payment to
+Palatin from AMAG. As a result, the Company recognized $20,000,000
+in revenue related to regulatory milestones in fiscal 2018. On June
+21, 2019, the FDA granted approval of Vyleesi for use in the United
+States. The FDA’s approval triggered a $60,000,000 milestone
+payment to Palatin from AMAG. As a result, the Company recognized
+$60,000,000 in revenue related to regulatory milestones in fiscal
+2019. In addition, pursuant to the terms of and subject to the
+conditions in the AMAG License Agreement, the Company is eligible
+to receive from AMAG up to $300,000,000 in sales milestone payments
+based on achievement of certain annual net sales for all Products
+in the Territory.
+ 
+
+AMAG is
+also obligated to pay the Company tiered royalties on annual net
+sales of Products, on a product-by-product basis, in the Territory
+ranging from the high single-digits to the low double-digits. The
+royalties will expire on a product-by-product and
+country-by-country basis upon the latest to occur of (i) the
+earliest date on which there are no valid claims of the
+Company’s patent rights covering such Product in such
+country, (ii) the expiration of the regulatory exclusivity period
+for such Product in such country and (iii) ten years following the
+first commercial sale of such Product in such country. Such
+royalties are subject to reductions in the event that:
+(a) AMAG must license additional third-party intellectual
+property in order to develop, manufacture or commercialize a
+Product, or (b) generic competition occurs with respect to a
+Product in a given country, subject to an aggregate cap on such
+deductions of royalties otherwise payable to the Company. After the
+expiration of the applicable royalties for any Product in a given
+country, the license for such Product in such country will become a
+fully paid-up, royalty-free, perpetual and irrevocable license. See
+note 14 for additional information related to AMAG.
+ 
+
+The
+Company engaged Greenhill & Co. LLC (“Greenhill”)
+as the Company’s sole financial advisor in connection with a
+potential transaction with respect to Vyleesi. Under the
+engagement agreement with Greenhill, the Company was obligated to
+pay Greenhill a fee equal to 2% of all proceeds and consideration,
+as defined, paid or to be paid to the Company by AMAG in connection
+with the AMAG License Agreement, subject to a minimum fee of
+$2,500,000. The minimum fee of $2,500,000, less a credit of $50,000
+for an advisory fee previously paid by the Company, was paid to
+Greenhill and recorded as an expense upon the closing of the
+licensing transaction. This amount was credited toward amounts that
+were to become due to Greenhill, provided that the aggregate fee
+payable to Greenhill would not be less than 2% of all proceeds and
+consideration, as defined, paid or to be paid to the Company by
+AMAG in connection with the AMAG License Agreement. On November 21,
+2019, the Company and Greenhill mutually agreed to terminate the
+engagement agreement. As a result, the Company made a final payment
+to Greenhill of $625,000, which was recorded in general and
+administrative expenses during the three and six months ended
+December 31, 2019. The Company has no future payment obligations to
+Greenhill.
+ 
+
+Pursuant
+to the AMAG License Agreement, the Company has assigned to AMAG the
+Company’s manufacturing and supply agreements with Catalent
+Belgium S.A. to perform fill, finish and packaging of
+Vyleesi.
+
+ 
+
+
+
+
+
+ 
+11
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+
+(6)            
+AGREEMENT
+WITH FOSUN:
+
+
+ 
+
+On
+September 6, 2017, the Company entered into a license agreement
+with Fosun (“Fosun License Agreement”) for exclusive
+rights to commercialize Vyleesi in China. Under the terms of the
+agreement, the Company received $4,500,000 in October 2017, which
+consisted of an upfront payment of $5,000,000 less $500,000 that
+was withheld in accordance with tax withholding requirements in the
+Chinese Territories and recorded as an expense during the year
+ended June 30, 2018. The Company will receive a $7,500,000
+milestone payment when regulatory approval in China is obtained,
+provided that a commercial supply agreement for Vyleesi has been
+entered into. Palatin has the potential to receive up to
+$92,500,000 in additional sales related milestone payments and high
+single-digit to low double-digit royalties on net sales in the
+licensed territory. All development, regulatory, sales, marketing,
+and commercial activities and associated costs in the licensed
+territory will be the sole responsibility of Fosun.
+ 
+
+
+(7)            
+AGREEMENT
+WITH KWANGDONG:
+
+
+ 
+
+On
+November 21, 2017, the Company entered into a license agreement with Kwangdong
+(“Kwangdong License Agreement”) for exclusive
+rights to commercialize Vyleesi in Korea. Under the terms of
+the agreement, the Company received $417,500 in December 2017,
+consisting of an upfront payment of $500,000, less $82,500, which
+was withheld in accordance with tax withholding requirements in
+Korea and recorded as an expense during the year ended June 30,
+2018. Based upon certain refund provisions, the upfront payment was
+recorded as non-current deferred revenue at December 31, 2017.
+On July 1, 2018, in conjunction with
+the adoption of ASC Topic 606, a one-time transition adjustment of
+$500,000 was recorded to the opening balance of accumulated deficit
+as the Company determined a significant revenue reversal would not
+occur in a future period. The Company will receive a
+$3,000,000 milestone payment based on the first commercial sale in
+Korea. Palatin has the potential to receive up to $37,500,000 in
+additional sales related milestone payments and mid-single-digit to
+low double-digit royalties on net sales in the licensed territory.
+All development, regulatory, sales, marketing, and commercial
+activities and associated costs in the licensed territory will be
+the sole responsibility of Kwangdong.
+ 
+
+
+(8)            
+PREPAID
+EXPENSES AND OTHER CURRENT ASSETS
+
+
+ 
+
+Prepaid
+expenses and other
+current assets consist of the following:
+ 
+
+
+
+   
+
+
+(9)            
+FAIR
+VALUE MEASUREMENTS
+
+
+ 
+
+The
+fair value of cash equivalents is classified using a hierarchy
+prioritized based on inputs. Level 1 inputs are quoted prices
+(unadjusted) in active markets for identical assets or liabilities.
+Level 2 inputs are quoted prices for similar assets and liabilities
+in active markets or inputs that are observable for the asset or
+liability, either directly or indirectly through market
+corroboration, for substantially the full term of the financial
+instrument. Level 3 inputs are unobservable inputs based on
+management’s own assumptions used to measure assets and
+liabilities at fair value. A financial asset’s or
+liability’s classification within the hierarchy is determined
+based on the lowest level input that is significant to the fair
+value measurement.
+
+ 
+
+
+
+ 
+12
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+
+ 
+
+The
+following table provides the assets carried at fair
+value:
+
+ 
+
+
+
+ 
+
+
+
+
+(10)            
+LEASES
+
+
+ 
+
+The
+Company has operating leases of office and laboratory space, each
+of which expires on June 30, 2020. The Company also has operating
+leases of copier equipment that expire October 15,
+2021.
+ 
+
+The
+components of lease expense are as follows:
+ 
+
+
+
+
+
+ 
+
+
+
+Supplemental
+balance sheet information related to leases was as
+follows:
+ 
+
+
+
+
+ 
+
+
+ 
+ December
+31,
+2019
+ 
+
+
+
+Operating lease ROU
+asset and liability
+
+
+ $173,666 
+
+
+
+ 
+
+
+
+Supplemental
+lease term and discount rate information related to leases was as
+follows:
+ 
+
+
+
+
+Weighted-average
+remaining lease term (years)
+
+
+  0.7 
+
+
+
+Weighted-average
+discount rate
+
+
+  6.25%
+
+
+
+
+   
+
+
+
+ 
+13
+
+
+
+
+
+ 
+
+
+
+ 
+
+ PALATIN
+TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+Supplemental
+cash flow information related to leases was as
+follows:
+ 
+
+
+
+
+
+ 
+
+
+
+The
+following table summarizes the maturity of the Company’s
+operating lease liability as of December 31, 2019:
+ 
+
+
+
+ 
+
+
+
+As of
+June 30, 2019, the Company had $225,120 in future lease payments
+for the year ending June 30, 2020 under ASC Topic 840.
+ 
+
+
+(11)            
+ACCRUED
+EXPENSES
+
+
+ 
+
+Accrued
+expenses consist of the
+following:
+ 
+
+
+
+
+   
+
+
+
+ 
+14
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+
+(12)            
+NOTES PAYABLE: 
+
+
+ 
+
+Notes
+payable consist of the following:
+ 
+
+
+
+
+
+ 
+
+
+
+On
+December 23, 2014, the Company closed on a $10,000,000 venture loan
+which was led by Horizon Technology Finance Corporation
+(“Horizon”). The debt facility was a four-year senior
+secured term loan that bore interest at a floating coupon rate of
+one-month LIBOR (floor of 0.50%) plus 8.50%, and provided for
+interest-only payments for the first eighteen months followed by
+monthly payments of principal of $333,333 plus accrued interest
+through January 1, 2019. The lenders also received five-year
+immediately exercisable Series D 2014 warrants to purchase 666,666
+shares of common stock exercisable at an exercise price of $0.75
+per share. The Company recorded a debt discount of $267,820 equal
+to the fair value of these warrants at issuance, which was
+amortized to interest expense over the term of the related debt.
+This debt discount was offset against the note payable balance and
+included in additional paid-in capital on the Company’s
+balance sheet. In addition, a final incremental payment of $500,000
+was due on January 1, 2019, or upon early repayment of the loan.
+This final incremental payment was accreted to interest expense
+over the term of the related debt and included in other liabilities
+on the consolidated balance sheet. The Company incurred $209,367 of
+costs in connection with the loan. These costs were capitalized as
+deferred financing costs and were offset against the note payable
+balance. These debt issuance costs were amortized to interest
+expense over the term of the related debt. During the three months
+ended December 31, 2018, the loan matured, and on December 31,
+2018, the Company made the final incremental payment of
+$500,000.
+ 
+
+On July
+2, 2015, the Company closed on a $10,000,000 venture loan led by
+Horizon. The debt facility was a four-year senior secured term loan
+that bore interest at a floating coupon rate of one-month LIBOR
+(floor of 0.50%) plus 8.50% and provided for interest-only payments
+for the first eighteen months followed by monthly payments of
+principal of $333,333 plus accrued interest through August 1, 2019.
+The lenders also received five-year immediately exercisable Series
+G warrants to purchase 549,450 shares of the Company’s common
+stock exercisable at an exercise price of $0.91 per share. The
+Company recorded a debt discount of $305,196 equal to the fair
+value of these warrants at issuance, which were amortized to
+interest expense over the term of the related debt. This debt
+discount was offset against the note payable balance and was
+included in additional paid-in capital on the Company’s
+balance sheet. In addition, a final incremental payment of $500,000
+was due on August 1, 2019. This final incremental payment was
+accreted to interest expense over the term of the related debt and
+was included in other current liabilities on the consolidated
+balance sheet. The Company incurred $146,115 of costs in connection
+with the loan agreement. These costs were capitalized as deferred
+financing costs and were offset against the note payable balance.
+These debt issuance costs were amortized to interest expense over
+the term of the related debt. During the three months ended
+September 30, 2019, the loan matured, and on July 31, 2019, the
+Company made the final incremental payment of
+$500,000.
+
+ 
+
+
+
+
+
+ 
+15
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+
+ (13)            
+STOCKHOLDERS’
+EQUITY
+
+
+ 
+
+
+Financing Transactions – On June 21, 2019 and April 20, 2018, the Company
+entered into equity distribution agreements with Canaccord Genuity
+LLC (“Canaccord”) (the “2019 Equity Distribution
+Agreement” and the “2018 Equity Distribution
+Agreement”, respectively), pursuant to which the Company may,
+from time to time, sell shares of the Company’s common
+stock at market prices by
+methods deemed to be an “at-the-market offering” as
+defined in Rule 415 promulgated under the Securities Act of 1933,
+as amended. The 2018 Equity Distribution Agreement and related
+prospectus was limited to sales of up to an aggregate maximum $25.0
+million of shares of the Company’s common stock, and the 2019
+Equity Distribution Agreement and related prospectus is limited to
+sales of up to an aggregate maximum $40.0 million of shares of the
+Company’s common stock. The Company pays Canaccord 3.0% of
+the gross proceeds as a commission.
+ 
+
+
+For the three and six months ended December 31, 2019, respectively,
+1,238,040 and 1,895,934 shares of common stock were sold through
+Canaccord under the 2019 Equity Distribution Agreement for net
+proceeds of $1,001,768 and $1,581,498 after payment of commission
+fees of $31,756 and $51,696 and other related expenses of $25,000
+and $90,000, respectively From inception of the 2019 Equity
+Distribution Agreement through December 31, 2019, a total of
+9,460,509 shares of common Stock were sold for net proceeds of
+$11,870,334 after payment of commission fees of $369,907 and other
+related expenses of $90,000. For the three and six months ended
+December 31, 2018, respectively, 31,300 and 2,256,445 shares of
+common stock were sold through Canaccord under the 2018 Equity
+Distribution Agreement for net proceeds of $30,361 and $2,252,808,
+respectively, after payment of commission fees of $939 and $69,674,
+respectively. From inception of the 2018 Equity Distribution
+Agreement through June 26, 2019, a total of 18,504,993 shares of
+common Stock were sold for net proceeds of $24,249,997 after
+payment of commission fees of $750,000, and the 2018 Equity
+Distribution Agreement is deemed completed.
+ 
+
+
+Stock Purchase Warrants – On September 13, 2019, the
+Company’s Board of Directors approved a plan to offer to
+purchase and terminate certain outstanding common stock purchase
+warrants through privately negotiated transactions. The purchase
+and termination program has no time limit and may be suspended for
+periods or discontinued at any time.
+ 
+
+During
+the three and six months ended December 31, 2019, the Company
+entered into several warrant termination agreements to repurchase
+and cancel the following previously issued Series F, Series H and
+Series J warrants for the following aggregate buyback prices, plus
+additional consideration upon any sale of the Company within six
+months of the respective agreement:
+ 
+
+
+
+
+
+
+   
+
+
+
+ 
+16
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+During
+the three months ended December 31, 2019, the Company issued 26,861
+shares of common stock upon the cashless exercise provisions of
+666,666 Series D warrants at an exercise price of $0.75 per
+share.
+ 
+
+
+Stock Options – For the three and six months ended
+December 31, 2019, the Company recorded stock-based compensation
+related to stock options of $334,564 and $678,724, respectively.
+For the three and six months ended December 31, 2018, the Company
+recorded stock-based compensation related to stock options of
+$317,704 and $641,407, respectively.
+ 
+
+In July
+2018, the terms of certain options were modified to accelerate
+vesting and extend the option exercise period. As a result, the
+Company recorded additional stock-based compensation of $109,004
+during the six months ended December 31, 2018.
+ 
+
+A
+summary of stock option activity is as follows:
+
+ 
+
+
+
+
+
+ 
+
+
+
+Stock
+options granted to the Company’s executive officers and
+employees generally vest over a 48-month period, while stock
+options granted to its non-employee directors vest over a 12-month
+period.
+
+ 
+
+
+
+
+
+ 
+17
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+Included
+in the options outstanding above are 1,075,000 and 117,500
+performance-based options granted in December 2017 to executive
+officers and employees, respectively, which vest during a
+performance period ending on December 31, 2020, if and upon either
+i) as to 100% of the target number of shares upon achievement of a
+closing price for the Company’s common stock equal to or
+greater than $1.50 per share for 20 consecutive trading days, which
+is considered a market condition; or ii) as to thirty percent (30%)
+of the target number of shares, upon the acceptance for filing by
+the FDA of an NDA for Vyleesi for HSDD in premenopausal women
+during the performance period, which is considered a performance
+condition; iii) as to fifty percent (50%) of the target number of
+shares, upon the approval by the FDA of an NDA for Vyleesi for HSDD
+in premenopausal women during the performance period, which is also
+considered a performance condition; iv) as to twenty percent (20%)
+of the target number of shares, upon entry into a licensing
+agreement during the performance period for the commercialization
+of Vyleesi for FSD in at least two of the following geographic
+areas (a) four or more countries in Europe, (b) Japan, (c) two or
+more countries in Central and/or South America, (d) two or more
+countries in Asia, excluding Japan and China, and (e) Australia,
+which is also considered a performance condition. The fair value of
+these options was $602,760. The Company amortized the fair value
+over the derived service period of 1.1 years or upon the attainment
+of the performance condition. Pursuant to the FDA acceptance of the
+NDA filing of Vyleesi, 30% of the target number of options vested
+in June 2018 and 50% of the target number of options vested in June
+2019 upon FDA approval of Vyleesi.
+ 
+
+
+Restricted Stock Units – For the three and six months
+ended December 31, 2019, the Company recorded stock-based
+compensation related to restricted stock units of $470,372 and
+$953,947, respectively. For the three and six months ended December
+31, 2018, the Company recorded stock-based compensation related to
+restricted stock units of $661,090 and $1,461,968,
+respectively.
+
+ 
+
+A
+summary of restricted stock unit activity is as
+follows:
+
+ 
+
+
+
+
+ 
+
+Included
+in outstanding restricted stock units in the table above are
+6,167,750 vested shares that have not been issued as of December
+31, 2019 due to a provision in the restricted stock unit agreements
+to delay delivery.
+ 
+
+Time-based
+restricted stock units granted to the Company’s executive
+officers, employees and non-employee directors generally vest over
+24 months, 48 months and 12 months, respectively.
+ 
+
+In June
+2019, the Company granted 438,000 performance-based restricted
+stock units to its executive officers and 182,725 performance-based
+restricted stock units to other employees which vest during a
+performance period ending June 24, 2023. The performance-based
+restricted stock units vest on performance criteria relating to
+advancement of MC1r programs, including initiation of clinical
+trials and licensing of Vyleesi in additional countries or
+regions.
+
+ 
+
+
+
+
+
+ 
+18
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PALATIN TECHNOLOGIES, INC.
+
+
+and Subsidiary
+
+ 
+
+
+Notes to Consolidated Financial Statements
+
+(unaudited)
+ 
+
+
+
+In
+December 2017, the Company granted 1,075,000 performance-based
+restricted stock units to its executive officers and 670,000
+performance-based restricted stock units to other employees which
+vest during a performance period, ending on December 31, 2020, if
+and upon either i) as to 100% of the target number of shares upon
+achievement of a closing price for the Company’s common stock
+equal to or greater than $1.50 per share for 20 consecutive trading
+days, which is considered a market condition; or ii) as to thirty
+percent (30%) of the target number of shares, upon the acceptance
+for filing by the FDA of an NDA for Vyleesi for HSDD in
+premenopausal women during the performance period, which is
+considered a performance condition; iii) as to fifty percent (50%)
+of the target number of shares, upon the approval by the FDA of an
+NDA for Vyleesi for HSDD in premenopausal women during the
+performance period, which is also considered a performance
+condition; iv) as to twenty percent (20%) of the target number of
+shares, upon entry into a licensing agreement during the
+performance period for the commercialization of Vyleesi for FSD in
+at least two of the following geographic areas (a) four or more
+countries in Europe, (b) Japan, (c) two or more countries in
+Central and/or South America, (d) two or more countries in Asia,
+excluding Japan and China, and (e) Australia, which is also
+considered a performance condition. The fair value of these awards
+was $913,750 and $569,500, respectively. The Company amortized the
+fair value over the derived service period of 1.1 years or upon the
+attainment of the performance condition. Pursuant to the FDA
+acceptance of the NDA filing for Vyleesi, 30% of the target number
+of shares vested in June 2018. Pursuant to the FDA approval of
+Vyleesi, 50% of the target number of shares vested in June
+2019.
+ 
+
+
+
+
+(14)            
+SUBSEQUENT
+EVENTS
+
+
+ 
+
+On
+January 9, 2020, AMAG announced plans to divest Vyleesi and
+Intrarosa® (prasterone), both women’s healthcare
+products. While AMAG indicated that it has received preliminary
+expressions of interest to acquire or sublicense rights to these
+products, there have been no public disclosures of any potential
+licensees of AMAG’s rights to Vyleesi in North America. We
+licensed all rights to commercialize Vyleesi in North America to
+AMAG, and subsequent to FDA approval of Vyleesi in June 2019, AMAG
+launched Vyleesi nationally in September 2019 through select
+specialty pharmacies with its women’s health sales force.
+Under the license agreement, AMAG has a contractual obligation to
+use commercially reasonable efforts to commercialize Vyleesi, and
+if AMAG materially breaches its obligations, we could have the
+right to terminate the license agreement and require AMAG to assign
+and transfer certain Vyleesi rights to Palatin. In the event AMAG
+assigns its Vyleesi license to a third party, the assignee must
+expressly agree to be bound by the license agreement between AMAG
+and Palatin. The Company is currently assessing the potential
+impact on the Company’s operations caused by this
+announcement.
+ 
+
+
+
+ 
+19
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Item 2.  Management’s
+Discussion and Analysis of Financial Condition and Results of
+Operations.
+ 
+
+
+The following discussion and analysis should be read in conjunction
+with the consolidated financial statements and notes to the
+consolidated financial statements filed as part of this report and
+the audited consolidated financial statements and notes thereto
+included in our Annual Report on Form 10-K for the year ended June
+30, 2019.
+ 
+
+
+The following discussion and analysis contain forward-looking
+statements within the meaning of the federal securities laws. You
+are urged to carefully review our description and examples of
+forward-looking statements included earlier in this Quarterly
+Report immediately prior to Part I, under the heading
+“Special Note Regarding Forward-Looking Statements.”
+Forward-looking statements are subject to risk that could cause
+actual results to differ materially from those expressed in the
+forward-looking statements. You are urged to carefully review the
+disclosures we make concerning risks and other factors that may
+affect our business and operating results, including those made in
+this Quarterly Report and our Annual Report on Form 10-K for the
+year ended June 30, 2019, as well as any of those made in our other
+reports filed with the SEC. You are cautioned not to place undue
+reliance on the forward-looking statements included herein, which
+speak only as of the date of this document. We do not intend, and
+undertake no obligation, to publish revised forward-looking
+statements to reflect events or circumstances after the date of
+this document or to reflect the occurrence of unanticipated
+events.
+ 
+
+
+Critical Accounting Policies and Estimates
+ 
+
+Except
+for the adoption of Accounting Standards Codification
+(“ASC”) Topic 842, our significant accounting policies,
+which are described in the notes to our consolidated financial
+statements included in this report and in our Annual Report on Form
+10-K for the year ended June 30, 2019, have not changed during the
+six months ended December 31, 2019. We believe that our accounting
+policies and estimates relating to revenue recognition, accrued
+expenses and stock-based compensation are the most
+critical.
+ 
+
+
+Overview
+ 
+
+We are
+a specialized biopharmaceutical company developing first-in-class
+medicines based on molecules that modulate the activity of the
+melanocortin and natriuretic peptide receptor systems. Our product
+candidates are targeted, receptor-specific therapeutics for the
+treatment of diseases with significant unmet medical need and
+commercial potential.
+ 
+
+
+Melanocortin Receptor System. The melanocortin receptor
+(“MCr”) system is hormone driven, with effects on food
+intake, metabolism, sexual function, inflammation and immune system
+responses. There are five melanocortin receptors, MC1r through
+MC5r. Modulation of these receptors, through use of
+receptor-specific agonists, which activate receptor function, or
+receptor-specific antagonists, which block receptor function, can
+have significant pharmacological effects.
+ 
+
+Our
+lead product, Vyleesi®, was approved by the U.S. Food and Drug
+Administration (“FDA”) on June 21, 2019, and is being
+marketed in North America by AMAG, with product availability in the
+United States starting in August 2019. Vyleesi is indicated for the
+treatment of premenopausal women with acquired, generalized HSDD,
+characterized by low sexual desire that causes marked distress or
+interpersonal difficulty not due to a co-existing medical or
+psychiatric condition, relationship problems, or effects of a
+medication or drug substance.
+ 
+
+Our new
+product development activities focus primarily on MC1r agonists,
+with potential to treat inflammatory and autoimmune diseases such
+as dry eye disease, which is also known as keratoconjunctivitis
+sicca, uveitis, diabetic retinopathy and inflammatory bowel
+disease. An investigational new drug application for PL9643, a
+peptide we developed, to treat dry eye disease was filed with the
+FDA in December 2019, with a phase 2 study expected to commence in
+the first quarter of calendar year 2020. A phase 2 proof-of-concept
+study of PL8177 in ulcerative colitis patients is anticipated to
+commence in mid-calendar year 2020. We believe that the MC1r
+agonist peptides we are developing have broad anti-inflammatory
+effects and appear to utilize mechanisms engaged by the endogenous
+melanocortin system in regulation of the immune system and
+resolution of inflammatory responses. We are also developing
+peptides that are active at more than one melanocortin receptor,
+and MC4r peptide and small molecule agonists with potential utility
+in obesity and metabolic-related disorders, including rare disease
+and orphan indications.
+ 
+
+
+Natriuretic Peptide Receptor System. The natriuretic peptide
+receptor (“NPR”) system regulates cardiovascular
+functions, and therapeutic agents modulating this system have
+potential to treat fibrotic diseases, cardiovascular diseases,
+including reducing cardiac hypertrophy and fibrosis, heart failure,
+acute asthma, pulmonary diseases and hypertension. We have designed
+and are developing potential NPR candidate drugs selective for one
+or more different natriuretic peptide receptors, including
+natriuretic peptide receptor-A (“NPR-A”), natriuretic
+peptide receptor B (“NPR-B”), and natriuretic peptide
+receptor C (“NPR-C”).
+
+ 
+
+
+
+
+
+ 
+20
+
+
+
+
+
+ 
+
+
+  
+
+
+
+The
+following chart illustrates the status of our drug development
+programs and Vyleesi, which has been approved by the FDA for the
+treatment of premenopausal women with acquired, generalized
+HSDD. 
+
+ 
+
+
+ 
+
+
+
+
+Our Strategy
+ 
+
+Key
+elements of our business strategy include:
+ 
+
+
+
+●
+Maximizing revenue
+from Vyleesi by supporting our existing licensees and licensing
+Vyleesi for global areas outside of North America, China and South
+Korea;
+
+
+ 
+
+
+
+●
+Assembling and
+maintaining a team to create, develop and commercialize MCr and NPR
+products addressing unmet medical needs;
+
+
+ 
+
+
+
+●
+Entering into
+strategic alliances and partnerships with pharmaceutical companies
+to facilitate the development, manufacture, marketing, sale and
+distribution of product candidates that we are
+developing;
+
+
+ 
+
+
+
+●
+Partially funding
+our product development programs with the cash flow generated from
+existing license agreements, as well as any future research,
+collaboration or license agreements; and
+
+
+ 
+
+
+
+●
+Completing
+development and seeking regulatory approval of certain of our other
+product candidates.
+
+
+ 
+
+We were
+incorporated under the laws of the State of Delaware on November
+21, 1986 and commenced operations in the biopharmaceutical area in
+1996. Our corporate offices are located at 4B Cedar Brook Drive,
+Cedar Brook Corporate Center, Cranbury, New Jersey 08512 and our
+telephone number is (609) 495-2200. We maintain an Internet site at
+www.palatin.com, where
+among other things, we make available free of charge on and through
+this website our Forms 3, 4 and 5, annual reports on Form 10-K,
+quarterly reports on Form 10-Q, current reports on Form 8-K, and
+amendments to those reports filed or furnished pursuant to Section
+13(a) or 15(d) and Section 16 of the Exchange Act as soon as
+reasonably practicable after we electronically file such material
+with, or furnish it to, the SEC. Our website and the information
+contained in it or connected to it are not incorporated into this
+Quarterly Report on Form 10-Q. The reference to our website is an
+inactive textual reference only.
+ 
+
+The SEC
+maintains an Internet site that contains reports, proxy and
+information statements, and other information regarding issuers
+that file electronically with the SEC (www.sec.gov).
+
+ 
+
+
+
+
+
+ 
+21
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+Results of Operations
+ 
+
+
+Three and Six Months Ended December 31, 2019 Compared to the Three
+and Six Months Ended December 31, 2018:
+ 
+
+
+Revenue – For the three and six months ended December
+31, 2019, we recognized $20,610 and $117,989, respectively, in
+license and contract revenue compared to zero and $34,505 in
+license and contract revenue for the three and six months ended
+December 31, 2018, respectively, pursuant to our license agreement
+with AMAG.
+ 
+
+
+Research and Development – Research and development
+expenses were $3,257,624 and $6,385,113 for the three and six
+months ended December 31, 2019, respectively, compared to
+$2,961,656 and $6,584,347 for the three and six months ended
+December 31, 2018, respectively. The increase for the three months
+ended December 31, 2019 as compared to the three months ended
+December 31, 2018 is primarily related to an increase in spending
+on our PL8177 program. The decrease for the six months ended
+December 31, 2019 as compared to the six months ended December 31,
+2018, is primarily related to a decrease in stock-based
+compensation offset by an increase in spending on our PL8177
+program.
+ 
+
+Research
+and development expenses related to our Vyleesi, PL3994, PL8177,
+MC1r, MC4r and other preclinical programs were $2,359,516 and
+$4,657,058 for the three and six months ended December 31, 2019,
+respectively, compared to $2,174,366 and $4,118,606 for the three
+and six months ended December 31, 2018, respectively. The increase
+is primarily related to an increase in spending on our PL8177
+program.
+ 
+
+The
+amounts of project spending above exclude general research and
+development spending, which was $898,108 and $1,728,055 for the
+three and six months ended December 31, 2019, respectively,
+compared to $787,290 and $2,465,741 for the three and six months
+ended December 31, 2018, respectively. The decrease in general
+research and development spending is primarily attributable to a
+decrease in stock-based compensation and salaries.
+ 
+
+Cumulative
+spending from inception to December 31, 2019 was approximately
+$310,700,000 on our Vyleesi program and approximately $147,900,000
+on all our other programs (which include PL3994, PL8177, other
+melanocortin receptor agonists, other discovery programs and
+terminated programs). Due to various risk factors described in our
+Annual Report on Form 10-K for the year ended June 30, 2019, under
+“Risk Factors,” including the difficulty in currently
+estimating the costs and timing of future Phase 1 clinical trials
+and larger-scale Phase 2 and Phase 3 clinical trials for any
+product under development, we cannot predict with reasonable
+certainty when, if ever, a program will advance to the next stage
+of development or be successfully completed, or when, if ever,
+related net cash inflows will be generated.
+ 
+
+
+General and Administrative – General and
+administrative expenses, which consist mainly of compensation and
+related costs, were $2,404,093 and $4,236,535 for the three and six
+months ended December 31, 2019, respectively, compared to
+$2,088,585 and $4,129,147 for the three and six months ended
+December 31, 2018, respectively. The increase in general and
+administrative expenses for the three and six months ended December
+31, 2019 is primarily attributable to the final payment made in
+connection with the Greenhill agreement offset by a decrease in
+stock-based compensation.
+ 
+
+
+Other Income (Expense) – Total other income (expense),
+net was $397,480 and $759,083 for the three and six months ended
+December 31, 2019, respectively, compared with $7,871 and $(45,417)
+for the three and six months ended December 31, 2018, respectively.
+For the three and six months ended December 31, 2019, we recognized
+$399,982 and $770,636, respectively, of investment income offset by
+$2,502 and $11,553, respectively, of interest expense primarily
+related to our venture debt. For the three and six months ended
+December 31, 2018, we recognized $100,169 and $253,752,
+respectively, of investment income offset by $92,298 and $299,169,
+respectively, of interest expense primarily related to our venture
+debt. Interest income has increased as a result of the
+Company’s increased cash position. Interest expense has
+decreased as we have repaid our venture debt as of July
+2019.
+ 
+
+
+Liquidity and Capital Resources
+ 
+
+Since
+inception, we have generally incurred net operating losses,
+primarily related to spending on our research and development
+programs. We have financed our net operating losses primarily
+through debt and equity financings and amounts received under
+collaborative and license agreements.
+
+ 
+
+
+
+
+
+ 
+22
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+Our
+product candidates are at various stages of development and will
+require significant further research, development and testing and
+some may never be successfully developed or commercialized. We may
+experience uncertainties, delays, difficulties and expenses
+commonly experienced by early stage biopharmaceutical companies,
+which may include unanticipated problems and additional costs
+relating to:
+ 
+
+
+
+●
+the development and
+testing of products in animals and humans;
+
+
+ 
+
+
+
+●
+product approval or
+clearance;
+
+
+ 
+
+
+
+●
+regulatory
+compliance;
+
+
+ 
+
+
+
+●
+good manufacturing
+practices (“GMP”) compliance;
+
+
+ 
+
+
+
+●
+intellectual
+property rights;
+
+
+ 
+
+
+
+●
+product
+introduction;
+
+
+ 
+
+
+
+●
+marketing, sales
+and competition; and
+
+
+ 
+
+
+
+●
+obtaining
+sufficient capital.
+
+
+ 
+
+Failure
+to enter into or successfully perform under collaboration
+agreements and obtain timely regulatory approval for our product
+candidates and indications would impact our ability to increase
+revenues and could make it more difficult to attract investment
+capital for funding our operations. Any of these possibilities
+could materially and adversely affect our operations and require us
+to curtail or cease certain programs.
+ 
+
+During
+the six months ended December 31, 2019, net cash provided by
+operating activities was $49,914,993 compared to cash used in
+operations of $11,028,963 for the six months ended December 31,
+2018. The difference in cash provided by operations for the six
+months ended December 31, 2019 compared with cash used in operating
+activities for the six months ended December 31, 2018 was primarily
+related to the timing of the receipt of payments related to revenue
+recorded for our license agreement with AMAG, including payments
+related to the FDA’s approval of Vylessi.
+ 
+
+During
+the six months ended December 31, 2019, net cash used in investing
+activities was $62,880 compared to $0 for the six months ended
+December 31, 2018. The change in cash used by investing activities
+is a result of the purchase of property and equipment during the
+six months ended December 31, 2019.
+ 
+
+During
+the six months ended December 31, 2019, net cash used in financing
+activities was $1,903,055, which consisted of payment on notes
+payable obligations of $832,851, repurchase and cancellation of
+outstanding warrants of $2,547,466 and payment of withholding taxes
+related to restricted stock units of $104,236 offset by net
+proceeds from the sale of common stock of $1,581,498 in our
+“at-the-market” offering program. During the six months
+ended December 31, 2018, net cash used in financing activities was
+$2,313,184, which consisted of payment on notes payable obligations
+of $4,500,000, payment of withholding taxes related to restricted
+stock units of $65,992 offset by net proceeds from the sale of
+common stock of $2,252,808 in our “at-the-market”
+offering program.
+ 
+
+We have
+incurred cumulative negative cash flows from operations since our
+inception, and have expended, and expect to continue to expend in
+the future, substantial funds to complete our planned product
+development efforts. Continued operations are dependent upon our
+ability to generate future income from existing licenses, to
+complete equity or debt financing activities and to enter into
+additional licensing or collaboration arrangements. As of December
+31, 2019, our cash and cash equivalents were $91,459,480 and our
+current liabilities were $1,374,940.
+ 
+
+We
+intend to utilize existing capital resources for general corporate
+purposes and working capital, including Vyleesi, preclinical and
+clinical development of our MC1r and MC4r peptide programs and
+natriuretic peptide program, and development of other portfolio
+products.
+ 
+
+We
+believe that our existing capital resources will be adequate to
+fund our planned operations through at least calendar year 2021. We
+will need additional funding to complete required clinical trials
+for our product candidates and development programs and, if those
+clinical trials are successful (which we cannot predict), to
+complete submission of required regulatory applications to the
+FDA.
+ 
+
+We
+expect to incur significant expenses as we continue our development
+of natriuretic peptide and MC1r products. These expenses, among
+other things, have had and will continue to have an adverse effect
+on our stockholders’ equity, total assets and working
+capital.
+ 
+
+
+ 
+23
+
+
+
+
+ 
+
+
+ 
+
+
+Off-Balance Sheet Arrangements
+ 
+
+None.
+ 
+  
+
+
+
+
+
+Item 3. Quantitative and Qualitative
+Disclosures About Market Risk.
+ 
+
+Not
+required to be provided by smaller reporting
+companies.
+ 
+
+
+Item 4.  Controls and
+Procedures.
+ 
+
+Our
+management, with the participation of our Chief Executive Officer
+and Chief Financial Officer, has evaluated the effectiveness of our
+disclosure controls and procedures, as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e), as of the end of the period covered
+by this report. Based on that evaluation, our Chief Executive
+Officer and Chief Financial Officer concluded that our disclosure
+controls and procedures were effective as of December 31, 2019.
+There were no changes in our internal control over financial
+reporting that occurred during our most recent fiscal quarter that
+materially affected, or that are reasonably likely to materially
+affect, our internal control over financial
+reporting. 
+
+ 
+
+
+
+
+
+ 
+24
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+PART II – OTHER INFORMATION
+ 
+
+
+Item 1. Legal Proceedings.
+ 
+
+We may
+be involved, from time to time, in various claims and legal
+proceedings arising in the ordinary course of our business. We are
+not currently a party to any claim or legal
+proceeding.
+ 
+
+
+Item 1A. Risk Factors.
+ 
+
+This
+report and other documents we file with the SEC contain
+forward-looking statements that are based on current expectations,
+estimates, forecasts and projections about us, our future
+performance, our business, our beliefs and our management’s
+assumptions. These statements are not guarantees of future
+performance, and they involve certain risks, uncertainties and
+assumptions that are difficult to predict. You should carefully
+consider the risks and uncertainties facing our
+business.
+ 
+
+The
+following information should be read in conjunction with the risk
+factors and uncertainties disclosed in Part I, Item 1A, of our
+Annual Report on Form 10-K for the year ended June 30, 2019, filed
+with the SEC on September 12, 2019. Except as disclosed below,
+there have been no material changes to our risk factors disclosed
+in Part I, Item 1A, of our Annual Report on Form 10-K for the year
+ended June 30, 2019.
+ 
+
+
+The announcement by AMAG of its intent to divest itself of its
+women’s healthcare products, including Vyleesi, creates
+significant uncertainty regarding marketing, sales and distribution
+of Vyleesi in the United States.
+ 
+
+On
+January 9, 2020, AMAG announced plans to divest Vyleesi and
+Intrarosa® (prasterone), both women’s healthcare
+products. While AMAG indicated that it has received preliminary
+expressions of interest to acquire or sublicense rights to these
+products, there have been no public disclosures of any potential
+licensees of AMAG’s rights to Vyleesi in North America. In
+2017, we licensed all rights to commercialize Vyleesi in North
+America to AMAG, and following the U.S. Food and Drug
+Administration approval of Vyleesi in June 2019, AMAG launched
+Vyleesi nationally in September 2019 through select specialty
+pharmacies with its women’s health sales force. Under the
+license agreement, AMAG has a contractual obligation to use
+commercially reasonable efforts to commercialize Vyleesi, and if
+AMAG materially breaches its obligations, we could have the right
+to terminate the license agreement and require AMAG to assign and
+transfer certain Vyleesi rights to Palatin. In the event AMAG
+assigns its Vyleesi license to a third party, the assignee must
+expressly agree to be bound by the license agreement between AMAG
+and Palatin.
+ 
+
+If AMAG
+fails to assign or license rights to Vyleesi to a third party with
+the resources and capability to effectively market Vyleesi, we
+could experience significant delays or an inability to successfully
+commercialize Vyleesi. Even if AMAG assigns or licenses rights to
+Vyleesi to a third party with the resources and capability to
+effectively market Vyleesi, there may be significant delays in the
+successful commercialization of Vyleesi for HSDD in North America,
+and we may be unable to realize the potential value of the license
+agreement in a timely manner. If we obtain all rights to Vyleesi
+from AMAG, as a result of termination of the license agreement for
+breach or otherwise, we will need to establish sales and marketing,
+contract manufacturing, distribution, pharmacovigilance and related
+capabilities, which will be expensive and time consuming. If we are
+unable to establish adequate capabilities to make and sell Vyleesi,
+whether independently or with third parties, we may not be able to
+generate product revenue and our business would
+suffer.
+ 
+
+
+Item 2.  Unregistered Sales of Equity
+Securities and Use of Proceeds.
+ 
+
+(c) Purchases
+of Equity Securities by the Issuer and Affiliated
+Purchasers.
+ 
+
+On
+September 13, 2019, our Board of Directors approved a plan to offer
+to purchase and terminate outstanding Series F, Series H and Series
+J common stock purchase warrants through privately negotiated
+transactions. The purchase and termination program has no time
+limit and may be suspended for periods or discontinued at any
+time.
+
+ 
+
+
+
+
+
+ 
+25
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+The
+following table provides information with respect to purchase and
+termination of common stock purchase warrants by the Company during
+the fiscal quarter ended December 31, 2019.
+ 
+
+
+
+ 
+
+
+
+
+(1)       
+During the fiscal
+quarter ended December 31, 2019, we purchased common stock purchase
+warrants exercisable for an aggregate of 3,197,819 shares of our
+common stock consisting of 297,352 Series F warrants, 992,387
+Series H warrants and 1,908,080 Series J warrants in privately
+negotiated transactions.
+
+
+ 
+
+
+
+
+(2)       
+None.
+
+
+ 
+
+
+
+
+(3)       
+As of December 31,
+2019, the maximum number of common stock purchase warrants that may
+yet be purchased under the plan is 14,508,924.
+
+
+
+ 
+
+Except
+as discussed above with respect to repurchase of certain warranty
+we have not and do not currently intend to retire or repurchase any
+of our capital securities other than providing our employees with
+the option to withhold shares to satisfy tax withholding amounts
+due from employees upon the vesting of restricted stock units in
+connection with our 2011 Stock Incentive Plan. As indicated in
+thetable below, 87,179 shares were withheld during the three months
+ended December 31, 2019 at the direction of the employees as
+permitted under the 2011 Stock Incentive Plan in order to pay the
+minimum amount of tax liability owed by the employee from the
+vesting of those units:
+ 
+
+
+
+
+
+ 
+
+
+(1) Consists solely of 87,179 shares that were withheld to
+satisfy tax withholding amounts due from employees upon the vesting
+of previously issued restricted stock units.
+ 
+
+
+ 
+26
+
+
+
+
+ 
+
+
+ 
+
+
+Item 3.  Defaults Upon Senior
+Securities.
+ 
+
+None.
+ 
+
+
+Item 4.  Mine Safety
+Disclosures.
+ 
+
+Not
+applicable.
+ 
+
+
+Item 5.  Other
+Information.
+ 
+
+None.
+ 
+
+ 
+
+
+
+ 
+27
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+Item 6.  Exhibits.
+ 
+
+Exhibits
+filed or furnished with this report:
+ 
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+28
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+Palatin Technologies, Inc.
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+(Registrant)
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+  /s/
+Carl Spana
+
+
+ 
+
+
+
+
+Date:
+February 10, 2020
+
+
+ 
+
+
+
+Carl
+Spana, Ph.D.
+
+President
+and
+
+Chief
+Executive Officer (Principal
+
+Executive
+Officer)
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+/s/ Stephen T. Wills
+
+
+ 
+
+
+
+
+Date:
+February 10, 2020
+
+
+ 
+
+
+
+Stephen
+T. Wills, CPA, MST
+
+Executive
+Vice President, Chief Financial Officer and Chief Operating
+Officer
+
+(Principal
+Financial and Accounting Officer)
+
+
+ 
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+ 
+29
+
+
+
+
+
+

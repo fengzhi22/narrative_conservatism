@@ -1,0 +1,1395 @@
+
+10-Q
+1
+amsc20191231_10q.htm
+FORM 10-Q
+
+amsc20190617_10q.htm
+
+ 
+
+ 
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+
+FORM 10-Q
+ 
+
+ 
+
+
+
+☒
+
+
+Quarterly Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+For the quarterly period ended December 31, 2019
+
+
+
+☐
+
+
+Transition Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+
+
+For the transition period from _____ to _____.
+Commission File Number: 0-19672
+ 
+
+American Superconductor Corporation
+(Exact name of registrant as specified in its charter)
+ 
+
+ 
+
+
+
+Delaware
+
+
+04-2959321
+
+
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+
+(I.R.S. Employer
+Identification No.)
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+114 East Main St. Ayer, Massachusetts
+
+
+01432
+
+
+
+
+(Address of principal executive offices)
+
+
+(Zip Code)
+
+
+
+ 
+(978) 842-3000
+(Registrant’s telephone number, including area code)
+ 
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+Title of each class
+
+
+Trading Symbol(s)
+
+
+Name of each exchange on which registered
+
+
+
+
+Common Stock,
+			$0.01 par value per share
+
+
+AMSC
+
+
+Nasdaq Global Select Market
+
+
+
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes  ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+
+
+Large accelerated filer ☐
+
+
+Accelerated filer ☒
+
+
+
+
+Non-accelerated filer ☐
+
+
+Smaller reporting company ☒
+
+
+
+
+ 
+
+
+Emerging growth company ☐
+
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No   ☒
+Shares outstanding of the Registrant’s common stock:
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AMERICAN SUPERCONDUCTOR CORPORATION
+INDEX
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+PART I — FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+UNAUDITED CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+ 
+
+
+
+ 
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+ 
+
+3
+
+ 
+
+ 
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+ 
+(In thousands, except per share data)
+ 
+
+
+
+ 
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+ 
+
+4
+
+ 
+
+ 
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE (LOSS) INCOME
+ 
+(In thousands)
+ 
+
+
+
+ 
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+ 
+
+5
+
+ 
+
+ 
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY 
+FOR THE THREE AND NINE MONTHS ENDED DECEMBER 31, 2019 AND 2018
+ 
+(In thousands)
+ 
+
+
+
+ 
+
+
+
+ 
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+ 
+
+6
+
+ 
+
+ 
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+UNAUDITED CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+(In thousands)
+ 
+
+
+
+ 
+The accompanying notes are an integral part of the unaudited condensed consolidated financial statements.
+ 
+
+7
+
+ 
+
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+ 
+ 
+
+1. Nature of the Business and Operations and Liquidity
+ 
+Nature of the Business and Operations
+ 
+American Superconductor Corporation (together with its subsidiaries, “AMSC®” or the “Company”) was founded on April 9, 1987. The Company is a leading system provider of megawatt-scale power solutions that enhance the performance of the power grid, protect the Navy’s fleet, and lower the cost of wind power. The Company’s system level products leverage its proprietary “smart materials” and “smart software and controls” to provide enhanced resiliency and improved performance of megawatt-scale power flow.
+ 
+These unaudited condensed consolidated financial statements of the Company have been prepared on a going concern basis in accordance with United States generally accepted accounting principles (“GAAP”) and the Securities and Exchange Commission’s (“SEC”) instructions to Form 10-Q. The going concern basis of presentation assumes that the Company will continue operations and will be able to realize its assets and discharge its liabilities and commitments in the normal course of business. Certain information and footnote disclosures normally included in the financial statements prepared in accordance with GAAP have been condensed or omitted pursuant to those instructions. The year-end condensed balance sheet data was derived from audited financial statements but does not include all disclosures required by GAAP. The unaudited condensed consolidated financial statements, in the opinion of management, reflect all adjustments (consisting of normal recurring adjustments) necessary for a fair statement of the results for the interim periods ended December 31, 2019 and 2018 and the financial position at December 31, 2019; however, these results are not necessarily indicative of results which may be expected for the full year. The interim condensed consolidated financial statements, and notes thereto, should be read in conjunction with the audited consolidated financial statements for the year ended March 31, 2019, and notes thereto, included in the Company’s annual report on Form 10-K for the year ended March 31, 2019 filed with the Securities and Exchange Commission on June 5, 2019.
+ 
+Liquidity
+ 
+The Company has historically experienced recurring operating losses and as of December 31, 2019, the Company had an accumulated deficit of $972.7 million. In addition, the Company has historically experienced recurring negative operating cash flows.  At December 31, 2019, the Company had cash, cash equivalents, and marketable securities of $60.5 million, with no outstanding debt other than ordinary trade payables. Marketable securities include certificate of deposits with maturities between eleven and twenty-four months.  Cash used in operations for the nine months ended December 31, 2019 was $17.8 million.
+ 
+On July 3, 2018, the Company and its wholly-owned subsidiaries Suzhou AMSC Superconductor Co. Ltd. (“AMSC China”) and AMSC Austria GMBH (“AMSC Austria”) entered into a settlement agreement (the “Settlement Agreement”) with Sinovel Wind Group Co., Ltd. (“Sinovel”). The Settlement Agreement settles the litigation and arbitration proceedings between the Company and Sinovel. Under the terms of the Settlement Agreement, Sinovel agreed to pay AMSC China an aggregate cash amount in Renminbi (“RMB”) equivalent to $57.5 million, consisting of two installments. Sinovel paid the first installment of the RMB equivalent of $32.5 million on July 4, 2018, which was repatriated to the Company during the nine months ended December 31, 2018 and paid the second installment of the RMB equivalent of $25.0 million on December 27, 2018.  The Company’s fiscal 2018 results included the net gain received from the settlement with Sinovel of $52.7 million.
+ 
+On February 1, 2018, ASC Devens LLC (the “Seller”), a wholly-owned subsidiary of the Company, entered into a Purchase and Sale Agreement (the “PSA”) with 64 Jackson, LLC (the “Purchaser”) and Stewart Title Guaranty Company (“Escrow Agent”), to effectuate the sale of certain real property located at 64 Jackson Road, Devens, Massachusetts, including the building that had served as the Company’s headquarters (collectively, the “Property”), in exchange for total consideration of $23.0 million, composed of (i) cash consideration of $17.0 million, and (ii) a $6.0 million subordinated secured commercial promissory note payable to the Company (the “Seller Note”). Subsequently, the Seller, the Purchaser and Jackson 64 MGI, LLC (“Assignee”) entered into an Assignment of Purchase and Sale Agreement (the “Assignment Agreement”), pursuant to which the Purchaser assigned all of its rights and interests in the PSA to the Assignee and the Assignee agreed to assume all of the Purchaser’s obligations and liabilities under the PSA. The transaction closed on March 28, 2018, at which time the Company received, from the Assignee, cash consideration, net of certain agreed upon closing costs, of $16.9 million, and the Seller Note at an interest rate of 1.96%. The Seller Note was secured by a subordinated second mortgage on the Property and a subordinated second assignment of leases and rents.  The Company received the first $3.0 million payment due pursuant to the Seller Note on March 28, 2019 and the second $3.0 million payment plus interest on May 23, 2019.
+ 
+In December 2015, the Company entered into a set of strategic agreements valued at approximately $210.0 million with Inox Wind Ltd. (“Inox” or “Inox Wind”), which includes a multi-year supply contract pursuant to which the Company will supply electrical control systems ("ECS") to Inox and a license agreement allowing Inox to manufacture a limited number of ECS. After Inox purchases the specified number of ECS required under the terms of the supply contract, Inox agreed that the Company will continue as Inox’s preferred supplier and Inox will be required to purchase from the Company a majority of its ECS requirements for an additional three-year period. Pursuant to these strategic agreements, Inox must forecast future purchase orders of sets of ECS which become firm orders three months prior to shipment, and Inox must post letters of credit before the Company will ship such orders. Inox is currently delinquent on its obligation to post letters of credit for sets of ECS that Inox forecasted to purchase under the terms of the supply contract.  We cannot predict if and when Inox will post letters of credit consistent with the forecasted ECS quantities. Inox’s failure to post letters of credit and take delivery of forecasted ECS quantities would impact the Company’s revenues and liquidity.
+ 
+The Company issued warrants in conjunction with an equity offering to Hudson Bay Capital ("Hudson") in November 2014 (the "Hudson Warrant").  The Hudson Warrant was partially exercised on November 13, 2019 with an exercise price of $7.81. The Company received $6.1 million in cash for the exercise of 786,000 warrants. The remaining 32,181 warrants expired on November 13, 2019.
+ 
+The Company believes that based on the information presented above and its quarterly management assessment, it has sufficient liquidity to fund its operations and capital expenditures for the next twelve months following the issuance of the financial statements for the nine months ended December 31, 2019. The Company’s liquidity is highly dependent on its ability to increase revenues, including its ability to collect revenues under its agreements with Inox, its ability to control its operating costs, and its ability to raise additional capital, if necessary. There can be no assurance that the Company will be able to continue to raise additional capital, on favorable terms or at all, from other sources or execute on any other means of improving liquidity described above.
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+2. Revenue Recognition
+ 
+On April 1, 2018, the Company adopted Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers, and all the related amendments and applied it to all contracts that were not completed as of April 1, 2018 using the modified retrospective method. 
+ 
+The Company’s revenues in its Grid segment are derived primarily through enabling the transmission and distribution of power, providing planning services that allow it to identify power grid needs and risks, and developing ship protection systems for the U.S. Navy. The Company’s revenues in its Wind segment are derived primarily through supplying advanced power electronics and control systems, licensing its highly engineered wind turbine designs, and providing extensive customer support services to wind turbine manufacturers. The Company records revenue based on a five-step model in accordance with ASC 606. For its customer contracts, the Company identifies the performance obligations, determines the transaction price, allocates the contract transaction price to the performance obligations, and recognizes the revenue when (or as) control of goods or services is transferred to the customer. In the three and nine months ended December 31, 2019, 57% and 69% of revenue, respectively, was recognized at the point in time when control transferred to the customer, with the remainder being recognized over time.
+ 
+In the Company's equipment and system product line, each contract with a customer summarizes each product sold to a customer, which typically represents distinct performance obligations. A contract's transaction price is allocated to each distinct performance obligation using the respective standalone selling price which is determined primarily using the cost-plus expected margin approach and recognized as revenue when, or as, the performance obligation is satisfied. The majority of the Company’s product sales transfer control to the customer in line with the contracted delivery terms and revenue is recorded at the point in time when title and risk transfer to the customer, as the Company has determined that this is the point in time that control transfers to the customer.
+ 
+The Company's equipment and system product line includes certain contracts which do not meet the requirements of an exchange transaction and therefore do not fall within the scope of ASC 606.  As these non-exchange transaction contracts are considered grant revenue and do not fall within any specific accounting literature, the Company follows guidance within ASC 606 by analogy to recognize grant revenue over time.  In the three and nine months ended December 31, 2019, the Company recorded $3.9 million and $5.3 million in grant revenue, respectively, which is included in the Company’s Grid revenue. There was no grant revenue in the three and nine months ended December 31, 2018.
+ 
+In the Company's service and technology development product line, there are several different types of transactions and each begins with a contract with a customer that summarizes each product sold to a customer, which typically represents distinct performance obligations. The technology development transactions are primarily for activities that have no alternative use and for which a profit can be expected throughout the life of the contract. In these cases, the revenue is recognized over time, but in the instances where the profit cannot be assured throughout the entire contract, the revenue is recognized at a point in time. Each contract's transaction price is allocated to each distinct performance obligation using the respective standalone selling price which is determined primarily using the cost-plus expected margin approach. The ongoing service transactions are for service contracts that provide benefit to the customer simultaneously as the Company performs its obligations, and therefore this revenue is recognized ratably over time throughout the effective period of these contracts. The transaction prices on these contracts are allocated based on an adjusted market approach which is re-assessed annually for reasonableness. The field service transactions include contracts for delivery of goods and completion of services made at the customer's requests, which are not deemed satisfied until the work has been completed and/or the requested goods have been delivered, so all of this revenue is recognized at the point in time when the control changes, and at allocated prices based on the adjusted market approach driven by standard price lists. The royalty transactions are related to certain contract terms on transactions in the Company's equipment and systems product line based on activity as specified in the contracts. The transaction prices of these agreements are calculated based on an adjusted market approach as specified in the contract. The Company reports royalty revenue for usage-based royalties when the sales have occurred. In circumstances when collectability is not assured and a contract does not exist under ASC 606, revenue is deferred until a non-refundable payment has been received for substantially all the amount that is due and there are no further remaining performance obligations.
+ 
+
+9
+
+ 
+
+ 
+The Company's service contracts can include a purchase order from a customer for specific goods in which each item is a distinct performance obligation satisfied at a point in time at which control of the goods is transferred to the customer.  This transfer occurs based on the contracted delivery terms or when the requested service work has been completed. The transaction price for these goods is allocated based on the adjusted market approach considering similar transactions under similar circumstances. Service contracts are also derived from ongoing maintenance contracts and extended service-type warranty contracts. In these transactions, the Company is contracted to provide an ongoing service over a specified period of time. As the customer is consuming the benefits as the service is being provided, the revenue is recognized over time ratably.
+ 
+The Company’s policy is to not accept volume discounts, product returns, or rebates and allowances within its contracts. In the event a contract was approved with any of these terms, it would be evaluated for variable consideration, estimated and recorded as a reduction of revenue in the same period the related product revenue was recorded.
+ 
+The Company provides assurance-type warranties on all product sales for a term of typically one to two years, and extended service-type warranties at the customer's option for an additional term ranging up to four additional years. The Company accrues for the estimated warranty costs for assurance warranties at the time of sale based on historical warranty experience plus any known or expected changes in warranty exposure. For all extended service-type warranties, the Company recognizes the revenue ratably over time during the effective period of the services.
+ 
+The Company records revenue net of sales tax, value added tax, excise tax and other taxes collected concurrent with revenue-producing activities. The Company has elected to recognize the cost for freight and shipping when control over the products sold passes to customers and revenue is recognized. The Company has elected to recognize incremental costs of obtaining a contract as expense when incurred except in contracts where the amortization period would exceed twelve months; in such cases the long-term amount will be assessed for materiality. The Company has elected not to adjust the promised amount of consideration for the effects of a significant financing component if the period of financing is twelve months or less.
+ 
+The Company’s contracts with customers do not typically include extended payment terms and may include milestone billing over the life of the contract. Payment terms vary by contract type and type of customer and generally range from 30 to 60 days from delivery.
+ 
+The following tables disaggregate the Company’s revenue by product line and by shipment destination:
+ 
+
+
+
+ 
+
+
+
+ 
+As of December 31, 2019, and December 31, 2018, the Company’s contract assets and liabilities primarily relate to the timing differences between cash received from a customer in connection with contractual rights to invoicing and the timing of revenue recognition following completion of performance obligations. The Company's accounts receivable balance is made up entirely of customer contract related balances. Changes in the Company’s contract assets, which are included in “Accounts Receivable (unbilled)” and “Deferred program costs” (see Note 7, “Accounts Receivable” and Note 8, “Inventory” for a reconciliation to the condensed consolidated balance sheets) and contract liabilities, which are included in the current portion and long term portion of deferred revenue in the Company’s condensed consolidated balance sheets, are as follows:
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+
+10
+
+ 
+
+ 
+The Company’s remaining performance obligations represent the unrecognized revenue value of the Company’s contractual commitments. The Company’s performance obligations may vary significantly each reporting period based on the timing of major new contractual commitments. As of December 31, 2019, the Company had outstanding performance obligations on existing contracts under ASC 606 to be recognized in the next twelve months of approximately $76.2 million. There are also approximately $7.0 million of outstanding performance obligations to be recognized over a period of thirteen to sixty months. The remaining performance obligations are subject to customer actions and therefore the timing of revenue recognition cannot be reasonably estimated. The twelve-month performance obligations include anticipated shipments to Inox based on the twelve-month rolling forecast provided by Inox on the multi-year supply contract. The quantities specified in any forecast provided by Inox related to the multi-year supply contract are firm and irrevocable for the first three months of a twelve-month rolling forecast. The timing of the performance obligations beyond the twelve-month forecast provided by Inox are not determinable and therefore are not included in the total remaining performance obligations.
+ 
+The following table sets forth customers who represented 10% or more of the Company’s total revenues for three and nine months ended December 31, 2019 and 2018:
+ 
+
+
+
+
+ 
+
+3. Stock-Based Compensation
+ 
+The Company accounts for its stock-based compensation at fair value. The following table summarizes stock-based compensation expense by financial statement line item for the three and nine months ended December 31, 2019 and 2018 (in thousands):
+ 
+
+
+
+ 
+The Company issued 13,174 shares of immediately vested common stock and 366,000 shares of restricted stock awards during the nine months ended December 31, 2019 and issued 47,075 shares of immediately vested common stock and 463,000 shares of restricted stock awards during the nine months ended December 31, 2018.  These restricted stock awards generally vest over 2-3 years.  Awards for restricted stock include both time-based and performance-based awards.  For options and restricted stock awards that vest upon the passage of time, expense is being recorded over the vesting period.  Performance-based awards are expensed over the requisite service period based on probability of achievement.
+ 
+The estimated fair value of the Company’s stock-based awards, less expected annual forfeitures, is amortized over the awards’ service period. The total unrecognized compensation cost for unvested outstanding stock options was less than $0.1 million at December 31, 2019. This expense will be recognized over a weighted average expense period of approximately 1.4 years. The total unrecognized compensation cost for unvested outstanding restricted stock was $3.9 million at December 31, 2019. This expense will be recognized over a weighted-average expense period of approximately 1.4 years.
+ 
+The Company granted 5,939 stock options during the nine months ended December 31, 2019.  The Company did not grant any stock options during the three months ended December 31, 2019 or the three and nine months ended December 31, 2018.  The stock options granted during the nine months ended December 31, 2019 will vest over 2 years. The weighted average assumptions used in the Black Scholes valuation model for stock options granted during the nine months ended December 31, 2019 are as follows:
+ 
+
+
+
+ 
+
+11
+
+ 
+
+ 
+
+ 
+
+4. Computation of Net Loss per Common Share
+ 
+Basic net loss per share (“EPS”) is computed by dividing net loss by the weighted-average number of common shares outstanding for the period. Where applicable, diluted EPS is computed by dividing the net loss by the weighted-average number of common shares and dilutive common equivalent shares outstanding during the period, calculated using the treasury stock method. Common equivalent shares include the effect of restricted stock, exercise of stock options and warrants and contingently issuable shares. Stock options and warrants that are out-of-the-money with exercise prices greater than the average market price of the underlying common shares and shares of performance based restricted stock where the contingency was not met are excluded from the computation of diluted EPS as the effect of their inclusion would be anti-dilutive.  For the three months ended December 31, 2019, 0.1 million shares related to outstanding stock options were not included in the calculation of diluted EPS as they were considered anti-dilutive. For the nine months ended December 31, 2019, 0.1 million shares related to outstanding stock options were not included in the calculation of diluted EPS as they were considered anti-dilutive. For the three months ended December 31, 2018, 0.5 million shares were not included in the calculation of diluted EPS as they were considered anti-dilutive, of which 0.3 million relate to outstanding stock options, and 0.2 million relate to outstanding unvested stock awards. For the nine months ended December 31, 2018, 1.1 million shares were not included in the calculation of diluted EPS as they were considered anti-dilutive, of which 0.3 million shares relate to outstanding stock options, 0.6 million shares relate to outstanding warrants and 0.2 million relate to outstanding unvested stock awards.
+ 
+The following table reconciles the numerators and denominators of the earnings per share calculation for the three and nine months ended December 31, 2019 and 2018 (in thousands, except per share data):
+ 
+
+
+
+ 
+For the nine months ended December 31, 2019, the diluted net loss per common share amounts under the treasury stock method were calculated based on the dilutive effect of the total number of shares of common stock related to the Hudson Warrant of 818,181 shares with an exercise price of $7.81.  For the three and nine month periods ended December 31, 2019, the average stock price was $8.19 and $9.29 respectively through November 13, 2019 when the Hudson Warrant was partially exercised for 786,000 shares, providing 37,962 and 130,345 dilutive shares respectively. The increase of $0.6 million and the decrease of $4.6 million in the fair value of the warrant liability, respectively, is included in the net loss available to common shareholders for the diluted net loss per common share amount when the impact is dilutive. 
+ 
+
+ 
+
+5. Goodwill
+ 
+The Company did not identify any triggering events in the three and nine months ended December 31, 2019, that would require interim impairment testing of goodwill.
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+6. Fair Value Measurements
+ 
+A valuation hierarchy for disclosure of the inputs to valuation used to measure fair value has been established. This hierarchy prioritizes the inputs into three broad levels as follows:
+ 
+
+
+
+Level 1 
+
+
+-
+
+
+Inputs are unadjusted quoted prices in active markets for identical assets or liabilities that the Company has the ability to access at the measurement date.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Level 2 
+
+
+-
+
+
+Inputs include quoted prices for similar assets and liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active, inputs other than quoted prices that are observable for the asset or liability, and inputs that are derived principally from or corroborated by observable market data by correlation or other means (market corroborated inputs).
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Level 3 
+
+
+-
+
+
+Unobservable inputs that reflect the Company’s assumptions that market participants would use in pricing the asset or liability. The Company develops these inputs based on the best information available, including its own data.
+
+
+
+ 
+The Company provides a gross presentation of activity within Level 3 measurement roll-forward and details of transfers in and out of Level 1 and 2 measurements.  A change in the hierarchy of an investment from its current level is reflected in the period during which the pricing methodology of such investment changes.  Disclosure of the transfer of securities from Level 1 to Level 2 or Level 3 is made in the event that the related security is significant to total cash and investments.  The Company did not have any transfers of assets and liabilities from Level 1, Level 2 or Level 3 of the fair value measurement hierarchy during the nine months ended December 31, 2019.
+ 
+A financial asset’s or liability’s classification within the hierarchy is determined based on the lowest level input that is significant to the fair value measurement.
+ 
+The following table provides the assets and liabilities carried at fair value on a recurring basis, measured as of December 31, 2019 and March 31, 2019 (in thousands):
+ 
+
+
+
+ 
+
+
+
+ 
+The table below reflects the activity for the Company’s major classes of liabilities measured at fair value on a recurring basis (in thousands):
+ 
+
+
+
+ 
+
+
+
+ 
+
+13
+
+ 
+
+ 
+Valuation Techniques
+ 
+Cash Equivalents
+ 
+Cash equivalents consist of highly liquid instruments with maturities of three months or less that are regarded as high quality, low risk investments, are measured using such inputs as quoted prices and are classified within Level 1 of the valuation hierarchy. Cash equivalents consist principally of certificates of deposits and money market accounts.
+ 
+Marketable Securities
+ 
+Marketable securities consist of certificates of deposit with maturities of greater than 12 months that are measured using such inputs as quoted prices and are classified within Level 1 of the valuation hierarchy. The Company determines the appropriate classification of its marketable securities at the time of purchase and re-evaluates such classification as of each balance sheet date.  All marketable securities are considered available for sale and are carried at fair value.   Changes in fair value would be recorded to other income/expense, net.   The Company periodically reviews the realizability of each short and long term marketable security when impairment indicators exist with respect to the security.  If other than temporary impairment of value of the security exists, the carrying value of the security is written down to its estimated fair value.  
+ 
+Warrants
+ 
+The Company issued warrants in conjunction with an equity offering to Hudson Bay Capital in November 2014 and a Loan and Security Agreement with Hercules Technology Growth Capital, Inc. (“Hercules”). The warrants issued to Hercules were exercised on April 8, 2019.  The warrants issued to Hudson were partially exercised on November 13, 2019 and the remaining unexercised warrants expired on November 13, 2019.  As of December 31, 2019 the Company has no remaining outstanding warrants. 
+ 
+The Company relied on various assumptions in a lattice model to determine the fair value of warrants. The Company had valued the warrants within Level 3 of the valuation hierarchy. See Note 13, “Warrants and Derivative Liabilities,” for additional information including a discussion of the warrants and the valuation assumptions used.
+ 
+
+ 
+
+7. Accounts Receivable
+ 
+Accounts receivable at December 31, 2019 and March 31, 2019 consisted of the following (in thousands):
+ 
+
+
+
+ 
+
+14
+
+ 
+
+ 
+
+ 
+
+8. Inventory
+ 
+Inventory, net of reserves, at December 31, 2019 and March 31, 2019 consisted of the following (in thousands):
+ 
+
+
+
+ 
+The Company recorded inventory write-downs of $0.3 million and $0.2 million for the three months ended December 31, 2019 and 2018, respectively.  The Company recorded inventory write-downs of $0.5 million and $0.7 million for the nine months ended December 31, 2019 and 2018, respectively. These write-downs were based on the Company's evaluation of its inventory on hand for excess quantities and obsolescence.
+ 
+Deferred program costs as of December 31, 2019 and March 31, 2019 primarily represent costs incurred on programs where the Company needs to complete performance obligations before the related revenue and costs will be recognized.
+ 
+
+ 
+
+9. Note Receivable
+ 
+The Company entered into the PSA dated February 1, 2018, for the sale of the Devens facility (including land, building and building improvements) located at 64 Jackson Road, Devens, Massachusetts to 64 Jackson, LLC, a limited liability company (subsequently assigned to Jackson 64 MGI, LLC) in the amount of $23.0 million. The terms for payment included a $1.0 million security deposit, and a note receivable for $6.0 million payable to the Company with the remaining cash, net of certain adjustments for closing costs, at the date of settlement. The note receivable was due in two $3.0 million installments plus accrued interest at a rate of 1.96% on March 31, 2019 and March 31, 2020. The note was subordinate to East Boston Savings Bank's mortgage on the Devens property.  The first installment was paid on March 28, 2019 and the second installment was paid on May 23, 2019.
+ 
+The note receivable was discounted to its present value of $5.7 million utilizing a discount rate of 6%, which was based on management’s assessment of what an appropriate loan at current market rates would be. The $0.3 million discount was recorded as an offset to the long-term portion of the note receivable. In addition, the resulting gain of $0.1 million from the sale of the Devens property which was deferred previously was recorded as a component of the cumulative effect of an accounting change upon the adoption of Accounting Standards Update ("ASU") 2017-05 Other Income - Gains and Losses from the Derecognition of Non-financial Assets (Subtopic 610-20) which was issued as a part of ASU 2014-09 Revenue from Contracts with Customers (Topic 606). This gain was recorded as an offset to the opening accumulated deficit as of April 1, 2018.
+ 
+Note receivable as of December 31, 2019 and March 31, 2019 consisted of the following (in thousands):
+ 
+
+
+
+ 
+
+15
+
+ 
+
+ 
+
+ 
+
+10. Property, Plant and Equipment
+ 
+The cost and accumulated depreciation of property, plant and equipment at December 31, 2019 and March 31, 2019 are as follows (in thousands):
+ 
+
+
+
+ 
+Depreciation expense was $1.0 million and $1.1 million for the three months ended December 31, 2019 and 2018, respectively. Depreciation expense was $3.1 million and $3.2 million for the nine months ended December 31, 2019 and 2018, respectively. Construction in progress - equipment primarily includes capital investments in our HTS equipment and leasehold improvements in the Company's leased facility in Ayer, Massachusetts.
+ 
+
+ 
+
+11. Accounts Payable and Accrued Expenses
+ 
+Accounts payable and accrued expenses at December 31, 2019 and March 31, 2019 consisted of the following (in thousands):
+ 
+
+
+
+ 
+The Company generally provides a one to two year warranty on its products, commencing upon delivery or installation where applicable. A provision is recorded upon revenue recognition to cost of revenues for estimated warranty expense based on historical experience.
+ 
+Product warranty activity was as follows (in thousands):
+ 
+
+
+
+ 
+
+16
+
+ 
+
+ 
+
+ 
+
+12. Income Taxes
+ 
+The Company recorded an income tax expense of $0.1 million and $1.6 million in the three months ended December 31, 2019 and 2018, respectively.  The Company recorded an income tax expense of less than $0.1 million and $4.5 million in the nine months ended December 31, 2019 and 2018, respectively.  
+ 
+Accounting for income taxes requires a two-step approach to recognizing and measuring uncertain tax positions.  The first step is to evaluate the tax position for recognition by determining if, based on the technical merits, it is more likely than not the position will be sustained upon audit, including resolution of related appeals or litigation processes, if any.  The second step is to measure the tax benefit as the largest amount that is more than 50% likely to be realized upon ultimate settlement.  The Company re-evaluates these uncertain tax positions on a quarterly basis.  The evaluation is based on factors including, but not limited to, changes in facts or circumstances, changes in tax law, effectively settled issues under audit and new audit activity.  Any changes in these factors could result in the recognition of a tax benefit or an additional charge to the tax provision.  The Company did not identify any uncertain tax positions in the nine months ended December 31, 2019 and did not have any gross unrecognized tax benefits as of March 31, 2019.
+ 
+
+ 
+
+13. Warrants and Derivative Liabilities
+ 
+The Company accounts for its warrants and contingent consideration as liabilities due to certain adjustment provisions within the instruments, which require that they be recorded at fair value. The warrants are subject to revaluation at each balance sheet date and any change in fair value is recorded as a change in fair value of warrants until the earlier of its expiration or its exercise at which time the warrant liability will be reclassified to equity. The Company calculated the fair value of the warrants utilizing an integrated lattice model. See Note 6, "Fair Value Measurements", for further discussion.
+ 
+Hercules Warrants
+ 
+On December 19, 2014, the Company entered into a second amendment to the Loan and Security Agreement with Hercules (the "Hercules Second Amendment"). In conjunction with the Hercules Second Amendment, the Company issued Hercules a warrant to purchase 58,823 shares of the Company’s common stock (the "Hercules Warrant") which replaced the First Warrant and the Second Warrant.  The Hercules Warrant was exercisable at any time after its issuance at an exercise price of $7.85 per share, subject to certain price-based and other anti-dilution adjustments, including the equity offering in May 2017, the acquisition of ITC with common stock in September 2017 and sales of common stock under the ATM entered into in January 2017.  This warrant had a fair value of $0.4 million as of March 31, 2019.  On April 8, 2019, Hercules notified the Company of its intent to exercise this warrant on a cashless basis.  Hercules received 22,821 shares of the Company's common stock on April 17, 2019.  As a result of this exercise the Company recorded a net gain of $0.1 million to change in fair value of warrants, resulting from the decrease in the fair value of the Hercules Warrant during the nine months ended December 31, 2019.  The Company recorded a net loss of $0.2 million to change in fair value of warrants, resulting from the increase in the fair value of the Hercules Warrant during the nine months ended December 31, 2018.
+ 
+November 2014 Warrant
+ 
+On November 13, 2014, the Company completed an offering of 909,090 units of the Company’s common stock with Hudson Bay Capital. Each unit consisted of one share of the Company’s common stock and 0.9 of a warrant to purchase one share of common stock, or a warrant to purchase in the aggregate 818,181 shares (the “November 2014 Warrant”).  The November 2014 Warrant is exercisable at any time, at an exercise price equal to $7.81 per share, subject to certain price-based and other anti-dilution adjustments including those noted above.  On November 13, 2019, Hudson partially exercised the November 2014 Warrant for 786,000 restricted shares of Company common stock at $7.81 per share.  The remaining 32,181 warrants expired on November 13, 2019. As a result of this exercise the Company recorded net gains of $0.5 million and $4.6 million to change in fair value of warrants, resulting from the decrease in the fair value of the Hudson Warrant during the three and nine months ended December 31, 2019, respectively.  As of December 31, 2019, the Company has no remaining outstanding warrants
+ 
+Following is a summary of the key assumptions used to calculate the fair value of the November 2014 Warrant:
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+The Company recorded net gains of $0.6 million and $4.6 million resulting from the decreases in the fair value of the November 2014 Warrant during the three and nine months ended December 31, 2019, respectively. The Company recorded net losses of $2.3 million and $2.5 million resulting from the increase in the fair value of the November 2014 Warrant during the three and nine months ended December 31, 2018, respectively.
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+14. Leases 
+ 
+On April 1, 2019, the Company adopted ASU 2016-02, Leases (Topic 842) ("ASC 842"), using the modified retrospective approach. The Company elected the package of practical expedients available in the standard and as a result, did not reassess the lease classification of existing contracts or leases or the initial direct costs associated with existing leases. The Company did not elect the hindsight practical expedient and evaluated lease terms for existing leases. The Company has also elected the practical expedient to not separate lease components and non-lease components and will account for the leases as a single lease component for all classes of leases.
+ 
+As a result of the adoption of ASC 842, the Company recognized lease right-of-use assets of $3.8 million, and operating lease liabilities of $3.8 million. There was no impact to the condensed consolidated statements of operations or stockholders' equity for the adoption of ASC 842. No impairment was recognized on the right-of-use asset upon adoption. These adjustments are detailed as follows:
+ 
+
+
+
+ 
+All significant lease arrangements are recognized at lease commencement.  Operating lease right–of-use assets and lease liabilities are recognized at commencement. The operating lease right-of-use asset includes any lease payments related to initial direct cost and prepayments and excludes any lease incentives. Lease expense is recognized on a straight-line basis over the lease term.  The Company enters into a variety of operating lease agreements through the normal course of its business, but primarily real estate leases to support its operations. The agreements generally provide for fixed minimum rental payments and the payment of real estate taxes and insurance. Many of these leases have one or more renewal options that allow the Company, at its discretion, to renew the lease for varying periods up to five years or to terminate the lease. Only renewal options or termination rights that the Company believed were likely to be exercised were included in the lease calculations.
+ 
+The Company also enters into leases for vehicles, IT equipment and service agreements, and other leases related to its manufacturing operations that are also included in the right-of-use asset and lease liability accounts if they are for a term of longer than twelve months. However, many of these leases are either short-term in nature or immaterial. The Company has made the policy election to exclude short term leases from the balance sheet. 
+ 
+The discount rate was calculated using an incremental borrowing rate based on an assessment prepared by the Company through the use of Company credit ratings, consideration of its lease populations potential risk to its total capital structure, and a market rate for a collateralized loan for its risk profile, calculated by a third party. The Company elected to apply the discount rate using the remaining lease term at the date of adoption.
+ 
+The Company did not identify any leases that are classified as financing leases.
+ 
+Supplemental balance sheet information related to leases at December 31, 2019 are as follows:
+ 
+
+
+
+ 
+The costs related to the Company's leases for the three and nine months ended December 31, 2019 are as follows:
+ 
+
+
+
+ 
+The Company’s estimated minimum future lease obligations under the Company's leases are as follows: 
+ 
+
+
+
+ 
+
+ 
+
+15. Commitments and Contingencies
+ 
+Legal Contingencies
+ 
+From time to time, the Company is involved in legal and administrative proceedings and claims of various types. The Company records a liability in its consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated. The Company reviews these estimates each accounting period as additional information is known and adjusts the loss provision when appropriate. If a matter is both probable to result in a liability and the amounts of loss can be reasonably estimated, the Company estimates and discloses the possible loss or range of loss to the extent necessary to make the consolidated financial statements not misleading. If the loss is not probable or cannot be reasonably estimated, a liability is not recorded in its consolidated financial statements.
+ 
+Other
+ 
+The Company enters into long-term construction contracts with customers that require the Company to obtain performance bonds. The Company is required to deposit an amount equivalent to some or all the face amount of the performance bonds into an escrow account until the termination of the bond. When the performance conditions are met, amounts deposited as collateral for the performance bonds are returned to the Company. In addition, the Company has various contractual arrangements in which minimum quantities of goods or services have been committed to be purchased on an annual basis.
+ 
+As of December 31, 2019, the Company had $5.8 million of restricted cash included in long-term assets. These amounts included in restricted cash primarily represent deposits to secure letters of credit for various supply contracts. These deposits are held in interest bearing accounts.  As part of the agreement with Commonwealth Edison Company to install the Resilient Electric Grid ("REG") system in Chicago, the Company agreed to deliver an irrevocable letter of credit in the amount of $5.0 million to secure certain Company obligations under the Subcontract Agreement.  The funds to secure the $5.0 million letter of credit were deposited in an escrow account on July 1, 2019.
+ 
+
+18
+
+ 
+
+ 
+
+ 
+
+16. Restructuring
+ 
+The Company accounts for charges resulting from operational restructuring actions in accordance with ASC Topic 420, Exit or Disposal Cost Obligations (“ASC 420”) and ASC Topic 712, Compensation—Nonretirement Postemployment Benefits (“ASC 712”). In accounting for these obligations, the Company is required to make assumptions related to the amounts of employee severance, benefits, and related costs and the time period over which leased facilities will remain vacant, sublease terms, sublease rates and discount rates. Estimates and assumptions are based on the best information available at the time the obligation arises. These estimates are reviewed and revised as facts and circumstances dictate; changes in these estimates could have a material effect on the amount accrued on the consolidated balance sheet.
+ 
+The $0.4 million charged to operations in the nine months ended December 31, 2018 is related to exit costs incurred in connection with the move of the Company's corporate office.
+ 
+The following table presents restructuring charges and cash payments for the nine months ended December 31, 2018 (in thousands):
+ 
+
+
+
+ 
+All restructuring charges discussed above are included within restructuring in the Company’s unaudited condensed consolidated statements of operations. The Company includes accrued restructuring within accounts payable and accrued expenses.  There was no restructuring activity in the nine months ending December 31, 2019 or any remaining accrued restructuring balance as of December 31, 2019.
+ 
+
+19
+
+ 
+
+ 
+
+ 
+
+17. Business Segments
+ 
+The Company reports its financial results in two reportable business segments: Grid and Wind.
+ 
+Through the Company’s power grid offerings, the Grid business segment enables electric utilities, industrial facilities, and renewable energy project developers to connect, transmit and distribute power through our transmission planning services, power electronics, and superconductor-based systems. The sales process is enabled by transmission planning services that allow it to identify power grid congestion, poor power quality and other risks, which helps the Company determine how its solutions can improve network performance. These services often lead to sales of grid interconnection solutions for wind farms and solar power plants, power quality systems, and transmission and distribution cable systems.  The Company also sells ship protection products to the U.S. Navy through its Grid business segment.
+ 
+Through the Company’s wind power offerings, the Wind business segment enables manufacturers to field highly competitive wind turbines through our advanced power electronics and control system products, engineered designs, and support services. The Company supplies advanced power electronics and control systems, licenses its highly engineered wind turbine designs, and provides extensive customer support services to wind turbine manufacturers. The Company’s design portfolio includes a broad range of drive trains and power ratings of 2 megawatts ("MWs") and higher. The Company provides a broad range of power electronics and software-based control systems that are highly integrated and designed for optimized performance, efficiency, and grid compatibility.
+ 
+The operating results for the two business segments are as follows (in thousands):
+ 
+
+
+
+ 
+
+
+
+ 
+The accounting policies of the business segments are the same as those for the consolidated Company. The Company’s business segments have been determined in accordance with the Company’s internal management structure, which is organized based on operating activities. The Company evaluates performance based upon several factors, of which the primary financial measures are segment revenues and segment operating loss. The disaggregated financial results of the segments reflect allocation of certain functional expense categories consistent with the basis and manner in which Company management internally disaggregates financial information for the purpose of assisting in making internal operating decisions. In addition, certain corporate expenses which the Company does not believe are specifically attributable or allocable to either of the two business segments have been excluded from the segment operating loss.
+ 
+Unallocated corporate expenses primarily consist of stock-based compensation expense of $0.6 million and $0.8 million in the three months ended December 31, 2019 and 2018, respectively, and restructuring charges of less than $0.1 million in the three months ended December 31, 2018.  Unallocated corporate expenses primarily consist of stock-based compensation expense of $1.2 million and $2.4 million in the nine months ended December 31, 2019 and 2018, respectively, and restructuring charges of $0.5 million in the nine months ended December 31, 2018.
+ 
+Total assets for the two business segments as of December 31, 2019 and March 31, 2019 are as follows (in thousands):
+ 
+
+
+
+ 
+
+20
+
+ 
+
+ 
+
+ 
+
+18. Recent Accounting Pronouncements
+ 
+In February 2016, the FASB issued ASU 2016-02, Leases (Topic 842). The guidance in this ASU supersedes the leasing guidance in Topic 840, Leases. Under the new guidance, lessees are required to recognize lease assets and lease liabilities on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. This ASU and its amendments are effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years.
+ 
+
+ 
+
+
+ 
+
+•
+
+
+In July 2018, the FASB issued ASU 2018-11, Topic 842, Leases - Targeted improvements. The amendments in ASU 2018-11 provide for the option to adopt the standard prospectively and recognize a cumulative-effect adjustment to the opening balance of retained earnings as well as offer a new practical expedient that will allow the Company to elect, by class of underlying asset, to not separate non-lease and lease components in certain circumstances and instead to account for those components as a single item.
+
+
+
+ 
+ASU 2016-02 became effective on April 1, 2019, and the Company adopted the standard using the modified retrospective transition method, which impacted all leases existing at, or entered into after, the period of adoption. For all leases existing at the time of adoption the Company recognized a right-of-use asset and lease liability on the balance sheet.  See Note 14 "Leases" for additional information.
+ 
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. The amendments in ASU 2016-13 will provide more decision-useful information about the expected credit losses on financial instruments and other commitments to extend credit held by a reporting entity at each reporting date. The ASU is effective for annual reporting periods beginning after December 15, 2019, including interim periods within that year.  Following the release of ASU 2019-10 in November 2019, the new effective date, as long as the Company remains a smaller reporting company, would be annual reporting periods beginning after December 15, 2022.  The Company is currently evaluating the impact, if any, the adoption of ASU 2016-13 may have on its consolidated financial statements.
+ 
+
+21
+
+ 
+
+ 
+In July 2017, the FASB issued ASU 2017-11, Earnings per Share (Topic 260), Distinguishing Liabilities from Equity (Topic 480), and Derivatives and Hedging (Topic 815). The amendments in ASU 2017-11 provide guidance for freestanding equity-linked financial instruments, such as warrants and conversion options in convertible debt or preferred stock and should no longer be accounted for as a derivative liability at fair value as a result of the existence of a down round feature. The ASU is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those periods. As of April 1, 2019, the Company has adopted ASU 2017-11 and noted no significant impact on its consolidated financial statements, primarily due to the put option feature within the Company's warrant agreements which required continued liability classification under ASC 480.
+ 
+In August 2017, the FASB issued ASU 2017-12, Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities. The amendments in ASU 2017-12 provide improved financial reporting of hedging relationships to better portray the economic results of an entity’s risk management activities in its financial statements. In addition, the amendments in this update make certain targeted improvements to simplify the application of the hedge accounting guidance. The ASU is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those periods. As of April 1, 2019, the Company has adopted ASU 2017-12 and noted no significant impact on its consolidated financial statements, primarily due to the fact that there are no longer any hedging instruments included in its results.
+ 
+In June 2018, the FASB issued ASU 2018-08, Not-For-Profit Entities (Topic 958): Clarifying the Scope and the Accounting Guidance for Contributions Received and Contributions Made.  The amendments in ASU 2018-08 assist entities in (1) evaluating whether transactions should be accounted for as contributions (nonreciprocal transactions) within the scope of Topic 958, Not-for-Profit Entities, or as exchange (reciprocal) transactions subject to other guidance and (2) determining whether a contribution is conditional.  The ASU is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those periods. As of April 1, 2019, the Company has adopted ASU 2018-08 and noted additional disclosures within its revenue footnote to appropriately present the revenue related to its grant revenue.
+ 
+In August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820): Changes to the Disclosure Requirements for Fair Value Measurement. The amendments in ASU 2018-13 provide for increased effectiveness of the disclosures made around fair value measurements while including consideration for costs and benefits. The ASU is effective for annual reporting periods beginning after December 15, 2019, including interim periods within those periods. The Company is currently evaluating the impact the adoption of ASU 2018-13 may have on its consolidated financial statements.
+ 
+In December 2019, the FASB issued ASU 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes. The amendments in ASU 2019-12 provide for simplified accounting to several income tax situations and removal of certain accounting exceptions. The ASU is effective for annual reporting periods beginning after December 15, 2020, including interim periods within those periods. The Company does not expect the impact of the adoption of ASU 2019-12 to be material to its consolidated financial statements.
+
+ 
+
+19. Subsequent Events
+ 
+The Company has performed an evaluation of subsequent events through the time of filing this Quarterly Report on Form 10-Q with the SEC and has determined that there are no such events to report.
+ 
+
+22
+
+ 
+
+ 
+
+ 
+AMERICAN SUPERCONDUCTOR CORPORATION
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+
+
+
+ITEM 2.
+
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+
+ 
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). For this purpose, any statements contained herein that relate to future events or conditions, including without limitation, the statements in Part II, “Item 1A. Risk Factors” and in Part I under “Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations” and located elsewhere herein regarding industry prospects, the timing of our REG system project with Commonwealth Edison Company, our prospective results of operations or financial position and adoption of accounting changes may be deemed to be forward-looking statements. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects,” and similar expressions are intended to identify forward-looking statements. Such forward-looking statements represent management’s current expectations and are inherently uncertain. There are a number of important factors that could materially impact the value of our common stock or cause actual results to differ materially from those indicated by such forward-looking statements. These important factors include, but are not limited to: A significant portion of our revenues are derived from a single customer, Inox, and we cannot predict if and how successful Inox will be in executing on Solar Energy Corporation of India ("SECI") orders under the new central and state auction regime, and any related failure by Inox to succeed under this regime, or any delay in Inox’s ability to deliver its wind turbines, could result in fewer electric control systems shipments to Inox; We have a history of operating losses and negative operating cash flows, which may continue in the future and require us to secure additional financing in the future; Our operating results may fluctuate significantly from quarter to quarter and may fall below expectations in any particular fiscal quarter; We may be required to issue performance bonds or provide letters of credit, which restricts our ability to access any cash used as collateral for the bonds or letters of credit;  Changes in exchange rates could adversely affect our results of operations; If we fail to maintain proper and effective internal control over financial reporting, our ability to produce accurate and timely financial statements could be impaired and may lead investors and other users to lose confidence in our financial data; Our financial condition may have an adverse effect on our customer and supplier relationships; Our contracts with the U.S. government are subject to audit, modification or termination by the U.S. government and include certain other provisions in favor of the government, and additional funding of such contracts may not be approved by U.S. Congress; Our success in addressing the wind energy market is dependent on the manufacturers that license our designs; Our success is dependent upon attracting and retaining qualified personnel and our inability to do so could significantly damage our business and prospects; We may experience difficulties re-establishing our HTS wire production capability in our Ayer, Massachusetts facility; We may not realize all of the sales expected from our backlog of orders and contracts; Our business and operations would be adversely impacted in the event of a failure or security breach of our information technology infrastructure; Failure to comply with evolving data privacy and data protection laws and regulations or to otherwise protect personal data, may adversely impact our business and financial results; We rely upon third-party suppliers for the components and subassemblies of many of our Wind and Grid products, making us vulnerable to supply shortages and price fluctuations, which could harm our business; Many of our revenue opportunities are dependent upon subcontractors and other business collaborators; If we fail to implement our business strategy successfully, our financial performance could be harmed; Problems with product quality or product performance may cause us to incur warranty expenses and may damage our market reputation and prevent us from achieving increased sales and market share;  Many of our customers outside of the United States may be either directly or indirectly related to governmental entities, and we could be adversely affected by violations of the United States Foreign Corrupt Practices Act and similar worldwide anti-bribery laws outside the United States; We have had limited success marketing and selling our superconductor products and system-level solutions, and our failure to more broadly market and sell our products and solutions could lower our revenue and cash flow;  We may acquire additional complementary businesses or technologies, which may require us to incur substantial costs for which we may never realize the anticipated benefits;  Our success depends upon the commercial adoption of the Resilient Electric Grid ("REG") system, which is currently limited, and a widespread commercial market for our products may not develop; Growth of the wind energy market depends largely on the availability and size of government subsidies, economic incentives and legislative programs designed to support the growth of wind energy;  We have operations in, and depend on sales in, emerging markets, including India, and global conditions could negatively affect our operating results or limit our ability to expand our operations outside of these markets; Changes in India’s political, social, regulatory and economic environment may affect our financial performance; Our products face intense competition, which could limit our ability to acquire or retain customers; Our international operations are subject to risks that we do not face in the United States, which could have an adverse effect on our operating results; Lower prices for other fuel sources may reduce the demand for wind energy development, which could have a material adverse effect on our ability to grow our Wind business; Adverse changes in domestic and global economic conditions could adversely affect our operating results; We face risks related to our intellectual property; We face risks related to our technologies; We face risks related to our legal proceedings; We face risks related to our common stock; and the important factors discussed under the caption "Risk Factors" in Part 1. Item 1A of our Form 10-K for the fiscal year ended March 31, 2019 and our other reports filed with the SEC. These important factors, among others, could cause actual results to differ materially from those indicated by forward-looking statements made herein and presented elsewhere by management from time to time. Any such forward-looking statements represent management’s estimates as of the date of this Quarterly Report on Form 10-Q. While we may elect to update such forward-looking statements at some point in the future, we disclaim any obligation to do so, even if subsequent events cause our views to change. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this Quarterly Report on Form 10-Q.
+ 
+American Superconductor®, Amperium®, AMSC®, D-VAR®, PowerModule™, D-VAR VVO®, PQ-IVR®, SeaTitan®, Gridtec Solutions™, Windtec Solutions™ and Smarter, Cleaner...Better Energy™ are trademarks or registered trademarks of American Superconductor Corporation or our subsidiaries. We reserve all of our rights with respect to our trademarks or registered trademarks regardless of whether they are so designated in this Quarterly Report on Form 10-Q by an ® or ™ symbol. All other brand names, product names, trademarks or service marks appearing in this Quarterly Report on Form 10-Q are the property of their respective holders.
+ 
+
+23
+
+ 
+
+ 
+Executive Overview
+ 
+We are a leading provider of megawatt-scale solutions that enhance the performance of the power grid, protect our Navy's fleet, and lower the cost of wind power. In the power grid market, we enable electric utilities, industrial facilities, and renewable energy project developers to connect, transmit and distribute power through our transmission planning services and power electronics and superconductor-based systems. In the wind power market, we enable manufacturers to field highly competitive wind turbines through our advanced power electronics and control system products, engineering, and support services. Our power grid and wind products and services provide exceptional reliability, security, efficiency and affordability to our customers.
+ 
+Our power system solutions help to improve energy efficiency, alleviate power grid capacity constraints, improve system resiliency, and increase the adoption of renewable energy generation. Demand for our solutions is driven by the growing needs for modernized smart grids that improve power reliability, security and quality, the U.S. Navy's effort to upgrade in-board power systems to support fleet electrification, and the need for increased renewable sources of electricity, such as wind and solar energy. Concerns about these factors have led to increased spending by corporations and the military, as well as supportive government regulations and initiatives on local, state, and national levels, including renewable portfolio standards, tax incentives and international treaties.
+ 
+We manufacture products using two proprietary core technologies: PowerModule™ programmable power electronic converters and our Amperium® high temperature superconductor (“HTS”) wires. These technologies and our system-level solutions are protected by a broad and deep intellectual property portfolio consisting of hundreds of patents and licenses worldwide.
+ 
+We operate our business under two market-facing business units: Grid and Wind. We believe this market-centric structure enables us to more effectively anticipate and meet the needs of electric utilities, power generation project developers and wind turbine manufacturers.
+ 
+
+
+ 
+
+•
+
+
+Grid. Through our Gridtec Solutions™, our Grid business segment enables electric utilities and renewable energy project developers to connect, transmit and distribute power with exceptional efficiency, reliability, security and affordability. We provide transmission planning services that allow us to identify power grid congestion, poor power quality, and other risks, which help us determine how our solutions can improve network performance. These services often lead to sales of our grid interconnection solutions for wind farms and solar power plants, power quality systems and transmission and distribution cable systems.  We also sell ship protection products to the U.S. Navy through our Grid business segment.
+
+
+
+ 
+
+
+ 
+
+•
+
+
+Wind. Through our Windtec Solutions™, our Wind business segment enables manufacturers to field wind turbines with exceptional power output, reliability and affordability. We supply advanced power electronics and control systems, license our highly engineered wind turbine designs, and provide extensive customer support services to wind turbine manufacturers. Our design portfolio includes a broad range of drive trains and power ratings of 2 megawatts (“MW”) and higher. We provide a broad range of power electronics and software-based control systems that are highly integrated and designed for optimized performance, efficiency, and grid compatibility.
+
+
+
+ 
+Our fiscal year begins on April 1 and ends on March 31. When we refer to a particular fiscal year, we are referring to the fiscal year beginning on April 1 of that same year. For example, fiscal 2019 refers to the fiscal year beginning on April 1, 2019. Other fiscal years follow similarly.
+ 
+On July 3, 2018, we and our wholly-owned subsidiaries Suzhou AMSC Superconductor Co. Ltd. (“AMSC China”) and AMSC Austria GmbH (“AMSC Austria”) entered into a settlement agreement (the “Settlement Agreement”) with Sinovel Wind Group Co., Ltd. (“Sinovel”). The Settlement Agreement settles the litigation and arbitration proceedings between us and Sinovel listed on Schedule 2 of the Settlement Agreement (the “Proceedings”), and any other civil claims, counterclaims, causes of action, rights and obligations directly or indirectly relating to the subject matters of the Proceedings and the contracts between us and Sinovel listed on Schedules 1 and 4 of the Settlement Agreement, subject to the exception described in Section 1.1 of the Settlement Agreement. The Settlement Agreement was filed as Exhibit 10.1 to the Company’s Form 8-K filed with the Securities and Exchange Commission on July 9, 2018. Under the terms of the Settlement Agreement, Sinovel agreed to pay AMSC China an aggregate cash amount in Renminbi (“RMB”) equivalent to $57.5 million, consisting of two installments. Sinovel paid the first installment of the RMB equivalent of $32.5 million on July 4, 2018 and paid the second installment of the RMB equivalent of $25.0 million on December 27, 2018.
+ 
+In addition, pursuant to the terms of the Settlement Agreement, we and AMSC Austria have granted Sinovel a non-exclusive license for certain of our intellectual property to be used solely in Sinovel’s doubly fed wind turbines (the “License”). We have agreed not to sue Sinovel, Sinovel’s power converter suppliers or Sinovel’s customers for use of the technology covered by the License.
+ 
+On October 31, 2018, we entered into a Subcontract Agreement with Commonwealth Edison Company (“ComEd”) (the “Subcontract Agreement”) for the manufacture and installation of the Company’s REG system within ComEd’s electric grid in Chicago, Illinois (the “Project”). As provided in the Subcontract Agreement, the Subcontract Agreement became effective upon the signing of an amendment by us and the U.S. Department of Homeland Security (“DHS”) to the existing contract (the “Prime Contract”) between us and DHS on June 20, 2019. Unless terminated earlier by us, ComEd or DHS according to the terms of the Subcontract Agreement, the term of the Subcontract Agreement will continue until we complete our warranty obligations under the Subcontract Agreement. Under the terms of the Subcontract Agreement, we have agreed, among other things, to provide the REG system and to supervise ComEd’s installation of the REG system in Chicago. As part of our separate cost sharing arrangement with DHS under the Prime Contract, we expect funding provided by DHS in connection with the Subcontract Agreement to be between $9.0 to $11.0 million, which represents the total amount of revenue we are expected to recognize over the term of the Subcontract Agreement and includes up to $1.0 million that we have agreed to reimburse ComEd for costs incurred by ComEd while undertaking its tasks under the Subcontract Agreement (the “Reimbursement Amount”). In addition, we are required to deliver an irrevocable letter of credit in the amount of $5.0 million to secure certain Company obligations under the Subcontract Agreement. ComEd has agreed to provide the site and provide all civil engineering work required to support the installation, operation and integration of the REG system into ComEd’s electric grid. Other than the Reimbursement Amount, ComEd is responsible for its own costs and expenses. DHS’s approval to commence with construction was obtained on June 20, 2019. Substation work on the project began in late 2019.  The REG system is expected to be operational in 2021.
+ 
+
+24
+
+ 
+
+ 
+Critical Accounting Policies and Estimates
+ 
+The preparation of the unaudited condensed consolidated financial statements requires that we make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base our estimates on historical experience and various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ under different assumptions or conditions. Effective April 1, 2019, we adopted ASU 2016-02, which provides for new requirements in regards to leases. See Note 14, "Leases" for further details. Aside from the adoption of ASU 2016-02, there were no significant changes in the critical accounting policies that were disclosed in our Form 10-K for fiscal 2018, which ended on March 31, 2019.
+ 
+Results of Operations
+ 
+Three and nine months ended December 31, 2019 compared to the three and nine months ended December 31, 2018 
+ 
+Revenues
+ 
+Total revenues increased 27% and 10% to $17.9 million and $45.7 million for the three and nine months ended December 31, 2019, compared to $14.1 million and $41.6 million for the three and nine months ended December 31, 2018.  Our revenues are summarized as follows (in thousands):
+ 
+
+ 
+Our Grid business unit accounted for 85% and 80% of total revenues for the three and nine months ended December 31, 2019, respectively, compared to 48% and 56% for the three and nine months ended December 31, 2018, respectively. Our Grid business unit revenues increased 123% and 57% to $15.2 million and $36.6 million in the three and nine months ended December 31, 2019, respectively, from $6.8 million and $23.3 million in the three and nine months ended December 31, 2018, respectively. Grid business unit revenue in both the three and nine months ended December 31, 2019 increased primarily driven by growth in D-VAR, SPS and REG revenue.
+ 
+Our Wind business unit accounted for 15% and 20% of total revenues for the three and nine months ended December 31, 2019, respectively, compared to 52% and 44% for the three and nine months ended December 31, 2018, respectively. Revenues in the Wind business unit decreased 63% and 50% to $2.7 million and $9.1 million in the three and nine months ended December 31, 2019, respectively, from $7.3 million and $18.3 million in the three and nine months ended December 31, 2018, respectively. The decreases over the prior year period were driven primarily by decreased shipments of ECS to Inox offset slightly by increased development revenue for the 3MW wind turbine platform with Inox and the 5.5MW with Doosan.  As further described in Note 1 “Nature of the Business and Operations and Liquidity,” Inox is currently delinquent on its obligations to post letters of credit for sets of electrical control systems that Inox has agreed to purchase under the terms of the supply contract.  We cannot predict if and when Inox will resume posting letters of credit for payment of contracted-for shipments of electrical control systems. Any continued failure by Inox to post letters of credit and take delivery of contracted-for shipments of electrical control shipments would impact the Company’s revenues and liquidity.  Inox has been active in the new central and state government auction regime in India and has over 900 MW of orders from the first four SECI central government auctions, and 50 MW from the Maharashtra state government auction. However, we cannot predict if and how successful Inox will be in executing on these orders or in obtaining new orders under the new central and state auction regime. Any failure by Inox to succeed under this regime, or any delay in Inox’s ability to deliver its wind turbines, could result in fewer ECS shipments to Inox.
+ 
+Cost of Revenues and Gross Margin
+ 
+Cost of revenues increased by 57% and 28% to $16.3 million and $38.8 million for the three and nine months ended December 31, 2019, respectively, compared to $10.4 million and $30.4 million for the three and nine months ended December 31, 2018, respectively. Gross margin was 9% and 15% for the three and nine months ended December 31, 2019, respectively, compared to 26% and 27% for the three and nine months ended December 31, 2018, respectively.  The decrease in gross margin in the three and nine months ended December 31, 2019 was primarily due to increased revenue from cost share projects with DHS and a less favorable product mix in the current year periods.  
+ 
+
+ 25
+
+ 
+
+ 
+Operating Expenses
+ 
+Research and development
+ 
+R&D expenses decreased 17% in the three months ended December 31, 2019 to $2.0 million from $2.5 million in the three months ended December 31, 2018.  R&D expenses decreased 9% in the nine months ended December 31, 2019 to $6.9 million from $7.6 million in the nine months ended December 31, 2018.  The decreases in R&D expense in both the three and  nine month periods were primarily due to better labor absorption to cost of revenues to support revenue generating projects.
+ 
+Selling, general, and administrative
+ 
+SG&A expenses increased 14% in the three months ended December 31, 2019 to $6.1 million from $5.3 million in the three months ended December 31, 2018. SG&A expenses increased 3% in the nine months ended December 31, 2019 to $16.7 million from $16.3 million in the nine months ended December 31, 2018. The increases in SG&A expense in the both the three and nine month periods was due primarily to higher overall compensation expense than the prior fiscal year.
+ 
+Gain on Sinovel settlement
+ 
+We recorded a gain of $25.0 million and $53.7 million, net of legal and other direct costs, in the three and nine months ended December 31, 2018, respectively, as a result of the receipt of the payments from Sinovel required by the Settlement Agreement.
+ 
+Amortization of acquisition related intangibles
+ 
+We recorded amortization expense related to our core technology and know-how, trade names and trademark, and intangible assets of $0.1 million and $0.3 million in the three and nine month periods ended December 31, 2019, respectively, and $0.1 million and $0.3 million in the three and nine months ended December 31, 2018 respectively.
+ 
+Restructuring
+ 
+We recorded $0.1 million and $0.4 million for facility exit costs in the three and nine months ended December 31, 2018, respectively, as a result of the relocation of the corporate office that was announced as part of our April 4, 2017 approved restructuring plan.  There was no restructuring activity in the three and nine months ended December 31, 2019.
+ 
+Operating (loss) income
+ 
+Our operating (loss) income is summarized as follows (in thousands):
+ 
+
+ 
+Our Grid segment generated an operating loss of $3.7 million and $9.7 million in the three and nine months ended December 31, 2019, respectively, compared to $2.7 million and $8.2 million in the three and nine months ended December 31, 2018, respectively. The increase in the Grid business unit operating loss in the three and nine months ended December 31, 2019 was primarily due to a less favorable product mix than in the prior year period.
+ 
+Our Wind segment generated an operating loss of $2.3 million and $6.0 million in the three and nine months ended December 31, 2019, respectively, compared to income of $24.3 million and $51.4 million in the three and nine months ended December 31, 2018, respectively. The decreases in the Wind business unit operating income in both periods were due primarily to receipt of the payments from Sinovel required by the Settlement Agreement in the second and third quarters of fiscal 2018 and no such payment in fiscal 2019.
+ 
+Unallocated corporate expenses primarily consist of stock-based compensation expense of $0.6 million and $0.8 million in the three months ended December 31, 2019 and 2018, respectively, and restructuring charges of $0.1 million in the three months ended December 31, 2018.  Unallocated corporate expenses primarily consist of stock-based compensation expense of $1.2 million and $2.4 million in the nine months ended December 31, 2019 and 2018, respectively, and restructuring charges of $0.4 million in the nine months ended December 31, 2018.
+ 
+Change in fair value of warrants
+ 
+The change in fair value of warrants resulted in gains of $0.6 million and $4.6 million in the three and nine months ended December 31, 2019, respectively, compared to losses of $2.5 million and $2.7 million in the three and nine months ended December 31, 2018, respectively. The change in the fair value was primarily driven by changes in stock price, which is a key valuation metric, as well as the exercise of the Hercules warrant in June 2019 and Hudson warrants in November 2019.
+ 
+
+26
+
+ 
+
+ 
+ 
+
+Minority Interest
+ 
+
+The gain on sale of minority interest was $0.1 million in each of the three and nine months ended December 31, 2018.  There was no minority interest activity in the three and nine months ended December 31, 2019.
+Interest income, net
+Interest income, net, was $0.3 million and $1.1 million in the three and nine months ended December 31, 2019, compared to $0.3 million and $0.8 million in the three and nine months ended December 31, 2018. The increase in interest income in the nine months ended December 31, 2019 was primarily related to higher cash balances earning higher interest rates than in prior periods as well as the non-cash interest income recognized from receipt of the final payment on the Devens facility note receivable.
+ 
+Other (expense) income, net
+ 
+Other expense, net, was $0.9 million and other income, net was less than $0.1 million in the three and nine months ended December 31, 2019, compared to other income, net of $0.1 million and $1.1 million in the three and nine months ended December 31, 2018.  The increase in other expense, net, in the three month period was primarily driven by higher foreign losses.  The decrease in other income, net, in the nine month period was primarily driven by foreign exchange gains and higher interest income.
+ 
+Income Taxes 
+ 
+Income tax expense was $0.1 million and less than $0.1 million in the three and nine months ended December 31, 2019, compared to $1.6 million and $4.5 million in the three and nine months ended December 31, 2018. The decrease in income tax expense is due primarily to the prior year repayment of previously reserved intercompany trade balances due to AMSC Austria from AMSC China, and a dividend paid by AMSC Austria to us in the nine months ended December 31, 2018 following the Sinovel settlement. 
+ 
+Net (loss) income
+ 
+Net loss was $6.8 million and $11.2 million in the three and nine months ended December 31, 2019, respectively, compared to net income of $17.3 million and $35.1 million in the three and nine months ended December 31, 2018, respectively.  The increase in net loss in both periods was primarily driven by the receipt of the payments from Sinovel required by the Settlement Agreement in the second and third quarters of fiscal 2018 and no such payments in fiscal 2019.  
+ 
+ 
+Non-GAAP Financial Measure - Non-GAAP Net Loss
+ 
+Generally, a non-GAAP financial measure is a numerical measure of a company’s performance, financial position or cash flow that either excludes or includes amounts that are not normally excluded or included in the most directly comparable measure calculated and presented in accordance with GAAP. The non-GAAP measures included in this Form 10-Q, however, should be considered in addition to, and not as a substitute for or superior to the comparable measures prepared in accordance with GAAP.
+ 
+We define non-GAAP net loss as net loss before sale of minority investments, stock-based compensation, gain on Sinovel settlement, net, amortization of acquisition-related intangibles, changes in fair value of warrants, and other non-cash or unusual charges, and the tax effect of those adjustments calculated at the relevant rate for our non-GAAP metric, indicated in the table below. We believe non-GAAP net loss assists management and investors in comparing our performance across reporting periods on a consistent basis by excluding these non-cash or non-recurring charges that we do not believe are indicative of our core operating performance. A reconciliation of GAAP to non-GAAP net loss is set forth in the table below (in thousands, except per share data):
+ 
+
+ 
+We incurred non-GAAP net losses of $6.7 million and $14.4 million or $0.32 and $0.69 per share, for the three and nine months ended December 31, 2019, respectively, compared to non-GAAP net losses of $2.3 million and $8.4 million, or $0.11 and $0.41 per share for the three and nine months ended December 31, 2018 respectively. The increases in non-GAAP net loss were primarily due to the more favorable product mix in the prior year period.
+ 
+For a description and reconciliation of our other non-GAAP financial measure, non-GAAP operating cash flow, see the below under “Non-GAAP Financial Measure – Non-GAAP Operating Cash Flow.”
+ 
+
+27
+
+ 
+
+ 
+Liquidity and Capital Resources
+ 
+We have experienced recurring operating losses, and as of December 31, 2019, had an accumulated deficit of $972.7 million. 
+ 
+Our cash requirements depend on numerous factors, including whether Inox is successful in executing on SECI orders or in obtaining additional orders under the new central and state auction regime, whether and to the extent that Inox fulfills its purchase obligations under our supply contract, the successful completion of our product development activities, our ability to commercialize our REG and ship protection system solutions, the rate of customer and market adoption of our products, collecting receivables according to established terms, and the continued availability of U.S. government funding during the product development phase of our superconductor-based products. We continue to closely monitor our expenses and, if required, expect to further reduce our operating and capital spending to enhance liquidity.
+ 
+As of December 31, 2019, we had cash, cash equivalents, restricted cash, and marketable securities of $66.3 million, compared to $78.2 million as of March 31, 2019, a decrease of $11.9 million. As of December 31, 2019, we had approximately $8.4 million of cash, cash equivalents, and restricted cash in foreign bank accounts. Our cash and cash equivalents, marketable securities and restricted cash are summarized as follows (in thousands):
+ 
+
+ 
+For the nine months ended December 31, 2019, net cash used in operating activities was $17.8 million compared to net cash provided by operating activities of $47.8 million for the nine months ended December 31, 2018. The decrease in net cash provided by operations was due primarily to the receipt of the first and second payments from the Sinovel settlement in the nine months ended December 31, 2018 with no similar transaction in the nine months ended December 31, 2019.
+ 
+For the nine months ended December 31, 2019, net cash used in investing activities was $34.9 million, compared to $0.7 million for the nine months ended December 31, 2018. The increase in net cash used in investing activities was due primarily to the purchase of marketable securities and increased purchases of property, plant and equipment related to improvements to the Ayer facility and factory equipment to support the Navy and REG projects, partially offset by the receipt of the second installment payment under the Note Receivable from the Devens facility sale in the nine months ended December 31, 2019. 
+ 
+For the nine months ended December 31, 2019, net cash provided by financing activities was $5.7 million compared to net cash used in financing activities of $0.4 million in the nine months ended December 31, 2018.  The increase in net cash provided by financing activities was due primarily to proceeds received from the exercise of the Hudson warrants during the nine months ended December 31, 2019.
+ 
+As of December 31, 2019, we had $5.8 million of restricted cash included in long-term assets. These amounts included in restricted cash primarily represent deposits to secure letters of credit for various supply contracts and long-term projects. These deposits are held in interest bearing accounts.
+ 
+We believe we have sufficient available liquidity to fund our operations and capital expenditures for the next twelve months. In addition, we may seek to raise additional capital, which could be in the form of loans, convertible debt or equity, to fund our operating requirements and capital expenditures. Our liquidity is highly dependent on our ability to increase revenues, including our ability to collect revenues under our agreements with Inox, control our operating costs, and our ability to raise additional capital, if necessary. There can be no assurance that we will be able to raise additional capital, on favorable terms or at all, or execute on any other means of improving our liquidity as described above.
+ 
+Non-GAAP Financial Measure – Non-GAAP Operating Cash Flow
+ 
+We define non-GAAP operating cash flow as operating cash flow before the Sinovel settlement (net of legal fees and expenses); tax effect of adjustments; and other unusual cash flows or items. We believe non-GAAP operating cash flow assists management and investors in comparing our operating cash flow across reporting periods on a consistent basis by excluding these non-recurring cash items that it does not believe are indicative of our core operating cash flow. A reconciliation of GAAP to non-GAAP operating cash flow is set forth in the table below (in thousands).
+ 
+
+ 
+
+28
+
+ 
+
+ 
+Legal Proceedings
+ 
+We are involved in legal and administrative proceedings and claims of various types. See Part II, Item 1, “Legal Proceedings,” for additional information. We record a liability in our consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated. We review these estimates each accounting period as additional information is known and adjust the loss provision when appropriate. If a matter is both probable to result in liability and the amounts of loss can be reasonably estimated, we estimate and disclose the possible loss or range of loss to the extent necessary to make the consolidated financial statements not misleading. If the loss is not probable or cannot be reasonably estimated, a liability is not recorded in our consolidated financial statements.
+ 
+Off-Balance Sheet Arrangements
+ 
+We do not have any off-balance sheet arrangements, as defined under SEC rules, such as relationships with unconsolidated entities or financial partnerships, which are often referred to as structured finance or special purpose entities, established for the purpose of facilitating transactions that are not required to be reflected on our balance sheet except as discussed below.
+ 
+We occasionally enter into construction contracts that include a performance bond. As these contracts progress, we continually assess the probability of a payout from the performance bond. Should we determine that such a payout is probable, we would record a liability.
+ 
+In addition, we have various contractual arrangements in which minimum quantities of goods or services have been committed to be purchased on an annual basis.
+ 
+Recent Accounting Pronouncements 
+ 
+In February 2016, the FASB issued Accounting Standards Update ("ASU") 2016-02, Leases (Topic 842). The guidance in this ASU supersedes the leasing guidance in Topic 840, Leases. Under the new guidance, lessees are required to recognize lease assets and lease liabilities on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. This ASU and its amendments are effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years.
+ 
+
+ 
+
+
+ 
+
+•
+
+
+In July 2018, the FASB issued ASU 2018-11, Topic 842, Leases - Targeted improvements. The amendments in ASU 2018-11 provide for the option to adopt the standard prospectively and recognize a cumulative-effect adjustment to the opening balance of retained earnings as well as offer a new practical expedient that will allow us to elect, by class of underlying asset, to not separate non-lease and lease components in certain circumstances and instead to account for those components as a single item.
+
+
+
+ 
+ASU 2016-02 became effective on April 1, 2019, and we adopted the standard using the modified retrospective transition method, which will impact all leases existing at, or entered into after, the period of adoption. For all leases existing at the time of adoption we recognized a right-of-use asset and lease liability on the balance sheet.  See Note 14 "Leases" for additional information.
+ 
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments-Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. The amendments in ASU 2016-13 provide more decision-useful information about the expected credit losses on financial instruments and other commitments to extend credit held by a reporting entity at each reporting date. The ASU is effective for annual reporting periods beginning after December 15, 2019, including interim periods within that year.  Following the release of ASU 2019-10 in November 2019, the new effective date, as long as the Company remains a smaller reporting company, would be annual reporting periods beginning after December 15, 2022.   We are currently evaluating the impact, if any, the adoption of ASU 2016-13 may have on our consolidated financial statements.
+ 
+In July 2017, the FASB issued ASU 2017-11, Earnings per Share (Topic 260), Distinguishing Liabilities from Equity (Topic 480), and Derivatives and Hedging (Topic 815). The amendments in ASU 2017-11 provide guidance for freestanding equity-linked financial instruments, such as warrants and conversion options in convertible debt or preferred stock, and should no longer be accounted for as a derivative liability at fair value as a result of the existence of a down round feature. The ASU is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those periods. As of April 1, 2019 we have adopted ASU 2017-11 and noted no significant impact on our consolidated financial statements, primarily due to the put option feature which required continued liability classification under ASC 840.
+ 
+In August 2017, the FASB issued ASU 2017-12, Derivatives and Hedging (Topic 815): Targeted Improvements to Accounting for Hedging Activities. The amendments in ASU 2017-12 provide improved financial reporting of hedging relationships to better portray the economic results of an entity’s risk management activities in its financial statements. In addition, the amendments in this update make certain targeted improvements to simplify the application of the hedge accounting guidance. The ASU is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those periods. As of April 1, 2019 we have adopted ASU 2017-12 and noted no significant impact on our consolidated financial statements, primarily due to the fact that there are no longer any hedging instruments included in our results.
+ 
+In June 2018, the FASB issued ASU 2018-08, Not-For-Profit Entities (Topic 958): Clarifying the Scope and the Accounting Guidance for Contributions Received and Contributions Made.  The amendments in ASU 2018-08 assist entities in (1) evaluating whether transactions should be accounted for as contributions (nonreciprocal transactions) within the scope of Topic 958, Not-for-Profit Entities, or as exchange (reciprocal) transactions subject to other guidance and (2) determining whether a contribution is conditional.  The ASU is effective for annual reporting periods beginning after December 15, 2018, including interim periods within those periods. As of April 1, 2019, we have adopted ASU 2018-08 and noted additional disclosures within our revenue footnote to appropriately present the revenue related to our grant revenue.
+ 
+In August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820): Changes to the Disclosure Requirements for Fair Value Measurement. The amendments in ASU 2018-13 provide for increased effectiveness of the disclosures made around fair value measurements while including consideration for costs and benefits. The ASU is effective for annual reporting periods beginning after December 15, 2019, including interim periods within those periods. We are currently evaluating the impact the adoption of ASU 2018-13 may have on our consolidated financial statements.
+ 
+In December 2019, the FASB issued ASU 2019-12, Income Taxes (Topic 740): Simplifying the Accounting for Income Taxes. The amendments in ASU 2019-12 provide for simplified accounting to several income tax situations and removal of certain accounting exceptions. The ASU is effective for annual reporting periods beginning after December 15, 2020, including interim periods within those periods. We do not expect the impact of the adoption of ASU 2019-12 to be material to our consolidated financial statements.
+ 
+We do not believe that, outside of those disclosed here, there are any other recently issued accounting pronouncements that will have a material impact on our consolidated financial statements.
+ 
+
+29
+
+ 
+
+ 
+
+
+
+ITEM 3.
+
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+
+
+ 
+Not Applicable
+ 
+
+
+
+ITEM 4.
+
+
+CONTROLS AND PROCEDURES
+
+
+
+ 
+Evaluation of Disclosure Controls and Procedures
+ 
+Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of December 31, 2019. The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on that evaluation of our disclosure controls and procedures as of December 31, 2019, our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level.
+ 
+Changes in Internal Control over Financial Reporting
+ 
+There were no changes to our internal controls over financial reporting during the quarter ended December 31, 2019, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+ 
+
+30
+
+ 
+
+ 
+PART II—OTHER INFORMATION
+ 
+
+
+
+ITEM 1.
+
+
+LEGAL PROCEEDINGS
+
+
+
+ 
+None
+ 
+
+
+
+ITEM 1A.
+
+
+RISK FACTORS
+
+
+
+ 
+There have been no material changes to the risk factors described in Part I, Item IA of our Annual Report on Form 10-K for the fiscal year ended March 31, 2019, filed with the SEC on June 5, 2019.
+ 
+
+
+
+ITEM 2.
+
+
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+
+
+ 
+On November 13, 2019, Hudson Bay Capital (“Hudson”) exercised warrants to purchase an aggregate of 786,000 shares of the Company’s common stock at an exercise price of $7.81 per share.  Hudson Bay paid an aggregate of $6.1 million to the Company in connection with such exercise.   Accordingly, the Company issued 786,000 restricted shares of its common stock to Hudson upon such exercise. The issuance of the 786,000 restricted shares of the Company’s common stock upon exercise of the warrants described herein was exempt from registration requirements under the Securities Act of 1933, as amended, pursuant to Section 4(2) thereof, because the transaction did not involve a public offering.
+ 
+The Company’s stock repurchase activity during the three months ended December 31, 2019 was as follows:
+
+ 
+(a) During the three months ended December 31, 2019, we purchased shares in connection with our stock-based compensation plans, whereby shares of our common stock were tendered by employees for payment of applicable statutory tax withholdings.
+ 
+
+
+
+ITEM 3.
+
+
+DEFAULTS UPON SENIOR SECURITIES
+
+
+
+ 
+None
+ 
+
+
+
+ITEM 4.
+
+
+MINE SAFETY DISCLOSURES
+
+
+
+ 
+Not Applicable
+ 
+
+
+
+ITEM 5.
+
+
+OTHER INFORMATION
+
+
+
+ 
+None
+ 
+
+31
+
+ 
+
+ 
+
+
+
+ITEM 6.
+
+
+EXHIBITS
+
+
+
+ 
+ 
+EXHIBIT INDEX
+ 
+
+_________________________
+ 
+
+
+
+*
+
+
+Filed herewith
+
+
+
+ 
+
+
+
+**
+
+
+Furnished herewith
+
+
+
+ 
+
+
+
+***
+
+
+Submitted electronically herewith
+
+
+
+ 
+Attached as Exhibits 101 to this report are the following formatted in XBRL (Extensible Business Reporting Language): (i) Condensed Consolidated Balance Sheet as of December 31, 2019 and March 31, 2019 (ii) Condensed Statements of Operations and Income for the three and nine months ended December 31, 2019 and 2018, (iii) Condensed Consolidated Statements of Comprehensive (Loss) Income for the three and nine months ended December 31, 2019 and 2018, (iv) Condensed Consolidated Statements of Cash Flows for the nine months ended December 31, 2019 and 2018, and (v) Notes to Condensed Consolidated Financial Statements.
+ 
+
+32
+
+ 
+
+ 
+SIGNATURE
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+ 
+
+
+
+ 
+
+
+ 
+
+
+AMERICAN SUPERCONDUCTOR CORPORATION
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Date:
+
+
+February 5, 2020
+
+
+By:
+
+
+/s/ John W. Kosiba, Jr.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+John W. Kosiba, Jr.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Senior Vice President, Chief Financial Officer and Treasurer (Principal Financial and Accounting Officer)
+
+
+
+ 
+33
+
+

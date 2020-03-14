@@ -1,0 +1,978 @@
+
+
+
+
+mygn-10q_20191231.htm
+
+
+
+
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 10-Q
+ 
+(Mark One)
+
+
+
+
+☒
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended December 31, 2019
+OR
+
+
+
+
+☐
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from            to            
+Commission file number:  0-26642
+ 
+MYRIAD GENETICS, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+
+
+
+
+Delaware
+
+87-0494517
+
+
+
+(State or other jurisdiction
+of incorporation or organization)
+
+(I.R.S. Employer Identification No.)
+
+
+
+ 
+
+ 
+
+
+
+320 Wakara Way, Salt Lake City, UT
+
+84108
+
+
+
+(Address of principal executive offices)
+
+(Zip Code)
+
+
+ 
+Registrant's telephone number, including area code: (801) 584-3600
+ 
+Securities registered pursuant to Section 12(b) of the Act: 
+ 
+
+
+
+
+Title of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+
+
+Public Common Stock, $0.01 par value
+
+ 
+
+MYGN
+
+ 
+
+Nasdaq Global Select Market
+
+
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes  ☒    No  ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes  ☒    No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+
+
+Large accelerated filer
+
+☒
+
+Accelerated filer
+
+☐
+
+
+
+Non-accelerated filer
+
+☐
+
+Smaller reporting company
+
+☐
+
+
+
+Emerging growth company
+
+☐
+
+ 
+
+ 
+
+
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒
+As of January 31, 2020 the registrant had 74,550,111 shares of $0.01 par value common stock outstanding.
+ 
+ 
+
+MYRIAD GENETICS, INC.
+INDEX TO FORM 10-Q
+ 
+
+
+ 
+2
+
+MYRIAD GENETICS, INC.
+AND SUBSIDIARIES
+Condensed Consolidated Balance Sheets (Unaudited)
+(In millions)
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements.
+ 
+3
+
+MYRIAD GENETICS, INC.
+AND SUBSIDIARIES
+Condensed Consolidated Statements of Operations (Unaudited)
+(In millions, except per share amounts)
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements.
+ 
+4
+
+MYRIAD GENETICS, INC.
+AND SUBSIDIARIES
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)
+(In millions)
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements.
+ 
+5
+
+MYRIAD GENETICS, INC.
+AND SUBSIDIARIES
+Condensed Consolidated Statements of Stockholders’ Equity
+(In millions)
+ 
+
+
+ 
+See accompanying notes to consolidated financial statements.
+6
+
+MYRIAD GENETICS, INC.
+AND SUBSIDIARIES
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(In millions)
+ 
+
+
+ 
+See accompanying notes to condensed consolidated financial statements. 
+ 
+7
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(Dollars and shares in millions, except per share data)
+
+
+
+
+(1)
+
+BASIS OF PRESENTATION
+The accompanying condensed consolidated financial statements have been prepared by Myriad Genetics, Inc. (the “Company” or “Myriad”) in accordance with U.S. generally accepted accounting principles (“GAAP”) for interim financial information and pursuant to the applicable rules and regulations of the Securities and Exchange Commission (“SEC”). The condensed consolidated financial statements include the accounts of the Company and its wholly owned subsidiaries.  All intercompany accounts and transactions have been eliminated in consolidation. In the opinion of management, the accompanying financial statements contain all adjustments (consisting of normal and recurring accruals) necessary to present fairly all financial statements in accordance with GAAP. The condensed consolidated financial statements herein should be read in conjunction with the Company’s audited consolidated financial statements and notes thereto for the fiscal year ended June 30, 2019, included in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2019. Operating results for the three and six months ended December 31, 2019 may not necessarily be indicative of results to be expected for any other interim period or for the full year.
+The consolidated financial statements include the accounts of the Company’s majority-owned subsidiary, Assurex Canada, Ltd. which is 85% owned by Assurex Health, Inc. (“Assurex”), a wholly owned subsidiary of the Company, and 15% owned by the Centre for Addiction and Mental Health. Assurex Canada, Ltd. is a consolidated subsidiary of Assurex Health, Inc. The value of the non-controlling interest represents the portion of Assurex Canada, Ltd.’s profit or loss and net assets that is not held by Assurex Health, Inc. The Company attributes comprehensive income or loss of the subsidiary between the Company and the non-controlling interest based on the respective ownership interest.
+The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities at the date of the financial statements, as well as the reported amounts of revenue and expenses during the reporting period. Actual results could differ from those estimates.
+Net assets held for sale represent land, buildings and other assets and liabilities for locations that have met the criteria of "held for sale" accounting, as specified by Accounting Standards Codifications ("ASC") 360, "Property, Plant, and Equipment," and are recorded at the lower of carrying value or fair value less costs to sell. Fair value is based on the estimated proceeds from the sale of the net assets utilizing recent purchase offers, market comparables and/or reliable third-party data and costs to sell include direct costs that are estimable and probable. The Company's fair value estimates are regularly reviewed, and the net assets classified as held for sale are subject to changes. Net assets held for sale are currently marketed for sale and it is the Company's intention to complete the sale of these net assets within twelve months following their initial classification as held for sale. See Note 18 for additional information regarding assets and liabilities held for sale.
+Recent Accounting Pronouncements
+Recently Adopted Standards 
+In February 2016, the FASB issued ASU 2016-02, Leases (“ASU 2016-02”). ASU 2016-02 amends the existing accounting standards for lease accounting, including requiring lessees to recognize most leases on their balance sheets and changing certain lessor accounting requirements. ASU 2016-02 also requires entities to provide enhanced disclosures surrounding the amount, timing and uncertainty of cash flows arising from leasing arrangements. On July 1, 2019, the Company adopted ASU 2016-02 under the modified retrospective approach by initially applying ASU 2016-02 at the adoption date, rather than at the beginning of the earliest comparative period presented. Results for the three and six months ended December 31, 2019 are presented under ASU 2016-02. Prior period amounts were not adjusted and continue to be reported under previous lease accounting guidance.
+Under ASU 2016-02, the Company determines if an arrangement is or contains a lease at inception by assessing whether the arrangement contains an identified asset and whether it has the right to control the identified asset. Right-of-use (“ROU”) assets represent the Company's right to use an underlying asset for the lease term and lease liabilities represent the Company's obligation to make lease payments arising from the lease. Lease liabilities are recognized at the lease commencement date based on the present value of future lease payments over the lease term. ROU assets are based on the measurement of the lease liability and also include any lease payments made prior to or on lease commencement and exclude lease incentives and initial direct costs incurred, as applicable.
+As the implicit rate in the Company's leases is generally unknown, the Company uses its incremental borrowing rate based on the information available at the lease commencement date in determining the present value of future lease payments. When calculating the Company’s incremental borrowing rates, the Company gives consideration to its credit risk, term of the lease, total lease payments and adjust for the impacts of collateral, as necessary. The lease term used may reflect any option to extend or terminate the lease when it is reasonably certain the Company will exercise such options. Lease expenses for the Company's operating leases are recognized on a straight-line basis over the lease term.
+ASU 2016-02 provides a number of optional practical expedients in transitioning to ASU 2016-02. The Company has elected the package of practical expedients to avoid reassessing under ASU 2016-02 prior conclusions about lease identification, lease 
+8
+
+classification and initial direct costs. The Company has also elected the practical expedient allowing the use of hindsight in determining the lease term and assessing impairment of right-of-use ROU assets based on all facts and circumstances through the effective date of the new standard. ASU 2016-02 also provides practical expedients for ongoing lease accounting. The Company has elected the recognition exemption for short-term leases for all leases that qualify. Under this exemption, the Company will not recognize ROU assets or lease liabilities for those leases that qualify as a short-term lease (leases with lease terms of 12 months or less), which includes not recognizing ROU assets or lease liabilities for existing short-term leases in transition. The Company also has elected the practical expedient to avoid separating lease and non-lease components for any of its leases within its existing classes of assets.
+As of the July 1, 2019 adoption date, the Company recognized operating lease liabilities of $78.8 and right-of-use assets related to operating leases totaling $74.5 as of the adoption date. These are presented as “Current maturities of operating lease liabilities” for a total of $13.1, “Noncurrent operating lease liabilities” for a total of $65.7, and “Operating lease right-of-use assets” for a total of $74.5 on the Company’s consolidated balance sheet. No adjustments to the beginning retained earnings balance were required.
+On October 1, 2019, the Company adopted early ASU 2017-04, Intangibles – Goodwill and Other (Topic 350) (“ASU 2017-04”) as permitted under the standard. The standard simplifies the accounting for goodwill impairment by requiring a goodwill impairment to be measured using a single step impairment model, whereby the impairment equals the difference between the carrying amount and the fair value of the specified reporting units as a whole. This eliminates the second step of the current impairment model that requires a company to first estimate the fair value of all assets in a reporting unit and measure impairments based on those fair values and a residual measurement approach. The standard also specifies that any loss recognized should not exceed the total amount of goodwill allocated to that reporting unit. This ASU was adopted on a prospective basis with no material impact to the Company’s consolidated financial statements. 
+ 
+Standards Effective in Future Years and Not Yet Adopted
+ 
+In June 2016, the FASB issued ASU 2016-13, Financial Instruments – Credit Losses (Topic 326) (“ASU 2016-13”) which introduces new guidance for the accounting for credit losses on certain instruments within its scope. ASU 2016-13 introduces an approach based on expected losses to estimate credit losses on certain types of financial instruments. For trade receivables, the Company will be required to use a forward-looking expected loss model rather than the incurred loss model for recognizing credit losses, which reflects losses that are probable. Credit losses relating to available-for-sale debt securities will also be recorded through an allowance for credit losses rather than as a reduction in the amortized cost basis of the securities. ASU 2016-13 is effective for fiscal years beginning after December 31, 2019, including interim periods within those years. Early application of the guidance is permitted for all entities for fiscal years beginning after December 15, 2018, including the interim periods within those fiscal years. Application of the amendments is through a cumulative-effect adjustment to retained earnings as of the effective date. The Company is currently evaluating the impact of ASU 2016-13 on its consolidated financial statements.
+ 
+
+
+
+
+(2)
+
+REVENUE
+The following table presents detail regarding the composition of our total revenue by product and by U.S versus rest of world, “RoW”:
+ 
+
+
+9
+
+ 
+ 
+
+
+The Company performs its obligation under a contract with a customer by processing diagnostic tests and communicating the test results to customers, in exchange for consideration from the customer. The Company has the right to bill its customers upon the completion of performance obligations and thus does not record contract assets.  Occasionally customers make payments prior to the Company's performance of its contractual obligations.  When this occurs, the Company records a contract liability as deferred revenue.  A reconciliation of the beginning and ending balances of deferred revenue is shown in the table below:
+ 
+
+
+ 
+Myriad Companies generate revenue by performing molecular diagnostic testing and pharmaceutical & clinical services. Revenue from the sale of molecular diagnostic tests and pharmaceutical and clinical services is recorded at the invoiced amount net of any discounts or contractual allowances. The Company has determined that the communication of test results or the completion of clinical and pharmaceutical services indicates transfer of control for revenue recognition purposes. 
+In accordance with ASU 2014-09, the Company has elected not to disclose the aggregate amount of the transaction price allocated to remaining performance obligations for its contracts that are one year or less, as the revenue is expected to be recognized within the next year. Furthermore, the Company has elected not to disclose the aggregate amount of the transaction price allocated to remaining performance obligations for its agreements wherein the Company’s right to payment is in an amount that directly corresponds with the value of Company’s performance to date. However, the Company periodically enters into arrangements with customers to provide diagnostic testing and/or pharmaceutical and clinical services that may have terms longer than one year and include multiple performance obligations.  As of December 31, 2019, the aggregate amount of the transaction price of such contracts that is allocated to the remaining performance obligations is $3.1.  
+The Company provides discounts such as self-pay and volume discounts to its customers.  In determining the transaction price, Myriad includes an estimate of the expected amount of consideration as revenue. The Company applies this method consistently for similar contracts when estimating the effect of any uncertainty on an amount of variable consideration to which it will be entitled.  The Company applies the expected value method for sales where the Company has a large number of contracts with similar characteristics. 
+In addition, the Company considers all the information (historical, current, and forecast) that is reasonably available to identify possible consideration amounts. The Company considers the probability of the variable consideration for each possible scenario. The Company also has significant experience with historical discount patterns and uses this experience to estimate transaction prices. The Company excludes from the measurement of transaction price all taxes assessed by a governmental authority that are both imposed on and concurrent with a specific revenue-producing transaction and collected by the Company from a customer for e.g. sales tax, value added tax etc.
+The Company applies the practical expedient related to costs to obtain or fulfill a contract since the amortization period for such costs will be one year or less. Accordingly, no costs incurred to obtain or fulfill a contract have been capitalized. The Company also applies the practical expedient for not adjusting revenue recognized for the effects of the time value of money. This practical 
+10
+
+expedient has been elected because the Company collects very little cash from customers under payment terms and vast majority of payments terms have a payback period of less than one year. 
+During the three and six months ended December 31, 2019, the Company recognized a $3.7 and $6.9 decrease in revenue respectively, which resulted in an ($0.04) and ($0.07) impact to EPS, for tests in which the performance obligation of delivering the tests results was met in prior periods.  The changes were primarily driven by changes in the estimated transaction price due to contractual adjustments, obtaining updated information from payors and patients that was unknown at the time the performance obligation was met and settlements with third party payors.
+ 
+
+
+
+
+(3)
+
+ACQUISITIONS
+Acquisition of Counsyl, Inc.
+ 
+On July 31, 2018, the Company completed the acquisition of Counsyl, Inc. (“Counsyl”), a leading provider of genetic testing and DNA analysis services, pursuant to the Agreement and Plan of Merger (the “Merger Agreement”), dated May 25, 2018.  Pursuant to the terms of the Merger Agreement, Myriad Merger Sub, Inc., a newly-created wholly-owned subsidiary of the Company, was merged with and into Counsyl, with Counsyl continuing as the surviving corporation and a wholly-owned subsidiary of Myriad.  The Company believes the acquisition allows for greater entry into the high-growth reproductive testing market, with the ability to become a leader in women’s health genetic testing.  
+ 
+The Company acquired Counsyl for total consideration of $405.9, consisting of $278.5 in cash, financed in part by the Amendment to the Facility (see Note 8) and 2,994,251 shares of common stock issued, valued at $127.4.  The shares were issued and valued as of July 31, 2018 at a per share market closing price of $42.53. To complete the purchase transaction, the Company incurred approximately $6.8 of acquisition costs, which were recorded as selling, general and administrative expenses in the period incurred.
+ 
+Of the cash consideration, $5.0 was deposited into an escrow account to fund any post-closing adjustments payable to Myriad based upon differences between the estimated working capital and the actual working capital of Counsyl at closing. The working capital was finalized during the quarter ended December 31, 2018 and $1.1 of the escrow was returned to Myriad as a result of a working capital adjustment which reduced total consideration and goodwill.
+ 
+Consideration transferred was allocated to the tangible and intangible assets acquired and liabilities assumed based on their fair values as of the acquisition date. Management estimated the fair value of tangible and intangible assets and liabilities in accordance with the applicable accounting guidance for business combinations and utilized the services of third-party valuation consultants. The allocation of the consideration transferred was finalized within the measurement period (which was up to one year from the acquisition date).
+ 
+
+
+ 
+Identifiable Intangible Assets
+Through its acquisition of Counsyl, the Company acquired intangible assets that consisted of developed screening processes with an estimated fair value of $290.0. The fair values of these developed screening processes were estimated using a probability-weighted income approach that discounts expected future cash flows to present value. Under the probability-weighted income approach, the estimated net cash flows from these developed screening processes were discounted using a discount rate of 12.5%, which is based on the estimated internal rate of return for the acquired developed screening processes and represents the rate that market participants may use to value these intangible assets. The Company will amortize these intangible assets on a straight-line basis over their estimated useful lives of 12 years.       
+ 
+11
+
+Goodwill
+ 
+The goodwill represents the excess of consideration transferred over the fair value of assets acquired and liabilities assumed from Counsyl and is attributable to the benefits expected from combining the Company’s expertise with Counsyl’s technology and customer insights and the opportunity to integrate genetic screening into clinical practice with OBGYNs.  Changes in goodwill since the Counsyl acquisition to the balance as of December 31, 2019 are shown below:
+ 
+
+
+ 
+This goodwill is not deductible for income tax purposes.
+  
+ 
+Pro Forma Information (Unaudited)
+ 
+The unaudited pro-forma results presented below include the effects of the Counsyl acquisition as if it had been consummated as of July 1, 2017, with adjustments to give effect to pro forma events that are directly attributable to the acquisition, which includes adjustments related to the amortization of acquired intangible assets, interest income and expense, and depreciation. 
+ 
+The unaudited pro forma results do not reflect any operating efficiency or potential cost savings that may result from the consolidation of Counsyl. Accordingly, these unaudited pro forma results are presented for informational purposes only and are not necessarily indicative of what the actual results of operation of the combined company would have been if the acquisition had occurred at the beginning of the period presented, nor are they indicative of future results of operations and are not necessarily indicative of results that might have been achieved had the acquisition been consummated as of July 1, 2017.
+ 
+
+
+ 
+   
+
+
+
+
+(4)
+
+MARKETABLE INVESTMENT SECURITIES
+The Company has classified its marketable investment securities as available-for-sale securities. These securities are carried at estimated fair value with unrealized holding gains and losses, net of the related tax effect, included in accumulated other comprehensive loss in stockholders’ equity until realized. Gains and losses on investment security transactions are reported on the specific-identification method. Dividend and interest income are recognized when earned. The Company’s cash equivalents consist of short-term, highly liquid investments that are readily convertible to known amounts of cash.  The amortized cost, gross unrealized holding gains, gross unrealized holding losses, and fair value for available-for-sale securities by major security type and class of security at December 31, 2019 and June 30, 2019 were as follows:
+12
+
+ 
+
+
+ 
+
+
+ 
+Cash, cash equivalents, and maturities of debt securities classified as available-for-sale securities are as follows at December 31, 2019:
+ 
+
+
+ 
+ 
+
+
+
+
+(5)
+
+PROPERTY, PLANT AND EQUIPMENT, NET
+ 
+
+
+ 
+13
+
+As of December 31, 2019, $19.5 of the balance of property, plant and equipment has been classified as assets held for sale, see Note 18. 
+ 
+
+
+ 
+
+
+
+
+(6)
+
+GOODWILL AND INTANGIBLE ASSETS
+Goodwill
+The Company has recorded goodwill of $408.1 from the acquisitions of Counsyl that was completed on  July 31, 2018, Assurex that was completed on August 31, 2016, Sividon Diagnostics GmbH (“Sividon”) that was completed on May 31, 2016, Privatklinik Dr. Robert Schindlbeck GmbH & Co. KG (the “Clinic”) that was completed on February 27, 2015, Crescendo Bioscience, Inc. that was completed on February 28, 2014 and Rules-Based Medicine, Inc. that was completed on May 31, 2011.  Of this goodwill, $351.3 relates to the Company’s diagnostic segment and $56.8 relates to the other segment.  The following summarizes changes to the goodwill balance for the six months ended December 31, 2019:
+ 
+
+
+ 
+See Note 18 for further discussions regarding goodwill allocated to assets held for sale.
+Intangible Assets
+Intangible assets primarily consist of amortizable assets of purchased licenses and technologies, customer relationships, and trade names as well as non-amortizable intangible assets of in-process technologies and research and development.  The following summarizes the amounts reported as intangible assets:
+ 
+
+
+ 
+
+
+ 
+14
+
+The Company recorded amortization expense during the respective periods for these intangible assets as follows:
+ 
+
+
+ 
+
+
+
+
+(7)
+
+ACCRUED LIABILITIES
+ 
+
+
+ 
+
+
+
+
+(8)
+
+LONG-TERM DEBT
+ 
+On December 23, 2016, the Company entered into a senior secured revolving credit facility (the “Facility”) by and among Myriad, as borrower, with the lenders from time to time party thereto. On July 31, 2018, the Company entered into Amendment No. 1 (the “Amended Facility”) which effects an “amend and extend” transaction with respect to the Facility by which the maturity date thereof was extended to July 31, 2023 and the maximum aggregate principal commitment was increased from $300.0 to $350.0.  This was accounted for as a modification pursuant to guidance in ASC 470-50.
+Pursuant to the Amended Facility, Myriad borrowed revolving loans in an aggregate principal amount of $300.0 with $1.8 in upfront fees and $0.3 debt issuance costs recorded as a debt discount to be amortized over the term of the Amended Facility. The current balance of the net long-term debt is $225.1. There are no scheduled principal payments of the Amended Facility prior to its maturity date. 
+The proceeds of the Amended Facility were used to: (i) refinance in full the obligations under the Facility, (ii) finance the acquisition of Counsyl (See Note 3), (iii) pay fees, commissions, transactions costs and expenses incurred in connection with the foregoing, and (iv) for working capital and other general corporate purposes.
+The Amended Facility contains customary loan terms, interest rates, representations and warranties, affirmative and negative covenants, in each case, subject to customary limitations, exceptions and exclusions. The Amended Facility also contains certain customary events of default.
+Covenants in the Amended Facility impose operating and financial restrictions on the Company. These restrictions may prohibit or place limitations on, among other things, the Company’s ability to incur additional indebtedness, create certain types of liens, complete mergers or consolidations, and/or change in control transactions. The Amended Facility may also prohibit or place limitations on the Company’s ability to sell assets, pay dividends or provide other distributions to shareholders. The Company must maintain specified leverage and interest ratios measured as of the end of each quarter as a financial covenant in the Amended Facility. We were in compliance with all financial covenants at December 31, 2019.
+During the six months ended December 31, 2019, the Company made $8.6 in principal repayments.
+The Amended Facility is secured by a first-lien security interest in substantially all of the assets of Myriad and certain of its domestic subsidiaries and each such domestic subsidiary of Myriad has guaranteed the repayment of the Amended Facility. Amounts outstanding under the Amended Facility and Facility were as follows:
+ 
+
+
+ 
+15
+
+
+
+
+
+(9)
+
+OTHER LONG-TERM LIABILITIES
+ 
+
+
+ 
+ 
+The Company has two non-contributory defined benefit pension plans for certain Clinic employees. Participation in the plans excludes those employees hired after 2002. As of December 31, 2019, the fair value of the plan assets were approximately $0.1, resulting in a net pension liability of $7.1 which is included in the liabilities held for sale caption on the balance sheet. See Note 18 for further discussions regarding liabilities held for sale.
+ 
+ 
+
+
+
+
+(10)
+
+PREFERRED AND COMMON STOCKHOLDER’S EQUITY
+The Company is authorized to issue up to 5.0 shares of preferred stock, par value $0.01 per share.  There were no preferred shares outstanding at December 31, 2019.
+The Company is authorized to issue up to 150.0 shares of common stock, par value $0.01 per share. There were 74.5 shares issued and outstanding at December 31, 2019.
+Common shares issued and outstanding
+ 
+
+
+ 
+Basic earnings per share is computed based on the weighted-average number of shares of common stock outstanding.  Diluted earnings per share is computed based on the weighted-average number of shares of common stock, including the dilutive effect of common stock equivalents, outstanding.  In periods when the Company has a net loss, stock awards are excluded from the calculation of diluted net loss per share as their inclusion would have an antidilutive effect.
+The following is a reconciliation of the denominators of the basic and diluted earnings per share (“EPS”) computations:
+ 
+
+
+ 
+16
+
+Certain outstanding options and restricted stock units (“RSUs”) were excluded from the computation of diluted earnings per share because the effect would have been anti-dilutive. These potential dilutive common shares, which may be dilutive to future diluted earnings per share, are as follows:
+ 
+ 
+
+
+Stock Repurchase Program
+In June 2016, the Company’s Board of Directors authorized an eighth share repurchase program of $200.0 of the Company’s outstanding common stock. The Company plans to repurchase its common stock from time to time or on an accelerated basis through open market transactions or privately negotiated transactions as determined by the Company’s management. The amount and timing of stock repurchases under the program will depend on business and market conditions, stock price, trading restrictions, acquisition activity and other factors.  As of December 31, 2019, the Company has $110.7 remaining on its current share repurchase authorization.
+The Company uses the par value method of accounting for its stock repurchases.  As a result of the stock repurchases, the Company reduced common stock and additional paid-in capital and recorded charges to accumulated deficit.  The shares retired, aggregate common stock and additional paid-in capital reductions, and related charges to accumulated deficit for the repurchases for three and six months ended December 31, 2019 and 2018 were as follows:
+ 
+
+
+ 
+ 
+
+
+
+
+(11)
+
+INCOME TAXES
+       
+In order to determine the Company’s quarterly provision for income taxes, the Company used an estimated annual effective tax rate that is based on expected annual income and statutory tax rates in the various jurisdictions in which the Company operates.  The Tax Act Cuts and Jobs Act reduces the federal corporate tax rate to 21% for the fiscal year ending June 30, 2020.  Certain significant or unusual items are separately recognized in the quarter during which they occur and can be a source of variability in the effective tax rate from quarter to quarter.   Certain significant or unusual items are separately recognized in the quarter during which they occur and can be a source of variability in the effective tax rate from quarter to quarter.
+Income tax benefit for the three months ended December 31, 2019 was $(3.1), or approximately 27.2% of pre-tax income compared to income tax expense of $1.0, or approximately 27.8% of pre-tax income, for the three months ended December 31, 2018.  Income tax expense for the three months ended December 31, 2019 is based on the Company’s estimated annual effective tax rate for the full fiscal year ending June 30, 2020, adjusted by discrete items recognized during the period.  For the three months ended December 31, 2019, the Company’s recognized effective tax rate differs from the U.S. federal statutory rate primarily due to the effect of state income taxes, foreign income taxes, and differences related to the tax effect of equity compensation expense and the deduction realized when exercised, released or sold.
+The Company files U.S., foreign and state income tax returns in jurisdictions with various statutes of limitations.  The Company is currently under audit by the state of New Jersey for the fiscal years June 30, 2013 through 2017; the state of New York and Massachusetts for the fiscal years June 30, 2014 through 2016; Germany for the fiscal years June 30, 2013 through 2015; and Switzerland for the fiscal years June 30, 2015 through 2016. Annual and interim tax provisions include amounts considered necessary to pay assessments that may result from examination of prior year tax returns; however, the amount ultimately paid upon resolution of issues may differ materially from the amount accrued.
+ 
+17
+
+
+
+
+
+(12)
+
+SHARE-BASED COMPENSATION
+On November 30, 2017, the Company’s shareholders approved the adoption of the 2017 Employee, Director and Consultant Equity Incentive Plan (the “2017 Plan”).  On December 5, 2019 the shareholders approved an amendment to the 2017 Plan increasing the shares available to grant.  The 2017 Plan allows the Company, under the direction of the Compensation Committee of the Board of Directors, to make grants of restricted and unrestricted stock awards to employees, consultants and directors. As of December 31, 2019, the Company may grant additional shares of common stock under the 2017 Plan with respect to the 0.3 options outstanding under our 2003 Plan and 5.2 options and restricted stock units outstanding under our 2010 Plan, that expire or are cancelled without delivery of shares of common stock. If an RSU awarded under the 2017 Plan is cancelled or forfeited without the issuance of shares of common stock, the unissued or reacquired shares, which were subject to the RSU, shall again be available for issuance pursuant to the 2017 Plan.
+The number of shares, terms, and vesting periods are determined by the Company’s Board of Directors or a committee thereof on an option-by-option basis. Options generally vest ratably over service periods of four years.  Options granted after December 5, 2012 expire eight years from the date of grant, and options granted prior to that date generally expire ten years from the date of grant. In September 2014, the Company began issuing restricted stock units (“RSUs”) in lieu of stock options.  RSUs granted to employees generally vest ratably over four years on the anniversary date of the designated day of the last week of the month in which the RSUs are granted. The number of RSUs awarded to certain executive officers may be reduced if certain additional performance metrics are not met. Options and RSUs granted to our non-employee directors vest in full upon completion of one year of service on the Board following the date of the grant.
+Stock Options
+A summary of the stock option activity under the Company’s plans for the six months ended December 31, 2019 is as follows:
+ 
+
+
+ 
+As of December 31, 2019, there was no unrecognized share-based compensation expense related to stock options.
+Restricted Stock Units
+A summary of the RSU activity under the Company’s plans for the six months ended December 31, 2019 is as follows:
+ 
+
+
+ 
+As of December 31, 2019, there was $59.0 of total unrecognized share-based compensation expense related to RSUs that will be recognized over a weighted-average period of 2.5 years.  This unrecognized compensation expense is equal to the fair value of RSUs expected to vest.
+18
+
+Employee Stock Purchase Plan
+The Company also has an Employee Stock Purchase Plan that was approved by shareholders in 2012 (the “2012 Purchase Plan”), under which 2.0 shares of common stock have been authorized.  Shares are issued under the 2012 Purchase Plan twice yearly at the end of each offering period.  As of December 31, 2019, approximately 0.5 shares of common stock are available for issuance under the 2012 Purchase Plan.
+Share-Based Compensation Expense
+Share-based compensation expense recognized and included in the condensed consolidated statements of income and comprehensive income was allocated as follows:
+ 
+
+
+ 
+
+
+
+
+(13)
+
+FAIR VALUE MEASUREMENTS
+The fair value of the Company’s financial instruments reflects the amounts that the Company estimates it will receive in connection with the sale of an asset or pay in connection with the transfer of a liability in an orderly transaction between market participants at the measurement date (exit price). The fair value of contingent consideration related to the Sividon acquisition as well as the long-term debt were categorized as a level 3 liability, as the measurement amount is based primarily on significant inputs not observable in the market. The fair value hierarchy prioritizes the use of inputs used in valuation techniques into the following three levels:
+ 
+Level 1—quoted prices in active markets for identical assets and liabilities.
+Level 2—observable inputs other than quoted prices in active markets for identical assets and liabilities; quoted prices in markets that are not active; or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities.  Some of the Company’s marketable securities primarily utilize broker quotes in a non-active market for valuation of these securities.
+Level 3—unobservable inputs.
+All of the Company’s financial instruments are valued using quoted prices in active markets or based on other observable inputs.  For Level 2 securities, the Company uses a third party pricing service which provides documentation on an ongoing basis that includes, among other things, pricing information with respect to reference data, methodology, inputs summarized by asset class, pricing application and corroborative information.  For Level 3 contingent consideration, the Company reassesses the fair value of expected contingent consideration and the corresponding liability each reporting period using the Monte Carlo Method, which is consistent with the initial measurement of the expected earn out liability.  This fair value measurement is considered a Level 3 measurement because the Company estimates projections during the earn out period utilizing various potential pay-out scenarios.  Probabilities were applied to each potential scenario and the resulting values were discounted using a rate that considers weighted average cost of capital as well as a specific risk premium associated with the riskiness of the earn-out itself, the related projections, and the overall business.  The contingent earn-out liabilities are classified as a component of long-term and short-term contingent consideration in the Company’s consolidated balance sheets.  Changes to the earn-out liabilities are reflected in change in the fair value of contingent consideration in our consolidated statements of operations. Changes to the unobservable inputs could have a material impact on the Company’s financial statements.
+The fair value of our long-term debt, which we consider a Level 3 measurement, is estimated using discounted cash flow analyses, based on the Company’s current estimated incremental borrowing rates for similar borrowing arrangements.  The fair value of long-term debt is estimated to be $222.9 at December 31, 2019. 
+ 
+During the quarter ended December 31, 2019, there was a triggering event that required the Company to perform an impairment analysis for the Clinic reporting unit.  As a result, the Company recognized a $1.3 impairment charge for goodwill allocated to the asset group classified as held for sale.  The fair value used to determine the impairment charge, which we consider a Level 3 measurement, based on the expected sale price of the Clinic from a recent purchase offer.
+19
+
+The following table sets forth the fair value of the financial assets and liabilities that the Company re-measures on a regular basis:
+ 
+
+
+ 
+
+
+
+
+(a)
+
+Money market funds are primarily comprised of exchange traded funds and accrued interest.
+ 
+
+
+ 
+
+
+
+
+(a)
+
+Money market funds are primarily comprised of exchange traded funds and accrued interest.
+The following table reconciles the change in the fair value of the contingent consideration during the periods presented:
+ 
+
+
+ 
+ 
+
+
+
+
+(14)
+
+COMMITMENTS AND CONTINGENCIES
+In July 2019, the Company resolved the complaint filed by a qui tam relator in October 2017 in the United States District Court for the District of South Carolina.  The complaint was the basis of the Office of Inspector General (OIG) subpoena dated February 2018 regarding Medicare billing practices relating to the Company’s hereditary cancer testing from 2014 to 2018.  After a 17-month investigation, the Department of Justice declined to intervene in the case.  The Company believes it demonstrated that the key allegations made in the complaint were false.  In order to avoid a lengthy and distracting litigation with the qui tam relator, the Company entered into a settlement agreement on July 18, 2019 under which the Company would pay $9.1 to the qui tam relator in order to settle the matter. In October 2019, the government approved the settlement agreement in substantially the same form that was executed on July 18, 2019, and both parties re-signed the agreement on October 23, 2019.  The court has dismissed the case and, as the Company paid on October 29, 2019 the settlement amount as set forth in the settlement agreement, the matter is now closed.  The Company denies any wrongdoing and does not anticipate any material change in its billing practices. 
+In addition, the Company is subject to various claims and legal proceedings covering matters that arise in the ordinary course of its business activities. As of December 31, 2019, the management of the Company believes any reasonably possible liability that may result from the resolution of these matters will not have a material adverse effect on the Company’s consolidated financial position, operating results, or cash flows.
+The Company leases certain office spaces and research and development laboratory facilities, vehicles, and office equipment with remaining lease terms ranging from one to six years. These leases require monthly lease payments that may be subject to annual increases throughout the lease term. Certain of these leases also include renewal options which allows the Company to, at its election, renew or extend the lease for a fixed or indefinite period of time. These optional periods have not been considered in the 
+20
+
+determination of the right-of-use-assets or lease liabilities associated with these leases as the Company did not consider it reasonably certain it would exercise the options.
+The Company performed evaluations of its contracts and determined each of its identified leases are operating leases. For the six months ended December 31, 2019, the Company incurred $8.9 in lease costs which are included in operating expenses in the consolidated statement of operations in relation to these operating leases. Of such lease costs, $1.2 was variable lease expense and $0.2 was short-term lease expense, and neither of them were included in the measurement of the Company's operating ROU assets and lease liabilities. The variable rent expense is comprised primarily of the Company's proportionate share of operating expenses, property taxes, and insurance and is classified as lease expense due to the Company's election to not separate lease and non-lease components.
+As of December 31, 2019, the maturities of the Company’s operating lease liabilities were as follows:
+ 
+
+
+ 
+As of December 31, 2019, the weighted average remaining lease term is 5.7 years and the weighted average discount rate used to determine the operating lease liability was 3.87%. 
+Disclosures related to periods prior to the adoption of ASU 2016-02
+The following table summarizes the future minimum lease payments as of June 30, 2019:
+ 
+
+
+ 
+ 
+
+
+
+
+(15)
+
+EMPLOYEE DEFERRED SAVINGS PLAN
+The Company has a deferred savings plan which qualifies under Section 401(k) of the Internal Revenue Code. Substantially all of the Company’s U.S. employees are covered by the plan. The Company makes matching contributions of 50% of each employee’s contribution with the employer’s contribution not to exceed 4% of the employee’s compensation. The Company recorded contributions to the plan as follows:
+ 
+
+
+ 
+
+
+
+
+(16)
+
+SEGMENT AND RELATED INFORMATION
+The Company’s business is aligned with how the Chief Operating Decision Maker reviews performance and makes decisions in managing the Company.  The business units have been aggregated into two reportable segments: (i) diagnostics and (ii) other. The diagnostics segment provides testing and collaborative development of testing that is designed to assess an individual’s risk for developing disease later in life, identify a patient’s likelihood of responding to drug therapy and guide a patient’s dosing to ensure optimal treatment, or assess a patient’s risk of disease progression and disease recurrence. The other segment provides testing products and services to the pharmaceutical, biotechnology and medical research industries, research and development, and clinical services for patients, and includes corporate services such as finance, human resources, legal and information technology.
+21
+
+Segment revenue and operating income (loss) were as follows during the periods presented:
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+(17)
+
+SUPPLEMENTAL CASH FLOW INFORMATION
+ 
+
+
+ 
+
+
+
+
+(18)
+
+HELD FOR SALE
+ 
+On January 31, 2020, the Company entered into an interest purchase agreement with Landkreis Starnberg to sell the Clinic to Landkreis Starnberg, subject to certain customary closing conditions, including the receipt of all necessary regulatory approvals. The agreement provides for a sale price of $22.4 and is expected to be completed in the quarter ending March 31, 2020. The Company is selling the Clinic as a result of a decision to shift all laboratory developed testing to United States laboratories.
+ 
+22
+
+The Clinic is an internal medicine emergency hospital that is considered a specialized hospital for internal medicine and hemodialysis.  The sale of the Company’s interest in the Clinic, including all assets and liabilities, is expected to close in the third fiscal quarter of 2020 and is classified as current assets held for sale and current liabilities held for sale in the consolidated balance sheet as of December 31, 2019. These net assets are associated with the Company's other segment.
+ 
+The Company recognized a $1.3 impairment charge for goodwill allocated to the Clinic asset group that is included in selling, general, and administrative expense for the quarter ended December 31, 2019.
+ 
+The following table provides the components of those assets and liabilities held for sale (in millions):
+
+
+ 
+23
+
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+General
+We are a leading precision medicine company acting as a trusted advisor to transform patient lives through pioneering molecular diagnostics. Through our proprietary technologies, we believe we are positioned to identify important disease genes, the proteins they produce, and the biological pathways in which such genes and proteins are involved to better understand the genetic basis of certain human diseases. We believe that identifying these biomarkers (i.e., DNA, RNA and proteins) will enable us to develop novel molecular diagnostic tests that can provide important information to solve unmet medical needs. During the three months ended December 31, 2019, we reported total revenues of $195.1 million and net loss of $8.3 million that included income tax benefit of $(3.1) million resulting in $(0.11) diluted earnings per share.  During the six months ended December 31, 2019, we reported total revenues of $381.4 million and net loss of $28.9 million that included income tax benefit of $(4.8) million resulting in $(0.39) diluted earnings per share.
+Our business units have been aligned with how the Chief Operating Decision Maker reviews performance and makes decisions in managing the Company.  The business units have been aggregated into two reportable segments: (i) diagnostics and (ii) other. The diagnostics segment provides testing and collaborative development of testing that is designed to assess an individual’s risk for developing disease later in life, identify a patient’s likelihood of responding to drug therapy and guide a patient’s dosing to ensure optimal treatment, or assess a patient’s risk of disease progression and disease recurrence. The other segment provides testing products and services to the pharmaceutical, biotechnology and medical research industries, research and development, and clinical services for patients, and includes corporate services such as finance, human resources, legal and information technology.
+Business Highlights
+ 
+During the quarter ended December 31, 2019, Myriad grew hereditary cancer revenue at a single-digit rate on a year-over-year basis.  Additionally, the Company presented data at the San Antonio Breast Cancer Symposium on the ability of its riskScore test to modify cancer risk assessments for women with breast cancer who test positive for a genetic mutation.
+ 
+With GeneSight, the Company announced coverage decisions from additional self-funded insurance plans bringing the total to six. The Company also published the precision medicine analysis of the GUIDED study in the Journal of Clinical Psychiatry. The study evaluated 787 patients at baseline who were on medications with known gene drug interactions.  The analysis showed that patients who had their treatment guided by GeneSight saw a 70 percent improvement in remission, 42 percent improvement in response, and a 23 percent improvement in symptoms, all of which were statistically significant. Additionally, the Company published a new analysis of the GUIDED clinical trial using the 6-item Hamilton Depression Rating Scale (HAM-D6) in BMC Psychiatry. The key finding of the study was that there was a statistically significant improvement in all three clinical endpoints of remission, response and symptoms between GeneSight®-guided care and treatment-as-usual at Week 8 using the HAM-D6 scale.
+ 
+Myriad published two new studies with its Prequel non-invasive prenatal screening test.  The first study was published in Prenatal Diagnosis demonstrating that Prequel® is the only non-invasive prenatal screening (NIPS) test that outperforms traditional measures of aneuploidy detection across all classes of obesity. The second study was a 58,000 patient study published in Ultrasound in Obstetrics and Gynecology showing Prequel is more sensitive than other technologies in low fetal fraction samples with an industry leading 1 in 1,000 no call rate.
+ 
+Myriad’s Prolaris test received a positive coverage decision from Wellmark Blue Cross and Blue Shield. 
+ 
+Myriad achieved several milestones with its companion diagnostic products. First, the Company submitted an application to the U.S. Food and Drug Administration (FDA) to authorize BRACAnalysis® CDx as a companion diagnostic test for Lynparza® in metastatic, castrate-resistant, prostate cancer patients with germline BRCA mutations. Secondly, the Company received FDA approval for BRACAnalysis CDx as a companion diagnostic test for patients with metastatic pancreatic cancer seeking treatment with Lynparza®. With myChoice HRD, the Company received FDA approval as a companion diagnostic in ovarian cancer patients being considered for niraparib PARP inhibitor therapy in accordance with the approved label and received application for Advanced Diagnostic Laboratory Test status for myChoice CDx with an initial price of $4,040. Finally, the Company received regulatory approval from Japan’s Ministry of Health, Labour and Welfare for the BRACAnalysis® Diagnostic System to help physicians determine which women with breast cancer have Hereditary Breast and Ovarian Cancer (HBOC) syndrome and qualify for additional medical management. 
+24
+
+Results of Operations for the Three Months Ended December 31, 2019 and 2018 
+Revenue
+ 
+
+
+ 
+The decrease in revenue was primarily due to a reduction of $9.0 million in Hereditary Cancer Testing revenue due to reduced reimbursement and a reduction of $14.8 million in Prenatal revenue due to reduced reimbursement, including changes in estimates for tests in which the performance obligation of delivering the test results was met in prior periods. 
+The following table presents additional detail regarding the composition of our total revenue for the three months ended December 31, 2019 and 2018:
+ 
+
+
+ 
+Cost of Sales
+ 
+
+
+ 
+Cost of sales as a percentage of revenue increased from 24.0% to 25.4% during the three months ended December 31, 2019 compared to the same period in the prior year.  The increase was primarily driven by reduction of reimbursement related to Hereditary Cancer and Prenatal, partially offset by the implementation of efficiency programs in our DNA, RNA, and protein based laboratories.
+Research and Development Expenses
+ 
+
+
+ 
+Research and development expense for the three months ended December 31, 2019 decreased compared to the same period in the prior year primarily related to synergies recognized as part of the integration of the Counsyl business.
+Change in the Fair Value of Contingent Consideration
+ 
+25
+
+
+
+The fair value of contingent consideration for the three months ended December 31, 2019 decreased compared to the same period in the prior year due to changes in timing of expected cash payments associated with the contingent consideration related to the Sividon acquisition.  
+Selling, General and Administrative Expenses
+ 
+
+
+ 
+Selling, general and administrative expense increased slightly for the three months ended December 31, 2019 compared to the same period in the prior year primarily related to increased legal fees and impairment of goodwill.  These were partially offset by reduction in costs related to synergies recognized relating to the integration of the Counsyl business. 
+Other Income (Expense)
+ 
+
+
+ 
+Other income expense remained flat for the three months ended December 31, 2019 compared to the same period in the prior year, due to increased unrealized losses in the current quarter offset by decreased interest expense.
+Income Tax Expense
+ 
+
+
+ 
+Our tax rate is the product of a blended U.S. federal effective rate of 21% and a blended state income tax rate of approximately 3%. Certain significant or unusual items are separately recognized during the period in which they occur and can be a source of variability in the effective tax rates from period to period.
+Income tax benefit for the three months ended December 31, 2019 is $(3.1) million, and our effective tax rate was 27.2%.  The decrease in the effective rate for the three months ended December 31, 2019 as compared to the same period in prior year is due to state income taxes, foreign income taxes, and the differences related to the tax effect of equity compensation expense and the deduction  realized when exercised, released or sold.  
+Results of Operations for the six months ended December 31, 2019 and 2018
+ 
+ 
+
+
+ 
+The decrease in revenue was primarily due to a reduction of $20.9 million in Hereditary Cancer Testing revenue due to reduced reimbursement, including changes in estimates for tests in which the performance obligation of delivering the test results was met in 
+26
+
+prior periods, a reduction of $9.4 million in Prenatal revenue due to reduction in average selling price, including changes in estimates for tests in which the performance obligation of delivering the test results was met in prior periods and a reduction of $8.0 million in GeneSight revenue due to reduced volumes. 
+The following table presents additional detail regarding the composition of our total revenue for the six months ended December 31, 2019 and 2018:
+ 
+
+
+ 
+Cost of Sales
+
+
+ 
+ 
+Cost of sales as a percentage of revenue increased from 24.3% to 26.0% during the six months ended December 31, 2019 compared to the same period in the prior year.  The increase was primarily driven by lower gross margins associated with the Counsyl business and reduction of reimbursement related to Hereditary Cancer and Prenatal, partially offset by the implementation of efficiency programs in our DNA, RNA, and protein based laboratories.
+Research and Development Expenses
+
+
+ 
+Research and development expense for the six months ended December 31, 2019 decreased compared to the same period in the prior year due to synergies recognized as part of the integration of the Counsyl business partially offset by an additional month of Counsyl business expenses included in the current year.
+Change in the Fair Value of Contingent Consideration
+ 
+
+
+27
+
+The fair value of contingent consideration for the six months ended December 31, 2019 decreased compared to the same period in the prior year due to changes in timing of expected cash payments associated with the contingent consideration related to the Sividon acquisition.  
+Selling, General and Administrative Expenses
+
+
+ 
+Selling, general and administrative expense increased for the six months ended December 31, 2019 compared to the same period in the prior year primarily related to Counsyl being included for a full six months during the six months ended December 31, 2019 compared to only a portion the six months ended December 31, 2019, as well as increased legal fees and impairment of goodwill in the current year.  These increases were partially offset by reduction in costs related to synergies recognized relating to the integration of the Counsyl business. 
+Other Income (Expense)
+
+
+ 
+For the six months ended December 31, 2019 compared to the same period in the prior year, the change in other income expense was primarily driven by a lower gains on dispositions and higher unrealized losses in the current year.
+Income Tax Expense
+
+
+ 
+Our tax rate is the product of a blended U.S. federal effective rate of 21% and a blended state income tax rate of approximately 3%. Certain significant or unusual items are separately recognized during the period in which they occur and can be a source of variability in the effective tax rates from period to period.
+Income tax benefit for the six months ended December 31, 2019 is $(4.8) million and our effective tax rate was 14.2%.  The decrease in the effective rate for the six months ended December 31, 2019 as compared to the same period in prior year is due to state income taxes, foreign income taxes, and the differences related to the tax effect of equity compensation expense and the deduction realized when exercised, released or sold.
+ 
+Liquidity and Capital Resources
+We believe that our existing capital resources and the cash to be generated from future sales will be sufficient to meet our projected operating requirements, including contingent consideration and repayment of the outstanding Facility, which matures on July 31, 2023, for the foreseeable future. There are no scheduled principal payments of the Facility prior to its maturity date; however, our available capital resources may be consumed more rapidly than currently expected and we may need or want to raise additional financing. We may not be able to secure such financing in a timely manner or on favorable terms, if at all.  Without additional funds, we may be forced to delay, scale back or eliminate some of our sales and marketing efforts, research and development activities, or other operations and potentially delay development of our diagnostic tests in an effort to provide sufficient funds to continue our operations. If any of these events occurs, our ability to achieve our development and commercialization goals would be adversely affected.
+Our capital deployment strategy focuses on use of resources in three key areas: research and development, acquisitions and the repurchase of our common stock.  We believe that research and development provides the best return on invested capital.  We also allocate capital for acquisitions that support our business strategy and share repurchases based on business and market conditions.
+28
+
+The following table represents the balances of cash, cash equivalents and marketable investment securities:
+ 
+
+
+ 
+The decrease in cash and cash equivalents was primarily driven by the repayment of principle on the Amended Facility of $8.6 million, and the payment of contingent consideration of $3.9 million related to Sividon. This is partially offset by $13.9 million in cash provided by operations.
+The following table represents the condensed consolidated cash flow statement:
+ 
+
+
+ 
+Cash Flows from Operating Activities
+The decrease in cash flows from operating activities for the six months ended December 31, 2019, compared to the same period in the prior year, was primarily due a $28.7 million decrease in net income (loss) excluding contingent consideration.  
+Cash Flows from Investing Activities
+For the six months ended December 31, 2019, compared to the same period in the prior year, the decrease in cash used in investing activities was driven primarily by the $278.5 million used for the acquisition of Counsyl that occurred during the same period in the prior year.  This was partially offset by a $5.0 million increase in net purchases of marketable investment securities.
+Cash Flows from Financing Activities
+For the six months ended December 31, 2019, compared to the same period in the prior year, the decrease in cash flows from financing activities was driven primarily by the $265.0 million in net proceeds from the revolving credit facility, offset by the use of $50.0 million for the purchase and retirement of common stock, that occurred during the same period in the prior year but did not occur during the six months ended December 31, 2019, as well as $8.6 million in cash used for repayment of the credit facility and $3.9 million in payment of contingent consideration in the current year.  
+Effects of Inflation
+We do not believe that inflation has had a material impact on our business, sales, or operating results during the periods presented.
+Share Repurchase Program
+In June 2016, our Board of Directors authorized an eighth share repurchase program of $200.0 million of our outstanding common stock. We plan to repurchase our common stock from time to time or on an accelerated basis through open market transactions or privately negotiated transactions as determined by our management. The amount and timing of stock repurchases under the program will depend on business and market conditions, stock price, trading restrictions, acquisition activity and other factors.  As of December 31, 2019, we have $110.7 million remaining on our current share repurchase authorization.  See also “Part II, Item 2. Unregistered Sales of Equity Securities and Use of Proceeds – Issuer Purchases of Equity Securities”.
+29
+
+Critical Accounting Policies
+Critical accounting policies are those policies which are both important to the presentation of a company’s financial condition and results and require management’s most difficult, subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain.  During the first quarter of fiscal 2019, we adopted new accounting guidance related to lease accounting, which is described above at “Recent Accounting Pronouncements.” There have been no other significant changes to our accounting policies during the period.  For a further discussion of our critical accounting policies, see our Annual Report on Form 10-K for the fiscal year ended June 30, 2019.
+Certain Factors That May Affect Future Results of Operations
+The Securities and Exchange Commission encourages companies to disclose forward-looking information so that investors can better understand a company’s future prospects and make informed investment decisions. This Quarterly Report on Form 10-Q contains such “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995.
+Words such as “may,” “anticipate,” “estimate,” “expects,” “projects,” “intends,” “plans,” “believes,” “potential,” “could,” “would,” “continue,” “likely,” “will,” “strategy, “goal” and words and terms of similar substance used in connection with any discussion of future operating or financial performance, identify forward-looking statements. All forward-looking statements are management’s present expectations of future events and are subject to a number of risks and uncertainties that could cause actual results to differ materially and adversely from those described in the forward-looking statements. These risks include, but are not limited to: the risk that sales and profit margins of our existing molecular diagnostic tests and pharmaceutical and clinical services may decline or will not continue to increase at historical rates; risks related to our ability to transition from our existing product portfolio to our new tests; risks related to changes in the governmental or private insurers’ coverage and reimbursement levels for our tests or our ability to obtain reimbursement for our new tests at comparable levels to our existing tests; risks related to increased competition and the development of new competing tests and services; the risk that we may be unable to develop or achieve commercial success for additional molecular diagnostic tests and pharmaceutical and clinical services in a timely manner, or at all; the risk that we may not successfully develop new markets for our molecular diagnostic tests and pharmaceutical and clinical services, including our ability to successfully generate revenue outside the United States; the risk that licenses to the technology underlying our molecular diagnostic tests and pharmaceutical and clinical services tests and any future tests are terminated or cannot be maintained on satisfactory terms; risks related to delays or other problems with operating our laboratory testing facilities; risks related to public concern over our genetic testing in general or our tests in particular; risks related to regulatory requirements or enforcement in the United States and foreign countries and changes in the structure of the healthcare system or healthcare payment systems; risks related to our ability to obtain new corporate collaborations or licenses and acquire new technologies or businesses on satisfactory terms, if at all; risks related to our ability to successfully integrate and derive benefits from any technologies or businesses that we license or acquire, including but not limited to our acquisition of Counsyl, Assurex, Crescendo, Sividon and the Clinic; risks related to our projections about the potential market opportunity for our products; the risk that we or our licensors may be unable to protect or that third parties will infringe the proprietary technologies underlying our tests; the risk of patent-infringement claims or challenges to the validity of our patents; risks related to changes in intellectual property laws covering our molecular diagnostic tests and pharmaceutical and clinical services and patents or enforcement in the United States and foreign countries, such as the Supreme Court decision in the lawsuit brought against us by the Association for Molecular Pathology et al; risks of new, changing and competitive technologies and regulations in the United States and internationally; the risk that we may be unable to comply with financial operating covenants under our credit or lending agreements: the risk that we will be unable to pay, when due, amounts due under our creditor lending agreements; and other factors discussed under the heading “Risk Factors” contained in Item 1A of our Annual report on Form 10-K for the fiscal year ended June 30, 2019, which has been filed with the Securities and Exchange Commission, as well as any updates to those risk factors filed from time to time in our Quarterly Reports on Form 10-Q or Current Reports on Form 8-K.
+In light of these assumptions, risks and uncertainties, the results and events discussed in the forward-looking statements contained in this Quarterly Report or in any document incorporated by reference might not occur. Stockholders are cautioned not to place undue reliance on the forward-looking statements, which speak only as of the date of this Quarterly Report. We are not under any obligation, and we expressly disclaim any obligation, to update or alter any forward-looking statements, whether as a result of new information, future events or otherwise. All subsequent forward-looking statements attributable to us or to any person acting on our behalf are expressly qualified in their entirety by the cautionary statements contained or referred to in this section.
+30
+
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+There have been no material changes in our market risk during the six months ended December 31, 2019 compared to the disclosures in Part II, Item 7A of our Annual Report on Form 10-K for the fiscal year ended June 30, 2019, which is incorporated by reference herein.
+Item 4.  Controls and Procedures
+Evaluation of Disclosure Controls and Procedures.  
+Our principal executive officer and principal financial officer, after evaluating the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this Quarterly Report on Form 10-Q, have concluded that, based on such evaluation, our disclosure controls and procedures were effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+In designing and evaluating our disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and our management necessarily is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures.
+Changes in Internal Controls  
+During the six months ended December 31, 2019, we implemented changes to our processes in response to the adoption of Accounting Standards Update No. 2016-02 “Lease (Topic 842)” that became effective July 1, 2019. The operating effectiveness of these changes will be evaluated as part of our annual assessment of the effectiveness of internal controls over financial reporting.
+Other than described above, there were no changes in our internal control over financial reporting that occurred during the six months ended December 31, 2019 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+31
+
+PART II - Other Information
+Item 1.  Legal Proceedings
+Investigations of the Department of Health and Human Services, Office of Inspector General
+In July 2019, we resolved the complaint filed by a qui tam relator in October 2017 in the United States District Court for the District of South Carolina.  The complaint was the basis of the Office of Inspector General (OIG) subpoena dated February 2018 regarding Medicare billing practices relating to the Company’s hereditary cancer testing from 2014 to 2018.  After a 17-month investigation, the Department of Justice declined to intervene in the case.  The Company believes it demonstrated that the key allegations made in the complaint were false.  In order to avoid a lengthy and distracting litigation with the qui tam relator, we entered into a settlement agreement on July 18, 2019 under which we would pay $9.1 million to the qui tam relator in order to settle the matter.  In October 2019, the government approved the settlement agreement in substantially the same form that was executed on July 18, 2019, and both parties re-signed the agreement on October 23, 2019.  The court has dismissed the case and, as the Company paid on October 29, 2019 the settlement amount as set forth in the settlement agreement, the matter is now closed. The Company denies any wrongdoing and does not anticipate any material change in billing practices.
+In June 2016, our wholly-owned subsidiary, Crescendo Bioscience, Inc. (“CBI”), received a subpoena from the Office of Inspector General of the Department of Health and Human Services requesting that CBI produce documents relating to entities that received payment from CBI for the collection and processing of blood specimens for testing, including a named unrelated company, healthcare providers and other third party entities.  The Office of Inspector General subsequently requested additional documentation in December 2017.  CBI has provided to the Office of Inspector General the documents requested and continues to cooperate with any follow-up requests.  We are unable to predict what action, if any, might be taken in the future by the Office of Inspector General or any other regulatory authority as a result of the matters related to this investigation. No claims have been made against CBI. Due to the nature of this matter and inherent uncertainties, it is not possible to provide an evaluation of the likelihood of an unfavorable outcome or an estimate of the amount or range of potential loss, if any.
+Purported Securities Class Action Claims
+On September 27, 2019, a purported class action complaint in the United States District Court for the District of Utah, against the Company, its President and Chief Executive Officer, Mark C. Capone, and its Executive Vice President and Chief Financial Officer, R. Bryan Riggsbee (“Defendants”).  This action, captioned In re Myriad Genetics, Inc. Securities Litigation (No. 2:19-cv-00707-DBB), is premised upon allegations that the Defendants made false and misleading statements regarding our business, operations, and acquisitions.  The lead plaintiff seeks the payment of damages allegedly sustained by it and the purported class by reason of the allegations set forth in the complaint, plus interest, and legal and other costs and fees.  The Company intends to vigorously defend against this action. Due to the nature of this matter and inherent uncertainties, it is not possible to provide an evaluation of the likelihood of an unfavorable outcome or an estimate of the amount or range of potential loss, if any. 
+ 
+Other Legal Proceedings
+ 
+On August 24, 2018, Assurex Health, Inc. was served with an Amended Complaint which had been filed in the Circuit Court of Cook County, Illinois, County Department, Law Division, Civil Action No. 2018 L 004972, by Pipe Trades Services MN Welfare Plan ("Pipe Trades"), as a qui tam relator, on behalf of the State of Illinois, Pipe Trades, and all others similarly situated, purportedly arising from Assurex's alleged violations of the Illinois Insurance Claims Fraud Prevention Act and other causes of action. Pipe Trades seeks certification of a putative class, certification as the purported class representative, and the payment of treble damages allegedly sustained by Pipe Trades and the purported class by reason of the allegations set forth in the amended complaint, plus statutory damages and penalties, plus interest, and legal and other costs and fees. The State of Illinois and Cook County, Illinois, have declined to intervene in the matter. On September 11, 2019, plaintiffs filed a second amended complaint and on October 10, 2019, Assurex filed a Motion to Dismiss Plaintiff’s Second Amended Complaint for Lack of Personal Jurisdiction and Standing requesting that the second amended complaint be dismissed in its entirety, with prejudice, for lack of personal jurisdiction and standing. We intend to continue to vigorously defend against this action. Due to the nature of this matter and inherent uncertainties, it is not possible to provide an evaluation of the likelihood of an unfavorable outcome or an estimate of the amount or range of potential loss, if any.  
+Other than as set forth above, we are not a party to any legal proceedings that we believe will have a material impact on our business, financial position or results of operations.
+Item 1A. Risk Factors
+There have been no material changes to the risk factors included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019.
+ 
+32
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer Purchases of Equity Securities
+In June 2016, we announced that our Board of Directors had authorized us to repurchase an additional $200.0 million of our outstanding common stock increasing the cumulative share repurchase authorization since we first authorized the program in May 2010 to $1.4 billion. In connection with our most recent stock repurchase authorization, we have been authorized to complete the repurchase through open market transactions or through an accelerated share repurchase program, in each case to be executed at management’s discretion based on business and market conditions, stock price, trading restrictions, acquisition activity and other factors.  As of the date of this report, the Company has used $50.0 million to repurchase shares of the Company’s stock as part of an accelerated share repurchase under our most recent stock repurchase program. The repurchase program may be suspended or discontinued at any time without prior notice. The transactions effectuated to date occurred in open market purchases.
+The details of the activity under our stock repurchase programs during the three months ended December 31, 2019, are as follows:
+ 
+
+
+ 
+Item 3.  Defaults Upon Senior Securities.
+None.
+Item 4.  Mine Safety Disclosures.
+None.
+Item 5.  Other Information.
+On February 3, 2020, the Board of Directors of the Company approved an amended form of executive retention agreement (the “Executive Retention Agreement”) and entered into an amended and restated Executive Retention Agreement with each of the Company’s executive officers. The amended form of Executive Retention Agreement conforms to the Company’s previous proxy disclosures that the accelerated vesting of equity compensation upon a Change in Control (as defined in the agreement) shall extend to all equity compensation issued to the executive officer, including options and restricted stock units.  In addition, the amended form of Executive Retention Agreement eliminates a provision that provided that if an executive officer terminated his employment for no reason during the 90-day period beginning on the first anniversary of a Change in Control, then the termination would be deemed to be a termination for Good Reason (as defined in the agreement, and except that the payment of an amount equal to three times the executive’s highest annual base salary and bonus would have been reduced by one-half). 
+The foregoing summary of the amended form of Executive Retention Agreement does not purport to be complete and is qualified in its entirety by reference to such agreement, a copy of which is filed as Exhibit 10.1 to this Quarterly Report on Form 10-Q and is incorporated by reference in this Item 5.
+Item 6.  Exhibits.
+ 
+
+
+
+
+
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema Document
+
+33
+
+
+
+(+)  Management contract or compensatory plan arrangement.
+ 
+(@) The agreements with all executives are identical except for the executive who is a party to the agreement and the date of execution, which are listed at the end of the exhibit.
+ 
+34
+
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+
+
+ 
+
+ 
+
+MYRIAD GENETICS, INC.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Date: February 6, 2020
+
+ 
+
+By:
+
+/s/ R. Bryan Riggsbee
+
+
+
+ 
+
+ 
+
+ 
+
+R. Bryan Riggsbee
+
+
+
+ 
+
+ 
+
+ 
+
+Interim President and Chief Executive Officer,
+
+
+
+ 
+
+ 
+
+ 
+
+Chief Financial Officer
+(Principal Executive Officer and 
+Principal Financial Officer)
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+35
+

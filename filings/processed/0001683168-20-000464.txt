@@ -1,0 +1,1044 @@
+
+10-Q
+1
+poci_10q-12312019.htm
+FORM 10-Q
+
+
+
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 10-Q
+ 
+☒ 
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended December
+31, 2019
+ 
+or
+ 
+☐ 
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from                     
+to                     
+ 
+Commission File Number: 001-10647
+ 
+PRECISION OPTICS CORPORATION, INC.
+(Exact name of registrant as specified in
+its charter)
+ 
+
+
+Massachusetts
+04-2795294
+
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+
+ 
+22 East Broadway, Gardner, Massachusetts
+01440-3338
+(Address of principal executive offices)
+(Zip Code)
+ 
+(978) 630-1800
+(Registrant’s telephone number, including
+area code)
+ 
+Securities registered pursuant to Section
+12(b) of the Act: None.
+ 
+Securities registered pursuant to Section
+12(g) of the Act:
+
+
+Title of each class
+Trading symbol(s)
+Name of each exchange on which registered
+
+Common Stock, $0.01 par value
+PEYE
+OTCQB
+
+  
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to
+file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+ 
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted
+pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter
+period that the registrant was required to submit such files). Yes ☒ No ☐
+   
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large accelerated filer
+☐
+ 
+Accelerated filer
+☐
+
+ 
+ 
+ 
+ 
+ 
+
+Non-accelerated filer
+☒
+ 
+Smaller reporting company
+☒
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+Emerging growth company
+☐
+
+ 
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+Indicate
+by check mark whether the registrant is a shell company (as defined by Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+   
+The number of shares
+outstanding of the issuer’s common stock, par value $0.01 per share, at February 13, 2020 was 12,880,047 shares.
+ 
+ 
+ 
+
+
+   
+ 
+
+ 
+PRECISION OPTICS CORPORATION, INC.
+ 
+Table of Contents
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 2 
+ 
+
+ 
+PART I. FINANCIAL INFORMATION
+  
+Item 1. Financial Statements.
+   
+PRECISION OPTICS CORPORATION, INC. AND
+SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(UNAUDITED)
+ 
+ 
+
+ 
+  
+The accompanying notes are an integral
+part of these consolidated interim financial statements.
+ 
+ 
+
+
+ 3 
+ 
+
+ 
+PRECISION OPTICS CORPORATION, INC.
+AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+FOR THE THREE AND SIX MONTHS ENDED
+December
+31, 2019 AND 2018
+(UNAUDITED)
+ 
+ 
+
+ 
+ 
+The accompanying notes are an integral
+part of these consolidated interim financial statements.
+ 
+ 
+
+
+ 4 
+ 
+
+ 
+PRECISION OPTICS CORPORATION, INC. AND
+SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’
+EQUITY
+FOR THE THREE AND SIX MONTHS ENDED
+December
+31, 2019 AND 2018
+(UNAUDITED)
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+The accompanying notes are an integral
+part of these consolidated interim financial statements.
+ 
+ 
+
+
+ 5 
+ 
+
+ 
+PRECISION OPTICS CORPORATION, INC. AND
+SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+FOR THE SIX MONTHS ENDED
+December
+31, 2019 AND 2018
+(UNAUDITED)
+ 
+ 
+
+ 
+ 
+The accompanying notes are an integral
+part of these consolidated interim financial statements.
+ 
+ 
+ 
+
+
+ 6 
+ 
+
+ 
+PRECISION OPTICS CORPORATION, INC.
+NOTES TO CONSOLIDATED INTERIM FINANCIAL
+STATEMENTS (UNAUDITED)
+ 
+
+
+1.
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ 
+Principles of Consolidation and Operations
+ 
+The accompanying consolidated financial
+statements include the accounts of Precision Optics Corporation, Inc. and its wholly-owned subsidiaries (the “Company”).
+All significant intercompany accounts and transactions have been eliminated in consolidation.
+ 
+These consolidated financial statements
+have been prepared by the Company, without audit, and reflect normal recurring adjustments which, in the opinion of management,
+are necessary for a fair statement of the results of the second quarter and six months of the Company’s fiscal year 2020.
+These consolidated financial statements do not include all disclosures associated with annual consolidated financial statements
+and, accordingly, should be read in conjunction with footnotes contained in the Company’s consolidated financial statements
+for the year ended June 30, 2019, together with the Report of Independent Registered Public Accounting Firm filed under cover
+of the Company’s 2019 Annual Report on Form 10-K, filed with the Securities and Exchange Commission on September 26,
+2019.
+ 
+Use of Estimates
+ 
+The preparation of these consolidated financial
+statements requires the Company to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues
+and expenses. The Company bases its estimates on historical experience and on various other assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets
+and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions.
+ 
+Income (Loss) Per Share
+ 
+Basic income (loss) per share is computed
+by dividing net income or net loss by the weighted average number of shares of common stock outstanding during the period. Diluted
+income (loss) per share is computed by dividing net income or net loss by the weighted average number of shares of common stock
+outstanding during the period, plus the number of potentially dilutive securities outstanding during the period such as stock options
+and warrants. For the three and six months ended December 31, 2019 and 2018, the effect of such securities was antidilutive and
+not included in the diluted calculation because of the net loss generated in these periods.
+ 
+The following is the calculation of loss per share for the three
+and six months ended December 31, 2019 and 2018:
+ 
+
+ 
+The number of shares issuable upon the
+exercise of outstanding stock options that were excluded from the computation as their effect was antidilutive was approximately
+2,047,800 and 1,493,200 for the three and six months ended December 31, 2019 and 2018, respectively.
+   
+ 
+ 
+
+
+ 7 
+ 
+
+ 
+Income Taxes
+ 
+Income taxes are accounted for under the
+asset and liability method. Deferred tax assets and liabilities are recognized for the future tax consequences attributable to
+differences between the financial statement carrying amounts of existing assets and liabilities and their respective tax bases
+and operating loss and tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates expected
+to apply to taxable income in the years in which those temporary differences are expected to be recovered or settled. The effect
+on deferred tax assets and liabilities of a change in tax rates is recognized in income in the period that includes the enactment
+date.
+  
+In assessing the likelihood of utilization
+of existing deferred tax assets, management has considered historical results of operations and the current operating environment.
+Based on this evaluation, a full valuation reserve has been provided for the deferred tax assets.
+ 
+Goodwill and Patents
+ 
+Long-lived assets such as goodwill and
+patents are capitalized when acquired and reviewed for impairment whenever events or changes in circumstances indicate that the
+book value of the asset may not be recoverable. Impairment of the carrying value of long-lived assets such as goodwill and patents
+would be indicated if the best estimate of future undiscounted cash flows expected to be generated by the asset grouping is less
+than its carrying value. If an impairment is indicated, any loss is measured as the difference between estimated fair value and
+carrying value and is recognized in operating income or loss. Assets to be disposed of are reported at the lower of the carrying
+amount or fair value less costs to sell. No such impairments of goodwill or patents have been estimated by management as of December
+31, 2019.
+ 
+Accounting Pronouncements Recently Adopted
+ 
+On July 1, 2018, the Company adopted ASU
+2014-09, Revenue from Contracts with Customers. Refer to Note 5 for further information.
+ 
+On July 1, 2019, the Company adopted ASU
+2016-02, Topic 842 – Leases. Refer to Note 3 for further information.
+  
+
+
+2.
+INVENTORIES
+
+ 
+Inventories are stated at the lower of
+cost (first-in, first-out) or market and consisted of the following:
+ 
+
+ 
+
+
+3.
+LEASE OBLIGATION
+
+ 
+The Company entered into a five-year capital lease obligation
+in January 2016 for the acquisition of manufacturing equipment totaling $51,252.
+ 
+ 
+ 
+
+
+ 8 
+ 
+
+ 
+In February 2016, FASB issued ASU 2016-02,
+“Leases” (Topic 842). ASU 2016-02 requires the recognition of lease asset and lease liabilities by lessees for those
+leases currently classified as operating leases with terms greater than twelve months and make certain changes to the accounting
+for lease expenses. The Company adopted this standard effective July 1, 2019 and has reflected its impact upon the El Paso, Texas
+facility operating lease entered into on July 1, 2019 in connection with the Ross Optical acquisition. The facility lease is a
+three-year operating lease obligation with total remaining minimum lease payments of $154,981 at December 31, 2019. Total rent
+expense including base rent and common area expenses were $15,190 and $30,381 during the three and six months ended December 31,
+2019, respectively. Included in the accompanying balance sheet at December 31, 2019 is a right-of-use  asset of $145,428 and
+current and long-term right-of-use operating lease liabilities of $55,247 and $90,181, respectively.
+ 
+At December 31, 2019, future minimum lease payments under the
+capital lease and operating lease obligations are as follows:
+ 
+
+ 
+
+4.STOCK-BASED
+                                         COMPENSATION
+
+ 
+The following table summarizes stock-based
+compensation expense for the three and six months ended December 31, 2019 and 2018:
+ 
+
+  
+No compensation has been capitalized because
+such amounts would have been immaterial.
+   
+The following tables summarize stock option
+activity for the six months ended December 31, 2019:
+ 
+
+  
+ 
+ 
+
+
+ 9 
+ 
+
+ 
+Information related to the stock options
+outstanding as of December 31, 2019 is as follows:
+ 
+
+ 
+The aggregate intrinsic value of the Company’s
+“in-the-money” outstanding and exercisable options as of December 31, 2019 was $1,770,050 and $1,493,050, respectively.
+ 
+Common Stock Award
+ 
+On August 2, 2018, the Company awarded
+its Chief Executive Officer 300,000 shares of common stock for services performed through June 30, 2018. As of December 31, 2019,
+200,000 shares have been issued. The fair market value of the 300,000 shares on the award date equal to $210,000 has been recorded
+as general and administrative stock-based compensation expense in the three months ended September 30, 2018.
+  
+
+
+5.
+REVENUE RECOGNITION
+
+ 
+On July 1, 2018, the Company adopted
+ASU 2014-09 Revenue from Contracts with Customers (ASC 606) using the modified retrospective method for contracts that were not
+completed as of July 1, 2018, whereby revenues are recognized as the performance obligations to deliver products or services are
+satisfied and are recorded based on the amount of consideration the Company expects to receive in exchange for satisfying the performance
+obligations. Most of the Company’s products and services are marketed to medical device companies almost exclusively in the
+United States. Products and services are primarily transferred to customers at a point in time based upon when services are performed
+or product is shipped.
+ 
+Revenues represent the amount of consideration
+the Company expects to receive from customers in exchange for transferring products and services. Other selling costs to obtain
+and fulfill contracts are expensed as incurred due to the short-term nature of a majority of its revenues. The Company extends
+terms of payment to its customers based on commercially reasonable terms for the markets of its customers, while also considering
+their credit quality. Shipping and handling costs charged to customers are included in revenues.
+ 
+ 
+ 
+
+
+ 10 
+ 
+
+ 
+The Company disaggregates revenues by product
+and service types as it believes it best depicts how the nature, amount, timing and uncertainty of revenues and cash flows are
+affected by economic factors. Revenues are comprised of the following for the three and six months ended December 31, 2019 and
+2018:
+ 
+
+ 
+Contract Assets and Liabilities
+ 
+The nature of the Company’s products
+and services does not generally give rise to contract assets as it typically does not incur costs to fulfill a contract before
+a product or service is provided to a customer. The Company’s costs to obtain contracts are typically in the form of sales
+commissions paid to employees. The Company has elected to expense sales commissions associated with obtaining a contract as incurred
+as the amortization period is generally less than one year. These costs have been recorded in selling, general and administrative
+expenses. As of December 31, 2019, there were no contract assets recorded in the Company’s Consolidated Balance Sheets.
+ 
+The Company’s contract liabilities
+arise as a result of unearned revenue received from customers at inception of contracts or where the timing of billing for services
+precedes satisfaction of our performance obligations. The Company generally satisfies performance obligations within one year from
+the contract inception date.
+ 
+Contract liabilities, which were recorded
+as customer advances in the Company’s Consolidated Balance Sheets, and unearned revenue are comprised of the following:
+ 
+
+ 
+
+
+6.
+BUSINESS ACQUISITION
+
+ 
+On July 1, 2019 the Company acquired the
+operating assets of Ross Optical Industries, Inc. of El Paso, Texas, a supplier of custom and catalogue optical components sourced
+through an extensive network of worldwide specialized vendors and sold for industrial, military and medical applications. The acquisition
+had an effective date of June 1, 2019. All of Ross’ results of operations are included in our financial statements for the
+three and six month periods ended December 31, 2019.
+ 
+ 
+ 
+
+
+ 11 
+ 
+
+ 
+Consolidated unaudited actual and pro forma
+results of operations for the Company are presented below assuming that the acquisition of the Ross Optical division had occurred
+on July 1, 2018. Pro forma operating results include net adjustments resulting from the acquisition transaction.
+ 
+
+ 
+Pro forma financial information is not
+necessarily indicative of the Company’s actual results of operations if the acquisition had been completed at the date indicated,
+nor is it necessarily an indication of future operating results. Amounts do not include any operating efficiencies or cost saving
+that the Company believes may become achievable over time.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 12 
+ 
+
+ 
+Item 2. Management’s Discussion and Analysis of Financial
+Condition and Results of Operations.
+ 
+The following discussion of our financial
+condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements
+and notes to those statements included elsewhere in this Quarterly Report on Form 10-Q for the quarter ended December 31, 2019
+and with our audited consolidated financial statements for the year ended June 30, 2019 included in our Annual Report on Form 10-K,
+filed with the Securities and Exchange Commission on September 26, 2019.
+ 
+This Quarterly Report on
+Form 10-Q contains forward-looking statements. When used in this report, the words “anticipate,”
+“suggest,” “estimate,” “plan,” “project,” “continue,”
+“ongoing,” “potential,” “expect,” “predict,” “believe,”
+“intend,” “may,” “will,” “should,” “could,” “would”
+and similar expressions are intended to identify forward-looking statements. You should not place undue reliance on these
+forward-looking statements. Our actual results could differ materially from those anticipated in the forward-looking
+statements for many reasons, including the risks described in this report, the risks described in our Annual Report on Form
+10-K for the year ended June 30, 2019 and other reports we file with the Securities and Exchange Commission. Although we
+believe the expectations reflected in the forward-looking statements are reasonable, they
+relate only to events as of the date on which the statements are made. We do not intend to update any of the
+forward-looking statements after the date of this report to conform these statements to actual results or to changes in our
+expectations, except as required by law.
+ 
+Overview
+ 
+We have been a developer and manufacturer
+of advanced optical instruments since 1982. Our medical instrumentation line includes traditional endoscopes and endocouplers as
+well as other custom imaging and illumination products for use in minimally invasive surgical procedures. Much of our recent development
+efforts have been targeted at the development of next generation endoscopes. For the last ten years, we have funded internal research
+and development programs to develop next generation capabilities for designing and manufacturing 3D endoscopes and very small Microprecision™
+lenses, anticipating future requirements as the surgical community continues to demand smaller and more enhanced imaging systems
+for minimally invasive surgery. 
+ 
+Effective June 1, 2019 we acquired the
+operating assets of Ross Optical Industries, Inc. of El Paso, Texas, which we began operating as a division of our Company beginning
+on that date. The accompanying financial statements include the results of operations of the Ross Optical division for the entire
+six and three-month periods ended December 31, 2019 and the assets and liabilities of the division as of June 30, 2019 and December
+31, 2019. The acquisition of the assets of Ross Optical Industries effective June 1, 2019 expands our optics components and assemblies
+business. All products supplied by Ross Optical include a custom or catalog optic, which is sourced through Ross Optical’s
+extensive domestic and worldwide network of optical fabrication companies. Most systems make use of optical lenses, prisms, mirrors
+and windows and range from individual optical components to complex mechano-optical assemblies. Products often include thin film
+optical coatings that are applied using the in-house coating department. Approximately 76% of Ross Optical revenues are from customers
+in the United States, 8% from Western Europe and 5% from Canada during the six months ended December 31, 2019. Ross Optical’s
+sales are mostly resale of specialized optical components with the remainder being assemblies. Ross Optical does not perform revenue
+generating engineering services or internal research and development. The majority of Ross Optical sales are for industrial applications
+with the remainder split between military and medical device products.
+ 
+The Management Discussion and Analysis
+which follows is based on the financial condition and results of operations of our Company including the operating results for
+the six and three month periods ended December 31, 2019 and the balance sheet as of June 30, 2019 and December 31, 2019 of our
+new division Ross Optical.
+ 
+Our business is the design and manufacture
+of high-quality medical devices. Approximately 12% of our revenue in the six months ended December 31, 2019 is from the design,
+manufacture and resale of optical products for military and defense and 29% is from other industrial, non-medical products. Our
+medical instrumentation line and unique design and manufacturing capabilities include traditional endoscopes and endocouplers as
+well as other custom imaging and illumination products for use in minimally invasive surgical procedures. We design and manufacture
+3D endoscopes and very small Microprecision™ lenses, assemblies and complete medical devices to meet the surgical community’s
+continuing demand for smaller, disposable, and more enhanced imaging systems for minimally invasive surgery. 
+ 
+ 
+ 
+
+
+ 13 
+ 
+
+ 
+We are registered to the ISO 9001:2015
+and ISO 13485:2016 Quality Standards and comply with the FDA Good Manufacturing Practices and the European Union Medical Device
+Directive for CE marking of our medical products. Our internet website is www.poci.com. Information on our website is not intended
+to be integrated into this report.
+ 
+The markets in which we do business are
+highly competitive and include both foreign and domestic competitors. Many of our competitors are larger and have substantially
+greater resources than we do. Furthermore, other domestic or foreign companies, some with greater financial resources than we have,
+may seek to produce products or services that compete with ours. We routinely outsource specialized production efforts as required
+to obtain the most cost effective production. Over the years and through the acquisition of the Ross Optical division in June 2019,
+we have developed extensive experience collaborating with other optical specialists worldwide.
+  
+We believe that our future success depends
+to a large degree on our ability to develop new optical products and services to enhance the performance characteristics and methods
+of manufacture of existing products. Accordingly, we expect to continue to seek and obtain product-related design and development
+contracts with customers and to selectively invest our own funds on research and development, particularly in the areas of Microprecision™
+optics, micro medical cameras, illumination, and 3D endoscopes.
+ 
+The Ross Optical division sales are primarily
+optical components and assemblies for industrial applications in addition to medical and military uses. By combining the unique
+capabilities of our Company with the Ross Optical division we believe there are opportunities for expanded sales of each division
+products and services throughout the combined customer base. Additionally, we believe Ross’ expanded worldwide vendor relationships
+will benefit our traditional efforts to source materials at competitive prices for our development projects and manufacturing activities.
+   
+For the six months ended December 31, 2019,
+approximately 24% of our sales were made to our three largest customers and no customer, including these three, made up more than
+10% of our total sales. Our three largest customers during the quarter ended December 31, 2019 are in the defense and medical device
+industries. One represents engineering service revenue for an established defense contractor, and the other two represent production
+revenue for companies commercializing a cardiovascular endoscope and an ENT scanning device. Each of these three products incorporates
+our Microprecision™ technologies as enabling design features. In addition to the three largest customers, we made sales
+to two hundred thirty-eight other customers during the six month period ended December 31, 2019. 
+ 
+Current sales and marketing activities
+are intended to broaden awareness of the benefits of our new technology platforms and our successful application of these new technologies
+to medical device projects requiring surgery-grade visualization from sub-millimeter sized devices and 3D endoscopy, including
+disposable products and assemblies. We market directly to established medical device companies primarily in the United States that
+we believe could benefit from our advanced endoscopy visualization systems. Through this direct marketing, referrals, attendance
+at trade shows and a presence in online professional association websites, we have expanded our on-going pipeline of projects to
+significant medical device companies as well as well-funded emerging technology companies. We expect our customer pipeline to continue
+to expand as development projects transition to production orders and new customer projects enter the development phase. Our Ross
+Optical division markets through existing customers and trade shows, in addition to proactive online marketing strategies executed
+primarily through its website. We believe there are opportunities to expand the reach of sales activities of our business and that
+of our new division, Ross Optical, through the gradual integration of some of the sales and marketing resources of the two operations.
+ 
+General
+ 
+This management’s discussion and
+analysis of financial condition and results of operations is based upon our unaudited consolidated financial statements, which
+have been prepared without audit, pursuant to the rules and regulations of the Securities and Exchange Commission. The preparation
+of these consolidated financial statements requires us to make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses. We base our estimates on historical experience and on various other assumptions that are believed
+to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of
+assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions.
+ 
+ 
+ 
+
+
+ 14 
+ 
+
+ 
+There have been no significant changes
+in our critical accounting policies as disclosed in the Notes to our Financial Statements contained in our Annual Report on Form 10-K
+for the year ended June 30, 2019 filed with the Securities and Exchange Commission on September 26, 2019.
+ 
+Results of Operations
+ 
+Our total revenues for the quarter ended
+December 31, 2019, were $2,796,762, as compared to $1,477,851 for the same period in the prior year, an increase of $1,318,911,
+or 89.2%. Revenues increased during the quarter ended December 31, 2019 compared to the same quarter of the prior year primarily
+due to the revenues of the Ross Optical division, which were $1,150,844 for the quarter ended December 31, 2019. Our non-Ross revenues
+increased $168,067 during the quarter ended December 31, 2019 from their levels in the same period of the prior year. The mix of
+engineering service, production and component sales were consistent between the quarters and changes were considered the result
+of customary fluctuations within and between the various products during the quarters.
+ 
+Our total revenues for the six months ended
+December 31, 2019 were $5,311,746, as compared to $3,037,309 for the same period in the prior year, an increase of $2,274,437,
+or 74.9%. Revenues increased during the six months ended December 31, 2019 compared to the same period of the prior year primarily
+due to the revenues of the Ross Optical division, which were $2,241,688 for the six months ended December 31, 2019. Our non-Ross
+revenues increased $32,769 during the six months ended December 31, 2019 from their levels in the same period of the prior year.
+The mix of engineering service, production and component sales were consistent between the quarters and changes were considered
+the result of customary fluctuations within and between the various products during the quarters.
+    
+Gross profit for the quarter ended December
+31, 2019 was $917,939, compared to $355,722 for the same period in the prior year, reflecting an increase of $562,217, or 158%.
+Gross profit for the quarter ended December 31, 2019 as a percentage of our revenues was 32.8%, an increase from the gross profit
+percentage of 24.1% for the same period in the prior year. Gross profit for the six months ended December 31, 2019 was $1,892,056,
+as compared to $818,229 for the same period in the prior year, which reflects an increase of $1,073,827 or 131.2%. Gross profit for
+the six months ended December 31, 2019 as a percentage of our revenues was 35.6%, an increase from the gross profit percentage
+of 26.9% for the same period in the prior year. Quarterly gross profit and gross profit percentage depend on a number of factors,
+including overall sales volume, facility utilization, product sales mix, the costs of engineering services, and production start-up
+costs and challenges in connection with new products.
+ 
+The increase in gross profit dollars and
+gross profit percentage during the quarter and six month period ended December 31, 2019 compared to the same periods of the prior
+year is primarily due to the inclusion of the Ross Optical division revenue at a higher gross margin percentage than we realize
+on non-Ross revenues. Ross Optical division revenues generated a gross margin percentage of 48-50% while non-Ross revenue margin
+was 26.4% for the six months ended December 31, 2019. The non-Ross gross margin is dependent on a number of factors and is expected
+to fluctuate from quarter to quarter based on the nature and status of engineering projects. Specifically, periodic margins are
+impacted by revenue volume, facility utilization, product sales mix, and unanticipated cost over-runs associated with engineering
+projects and start-up production activities of new products. During the quarter ended December 31, 2019 two non-Ross engineering
+service projects experienced cost over-runs that negatively impacted gross margins during the period. The two projects collectively
+represented 18% of total revenue and negatively impacted the gross margin percentage by 6.5% during the quarter ended December
+31, 2019. The cost over-runs in each of these cases resulted from design challenges and issues we are addressing and that we believe
+will only cause a temporary decrease in total realized gross margins. The remainder of our production and engineering jobs resulted
+in margins within our targeted range with reasonably expected fluctuations.
+ 
+Research and development expenses were
+$228,576 for the quarter ended December 31, 2019, compared to $125,413 for the same period in the prior year, an increase of $103,163,
+or 82%. Research and development expenses were $380,730 for the six months ended December 31, 2019, compared to $226,211 for
+the same period in the prior year, an increase of $154,519, or 68%. In-house research and development and certain internal functions
+not directly related to customer engagements are classified as research and development expenses with the majority of our engineering,
+research and development activities being consumed in revenue generating engagements with our customers for the development of
+their products. During the quarter ended December 31, 2019 we had a larger staff of engineering personnel and a greater amount
+of our engineering personnel time was consumed in internal research and development activities; the product of which we believe
+will benefit various engineering design projects involving specialized fixturing and illumination features.
+ 
+ 
+ 
+
+
+ 15 
+ 
+
+ 
+Selling, general and administrative
+expenses were $2,148,806 for the six months ended December 31, 2019, compared to $1,016,405 for the same period in the
+prior year, an increase of $1,132,401, or 111%. The increase in the six months ended December 31, 2019, compared to the same
+quarter of the prior fiscal year was primarily due to the addition of $598,078 of selling, general and administrative
+expenses incurred by our Ross Optical division. Non-Ross selling, general and administrative expenses reflect a $42,999
+increase in stock-based compensation and service fees in the six months ended December 31, 2019 compared to the same period
+of the prior year, and a $491,322 increase in compensation to existing and newly hired employees.
+ 
+Selling, general and administrative
+expenses were $1,240,961 for the quarter ended December 31, 2019, compared to $355,916 for the same period in the prior year,
+an increase of $885,045, or 249%. The increase in the quarter ended December 31, 2019, compared to the same quarter of the
+prior fiscal year was primarily due to the addition of $325,987 of selling, general and administrative expenses incurred by
+our Ross Optical division. Non-Ross selling, general and administrative expenses reflect a $264,478 increase in stock-based
+compensation and service fees in the quarter ended December 31, 2019 compared to the same period of the prior year, and a
+$294,581 increase in compensation to existing and newly hired employees.
+ 
+Liquidity and Capital Resources
+ 
+We have sustained recurring net losses
+for several years. During the year ended June 30, 2019 and the six months ended December 31, 2019 we incurred net losses of $614,871
+and $636,935, respectively. As a result of our acquisition of the Ross Optical division, our revenue, gross margin and components
+of our working capital have increased. At December 31, 2019 cash was $347,858, accounts receivables were $2,000,048 and current
+liabilities were $2,021,535, including $388,506 of customer advances received for future order deliveries.
+ 
+Although our financial performance has
+improved during the last few fiscal quarters, our operating expenses have also increased and we continue to experience pricing
+pressure from our customers and challenges in engineering projects and production orders that result in cost over-runs and depressed
+gross margins. Consequently, critical to our ability to maintain our financial condition is achieving and maintaining a level of
+quarterly revenues that generate break even or better financial performance as well as timely collection of accounts receivable
+from our customers. We believe profitable operating results can be achieved through a combination of revenue levels, realized gross
+margins and controlling operating expense increases, all of which are subject to periodic fluctuations resulting from sales mix
+and the stage of completion of varying engineering service projects as they progress towards and into production level revenues.
+ 
+We have traditionally funded working capital
+needs through product sales, management of working capital components of our business, cash received from public and private offerings
+of our common stock, warrants to purchase shares of our common stock or convertible notes, and by customer advances paid against
+purchase orders and recorded in the current liabilities section of the accompanying financial statements. Our management believes
+that the opportunities represented by our current production projects and engineering pipeline of Microprecision™ optical
+elements, micro medical camera assemblies and 3D endoscope projects have the potential to generate increasing revenues and profitable
+financial results.
+ 
+Capital equipment expenditures and additional
+patent costs during the six months ended December 31, 2019 and 2018 were $56,914 and $76,184, respectively. Future capital equipment
+expenditures will be dependent upon the type and amount of future sales revenue and the needs of on-going research and development
+efforts.
+ 
+We have contractual cash commitments related
+to open purchase orders as of December 31, 2019 of approximately $976,440, plus a $9,835 commitment remaining under a five-year
+capital lease obligation for the acquisition of equipment and $145,428 commitment remaining under a three-year facility lease relating
+the Ross Optical division in El Paso, Texas (see Note 3. Lease Obligations). We have no other contractual cash commitments since
+leased facilities are currently on a month-to-month basis.
+  
+ 
+ 
+
+
+ 16 
+ 
+
+ 
+Off-Balance Sheet Arrangements
+ 
+We currently have no off-balance sheet
+arrangements that have, or are reasonably likely to have, a current or future material effect on our financial condition, changes
+in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital resources.
+ 
+Item 3. Quantitative and Qualitative
+Disclosures About Market Risk.
+ 
+As a smaller reporting company, as defined
+by Rule 12b-2 of the Exchange Act and in Item 10(f)(1) of Regulation S-K, we are electing scaled disclosure reporting
+obligations and therefore are not required to provide the information requested by this Item.
+  
+Item 4. Controls and Procedures.
+ 
+Management’s Evaluation of Disclosure Controls and
+Procedures
+ 
+Our Chief Executive Officer and our Chief
+Financial Officer evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by
+this Quarterly Report on Form 10-Q. Based on this evaluation, our Chief Executive Officer and our Chief Financial Officer have
+concluded that our disclosure controls and procedures, including internal control over financial reporting, were not effective
+as of December 13, 2019, to ensure the information we are required to disclose in reports that we file or submit under the Securities
+Exchange Act of 1934, as amended (i) is recorded, processed, summarized, and reported within the time periods specified in Securities
+and Exchange Commission rules and forms, and (ii) is accumulated and communicated to our management, including our Chief Executive
+Officer and our Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Our disclosure
+controls and procedures are intended to be designed to provide reasonable assurance that such information is accumulated and communicated
+to our management. Based on this evaluation, our management concluded that our internal control over financial reporting was not
+effective as of December 31, 2019.
+ 
+The following is a description of two material
+weaknesses in our internal control over financial reporting:
+ 
+Segregation of Duties: As previously
+disclosed in our Annual Reports on Form 10-K for the fiscal years ended June 30, 2008-2019, our management identified a control
+deficiency during the 2008 fiscal year because we lacked sufficient staff to segregate accounting duties. We believe the control
+deficiency resulted primarily because we have the equivalent of one and one-half persons performing all accounting-related on-site
+duties. As a result, we did not maintain adequate segregation of duties within our critical financial reporting applications, the
+related modules and financial reporting processes. This control deficiency could result in a misstatement of balance sheet and
+income statement accounts in our interim or annual consolidated financial statements that would not be detected. Accordingly, management
+has determined that this control deficiency constitutes a material weakness. During the period beginning with fiscal year 2008
+through June 30, 2019, no audit adjustments resulting from this condition were required.
+ 
+To address and remediate the material weakness
+in internal control over financial reporting described above, beginning with the quarter ended September 30, 2008, we instituted
+a procedure whereby our Chief Executive Officer, our Chief Financial Officer and other members of our Board of Directors perform
+a higher level review of the quarterly and annual reports on Form 10-Q and Form 10-K prior to filing.
+ 
+We believe that the step outlined above
+strengthens our internal control over financial reporting and mitigates the material weakness described above. As part of our assessment
+of internal control over financial reporting for the fiscal year ended June 30, 2019, our management has evaluated this additional
+control and has determined that it is operating effectively.
+ 
+Inventory Valuation: As previously
+disclosed in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019, we reported a material weakness with respect
+to the valuation of our inventories. Specifically, the amounts used to value our inventory at June 30, 2009 with respect to overhead
+rates and purchased items were often inconsistent with the supporting documentation, due to year-to-year changes in overhead rates
+and costs of purchased items that were not properly reflected in inventory valuation. Accordingly, management had determined that
+this control deficiency constituted a material weakness as of June 30, 2009. Periodic fiscal year end audit adjustments of approximately
+$50,000 have been necessary as a result of this condition.
+  
+ 
+ 
+
+
+ 17 
+ 
+
+ 
+Changes in Internal Control over
+Financial Reporting
+ 
+There was no change in our internal control
+over financial reporting that occurred during the second quarter of our fiscal year covered by this Quarterly Report on Form 10-Q
+that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+ 
+To address and remediate the material weakness
+in internal control over financial reporting described above, beginning in the quarter ended September 30, 2009 and continuing
+through the quarter ended December 31, 2019, we implemented processes to improve our inventory controls and documentation surrounding
+inventory valuation for overhead rates, and performed procedures to ensure that the pricing of inventory items was consistent with
+the supporting documentation. We believe that the step outlined above strengthens our internal control over financial reporting
+and mitigates the material weakness described above.
+ 
+We intend to continue to remediate material
+weaknesses and enhance our internal controls but cannot guarantee that our efforts will result in remediation of our material weaknesses
+or that new issues will not be exposed in this process.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 18 
+ 
+
+ 
+PART II. OTHER INFORMATION
+ 
+Item 1. Legal Proceedings.
+ 
+Our Company, on occasion, may be involved
+in legal matters arising in the ordinary course of our business. While management believes that such matters are currently
+insignificant, matters arising in the ordinary course of business for which we are or could become involved in litigation may have
+a material adverse effect on our business, financial condition or results of operations. We are not aware of any pending or
+threatened litigation against us or our officers and directors in their capacity as such that could have a material impact on our
+operations or finances.
+ 
+Item 1A. Risk Factors.
+ 
+Other than as described below, there have
+been no material changes from the risk factors previously disclosed in our annual report on Form 10-K for the fiscal year
+ended June 30, 2019, as filed with the Securities and Exchange Commission on September 26, 2019.
+ 
+We depend on the availability of
+certain key supplies and services that are available from only a few sources and we may experience difficulty with certain suppliers
+due to the recent coronavirus outbreak in China and we may have difficulty finding alternative sources of these supplies or services.
+ 
+We source certain key supplies to develop
+and manufacture our products, particularly our precision grade optical glass, which is available from only a few sources, in China.
+Due to the recent coronavirus outbreak in China in December 2019, we may experience difficulties with certain suppliers. Our business
+could be affected if we become unable to procure these essential materials and services in adequate quantities and at acceptable
+prices. We are always evaluating our suppliers and alternative sources. If we experience a shortage of certain supplies and are
+unable to find an alternative source, our financial condition and results of operations could be adversely affected.   
+ 
+Item 2. Unregistered Sales of Equity
+Securities and Use of Proceeds.
+ 
+We did not issue unregistered securities
+during the quarter ended December 31, 2019.
+ 
+Item 3. Defaults Upon Senior Securities.
+ 
+Not applicable.
+ 
+Item 4. Mine Safety Disclosures.
+ 
+Not applicable.
+ 
+Item 5. Other Information.
+ 
+None.
+  
+ 
+ 
+ 
+
+ 19 
+ 
+
+ 
+Item 6. Exhibits.
+
+ 
+ 
+ 
+ 
+
+
+ 20 
+ 
+
+ 
+
+ 
+
+ 
+
+
+*
+Filed herewith.
+
+ 
+
+
+†
+ 
+Certain portions of the agreement have been omitted to preserve the confidentiality of such information. The Company will furnish copies of any such information to the SEC upon request.
+
+ 
+
+
++
+ 
+The schedules to agreement have been omitted from this filing pursuant to Item 601(a)(5) of Regulation S-K.  The Company will furnish copies of any such schedules to the SEC upon request.
+
+ 
+Copies of above exhibits not contained
+herein are available to any stockholder, upon written request to: Chief Financial Officer, Precision Optics Corporation, Inc.,
+22 East Broadway, Gardner, MA 01440.
+ 
+ 
+ 
+
+ 21 
+ 
+
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+ 
+PRECISION OPTICS CORPORATION, INC.
+
+ 
+ 
+ 
+
+Date: February 13, 2020
+By:
+/s/ Joseph N. Forkey
+
+ 
+ 
+Joseph N. Forkey
+
+ 
+ 
+
+Chief Executive Officer
+(Principal Executive Officer)
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Date: February 13, 2020
+By:
+/s/ Daniel S. Habhegger
+
+ 
+ 
+Daniel S. Habhegger
+
+ 
+ 
+
+Chief Financial Officer 
+(Principal Financial Officer and Principal Accounting
+        Officer)
+
+ 
+ 
+ 
+ 
+ 
+
+ 22 
+
+
+
+
+

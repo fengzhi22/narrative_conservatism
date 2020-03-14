@@ -1,0 +1,1410 @@
+
+10-Q
+1
+f10q1119_aurasystems.htm
+QUARTERLY REPORT
+
+
+
+ 
+
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+Form 10-Q
+ 
+☒   QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended November 30, 2019
+ 
+OR
+ 
+☐   TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the transition period from ______________ to ______________
+ 
+AURA SYSTEMS, INC.
+(Exact name of Registrant as specified in its charter)
+ 
+
+
+Delaware
+ 
+95-4106894
+
+(State or other jurisdiction of
+ 
+(I.R.S. Employer
+
+incorporation or organization)
+ 
+Identification No.)
+
+ 
+10541 Ashdale St.
+Stanton, CA 90680
+(Address of principal executive offices and zip code)
+ 
+Registrant’s telephone number, including area
+code: (310) 643-5300
+ 
+ 
+Former name, former address and former fiscal year,
+if changed since last report:
+ 
+Indicate by check mark whether the registrant (1)
+has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days: YES  ☒  NO  ☐
+ 
+Indicate by check mark whether the registrant has
+submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and
+posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter
+period that the registrant was required to submit and post such files). YES ☐  NO  ☒
+ 
+Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company.
+See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”
+and “emerging growth company in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large Accelerated Filer ☐
+ 
+Accelerated Filer ☐
+
+Non-accelerated filer   ☐
+ 
+Smaller Reporting Company ☒
+
+ 
+ 
+Emerging growth company ☐
+
+ 
+If an emerging growth company, indicate by check mark
+if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+ 
+Indicate by check mark whether the registrant is a
+shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  ☐  No
+☒
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+Title of each class
+ 
+Trading Symbol(s)
+ 
+Name of each exchange on which registered
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+Indicate the number of shares outstanding of each of
+the issuer’s classes of Common Stock, as of the latest practicable date.
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+AURA SYSTEMS, INC. 
+ 
+INDEX
+ 
+
+ 
+
+i
+ 
+
+ 
+PART
+I - FINANCIAL INFORMATION
+ 
+ITEM 1. FINANCIAL STATEMENTS
+ 
+AURA SYSTEMS, INC.
+BALANCE SHEETS
+(Unaudited)
+ 
+
+  
+The accompanying notes are an integral part of these
+financial statements.
+ 
+
+
+
+1
+ 
+
+ 
+AURA SYSTEMS, INC.
+STATEMENTS OF OPERATIONS
+FOR THREE AND NINE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+  
+
+ 
+See accompanying notes to these unaudited financial
+statements.
+ 
+
+2
+ 
+
+  
+AURA SYSTEMS, INC.
+STATEMENTS OF CASH FLOWS
+FOR THE NINE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+ 
+ 
+
+ 
+See accompanying notes to these unaudited financial
+statements.
+ 
+
+3
+ 
+
+ 
+AURA SYSTEMS INC.
+STATEMENTS OF SHAREHOLDERS’ DEFICIT
+FOR THE NINE MONTHS ENDED NOVEMBER 30, 2019
+(Unaudited)
+  
+
+ 
+See accompanying notes to these unaudited financial
+statements. 
+ 
+
+4
+ 
+
+
+ 
+AURA SYSTEMS, INC.
+NOTES TO CONDENSED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+NOTE 1 – ORGANIZATION AND OPERATIONS
+ 
+Aura Systems, Inc., (“Aura”, “We”
+or the “Company”) a Delaware corporation, was founded to engage in the development, commercialization, and sales of
+products, systems, and components, using its patented and proprietary electromagnetic technology. Aura develops and sells AuraGen®
+axial flux mobile induction power systems to the industrial, commercial, and defense mobile power generation markets. In
+addition, the Company has also developed and patented High Force Electromagnetic Linear Actuators which it has sold in prior years.
+ 
+NOTE 2 – ACCOUNTING POLICIES
+ 
+Accounting principles
+ 
+In the opinion of management, the accompanying balance
+sheets and related interim statements of income and comprehensive income, and cash flows include all adjustments, consisting only
+of normal recurring items, necessary for their fair presentation in conformity with accounting principles generally accepted in
+the United States of America (“U.S. GAAP”). Interim results are not necessarily indicative of results for a full year.
+The information included in this Form 10-Q should be read in conjunction with information included in the Company’s Amended
+Annual Report on Form 10-K/A for the year ended February 28, 2019 filed on October 24, 2019 with the United States Securities and
+Exchange Commission (“SEC”).
+ 
+Estimates
+ 
+The preparation of financial statements requires management
+to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the financial statements and the reported amounts of revenue and expenses during the reporting period.
+Actual results could differ from those estimates.
+ 
+Recently Issued Accounting Pronouncements
+ 
+In February 2016, the FASB issued ASU No. 2016-02,
+Leases (Topic 842) to increase transparency and comparability among organizations by recognizing lease assets and lease liabilities
+on the balance sheet and disclosing key information about leasing arrangements. Topic 842 affects any entity that enters into a
+lease, with some specified scope exemptions. The guidance in this Update supersedes Topic 840, Leases. The core principle of Topic
+842 is that a lessee should recognize the assets and liabilities that arise from leases. A lessee should recognize in the statement
+of financial position a liability to make lease payments (the lease liability) and a right-of-use asset representing its right
+to use the underlying asset for the lease term. For public companies, the amendments in this Update are effective for fiscal years
+beginning after December 15, 2018, including interim periods within those fiscal years. The Company evaluated the impact of the
+adoption of Topic 842 effective for the nine-months ended November 30, 2019 and the impact was none on the Condensed Financial
+Statements.
+ 
+The Company adopted Accounting Standards Codification
+(“ASC”) 606. ASC 606, Revenue from Contracts with Customers, establishes principles for reporting information about
+the nature, amount, timing and uncertainty of revenue and cash flows arising from the entity’s contracts to provide goods
+or services to customers. The core principle requires an entity to recognize revenue to depict the transfer of goods or services
+to customers in an amount that reflects the consideration that it expects to be entitled to receive in exchange for those goods
+or services recognized as performance obligations are satisfied.
+ 
+The Company has assessed the impact of the guidance
+by performing the following five steps analysis:
+ 
+Step 1: Identify the
+contract
+ 
+Step 2: Identify the
+performance obligations
+ 
+Step 3: Determine the
+transaction price
+ 
+Step 4: Allocate the
+transaction price
+ 
+Step 5: Recognize revenue
+ 
+
+
+5
+ 
+
+ 
+Re-classifications
+ 
+Certain reclassifications have been made to the comparative
+financial statements to conform to the current period presentation. The balance sheet as of February 28, 2019, presented herein,
+includes a reclassification of $1,008,328 for accrued expense in relation to a related party obligation from accrued expenses to
+a separate caption accrued expenses-related party.
+ 
+NOTE 3 – GOING CONCERN
+ 
+The accompanying financial statements have been prepared
+assuming that the Company will continue as a going concern. During the nine months ended November 30, 2019 and 2018, the Company
+reported net income of $583,657 and a loss of $3,715,207, respectively, and had negative cash flows from operating activities of
+$490,578 and $1,902,151, respectively. During the three-months ended November 30, 2019, the Company recorded a non-recurring gain
+to other income on the Statement of Operations of approximately $1.9 million consisting of the cancellation of accounts payable
+of $0.3 million, cancellation of customer advances of $0.4 million and cancellation of unpaid wages and salaries of $1.5 million.
+In addition, approximately $1.0 million of unpaid compensation owed to a former CEO and a related party was cancelled and accounted
+for as a capital transaction and reclassified from accrued expense-related party to additional paid-in-capital. These amounts were
+incurred in prior years and were cancelled as the related statute of limitations periods have since expired. The Company reclassified
+in the three-months ended November 30, 2019 approximately $0.3 million related to the shares issued to the Company’s president
+in August 2019 as other expense (see Note 5).
+ 
+If the Company is unable to generate profits on a sustained
+basis and is unable to continue to obtain financing for its working capital requirements, it may have to curtail its business sharply
+or cease business altogether.
+ 
+Substantial additional capital resources will be required
+to fund continuing expenditures related to our research, development, manufacturing and business development activities. The Company’s
+continuation as a going concern is dependent upon its ability to generate sufficient cash flow to meet its obligations on a timely
+basis, to retain its current financing, to obtain additional financing, and ultimately to attain profitability.
+ 
+The accompanying consolidated financial statements
+have been prepared in conformity with accounting principles generally accepted in the United States of America, which contemplate
+continuation of the Company as a going concern. The consolidated financial statements do not include any adjustments relating to
+the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that could result
+from the outcome of this uncertainty.
+ 
+Beginning with the second quarter of fiscal year
+2020, we increased operations of our AuraGen®/VIPER business and during the second and third quarters of
+fiscal 2020, the Company recognized approximately $745,000 in revenue as compared to approximately $39,000 of revenue in the
+nine-month period ended November 30, 2018. We plan to lease or acquire a new facility of approximately 50,000 square feet to
+support operations sometime during the next six months.
+ 
+
+6
+ 
+
+ 
+NOTE 4 – NOTES PAYABLE
+ 
+Notes payable consisted of the following:
+ 
+
+ 
+
+ 
+
+
+7
+ 
+
+
+ 
+DEMAND PROMISSORY NOTES
+ 
+The Demand Promissory Notes
+are six individual notes issued in 2015 that are payable on demand with an interest rate of 10% per annum. At February 28, 2019,
+the principal amount of each note and the person/entity they are payable to are as follows: $10,000 Mr. Zeitlin, a former director
+of the Company; $30,000 Mr. Sook; $461,537 Mr. Macleod, a former president of the Company; $4,500 Mr. Howsmon, a former director
+of the Company; $4,500 El Pais, an entity controlled by Salvador Diaz, a current director of the Company (see Note 8). In November
+2019, the principle and accrued interest owed to Messrs. Howsmon and Diaz, respectively, in the amounts of $4,500 and $2,079, respectively,
+were settled by the issuance of 32,895 shares of common stock to each person by applying a price of $0.20 per share.
+ 
+In February 2018, the Company
+issued 192,641 shares of its common stock to Steven Veen in satisfaction of $267,000 in debt. Despite this issuance, Mr. Veen claims
+to continue to be entitled to repayment of the $267,000 debt. Mr. Veen has, to-date, not surrendered the shares issued to him in
+fulfillment of the debt he claims to be still owed and continues to own the 192,641 shares as of the date of this filing. The Company’s
+new management team is in the process of investigating the circumstances surrounding Mr. Veen.
+ 
+CONVERTIBLE DEBT
+ 
+Kenmont Capital Partners
+ 
+On May 7, 2013, the Company transferred 4 notes payable
+with a total principal value of $1,000,000 together with accrued interest, and consulting fees to a senior secured convertible
+note with a principal value of $1,087,000 (“New Kenmont Note”) and warrants to Kenmont Capital Partners LP. The New
+Kenmont Note had a 1-year maturity date and was convertible into shares of common stock at the conversion price of $0.75 per share.
+The warrants were subsequently exercised. The Company recorded $342,020 as a discount, which has been fully amortized. There is
+a remaining principle balance of $549,954 as of November 30, 2019.
+ 
+LPD Investments
+ 
+On May 7, 2013, the Company transferred 2 note payables
+with a total principal value of $550,000 together with accrued interest to a senior secured convertible note with a principal value
+of $558,700 (“New LPD Note”) and warrants to LPD Investments, Ltd. The New LPD Note had a 1-year maturity date and
+was convertible into shares of common stock at the conversion price of $0.75 per share. The warrants were subsequently exercised.
+The Company recorded $175,793 as a discount, which has been fully amortized. There is a remaining principle balance of $163,677
+as of November 30, 2019.
+ 
+Guenther
+ 
+On May 7, 2013, the Company entered into an agreement
+with an individual, Mr. Guenther, for the sale of $750,000 of secured convertible note payable (the “Note”) and warrants.
+The Note had a 1-year maturity date and was convertible into shares of common stock at the conversion price of $0.75 per share.
+The warrants entitle the holder to acquire 1,000,000 shares and have an initial exercise price of $0.75 per share and have a 7-year
+term. The Company recorded $235,985 as a discount, which has been fully amortized. There is a remaining principle balance of $232,194
+as of November 30, 2019.
+ 
+Dresner and Lempert
+ 
+On June 20, 2013, the Company entered into an agreement
+with two individuals, Mr. Dresner and Mr. Lempert, a current board member, for the sale of $200,000 of secured convertible notes
+payable (the “Notes”) and warrants. The Notes had a 1-year maturity date and were convertible into shares of common
+stock at the conversion price of $0.50 per share. The warrants were subsequently exercised. The Company recorded $39,152 as a discount,
+which has been fully amortized. There is a remaining principle balance of $59,506 as of November 30, 2019. On November 27, 2019,
+the principle amount owed to Mr. Lempert of $18,676 and accrued interest of $1,825 were settled by the issuance of 102,503 shares
+of common stock to Mr. Lempert at the price of $0.20 per share (see Note 8).  
+ 
+Abdou and Abdou
+ 
+On June 20, 2013, the Company entered into an agreement
+with two individuals, Mr. M. Abdou and Mr. W. Abdou, for the sale of $125,000 of secured convertible notes payable (the “Notes”)
+and warrants. The Notes had a 1-year maturity date and were convertible into shares of common stock at the conversion price of
+$0.50 per share. The warrants were subsequently exercised. The Company recorded $24,470 as a discount, which has been fully amortized.
+There is a remaining balance of $125,000 as of February 28, 2018. In 2016, the Company and the Company’s former Chief Executive
+Officer, Melvin Gagerman, were named among several other defendants in a lawsuit filed by the Messrs. Abdou demanding repayment
+of loans totaling $125,000 plus accrued interest and exemplary damages. In January 2017, the Company entered into an agreement
+with all secured creditors other than Mr. W. Abdou and Mr. M. Abdou. In September 2018 the court entered a judgment of approximately
+$235,000 plus legal fees in favor of the Messrs. Abdou. The Company subsequently appealed this judgment and, in September 2019,
+reached a settlement agreement with these creditors for an aggregate principle amount of approximately $315,000. There is a remaining
+principle balance of approximately $245,000 as of November 30, 2019.
+ 
+ 
+
+
+8
+ 
+
+
+ 
+Kopple Notes
+ 
+On August 19, 2013, the Company entered into an agreement
+with Robert Kopple, a former member of its Board of Directors for the sale of $2,500,000 of convertible notes payable (the “Kopple
+Notes”) that were subsequently adjusted in 2014 to $2,000,000 of convertible notes and related warrants. The Kopple Notes
+carry a base interest rate of 9.5%, have a 4-year maturity date and are convertible into shares of common stock at the conversion
+price of $3.50 per share. The warrants were subsequently exercised. The Company recorded $667,118 as a discount, which has been
+fully amortized. The Company also entered into a demand note payable with this individual in the amount of $20,000, which bears
+interest at a rate of 5%. As of November 30, 2019, the balance of the $2,000,000 note including interest is $3,849,978, and the
+balance of the demand note payable including interest is $23,173. The total owed under these two notes is $3,873,151.
+ 
+7% Convertible Promissory Notes:
+ 
+Dalrymple – August 2012
+ 
+On August 10, 2012 the Company entered into an
+agreement with an individual, Mr. Dalrymple, for the sale of $1,000,000 of unsecured Convertible Promissory Note. The Convertible
+Promissory Note balance together with all accrued interest thereon was due and payable on August 10, 2017 and the annual interest
+rate was 7% per annum and was due to be repaid 5 years from the closing date.   The Company recorded $310,723 as a debt
+discount, which will be amortized over the life of the note. There is a remaining principle balance of $264,462 as of November
+30, 2019
+ 
+Dalrymple – October 2012
+ 
+On October 2, 2012 the Company entered into an
+agreement with an individual, Mr. Dalrymple, for the sale of $500,000 of unsecured Convertible Promissory Note. This Convertible
+Promissory Note balance together with all accrued interest thereon was due and payable on October 2, 2017 and the annual interest
+rate was 7% per annum and was due to be repaid 5 years from the closing date. The Company recorded $137,583 as a debt discount,
+which will be amortized over the life of the note. There is a remaining principle balance of $133,178 as of November 30,
+2019.
+ 
+On January 30, 2017 the Company entered into an agreement
+entitled First Amendment to Transaction Documents with five of seven secured creditors holding a security interest in all of the
+Company’s assets except for its patents and other intellectual properties. These creditors are the seven listed above under
+Convertible Debt and include the following: Kenmont Capital Partners, LPD Investments, Guenther, Dresner, Lempert and Mr. M. Abdou
+and Mr. W. Abdou. All of the creditors entered into the January 30, 2017 agreement with the exception of the Messrs. Abdou. The
+original agreement dated May 7, 2013 provided that if at least 75% of the stock issuable upon conversion of the convertible notes
+votes to amend the agreement and/or waive any conditions or defaults, then any such amendments or waivers shall be binding on all
+secured creditors. The five secured creditors signing the amendment total in excess of 95% of the issuable stock upon conversion
+and, therefore the agreement is binding on all seven of the secured creditors. The agreement provided that all accrued and unpaid
+interest will be added to the principal amount. The amended note provided for no interest from November 1, 2016 to February 14,
+2018, the date at which the 1-for-7 reverse stock split became effective at which time 80% of the total debt including accrued
+interest was converted into shares of common stock and a new five year 5% per annum convertible note was issued for the remainder.
+The new amended and restated senior convertible notes have a maturity date of January 30, 2022. The five creditors and the Company
+entered into a Second Amendment to Transaction Documents on March 14, 2017 and a Third Amendment to Transaction Documents on April
+8, 2017, both of which extended the required date of the stockholder approval of the 1-for-7 reverse stock split, which was completed
+on February 14, 2018. The amended and restated senior convertible notes also require the Company to make a “Required Cash
+Payment” as defined in the agreement if the Company receives at least $4,000,000 in aggregate gross proceeds from the sale
+of equity securities (including securities convertible into equity securities) of the Company in one or a series of related transactions.
+The Required Cash Payment is equal to the current outstanding balance of the notes, which was $1,092,542 at November 30, 2019,
+plus any outstanding accrued interest. 
+ 
+
+9
+ 
+
+
+ 
+NOTE 5 – ACCRUED EXPENSES
+ 
+Accrued expenses consisted of the following:
+ 
+
+ 
+Accrued payroll and related expenses consist primarily
+of salaries and vacation time accrued but not paid to employees due to our lack of financial resources. During the third quarter
+of fiscal 2020, approximately $1.5 million of unpaid salaries and related expenses were reclassified as other income on the statement
+of operations for the three-months ended November 30, 2019 as the related statute of limitations periods have expired. Also, on
+August 28, 2019, the board approved a stock issuance of 1,030,385 to Cipora Lavut, the Company’s President, at a fair value
+of $329,723, for full satisfaction of prior amounts owed to her for unpaid salaries up to August 28, 2019. This amount was recorded
+as a reduction of accrued payroll expense in the second quarter but determined in the third quarter of 2020 to be an offset (other
+expense) to the gain amount of $1.5 million.
+ 
+NOTE 6 – INVENTORY 
+ 
+During fiscal 2019 and at February 28, 2019, the Company
+fully reserved its usable inventory on the basis that production and revenues during the fiscal years 2017 to 2019 were nil and
+future production requirements were uncertain. During fiscal 2020, the Company has increased production of its AuraGen product
+and has generated approximately $745,000 in current year revenues. As a result, the Company recognized approximately $53,000 of
+inventory on its balance sheet as of November 30, 2019 consisting of $44,500 of raw materials, $4,600 of work in process and $3,900
+of finished goods inventory.
+ 
+NOTE 7 – SHAREHOLDERS’ EQUITY (restated)
+ 
+Common Stock
+ 
+During the nine months ended November 30, 2019, the
+Company issued 2,581,875 shares of common stock for $658,737, of which 1,030,385 was issued in satisfaction of amounts owed to
+Cipora Lavut of $329,723, 168,475 shares were issued to three persons in settlement of $33,660 of debt principle and accrued interest,
+and 1,383,015 shares and 10,000 warrants were issued for cash in the amount of $295,354. The aggregate 10,000 warrants were issued
+to three investors with immediate vesting, an exercise price of $1.40, and a 5-year term. In October 2019, 1,065,051 shares previously
+issued in error to a former debtholder were cancelled.
+ 
+During the nine-months ended November 30, 2019, the
+Company cancelled an obligation to pay Melvin Gagerman, a former officer of the Company and a related party, approximately $1.0
+million in unpaid compensation due to expiration of the statute of limitations. Accordingly, the Company accounted for this transaction
+as a capital transaction and reclassified the amount to additional paid-in-capital.
+ 
+During the six months ended August 31, 2018 (restated),
+the Company issued 7,364,735 shares of common stock, valued at $2,280,964, in fulfillment of a contractual obligation owed to BetterSea,
+LLC. The number of shares issued was based on the then-outstanding closing quote of the stock. The issuance of the shares was previously
+reported by the Company. The Company also paid $20,000 in legal fees related to legal expense associated with the Company’s
+delays in the issuance of the stock.
+ 
+During the nine months ended November 30, 2018, the
+Company issued 742,857 warrants to a member of its board of directors. The warrants have a term of five years and an exercise price
+of $1.40. The Company recorded an expense of $312,072 for the issuance of these warrants. During the nine months ended November
+30, 2018, the Company re-priced to $1.40 all outstanding employee stock options and warrants that had a previous exercise price
+greater than $1.40. The Company recorded an expense of $105,352 as a result of the re-pricing.
+ 
+
+10
+ 
+
+
+ 
+Employee Stock Options
+ 
+The 2006 Employee Stock Option Plan
+ 
+In September 2006, our Board of Directors adopted the
+2006 Employee Stock Option Plan, subject to shareholder approval, which was obtained at a special shareholders meeting in 2009.
+Under the 2006 Plan, the Company may grant options for up to the greater of Three Million (3,000,000) or 10% of the number of shares
+of the Common Stock of Aura from time to time outstanding. The shares of Common Stock available under the 2006 Plan was increased
+to the greater of Ten Million shares (10,000,000) or 15% of the number of shares of Common Stock of Aura from time to time outstanding
+at the October 2011 shareholders meeting. The exercise price of each option shall be at least equal to the fair market value of
+such shares on the date of grant. The term of the options may not be greater than ten years, and they typically vest over a three-year
+period. No options were issued during the nine-month period ended November 30, 2019. Activity in the plan for the nine-month period
+ended November 30, 2019 is as follows:
+ 
+
+ 
+Information regarding the options outstanding and exercisable
+as of November 30, 2019 follows:
+ 
+
+ 
+The 2011 Director and Executive Officers Stock Option
+Plan
+ 
+In October 2011 shareholders approved the 2011 Director
+and Executive Officers Stock Option Plan at the Company’s annual meeting. Under the 2011 Plan, the Company may grant options
+for up to 15% of the number of shares of Common Stock of the Company from time to time outstanding. Pursuant to this plan, the
+Board or a committee of the Board may grant an option to any person who is elected or appointed a director or executive officer
+of the Company. The exercise price of each option shall be at least equal to the fair market value of such shares on the date of
+grant. The term of the options may not be greater than five years. Activity in the plan for the nine-month period ended November
+30, 2019 is as follows:
+ 
+Warrants
+ 
+Activity in issued and outstanding warrants is as follows:
+ 
+
+ 
+
+
+11
+ 
+
+
+ 
+Information regarding the warrants outstanding and
+exercisable as of November 30, 2019 follows 
+ 
+
+ 
+NOTE 8 – RELATED PARTIES TRANSACTIONS
+ 
+Breslow Note
+ 
+On January 24, 2017 the Company
+entered into a Debt Refinancing Agreement with Mr. Breslow, a former Director of the Company. Pursuant to the agreement, both Mr.
+Breslow and the Company acknowledged that total debt owed to Mr. Breslow was $23,872,614 including $8,890,574 of accrued interest.
+Mr. Breslow agreed to cancel and forgive all interest due, waive all events of default and sign a new five-year convertible note
+in the amount of $14,982,041 providing for no interest for nine months and interest of 5% per annum thereafter payable monthly
+in arrears. The note also provides various default provisions. In accordance with the agreement, on February 14, 2018, the effective
+date of the 1-for-7 reverse stock split, $11,982,041 of the note was converted into 7,403,705 shares of common stock and the then
+accrued interest of $9,388,338 was forgiven. A new $3,000,000 five-year note representing the remaining balance was entered into.
+The note bears interest at a rate of 5% per annum payable monthly in arrears.
+ 
+Kopple Note
+ 
+At November 30, 2019, the
+balance in notes payable and accrued interest-related party, current of $6,551,591, consists primarily of the Kopple (a former
+Board member) note of $6,415,109 and the Gagerman note of $136,482 (see below). The Kopple note has a principle balance of $3,587,322
+plus accrued interest of $2,827,787.. At November 30, 2019, the balance in convertible notes payable and accrued interest-related
+party consists of $2,000,000 of unsecured convertible notes payable plus accrued interest of $1,849,978 and an unsecured convertible
+note of $20,000 plus accrued interest of $3,173 to Mr. Kopple.
+ 
+Gagerman Note
+ 
+The notes payable and accrued
+interest-related party, currrent balance also includes $82,000 of unsecured notes payable plus accrued interest of $54,482 owed
+to Melvin Gagerman, the Company’s former CEO and CFO, pursuant to a demand note entered into on April 5, 2014. See note 7
+for disclosures with respect to cancellation of Gagerman’s unpaid compensation of $1.0 million.
+ 
+Other Related Party Transactions
+ 
+In November 2019, two members
+of the board of directors, Messrs. Diaz-Verson and Lempert, agreed to cancel their outstanding debt with the Company in the amounts
+of $6,579 and $20,500, respectively, in exchange for 32,895 and 102,503 shares of common stock at a conversion price of $0.20 per
+share. On the dates of the exchange, November 26 and November 27, 2019, respectively, the closing prices of the Company’s
+common stock was $0.21 and $0.22 per share, respectively (see Note 4). The loss on extinguishment of debt of approximately $2,700
+was recorded as part of additional paid-in-capital.
+ 
+NOTE 9 – COMMITMENTS &
+CONTINGENCIES
+ 
+Leases
+ 
+Our facilities consist of approximately 20,000 square
+feet in Stanton, California and an additional storage facility in Santa Clarita, California. The Stanton facility is used for some
+assembly and testing of AuraGen®/VIPER systems and is rented on a month-to-month basis. The rent for the Stanton
+facility is $10,000 per month and the storage facility is an additional $5,000 per month, both on a month-to-month basis. Our current
+Stanton facility is not sufficient to support the expected operations and the Company is evaluating new facility options to be
+used for limited production, testing, warehousing and engineering, as well as needed office space for support staff. The Company
+also rents temporary storage space on a month-to-month basis. Commencing in February 2019, the Company began renting approximately
+300 square feet of office space in Irvine, California at a cost of $ 2,350 per month on a month-to-month basis. In July 2019, the
+Company ceased renting this office space.
+ 
+
+
+12
+ 
+
+
+ 
+Following the adoption of Topic 842, Leases, as of
+the start of fiscal year 2020, the Company determined that there was no impact on its Condensed Financial Statements during the
+nine-month period ended November 30, 2019. The standard requires entities to evaluate all lease transactions including leases previously
+classified as operating leases, and, if required under Topic 842, a right-to-use asset and a corresponding lease liability may
+be recorded on the balance sheet in the period in which a lease commences.
+ 
+Joint Venture
+ 
+In March 2017 the Company entered into a joint venture
+with a Chinese partner to form Jiangsu Shengfeng Mobile Power Technology Co., Ltd. (“Jiangsu Shengfeng”) to address
+the Chinese market. Under the Jiangsu Shengfeng joint venture agreement, Aura owns 49% of the venture and our Chinese partner owns
+51%. The Chinese partner is to contribute approximately $9.25 million to the venture –– principally in the form of
+facilities and equipment as wells as approximately $500,000 in cash. The Company contributed to the venture in the form of $250,000
+in cash as well as a limited license to the joint venture to manufacture, sell and service the AuraGen® products
+within China. The limited license sold to the Jiangsu Shengfeng joint venture, however, does not permit Jiangsu Shengfeng to manufacture
+the AuraGen® rotor; rather, the joint venture is required to purchase all rotor subassemblies as well as certain
+software elements directly from the Company. Jiangsu Shengfeng’s board of directors consists of three members appointed by
+the Company and three appointed by our Chinese partner; Jiangsu Shengfeng’s CEO is appointed by our Chinese partner while
+its CFO and director for quality assurance and control are appointed by Aura.
+ 
+In addition, Jiangsu Shengfeng is required to purchase
+a minimum of $1,250,000 of product from the Company supported by letters of credit for distribution until their factory is built,
+equipment installed, and staff hired and properly trained by Aura personnel. During fiscal 2019, Jiangsu Shengfeng placed a $1,000,000
+order with the Company including a $700,000 advance payment. Aura has also committed to supply personnel for nine months at no
+cost other than to be reimbursed for travel, room and board. This commitment has been fulfilled and Aura is under no further obligation
+to supply personnel at no cost. The agreement was subject to the approval of the Chinese Government which was received in April
+2017. Mr. Song, the majority shareholder of the Chinese partner of the joint venture, invested $2,000,000 in Aura’s common
+shares at a price of $1.40 per share. On November 20, 2019, the Company reached a preliminary agreement with Jiangsu Shengfeng,
+the Company’s Chinese joint venture regarding the return of $700,000 previously advanced to the Company in September 2018
+and previously recorded as a customer advance on the balance sheet as of February 28, 2019. The preliminary agreement reached consists
+of a non-interest-bearing promissory note and a payment plan pursuant to which the $700,000 is paid over a 12-month period beginning
+March 15, 2020 and February 15, 2021. In the balance sheet as of November 30, 2019, the amount of $700,000 was reclassified to
+notes payable.
+ 
+Contingencies
+ 
+We are subject to the legal proceedings and claims
+discussed below as well as certain other legal proceedings and claims that have not been fully resolved and that have arisen in
+the ordinary course of business. Our management evaluates our exposure to these claims and proceedings individually and in the
+aggregate and evaluates potential losses on such litigation if the amount of the loss is estimable and the loss is probable. However,
+the outcome of legal proceedings and claims brought against the Company is subject to significant uncertainty. Although management
+considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against the Company
+for amounts in excess of management’s expectations, the Company’s consolidated financial statements for that reporting
+period could be materially adversely affected. The Company settled certain matters subsequent to year end that did not individually
+or in the aggregate have a material impact on the Company’s financial condition or operating results.
+ 
+In 2017, the Company’s former COO was awarded
+approximately $238,000 in accrued salary and related charges by the California labor board. The Company believes that this award
+does not reflect the amount owed which is significantly lower and is exploring all its options and available remedies and is working
+toward an offer to settle this matter.
+  
+The Company is presently engaged in a dispute with
+one of its former directors, Robert Kopple, relating to approximately $10 million and approximately 3.15 million warrants which
+Mr. Kopple claims to be owed to him and his affiliates by the Company. In July 2017, Mr. Kopple filed suit against the Company
+as well as against current director Mr. Diaz-Verson and former directors Mr. Breslow and Mr. Howsmon, as well as Mr. Gagerman,
+the former CEO (not a director) in connection with these allegations. In 2018, the Court sustained demurrers by Mr. Diaz-Verson,
+Mr. Breslow, Mr. Howsmon and Mr. Gagerman and as a result of these successful demurrers, all four of these defendants have been
+dismissed from the suit. While the Company believes that it has certain valid defenses in these matters, the Company is currently
+in settlement discussions with Mr. Kopple. 
+ 
+
+
+13
+ 
+
+
+ 
+In April 2018, the Company filed suit against its former
+counsel, Kilpatrick Townsend & Stockton LLP alleging various acts of malpractice and breach of fiduciary duty committed by
+the firm in connection with its representation of Aura. In June 2018, Kilpatrick Townsend & Stockton LLP filed a cross-complaint
+against the Company claiming in excess of $400,000 in allegedly unpaid legal fees. In January 2019, the Company reached a settlement
+with Kilpatrick Townsend & Stockton LLP, pursuant to which, among other things, Kilpatrick Townsend & Stockton LLP agreed
+to dismiss its cross-complaint and waive all unpaid legal fees. The action and the cross-complaint were both subsequently dismissed.
+ 
+In February 2018, the Company failed to issue shares
+of stock contractually owed to BetterSea, LLC. On August 15, 2018, 7,364,735 restricted shares were issued in fulfillment of this
+contractual obligation based on the then-outstanding closing quote of the stock. The issuance of the shares was previously reported
+by the Company. The Company also paid $20,000 in legal fees related to legal expense associated with the Company’s delays
+in the issuance of the stock.
+ 
+In May 2018, Shelley Scholnick dba JB Transporters
+brought suit against the Company claiming ongoing fees in excess of $52,000 owed for the storage of the Company’s property.
+Notably, in June 2017, the Company had brought suit against J.B. Moving & Delivery, a business operated and controlled by a
+relative of Scholnick, Jacob Binstok, for damages suffered by the Company as a result of the defendant’s improper storage
+of the Company’s property and improper refusal to return such property. In 2018, the Company successfully received a judgment
+against J.B. Moving & Delivery in the amount of approximately $114,000. The Company disputes that any amount is now owed to
+Scholnick.
+ 
+On March 26, 2019, various stockholders of the Company
+controlling a combined total of more than 27.5 million shares delivered a signed written consent to the Company removing Ronald
+Buschur as a member of the Company’s Board and electing Cipora Lavut as a director of the Company.  On March 27, 2019,
+those same stockholders delivered a further signed written consent to the Company removing William Anderson and Si Ryong Yu as
+members of the Company’s Board and electing Robert Lempert and David Mann as directors of the Company. These written consents
+represented a majority of the outstanding shares of the Company’s common stock as of March 26, 2019 and March 27,
+2019, respectively. Because of Aura’s refusal to recognize the legal effectiveness of the consents, on April 8, 2019
+the stockholders filed suit in the Court of Chancery of the State of Delaware pursuant to Section 225 of the Delaware General
+Corporations Law, seeking an order confirming the validity of the consents and declaring that Aura’s Board consists of Ms. Lavut,
+Mr. Mann, Mr. Lempert, Mr. Douglas and Mr. Diaz-Versón, Jr. On July 8, 2019 the Court of Chancery
+entered final judgment in favor of the stockholder plaintiffs, confirming that (a) Ronald Buschur, Si Ryong Yu and William Anderson
+had been validly removed by the holders of a majority of the Company’s outstanding stock acting by written consent (b) Ms.
+Lavut, Mr. Mann and Mr. Lempert had been validly elected by the holders of a majority of the Company’s outstanding stock
+acting by written consent, and (c) the Company’s Board of Directors validly consists of Cipora Lavut, David Mann, Robert
+Lempert, Gary Douglas and Salvador Diaz-Versón, Jr.
+ 
+
+14
+ 
+
+
+ 
+NOTE 10 – FINANCIAL STATEMENT
+RESTATEMENTS
+ 
+The Company issued an amended report on Form 10-K/A
+on October 24, 2019 for the fiscal year ended February 28, 2019 that corrected misstatements of its financial statements as of
+February 28, 2019. The following tables describe one of those misstatements, which should have been recorded in the nine-months
+ended November 30, 2018.
+ 
+
+
+ 
+AURA
+SYSTEMS, INC.
+STATEMENT
+OF OPERATIONS (RESTATED)
+FOR
+THE NINE-MONTHS ENDED NOVEMBER 30, 2018
+  
+
+ 
+
+15
+ 
+
+
+
+ 
+AURA
+SYSTEMS, INC.
+STATEMENT
+OF CASH FLOWS (RESTATED)
+FOR
+THE NINE-MONTHS ENDED NOVEMBER 30, 2018
+  
+
+ 
+
+16
+ 
+
+ 
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+Forward Looking Statements
+ 
+This Report contains forward-looking statements within
+the meaning of the federal securities laws. Statements other than statements of historical fact included in this Report, including
+the statements under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations,”
+regarding future events or prospects are forward-looking statements. The words “approximates,” “believes,”
+“forecasts,” “expects,” “anticipates,” “estimates,” “intends,” “plans”
+“would,” “could,” “should,” “seek,” “may,” or other similar expressions
+in this Report, as well as other statements regarding matters that are not historical fact, constitute forward-looking statements.
+We caution investors that any forward-looking statements presented in this Report are based on the beliefs of, assumptions made
+by, and information currently available to, us. Such statements are based on assumptions and the actual outcome will be affected
+by known and unknown risks, trends, uncertainties and factors that are beyond our control or ability to predict. Although we believe
+that our assumptions are reasonable, they are not guarantees of future performance and some will inevitably prove to be incorrect.
+As a result, our actual future results may differ from our expectations, and those differences may be material. Accordingly, investors
+should use caution in relying on forward-looking statements to anticipate future results or trends.
+ 
+Some of the risks and uncertainties that may cause
+our actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements
+include the following:
+ 
+
+
+ 
+●
+Our ability to generate positive cash flow from operations;
+
+ 
+
+
+ 
+●
+Our ability to obtain additional financing to fund our operations;
+
+ 
+
+
+ 
+●
+The impact of economic, political and market conditions on us and our customers;
+
+ 
+
+
+ 
+●
+The impact of unfavorable results of legal proceedings;
+
+ 
+
+
+ 
+●
+Our exposure to potential liability arising from possible errors and omissions, breach of fiduciary duty, breach of duty of care, waste of corporate assets and/or similar claims that may be asserted against us;
+
+ 
+
+
+ 
+●
+Our ability to compete effectively against competitors offering different technologies;
+
+ 
+
+
+ 
+●
+Our business development and operating development; 
+
+ 
+
+
+ 
+●
+Our expectations of growth in demand for our products; and
+
+ 
+
+ 
+We do not intend to update or revise any forward-looking
+statements, whether as a result of new information, future events or otherwise except to the extent required by law. You should
+interpret all subsequent written or oral forward-looking statements attributable to us or persons acting on our behalf as being
+expressly qualified by the cautionary statements in this Report. As a result, you should not place undue reliance on these forward-looking
+statements.
+ 
+
+
+17
+ 
+
+Overview
+ 
+Beginning with fiscal 2017 through 2018, we reduced
+our engineering, manufacturing, sales, and marketing activities to focus on renegotiating numerous financial obligations and minimizing
+expenditures while we attempted to raise additional funding and pursue some initial engineering activities 
+ 
+In fiscal 2018, we successfully eliminated approximately
+68% of our total indebtedness. Specifically, our secured creditors converted approximately $5.73 million of secured debt into approximately
+4.1 million shares of our common stock. The converted debt represented approximately 80% of the total secured debt of the Company.
+The balance of the secured debt (approximately $960,000) is to be paid to the secured creditors in cash if we raise at least $4.0
+million in proceeds through new equity offerings in one or a series of related offerings. Additionally, in fiscal 2018, approximately
+$12.77 million of unsecured debt was converted into approximately 9.3 million shares of the Company’s common stock and approximately
+$12.3 million of unsecured debt was forgiven. In total, during fiscal 2018, we eliminated a total of approximately $30.23 million
+of debt.
+ 
+As of the date of this filing, Robert Kopple, our former
+Vice Chairman of the Board, is the only significant unsecured note holder that has not agreed to restructure his debt. Mr. Kopple
+claims that he and his affiliates are owed approximately $10.3 million on terms significantly preferable to other similarly situated
+unsecured creditors. We dispute Mr. Kopple’s claims. See “Part II-Other Information, Item 1. Legal Proceedings”
+included elsewhere in this Quarterly Report on Form 10-Q for information regarding the dispute with Mr. Kopple regarding these
+transactions. Mr. Kopple has not accepted our numerous offers to restructure this debt.
+ 
+During the three-months ended November 30, 2019, we
+recorded a one-time gain to other income on the Statement of Operations of approximately $1.9 million consisting of the cancellation
+of accounts payable of $0.3 million, cancellation of customer advances of $0.4 million and cancellation of unpaid wages and salaries
+of $1.5 million. In addition, $1.0 million of unpaid compensation owed to a former CEO and a related party was cancelled and accounted
+for as a capital transaction and reclassified from accrued expense-related party to additional paid-in-capital. These amounts were
+incurred in prior years and were cancelledas the related statue of limitation periods have since expired. The Company reclassified
+in the three-months ended November 30, 2019 approximately $0.3 million related to the shares issued to the Company’s president
+in August 2019 as other expense (see Notes 3 and 7 to the Condensed Financial Statements).
+ 
+On February 14, 2018, we effectuated a one-for-seven
+reverse stock split.
+ 
+In fiscal 2019, we began increasing our engineering
+and manufacturing activities. We utilized contractors for these services in order to minimize our expense while we continued to
+pursue new sources of financing. In July 2019, we began significantly increasing our sales, engineering, manufacturing and marketing
+activities under our new management team.
+ 
+Our business is based on the exploitation of our patented
+mobile power solution known as the AuraGen® for commercial and industrial applications and the VIPER for military
+applications. Our business model consists of two major components; (i) sales and marketing, (ii) design and engineering. 
+ 
+(i) Our sales and marketing approaches are composed
+of direct sales in North America and the use of agents, distributors and joint ventures for sales internationally. In North America,
+our primary focus is in (a) mobile exportable power applications, (b) transport refrigeration, and (c) U.S. Military applications.
+ 
+(ii) The second component of our business model is
+focused on the design of new products and engineering support for the sales activities described above. The engineering support
+consists of the introduction of new features for our AuraGen® solution such as higher power, different voltages,
+three phase options, shore power systems, higher current solutions as well as interface kits for different platforms. Afterreducing
+our engineering, manufacturing, sales, and marketing activities to focus on renegotiating numerous financial obligations in fiscal
+2018 and 2019, we expect modest engineering activities budgeted at approximately $200,000 during the fiscal 2020 year.
+ 
+
+
+18
+ 
+
+Operations.
+ 
+During the first half of fiscal 2016, we significantly
+reduced operations due to lack of financial resources. During the second half of fiscal 2016, our operations were further disrupted
+when we were forced to move from our facilities in Redondo Beach, California to a smaller facility in Stanton, California. During
+fiscal years 2017 to 2019, the Company reduced its engineering, manufacturing, sales, and marketing activities to focus on renegotiating
+numerous financial obligations. During this time, our agreements with numerous customers, third party vendors, and organizations
+and entities material to the operation of the Company business were canceled, delayed or terminated. During fiscal 2018, we successfully
+restructured in excess of $30 million of debt. During fiscal 2019, we continued to address our financial needs, were able to ship
+a small quantity of product during fiscal 2019 and shipped a small amount to customers and maintained a small inventory of finished
+product. During the nine-months ended November 30, 2020, we increased production and recognized approximately $745,000 of revenue.
+Our marketing strategy during fiscal 2020 includes the following key activities:
+ 
+(i) One element of our business plan is focused on
+electric transport refrigeration. The market is well understood and both social and economic forces are providing an unprecedented
+opportunity to gain significant market share. Our immediate focus is on 20-k BTU/hr. midsize trucks and the 50-k BTU/hr. trailers.
+ 
+(ii) Another element of our business plan is focused
+on our mobile power solution for military applications around the globe.
+ 
+(iii) We also plan to seek joint venture opportunities
+similar to the agreement we entered in China to explore other international opportunities.
+ 
+Going Concern.
+ 
+Our independent auditor has expressed doubt about our
+ability to continue as a going concern and believes that our ability is dependent on our ability to implement our business plan,
+raise capital and generate revenues (see Note 3 to the Condensed Financial Statements). See Report of Independent Registered Public
+Accounting Firm on page F-1, together with the Company’s audited consolidated financial statements for the fiscal year ended
+February 28, 2019 on Form 10-K/A issued on October 24, 2019.
+ 
+Critical Accounting Policies and Estimates
+ 
+Our management’s discussion and analysis of our
+financial conditions and results of operations are based upon our consolidated financial statements, which have been prepared in
+accordance with accounting principles generally accepted in the United States of America. The preparation of financial statements
+requires management to make estimates and disclosures on the date of the financial statements. On an on-going basis, we evaluate
+our estimates, including, but not limited to, those related to revenue recognition. We use authoritative pronouncements, historical
+experience and other assumptions as the basis for making judgments. Actual results could differ from those estimates. We believe
+that the following critical accounting policies affect our more significant judgments and estimates in the preparation of our consolidated
+financial statements.
+ 
+Revenue Recognition
+ 
+We adopted Accounting Standards Codification (“ASC”)
+606. ASC 606, Revenue from Contracts with Customers, establishes principles for reporting information about the nature, amount,
+timing and uncertainty of revenue and cash flows arising from the entity’s contracts to provide goods or services to customers.
+The core principle requires an entity to recognize revenue to depict the transfer of goods or services to customers in an amount
+that reflects the consideration that it expects to be entitled to receive in exchange for those goods or services recognized as
+performance obligations are satisfied.
+ 
+We have assessed the impact of the guidance by performing
+the following five steps analysis: 
+ 
+Step 1: Identify the contract
+Step 2: Identify the
+performance obligations
+Step 3: Determine the
+transaction price
+Step 4: Allocate the
+transaction price
+Step 5: Recognize revenue
+
+
+19
+ 
+
+ 
+Inventory Valuation and Classification
+ 
+Inventories are valued at the lower of cost (first-in,
+first-out) or market, on a standard cost basis. We review the components of inventory on a regular basis for excess or obsolete
+inventory based on estimated future usage and sales. We have minimally operated and therefore have only produced minimal product
+since late 2015. As a result, while we believe that a portion of the inventory has value, we are unable to substantiate its demand
+and market value and as a result we elected to fully reserve our inventory it in its entirety as of February 28, 2019. During fiscal
+year 2020, we increased production and, accordingly, we have assigned a value of $53,000 to our physical and book inventory as
+of November 30, 2019.
+ 
+Stock-Based Compensation
+ 
+We account for stock-based compensation under the provisions
+of FASB ASC 718, “Compensation – Stock Compensation”, which requires the measurement of all share-based payments
+to employees, including grants of employee stock options, using a fair value-based method and the recording of such expense in
+the consolidated statements of operations.
+ 
+We account for stock option and warrant grants issued
+and vesting to non-employees in accordance with FASB ASC 505-50, “Equity Based Payments to Non-Employees”, whereas
+the fair value of the equity-based compensation is based upon the measurement date as determined at the earlier of either (a) the
+date at which a performance commitment is reached or (b) at the date at which the necessary performance to earn the equity
+instruments is complete.
+ 
+For the past, several years and in accordance with
+established public company accounting practice, we have consistently utilized the Black-Scholes option-pricing model to calculate
+the fair value of stock options and warrants issued as compensation, primarily to management, employees, and directors. The
+Black-Scholes option-pricing model is a widely-accepted method of valuation that public companies typically utilize to calculate
+the fair value of options and warrants that they issue in such circumstances.
+ 
+
+Results of Operations
+ 
+Nine-months ended November 30, 2019 compared to
+nine-months ended November 30, 2018
+ 
+Net revenues were $744,850 for the nine-months ended
+November 30, 2019 (the “Nine-Months FY2020”) compared to $39,274 for the nine-months ended November 30, 2018 (the “Nine-Months
+FY2019”), or an increase of 1,796% compared to the same period of fiscal 2019. During the second and third quarters of 2020,
+we delivered 116 generator units to a distribution customer as compared to 6 units in the same period in the prior year for a military
+application.
+ 
+Cost of goods sold were $147,752 in the Nine-Months
+FY2020 compared to $110,026 in the Nine-Months FY2019 resulting in a gross profit of $597,097 and a loss of $70,752, respectively,
+and gross margins of 80.0% and negative 180.2%, respectively. Gross profit and related gross margin for the Nine-Months FY2020
+shipments were high due to the utilization of inventory previously fully reserved. We do not expect gross margins above 80% to
+continue for shipments of generator units in future quarters as the availability of usable parts from fully reserved inventory
+will decline.
+ 
+Engineering, research and development expenses were
+$123,024 in the Nine-Months FY2020, compared to $302,293 in the Nine-Months FY2019, or a decline of 59.3%. Beginning fiscal 2021,
+we expect to increase spend of research and development to include additional technical personnel, test and evaluation components,
+capital equipment, larger space allocation to an annualized spend of $700,000.
+ 
+Selling, general and administrative expense was $915,934
+for the nine-months ended November 30, 2019 as compared to $2,797,711 during the comparable period of fiscal year 2019, or a decline
+of $1,881,777 (67%). During Nine-Months FY2019, we incurred an expense of $417,000 related to the repricing of warrants and options,
+$432,000 of higher legal expenses, higher consulting expense and administrative headcount cost.
+ 
+Net interest expense in the Nine-Months FY2020 increased
+$37,138 or 4%, to $885,731 from $848,593 in the Nine-Months FY2019.
+ 
+
+
+
+20
+ 
+
+
+ 
+Our net income for the Nine-Months FY2020 increased
+$4,298,864, or 116%, to $583,657 from a net loss of $3,715, 207 in the Nine-Months FY2019 due primarily to (i) the recording of
+a total of $1.9 million in gains, as compared to $0.3 million in the same period of fiscal 2018, on cancellation of accounts payables,
+customer advances and unpaid salaries and related expenses following expiration of applicable statute of limitations periods (ii)
+increased gross profit contribution of $0.7 million on higher levels of shipments and (iii) reduced operating expenses of $2.1
+million.
+ 
+Three months ended November 30, 2019 compared to
+three months ended November 30, 2018
+ 
+Net revenues were $396,775 for the three-months ended
+November 30, 2019 (the “Three-Months FY2020”) compared to $0 for the three-months ended November 30, 2018 (the “Three-Months
+FY2019”). During the second quarter of 2020, we delivered 64 generator units to a distribution customer as compared to 0
+units in the same period in the prior year.
+ 
+Cost of goods sold were $116,655 in the Three-Months
+FY2020 compared to $37,032 in the Three-Months FY2019 resulting in a gross profit of $281,119 and a loss of $37,032, respectively,
+and gross margins of 70.8% and a meaningless gross margin, respectively. Gross profit and related gross margin for the Three-Months
+FY2020 shipments were high due to the utilization of inventory previously fully reserved. We do not expect gross margins above
+80% to continue for shipments of generator units in future quarters as the availability of usable parts from fully reserved inventory
+will decline.
+ 
+Engineering, research and development expenses were
+$30,472 in the Three-Months FY2020, compared to $138,417 in the Three-Months FY2019, or a decrease of 78%
+ 
+Selling, general and administrative expense decreased
+$383,000 (48%) to $407,652 in the Three-Months FY2020 from $790,985 in the Three-Months FY2019. During Three-Months FY2020, we
+incurred less cost for administrative headcount and consultancy cost by $250,000 and $150,000 in reduced legal fees.
+ 
+Net interest expense in the Three-Months FY2020 decreased
+$11,293 or 4%, to $283,928 from $295,221 in the Three-Months FY2019.
+ 
+Net income for the Three-Months FY2020 increased $2,780,761,
+or 212%, to $1,470,317 from a loss of $1,310,444 in the Three-Months FY2019 due primarily to (i) the recording of a total of $1.9
+million in gains on cancellation of accounts payables, customer advances and unpaid salaries and related expenses following expiration
+of the applicable statute of limitation periods (ii) increased gross profit contribution of $0.3 million on higher levels of shipments
+(iii) reduced operating expenses of $0.5 million and (iv) other expense of $0.1 million.
+ 
+Liquidity and Capital Resources
+ 
+Net cash used in operations for the nine months ended
+November 30, 2019, was $490,578, a decrease of $1,411,573 from the comparable period in the prior fiscal year. Net cash provided
+by financing activities during the nine-months ended November 30, 2019, was $255,245 consisting of (i) cash proceeds from issuance
+of common stock of $295,245 partially and (ii) offset by $40,000 of principle payments on a note payable as compared to cash provided
+by financing of $1,175,000 in the same period of fiscal 2019 consisting of (i) proceeds from a subscription receivable of $1,225,000
+and offset by (ii) principle payment of $50,000 on a note payable. The cash flow generated from our operations to date has not
+been sufficient to fund our working capital needs, and we cannot predict when operating cash flow will be sufficient to fund working
+capital needs.
+ 
+There were no acquisitions of property and equipment
+during the Nine-Months FY2020 or the Nine-Months FY2019.
+ 
+Accrued expenses as of November 30, 2019 decreased
+$1.1 million to $1,066,260 from $2,197,129 as of February 28, 2019 due to the one-time cancellation of accounts payable, customer
+deposits and unpaid salaries and related expenses discussed above. Accrued expense-related party decreased by $1.0 million to $0
+associated with the cancellation of the related party obligation as discussed above.
+ 
+The Company had a deficit of $19.3 million in shareholders’
+equity as of November 30, 2019, compared to $21.6 million as of February 28, 2019 with the net change attributed to net income
+of approximately $1.6 million and the issuance of shares of $0.7 million.
+ 
+In the past, in order to generate liquidity we have
+relied upon external sources of financing, principally equity financing and private indebtedness. We have no bank line of credit
+and require additional debt or equity financing to fund ongoing operations.
+ 
+The issuance of additional shares of equity in connection
+with any such financing could dilute the interests of our existing stockholders, and such dilution could be substantial. If we
+cannot raise needed funds, we would also be forced to make further substantial reductions in our operating expenses, which could
+adversely affect our ability to implement our current business plan and ultimately our viability as a company. 
+ 
+
+
+21
+ 
+
+ 
+
+ITEM 3. Quantitative and Qualitative Disclosures
+About Market Risk
+ 
+As a smaller reporting company, we are not required
+to provide disclosure under this Item 3.
+ 
+ITEM 4. Controls and Procedures 
+ 
+Evaluation of Disclosure Controls and Procedures
+ 
+The Company maintains disclosure controls and procedures
+designed to ensure that information required to be disclosed in reports filed under the Securities Exchange Act of 1934, is recorded,
+processed, summarized and reported within the specified time periods. For the last 3 fiscal years, these control and procedures
+broke down due to insufficient capital to maintain such controls and procedures. Disclosure controls and procedures include, without
+limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in the reports
+that it files or submits under the Securities Exchange Act of 1934 is accumulated and communicated to its management, including
+its principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely
+decisions regarding required disclosure. As of the end of the period covered by this report, the Company’s management evaluated,
+with the participation of the Company’s Principal Executive Officer and Chief Financial Officer, the effectiveness of the
+Company’s disclosure controls and procedures. Based on the evaluation, the Company’s Principal Executive Officer and
+Chief Financial Officer concluded that these controls and procedures were ineffective as of the end of the period covered by this
+report in ensuring that information requiring disclosure is recorded, processed, summarized and reported within the time periods
+specified by the SEC’s rules and forms. The Company continues to remediate the findings contained in our Annual Report on
+Form 10-K/A, for the fiscal year ended February 28, 2019, issued on October 24, 2019.
+ 
+Changes in Internal Control over Financial Reporting
+ 
+There have been no other changes in our internal control
+over financial reporting during our fiscal quarter ended November 30, 2019, not previously identified in our Annual Report on Form
+10-K/A, for the fiscal year ended February 28, 2019 and issued on October 24, 2019 which have materially affected or are reasonably
+likely to materially affect our internal control over financial reporting.
+
+
+22
+ 
+
+  
+PART II - OTHER INFORMATION
+ 
+ITEM 1. Legal Proceedings
+ 
+We are subject to the legal proceedings and claims
+discussed below as well as certain other legal proceedings and claims that have not been fully resolved and that have arisen in
+the ordinary course of business. Our management evaluates our exposure to these claims and proceedings individually and in the
+aggregate and evaluates potential losses on such litigation if the amount of the loss is estimable and the loss is probable. However,
+the outcome of legal proceedings and claims brought against the Company is subject to significant uncertainty. Although management
+considers the likelihood of such an outcome to be remote, if one or more of these legal matters were resolved against the Company
+for amounts in excess of management’s expectations, the Company’s consolidated financial statements for that reporting
+period could be materially adversely affected. The Company settled certain matters subsequent to year end that did not individually
+or in the aggregate have a material impact on the Company’s financial condition or operating results. 
+ 
+In 2017, the Company’s former COO was awarded
+approximately $238,000 in accrued salary and related charges by the California labor board. The Company believes that this award
+does not reflect the amount owed which is significantly lower and is exploring all its options and available remedies and is working
+toward an offer to settle this matter. 
+ 
+In 2016, the Company and the Company’s former
+Chief Executive Officer, Melvin Gagerman, were named among several other defendants in a lawsuit filed by two secured creditors
+demanding repayment of loans totaling $125,000 plus accrued interest and exemplary damages. In January 2017, the Company entered
+into an agreement with all secured creditors other than the two plaintiffs. In September 2018 the court entered a judgment of approximately
+$235,000 in favor of the two secured creditors. The Company subsequently appealed this judgment and, in September 2019, reached
+a settlement agreement with these creditors.
+ 
+
+
+23
+ 
+
+ 
+The Company is presently engaged in a dispute with
+one of its former directors, Robert Kopple, relating to approximately $10 million and approximately 3.15 million warrants which
+Mr. Kopple claims to be owed to him and his affiliates by the Company. In July 2017, Mr. Kopple filed suit against the Company
+as well as against current director Mr. Diaz-Verson and former directors Mr. Breslow and Mr. Howsmon, as well as Mr. Gagerman,
+the former CEO (not a director) in connection with these allegations. In 2018, the Court sustained demurrers by Mr. Diaz-Verson,
+Mr. Breslow, Mr. Howsmon and Mr. Gagerman and as a result of these successful demurrers, all four of these defendants have been
+dismissed from the suit. While the Company believes that it has certain valid defenses in these matters, the Company is currently
+in settlement discussions with Mr. Kopple. If the settlement negotiation is unsuccessful, the Company intends to vigorously defend
+against these claims. See “Liquidity and Capital Resources” in “Item 2. Management’s Discussion and Analysis
+of Financial Condition and Results of Operations” included elsewhere in this Quarterly Report on Form 10-Q for additional
+information regarding the transactions under dispute with Mr. Kopple.
+ 
+In April 2018, the Company filed suit against its former
+counsel, Kilpatrick Townsend & Stockton LLP alleging various acts of malpractice and breach of fiduciary duty committed by
+the firm in connection with its representation of Aura. In June 2018, Kilpatrick Townsend & Stockton LLP filed a cross-complaint
+against the Company claiming in excess of $400,000 in allegedly unpaid legal fees. In January 2019, the Company reached a settlement
+with Kilpatrick Townsend & Stockton LLP, pursuant to which, among other things, Kilpatrick Townsend & Stockton LLP agreed
+to dismiss its cross-complaint and waive all unpaid legal fees. The action and the cross-complaint were both subsequently dismissed.
+ 
+In February 2018, the Company failed to issue shares
+of stock contractually owed toBetterSea, LLC. On August 15, 2018, 7,364,735 restricted shares were issued in fulfillment of this
+contractual obligation based on the then-outstanding closing quote of the stock. The issuance of the shares was previously reported
+by the Company. The Company also paid $20,000 in legal fees related to legal expense associated with the Company’s delays
+in the issuance of the stock.
+ 
+In May 2018, Shelley Scholnick dba JB Transporters
+brought suit against the Company claiming ongoing fees in excess of $52,000 owed for the storage of the Company’s property.
+Notably, in June 2017, the Company had brought suit against J.B. Moving & Delivery, a business operated and controlled by Scholnick’s
+relative, Jacob Binstok, for damages suffered by the Company as a result of the defendant’s improper storage of the Company’s
+property and improper refusal to return such property. In 2018, the Company successfully received a judgment against J.B. Moving
+& Delivery in the amount of approximately $114,000. The Company disputes that any amount is now owed to Scholnick.
+ 
+On March 26, 2019, various stockholders of the Company
+controlling a combined total of more than 27.5 million shares delivered a signed written consent to the Company removing Ronald
+Buschur as a member of the Company’s Board and electing Cipora Lavut as a director of the Company.  On March 27, 2019,
+those same stockholders delivered a further signed written consent to the Company removing William Anderson and Si Ryong Yu as
+members of the Company’s Board and electing Robert Lempert and David Mann as directors of the Company. These written consents
+represented a majority of the outstanding shares of the Company’s common stock as of March 26, 2019 and March 27,
+2019, respectively. Because of Aura’s refusal to recognize the legal effectiveness of the consents, on April 8, 2019
+the stockholders filed suit in the Court of Chancery of the State of Delaware pursuant to Section 225 of the Delaware General
+Corporations Law, seeking an order confirming the validity of the consents and declaring that Aura’s Board consists of Ms. Lavut,
+Mr. Mann, Mr. Lempert, Mr. Douglas and Mr. Diaz-Versón, Jr. On July 8, 2019 the Court of Chancery
+entered final judgment in favor of the stockholder plaintiffs, confirming that (a) Ronald Buschur, Si Ryong Yu and William Anderson
+had been validly removed by the holders of a majority of the Company’s outstanding stock acting by written consent (b) Ms.
+Lavut, Mr. Mann and Mr. Lempert had been validly elected by the holders of a majority of the Company’s outstanding stock
+acting by written consent, and (c) the Company’s Board of Directors validly consists of Cipora Lavut, David Mann, Robert
+Lempert, Gary Douglas and Salvador Diaz-Versón, Jr.
+ 
+ITEM 1A. Risk Factors
+ 
+In addition to the other information set forth in this
+report, you should carefully consider the risk factors disclosed in Item 1A, “Risk Factors,” of the Company’s
+Annual Report on Form 10-K issued on June 13, 2019 and the Amended Annual Report on Form 10-K/A for the year ended February 28,
+2019, issued on October 24, 2019.
+ 
+ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds
+ 
+During the nine-months ended November 30, 2019, we
+issued 1,383,015 shares of common stock for cash proceeds of $295,354.
+ 
+
+
+
+24
+ 
+
+
+ 
+ITEM 3. Defaults Upon Senior Securities.
+ 
+As of the date of this filing, Robert Kopple,
+the Company’s Vice Chairman of the Board, is the only significant unsecured note holder that has not agreed to restructure
+his debt. Mr. Kopple claims to be owed approximately $5.3 million plus interest and approximately 3.14 million warrants on terms
+significantly preferable to other similarly-situated unsecured creditors. To-date, Mr. Kopple has not accepted the Company’s
+multiple offers to restructure his debt. The Company is presently engaged in a dispute with Mr. Kopple relating to the debt and
+securities which Mr. Kopple claims to be owed to him and his affiliates by the Company. See, “Note 3 – Notes Payable”
+and “Note 5 – Related Parties Transactions” to the Company’s condensed financial statements and “Liquidity
+and Capital Resources” in “Item 2. Management’s Discussion and Analysis of Financial Condition and Results of
+Operations” elsewhere in this quarterly report on Form 10-Q for additional information regarding amounts that may be owed
+under the Company’s notes payable and the recent restructuring of certain Company debt.
+ 
+In June 2014, we entered into a Financing Letter
+of Agreement (the “June 2014 Agreement”) with two affiliate entities of Mr. Kopple, KF Business Ventures and the Kopple
+Family Partnership (the “Additional Kopple Parties”), pursuant to which the Additional Kopple Parties loaned us an
+additional $1,000,000 (the “June 2014 Loan”). In connection with the June 2014 Loan, Mr. Kopple also added $202,205
+in penalties and accrued interest, credited us with $200,000 for amounts previously repaid by us and consolidated several earlier
+advances into a single new note (the “June 2014 Kopple Note”) in the principal amount of $2,715,2067 and bearing simple
+interest at a rate of 10% per annum. We were also required to obtain a subordination agreement from the Breslow Parties in favor
+of the Kopple Parties with respect to the June 2014 Kopple Note.
+  
+Pursuant to the June 2014 Agreement, the Kopple
+Parties also placed various restrictions on our ability to raise additional capital, hire qualified personnel and pay certain expenses
+without his prior approval for so long as the principal amount of his note remained outstanding. The June 2014 Kopple Note also
+required us to issue Mr. Kopple a stock purchase warrant (the “June 2014 Kopple Warrant”) to purchase approximately
+771,000 shares of our common stock at an exercise price of $0.70 per share, to be exercisable for seven years. Additionally, if
+we borrowed funds, issued capital stock or rights to acquire or convert into capital stock, or granted rights in respect to territories
+to any person for cash consideration of more than $5 million in the aggregate after the date of the June 2014 Kopple Note, we would
+be required to pay the entire amount of such cash consideration in excess of $5 million as a mandatory prepayment of the June 2014
+Kopple Note. Additionally, Mr. Kopple required a default provision providing that in the event that the entire outstanding balance
+of the June 2014 Kopple Note was not paid in full prior to October 1, 2014, then for each consecutive calendar month during the
+period beginning October 1, 2014 and ending March 31, 2015, we would issue to Mr. Kopple additional stock purchase warrants, each
+to purchase 416,458 shares of our common stock, up to a maximum aggregate of approximately 2.5 million shares of our common stock,
+at $0.70 per share (the “Kopple Penalty Warrants”), the Kopple Penalty Warranties to be exercisable for seven years
+from the time of their respective issuances. In addition to the Kopple Penalty Warrants, the default provision under the June 2014
+Kopple Note provides for a 5% late charge on the total amount due plus 15% per year interest. We have not repaid the Kopple Parties
+for the amounts loaned to us. Additionally, we have not issued any of the Kopple Penalty Warrants and management believes that
+Mr. Kopple is not entitled to receive them. We have also cancelled the June 2014 Kopple Warrant.
+ 
+We consider the transactions described above with Mr. Kopple to
+be related party transactions.
+ 
+ITEM 4. Mine Safety Disclosures
+ 
+Not applicable.
+ 
+ITEM 5. Other Information.
+ 
+None.
+ 
+
+25
+ 
+
+  
+ITEM 6.  Exhibits 
+ 
+
+ 
+
+26
+ 
+
+  
+SIGNATURES
+ 
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+ 
+
+
+Date: January 14, 2020
+AURA SYSTEMS,
+    INC.
+
+ 
+(Registrant)
+
+ 
+ 
+ 
+
+ 
+By:
+/s/ David Mann
+
+ 
+ 
+David Mann
+
+ 
+ 
+Chief Financial Officer 
+
+ 
+ 
+(Principal Financial and Accounting Officer and
+
+ 
+ 
+Duly Authorized Officer)
+
+ 
+ 
+27
+
+ 
+
+
+
+

@@ -1,0 +1,1864 @@
+
+10-Q
+1
+sgmd-20191231_10q.htm
+FORM 10-Q FOR PERIOD ENDING DECEMBER 31, 2019
+
+
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+ 
+FORM 10-Q
+ 
+(Mark One)
+ 
+
+
+ 
+☒
+QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+For the quarterly period ended: December
+31, 2019
+ 
+
+
+ 
+☐
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+For the transition period from N/A to N/A
+ 
+Commission file number: 000-23446
+ 
+
+
+SUGARMADE, INC.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+
+Delaware
+ 
+94-3008888
+
+(State or other jurisdiction of
+ 
+(I.R.S. Employer
+
+incorporation or organization)
+ 
+Identification No.)
+
+ 
+ 
+ 
+
+750 Royal Oaks Dr., Suite 108, Monrovia, CA
+ 
+91016
+
+(Address of principal executive offices)
+ 
+(Zip Code)
+
+ 
+
+
+(888) 982-1628
+
+(Registrant’s telephone number, including area code)
+
+ 
+Indicate by check mark whether the issuer (1)
+filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act of 1934 during the past 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. Yes ☒ No ☐
+ 
+Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files). Yes ☒ No ☐
+ 
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company.
+See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,”
+and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+Large accelerated filer 
+☐
+Accelerated filer 
+☐
+
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+
+ 
+ 
+Emerging growth company
+☐
+
+ 
+ 
+ 
+ 
+
+If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+At February 17, 2020, there were 713,207,811
+shares of common stock and 2,415,000 shares of preferred stock issued and outstanding.  
+ 
+Transitional Small Business Disclosure Format
+(Check one): Yes ☐ No ☒
+ 
+ 
+
+ 
+ 
+
+SUGARMADE, INC.
+ 
+FORM 10-Q
+FOR THE PERIOD ENDED DECEMBER 31,
+2019
+ 
+TABLE OF CONTENTS
+ 
+
+ 
+
+ 
+ 
+
+SPECIAL NOTE REGARDING FORWARD LOOKING STATEMENTS
+ 
+In addition to historical information, this
+Quarterly Report on Form 10-Q includes forward-looking statements. Forward-looking statements are those that predict or describe
+future events or trends and that do not relate solely to historical matters. You can generally identify forward-looking statements
+as statements containing the words “believe,” “expect,” “will,” “anticipate,” “intend,”
+“estimate,” “project,” “plan,” “assume” or other similar expressions, or negatives
+of those expressions, although not all forward-looking statements contain these identifying words. All statements contained or
+incorporated by reference in this quarterly report regarding our future strategy, future operations, projected financial position,
+estimated future revenues, projected costs, future prospects, the future of our industry and results that might be obtained by
+pursuing management’s current plans and objectives are forward-looking statements.
+ 
+You should not place undue reliance on our
+forward-looking statements because the matters they describe are subject to known and unknown risks, uncertainties and other unpredictable
+factors, many of which are beyond our control. Our forward-looking statements are based on the information currently available
+to us and speak only as of the date on the cover of this quarterly report, or, in the case of forward-looking statements in documents
+incorporated by reference, as of the date of the date of the filing of the document that includes the statement. New risks and
+uncertainties arise from time to time, and it is impossible for us to predict these matters or how they may affect us. Over time,
+our actual results, performance or achievements will likely differ from the anticipated results, performance or achievements that
+are expressed or implied by our forward-looking statements, and such difference might be significant and materially adverse to
+our security holders. We do not undertake and specifically decline any obligation to update any forward- looking statements or
+to publicly announce the results of any revisions to any statements to reflect new information or future events or developments.
+ 
+We have identified some of the important factors
+that could cause future events to differ from our current expectations and they are described in this quarterly report under the
+caption “Risk Factors,” below, and elsewhere in this quarterly report, which you should review carefully. Please consider
+our forward-looking statements in light of those risks as you read this quarterly report.
+ 
+
+ 
+ 
+
+PART 1: Financial Information
+Item 1 Financial Statements
+Sugarmade, Inc. and Subsidiary
+Condensed Consolidated Balance Sheets 
+ 
+
+ 
+The accompanying notes are an integral
+part of these condensed unaudited consolidated financial statements
+ 
+
+ -1-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Condensed Consolidated Statements
+of Operations
+ 
+
+ 
+* Shares issuable upon conversion of convertible debts and exercising of warrants were excluded in calculating diluted loss per share
+ 
+The accompanying notes are an integral
+part of these condensed unaudited consolidated financial statements. 
+ 
+
+ -2-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Condensed Consolidated Statements of Equity
+
+(Unaudited)
+ 
+
+ 
+The accompanying notes are an integral
+part of these condensed unaudited consolidated financial statements. 
+ 
+
+ -3-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Condensed Consolidated Statements of Cash
+Flows 
+(Unaudited)
+ 
+
+ 
+The accompanying notes are an integral
+part of these condensed unaudited consolidated financial statements
+  
+
+ -4-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+1.
+Nature of Business
+
+ 
+Sugarmade, Inc. (hereinafter referred to as’‘we’’,
+’‘us” or “the/our Company’’) is a publicly traded company incorporated in the state of Delaware.
+Our previous legal name was Diversified Opportunities, Inc. Our Company, Sugarmade, Inc. operates much of its business activities
+through our subsidiary, SWC Group, Inc., a California corporation (“SWC’’).
+ 
+Sugarmade, Inc. was founded in 2010. In 2014,
+CarryOutSupplies.com was acquired by Sugarmade, Inc., creating the Company as it is today. As of the end of the reporting period,
+September 30, 2019, we were involved in two businesses including the supply of products to the quick service restaurant sub-sector
+of the restaurant industry and as an importer, distributor and marketer of hydroponic supplies to various agricultural sectors.
+We had previously been a marketer of culinary seasoning products Seasoning Stix and Sriracha Seasoning Stix and a marketer of tree-free
+paper products. These products were discontinued during 2018 in order to focus the majority of our corporate resources on the marketing
+of hydroponic supplies.
+ 
+The marketplace in which we plan to be mainly
+engaged is generally referred to as hydroponic agricultural supplies. While some of our customers are engaged in the legal cultivation,
+processing and/or distribution of cannabis or cannabis containing products, our Company neither sells any products containing cannabis
+nor do we handle, process, or distribute any products containing cannabis.
+ 
+Our legacy business operation, CarryOutSupplies.com,
+is a producer and wholesaler of custom printed and generic supplies servicing more than 2,000 quick service restaurants. Our products
+include double poly paper cups for cold beverage; disposable, clear, plastic cold cups, paper coffee cups, yogurt cups, ice cream
+cups, cup lids, cup sleeves, food containers, soup containers, plastic spoons and many other similar products for this market sector.
+CarryOutSupplies.com was founded in 2009 when the founders gained first-hand experience within the restaurant industry of the difficulty
+for restaurant owners to acquire custom printed supplies at a reasonable cost. Many quick service restaurants wish to acquire custom
+printed products, such as those embossed with logos, but the minimum order size for such customization had been cost prohibitive.
+With that in mind, carry out supplies was founded to provide products to this underserved section of the market. Since that time,
+the company has become a key supplier to many popular U.S. franchises, particularly in the frozen dessert segments.
+ 
+During December 2017, the Company entered into
+a master marketing agreement with BizRight, LLC, a leading marketer and manufacturer of hydroponic growth supplies, which offers
+a range of hydroponics-related products including: HPS grow lights, electronic ballasts, HPS Bulbs, nutrient mixes, environmental
+control products, pH measurement and calibration solutions and other grow and storage products. BizRight operates the ZenHydro.com
+website and other e-commerce properties, and sells various products to distributors and retailers. On April 11, 2018, the same
+rights under the master marketing agreement were assigned to BZRTH Inc. On February 5, 2019, the Company exercised its option to
+acquire BZRTH and the transaction had been closed on October 30, 2019. On January 15, 2020, the Company entered into a Rescission
+and Mutual Release Agreement (“Agreement”) with each of the parties agreeing to rescind the transaction and return
+all consideration exchanged pursuant to the Stock Exchange Agreement.
+ 
+In October 2018 and January 2019,
+the Company had intents to acquire two suppliers or retailers of hydroponic equipment. As of the date of this report, the Company
+is no longer pursuing these acquisitions.
+ 
+
+ -5-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+2.
+Summary of Significant Accounting
+
+ 
+Policies Basis of presentation
+ 
+The accompanying unaudited condensed consolidated
+financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America
+and the rules and regulations of the United States Securities and Exchange Commission for interim financial information and with
+the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all the information and footnotes
+necessary for a comprehensive presentation of financial position, results of operations, or cash flows. It is management’s
+opinion however, that all material adjustments (consisting of normal recurring adjustments) have been made which are necessary
+for a fair financial statement presentation.
+ 
+These interim condensed consolidated financial
+statements should be read in conjunction with our Company’s Annual Report on Form 10-K for the year ended June 30, 2019,
+which contains our audited consolidated financial statements and notes thereto, together with the Management’s Discussion
+and Analysis of Financial Condition and Results of Operation, for the year ended June 30, 2019. The interim results for the period
+ended December 31, 2019 are not necessarily indicative of the results for the full fiscal year.
+ 
+Principles of consolidation
+ 
+The condensed consolidated unaudited financial
+statements include the accounts of our Company and its wholly-owned subsidiaries, SWC Group Inc. All significant intercompany transactions
+and balances have been eliminated in consolidation.
+ 
+Going concern
+ 
+The Company sustained continued losses from
+operations during the six months ended December 31, 2019 and for the fiscal year ended June 30, 2019. The Company’s continuation
+as a going concern is dependent on its ability to generate sufficient cash flows from operations to meet its obligations, in which
+it has not been successful, and/or obtaining additional financing from its shareholders or other sources, as may be required.
+ 
+Our condensed consolidated financial statements
+have been prepared assuming that we will continue as a going concern. Such assumption contemplates the realization of assets and
+satisfaction of liabilities in the normal course of business. These condensed consolidated financial statements do not include
+any adjustments to reflect the possible future effects on the recoverability and classification of assets or the amounts and classifications
+of liabilities that may result should the Company be unable to continue as a going concern.
+ 
+Management is endeavoring to increase revenue-generating
+operations. While priority is on generating cash from operations through the sale of the Company’s products, management is
+also seeking to raise additional working capital through various financing sources, including the sale of the Company’s equity
+and/or debt securities, which may not be available on commercially reasonable terms to our Company, or which may not be available
+at all. If such financing is not available on satisfactory terms, we may be unable to continue our business as desired and our
+operating results will be adversely affected. In addition, any financing arrangement may have potentially adverse effects on us
+and/or our stockholders. Debt financing (if available and undertaken) will increase expenses, must be repaid regardless of operating
+results and may involve restrictions limiting our operating flexibility. If we issue equity securities to raise additional funds,
+the percentage ownership of our existing stockholders will be reduced and the new equity securities may have rights, preferences
+or privileges senior to those of the current holders of our common stock.
+ 
+
+ -6-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+2.
+Summary of Significant Accounting (continued)
+
+ 
+Use of estimates
+ 
+The preparation of financial statements in
+conformity with accounting principles generally accepted in the United States of America requires our management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results
+could differ significantly from those estimates.
+ 
+Revenue recognition
+  
+We recognize revenue in accordance with Financial
+Accounting Standards Board Accounting Standards Codification (“FASB ASC’’) No. 606, Revenue Recognition. Sugarmade
+applied a five-step approach in determining the amount and timing of revenue to be recognized: (1) identifying the contract with
+a customer, (2) identifying the performance obligations in the contract, (3) determining the transaction price, (4) allocating
+the transaction price to the performance obligations in the contract and (5) recognizing revenue when the performance obligation
+is satisfied.
+ 
+Substantially
+all of the Company’s revenue is recognized at the time control of the products transfers to the customer.
+  
+Cash
+ 
+Cash and cash equivalents consist of amounts
+held as bank deposits and highly liquid debt instruments purchased with an original maturity of three months or less.
+ 
+From time to time, we may maintain bank balances
+in interest bearing accounts in excess of the $250,000 currently insured by the Federal Deposit Insurance Corporation for interest
+bearing accounts (there is currently no insurance limit for deposits in noninterest bearing accounts). We have not experienced
+any losses with respect to cash. Management believes our Company is not exposed to any significant credit risk with respect to
+its cash.
+ 
+Accounts receivable
+ 
+Accounts receivable are carried at their estimated
+collectible amounts, net of any estimated allowances for doubtful accounts. We grant unsecured credit to our customer’s deemed
+credit worthy. Ongoing credit evaluations are performed and potential credit losses estimated by management are charged to operations
+on a regular basis. At the time any particular account receivable is deemed uncollectible, the balance is charged to the allowance
+for doubtful accounts. The Company had accounts receivable net of allowances of $158,000 as of December 31, 2019 and of $218,145
+as of June 30, 2019.
+ 
+Inventory
+ 
+Inventory consists of finished goods paper
+and paper-based products such as paper cups and food containers ready for sale and is stated at the lower of cost or market. We
+value our inventory using the weighted average costing method. Our Company’s policy is to include as a part of inventory
+any freight incurred to ship the product from our contract manufacturers to our warehouses. Outbound freights costs related to
+shipping costs to our customers are considered period costs and reflected in selling, general and administrative expenses. We regularly
+review inventory and consider forecasts of future demand, market conditions and product obsolescence.
+ 
+
+ -7-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+2.
+Summary of Significant Accounting (continued)
+
+ 
+If the estimated realizable value of our inventory
+is less than cost, we make provisions in order to reduce its carrying value to its estimated market value. On a consolidated basis,
+as of December 31, 2019 and June 30, 2019, the balance for the inventory totaled $495,086 and $356,285, respectively. Obsolescence
+reserve at December 31, 2019 and June 30, 2019 were $10,580 and $120,486, respectively.
+ 
+Property and equipment
+ 
+Property and equipment is stated at the historical
+cost, less accumulated depreciation. Depreciation on property and equipment is provided using the straight-line method over the
+estimated useful lives of the assets for both financial and income tax reporting purposes as follows:
+ 
+
+
+Machinery equipment
+ 
+5 years
+
+Furniture and equipment
+ 
+7 years
+
+Vehicles
+ 
+7 years
+
+ 
+Expenditures for renewals and betterments are
+capitalized while repairs and maintenance costs are normally charged to the statement of operations in the year in which they are
+incurred. In situations where it can be clearly demonstrated that the expenditure has resulted in an increase in the future economic
+benefits expected to be obtained from the use of the asset, the expenditure is capitalized as an additional cost of the asset.
+ 
+Upon sale or disposal of an asset, the historical
+cost and related accumulated depreciation or amortization of such asset were removed from their respective accounts and any gain
+or loss is recorded in the statements of income.
+ 
+The Company reviews the carrying value of property,
+plant, and equipment for impairment whenever events and circumstances indicate that the carrying value of an asset may not be recoverable
+from the estimated future cash flows expected to result from its use and eventual disposition. In cases where undiscounted expected
+future cash flows are less than the carrying value, an impairment loss is recognized equal to an amount by which the carrying value
+exceeds the fair value of assets. The factors considered by management in performing this assessment include current operating
+results, trends and prospects, the manner in which the property is used, and the effects of obsolescence, demand, competition and
+other economic factors. Based on this assessment, no impairment expenses for property, plant, and equipment was recorded in operating
+expenses during the six months ended December 31, 2019 and 2018.
+ 
+Impairment of Long-Lived Assets
+ 
+Long-lived assets, which include property,
+plant and equipment and intangible assets, are reviewed for impairment whenever events or changes in circumstances indicate the
+carrying amount of an asset may not be recoverable.
+ 
+Recoverability of long-lived assets to be held
+and used is measured by comparing the carrying amount of an asset to the estimated undiscounted future cash flows expected to be
+generated by the asset. If the carrying amount of an asset exceeds its estimated undiscounted future cash flows, an impairment
+charge is recognized by the amount by which the carrying amount of the asset exceeds the fair value of the assets. Fair value is
+generally determined using the asset's expected future discounted cash flows or market value, if readily determinable. Based on
+its review, the Company, as of June 30, 2019, performed an impairment test of all of its intangible assets. Based on the company’s
+analysis, the company had an amortization of intangible assets of $700 for the six months ended December 31, 2019 and 2018, respectively.
+ 
+
+ -8-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+2.
+Summary of Significant Accounting (continued)
+
+ 
+Leases 
+ 
+In February 2016, the FASB established Topic
+842, Leases, by issuing ASU No. 2016-02, which requires lessees to recognize the rights and obligations created by leases
+on the balance sheet and disclose key information about leasing arrangements. Topic 842 was subsequently amended by ASU No. 2018-11, Targeted
+Improvements, ASU No. 2018-10, Codification Improvements to Topic 842, and ASU No. 2018-01, Land Easement Practical Expedient
+for Transition to Topic 842. The new standard establishes a right-of-use model (ROU) that requires a lessee to recognize a ROU
+asset and lease liability on the balance sheet for all leases with a term longer than 12 months. Leases will be classified as finance
+or operating, with classification affecting the pattern and classification of expense recognition in the statement of operations.
+ 
+The new standard became effective April 1,
+2019. A modified retrospective transition approach is required, applying the new standard to all leases existing at the date of
+initial application. An entity may choose to use either (1) its effective date or (2) the beginning of the earliest comparative
+period presented in the financial statements as its date of initial application. If an entity chooses the second option, the transition
+requirements for existing leases also apply to leases entered into between the date of initial application and the effective date.
+The entity must also recast its comparative period financial statements and provide the disclosures required by the new standard
+for the comparative periods. The Company adopted the new standard on July 1, 2019 using the modified retrospective transition approach
+as of the effective date of the initial application. The new standard provides a number of optional practical expedients in transition.
+The Company elected the “package of practical expedients”, which permits entities not to reassess under the new lease
+standard prior conclusions about lease identification, lease classification and initial direct costs. The Company does not expect
+to elect the use-of-hindsight or the practical expedient pertaining to land easements.
+ 
+The most significant effects of the adoption
+of the new standard relate to the recognition of new ROU assets and lease labilities on our balance sheet for office operating
+leases and providing significant new disclosures about our leasing activities.
+ 
+The new standard also provides practical
+expedients for an entity’s ongoing accounting. The Company has also elected the short-term leases recognition exemption
+for all leases that qualify. This means that the Company will not recognize ROU assets or lease liabilities, and this
+includes not recognizing ROU assets and lease liabilities, for existing short-term leases of those assets in transition. The
+Company also currently expects to elect the practical expedient to not separate lease and non-lease components for its
+leases. All existing leases are reported under this rule. After the adoption, $455,590 of operating lease right-of-use asset
+and $465,826 of operating lease liabilities were not retroactively reflected to June 30, 2019 financial statements, and
+$416,421 of operating lease right-of-use asset and $428,907 of operating lease liabilities were reflected to
+December 31, 2019 financial statements.
+ 
+Income taxes
+ 
+We account for income taxes under the asset
+and liability method. Deferred tax assets and liabilities are recognized for future tax consequences attributable to differences
+between the financial statement carrying amounts of existing assets and liabilities and their perspective tax bases. Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to taxable income in the years in which the temporary
+differences are expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates
+is recognized in income in the period that includes the enactment date. Valuation allowances are recorded, when necessary, to reduce
+deferred tax assets to the amount expected to be realized.
+ 
+As a result of the implementation of certain
+provisions of ASC 740, Income Taxes (“ASC 740”), which clarifies the accounting and disclosure for uncertainty in tax
+position, as defined, ASC 740 seeks to reduce the diversity in practice associated with certain aspect of the recognition and measurement
+related to accounting for income taxes. We adopted the provisions of ASC 740 as of October 2, 2008, and have analyzed filing positions
+in each of the federal and state
+ 
+
+ -9-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+2.
+Summary of Significant Accounting (continued)
+
+ 
+jurisdictions where we are required to file
+income tax returns, as well as open tax years in these jurisdictions. We have identified the U.S. federal and California as our
+“major” tax jurisdictions and generally, we remain subject to Internal Revenue Service examination of our 2013 U.S.
+federal income tax returns. However, we have certain tax attribute carryforwards, which will remain subject to review and adjustment
+by the relevant tax authorities until the statute of limitations closes with respect to the year in which such attributes are utilized.
+ 
+We believe that our income tax filing positions
+and deductions will be sustained on audit and do not anticipate any adjustments that will result in a material change to our financial
+position. Therefore, no reserves for uncertain income tax positions have been recorded pursuant to ASC 740. In addition, we did
+not record a cumulative effect adjustment related to the adoption of ASC 740. Our policy for recording interest and penalties associated
+with income-based tax audits is to record such items as a component of income taxes. We have no interest or penalties as of December
+31, 2019.
+ 
+Stock based compensation
+ 
+Stock based compensation cost to employees
+is measured at the date of grant, based on the calculated fair value of the stock-based award, and will be recognized as expense
+over the employee’s requisite service period (generally the vesting period of the award). We estimate the fair value of employee
+stock options granted using the Binomial Option Pricing Model. Key assumptions used to estimate the fair value of stock options
+will include the exercise price of the award, the fair value of our common stock on the date of grant, the expected option term,
+the risk free interest rate at the date of grant, the expected volatility and the expected annual dividend yield on our common
+stock. We use our company’s own data among other information to estimate the expected price volatility and the expected forfeiture
+rate. Share-based compensation awards issued to non-employees for services rendered are recorded at either the fair value of the
+services rendered or the fair value of the share-based payment, whichever is more readily determinable.
+ 
+Loss per share	
+ 
+We calculate basic earnings per share (“EPS”)
+by dividing our net loss by the weighted average number of common shares outstanding for the period, without considering common
+stock equivalents. Diluted EPS is computed by dividing net income or net loss by the weighted average number of common shares outstanding
+for the period and the weighted average number of dilutive common stock equivalents, such as options and warrants. Options and
+warrants are only included in the calculation of diluted EPS when their effect is dilutive.
+ 
+Fair value of financial instruments
+ 
+ASC Topic 820 defines fair value, establishes
+a framework for measuring fair value, establishes a three-level valuation hierarchy for disclosure of fair value measurement and
+enhances disclosure requirements for fair value measurements. The valuation hierarchy is based upon the transparency of inputs
+to the valuation of an asset or liability as of the measurement date. The three levels are defined as follows:
+ 
+Level 1 - observable inputs that reflect quoted prices (unadjusted)
+for identical assets or liabilities in active markets.
+Level 2 - include other inputs that are directly or indirectly observable
+in the marketplace.
+Level 3 - unobservable inputs which are supported by little or no
+market activity.
+ 
+The Company used Level 3 inputs for its valuation
+methodology for the derivative liabilities in determining the fair value using the Binomial option-pricing model for the six months
+ended December 31, 2019.
+  
+
+ -10-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+2.
+Summary of Significant Accounting (continued)
+
+ 
+Derivative instruments
+ 
+The fair value of derivative instruments is
+recorded and shown separately under current liabilities. Changes in the fair value of derivatives liability are recorded in the
+consolidated statement of operations under non-operating income (expense).
+ 
+Our Company evaluates all of its financial
+instruments to determine if such instruments are derivatives or contain features that qualify as embedded derivatives. For derivative
+financial instruments that are accounted for as liabilities, the derivative instrument is initially recorded at its fair value
+and is then re-valued at each reporting date, with changes in the fair value reported in the consolidated statements of operations.
+For stock-based derivative financial instruments, the Company uses a weighted average Binomial option-pricing model to value the
+derivative instruments at inception and on subsequent valuation dates. The classification of derivative instruments, including
+whether such instruments should be recorded as liabilities or as equity, is evaluated at the end of each reporting period. Derivative
+instrument liabilities are classified in the balance sheet as current or non-current based on whether or not net-cash settlement
+of the derivative instrument could be required within 12 months of the balance sheet date.
+ 
+Segment Reporting
+ 
+FASB ASC Topic 280, “Segment Reporting”,
+requires use of the “management approach” model for segment reporting. The management approach model is based on the
+way a company’s management organizes segments within the Company for making operating decisions and assessing performance.
+Reportable segments are based on products and services, geography, legal structure, management structure, or any other manner in
+which management disaggregates a company.
+ 
+FASB ASC Topic 280 has no effect on the Company’s financial
+statements as substantially all of its operations are conducted in one industry segment – paper and paper-based products
+such as paper cups, cup lids, food containers, etc.
+ 
+New accounting pronouncements   
+ 
+In February 2016, the FASB issued ASU No. 2016-02,
+Leases (Topic 842). The new standard establishes a right-of-use (“ROU”) model that requires a lessee to record a ROU
+asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified as
+either finance or operating, with classification affecting the pattern of expense recognition in the income statement. The new
+standard is effective for fiscal years beginning after December 15, 2018, including interim periods within those fiscal years.
+A modified retrospective transition approach is required for lessees for capital and operating leases existing at, or entered into
+after, the beginning of the earliest comparative period presented in the financial statements, with certain practical expedients
+available. The Company adopted this ASU on the consolidated financial statements in the quarter ended December 31, 2019. 
+ 
+
+
+3.
+Concentration
+
+ 
+Customers
+ 
+For the six months ended December 31, 2019
+and 2018, our Company earned net revenues of $1,474,784 and $2,886,885 respectively. The vast majority of these revenues for the
+period ending December 31, 2019 were derived from a large number of customers, whereas the vast majority of these revenues for
+the period ending December 31, 2018 were derived from a limited number of customers. No customers accounted for over 10% of the
+Company’s total revenues for the period ended December 31, 2019.
+ 
+
+ -11-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+3.
+Concentration (continued)
+
+ 
+Suppliers
+ 
+For the six months ended December 31, 2019
+and 2018, we purchased products for sale from several contract manufacturers located in Asia and the U.S. A substantial portion
+of the Company's inventory is purchased from two (2) suppliers. The two (2) suppliers accounted as follows: Two suppliers accounted
+for 38.63% and 38.38% of the Company's total inventory purchase for the six months ended December 31, 2019 and 2018, respectively.
+  
+
+
+ 
+4.
+Equity Transaction - Exclusive License Rights and Acquisition
+
+ 
+On December 13, 2017, we entered into a Master
+Marketing Agreement with BizRight, LLC (“BizRight”), a leading marketer and manufacturer of hydroponic growth supplies,
+which offers a range of hydroponics-related products including: HPS grow lights, electronic ballasts, HPS Bulbs, nutrient
+mixes, environmental control products, pH measurement and calibration solutions and other grow and storage products. BizRight operates
+the ZenHydro.com website and other e-commerce properties, and sells various products to distributors and retailers.
+ 
+Under the terms of the Master Marketing Agreement,
+all products procured, developed and imported by BizRight will be sold by the Company. The expected term of the exclusive license
+rights is 20 years. BizRight and its owners will be compensated via a combination of cash and common shares in Sugarmade. Effective
+the contract date, Bizright will be compensated Two hundred million (200,000,000) common shares. Sugarmade will compensate BizRight
+and its owners six million dollars ($6,000,000) in cash. The amount due will be divided over 3 payments equally and are contingent
+upon the filing of the S-1 and significant funding.
+ 
+We began recognizing revenues under this marketing
+agreement during April 2018 and stopped recognizing the revenue early 2019 upon exercise of the purchase option under the agreement.
+As of June 30, 2019, BizRight had assigned the marketing agreement to its operating entity, BZRTH and the Company had exercised
+the option to purchase 100% equity ownership of BZRTH.
+ 
+As of June 30, 2019, cash of $870,000 and 200
+million shares of the Company’s common stock had been paid and issued in connection with the acquisition.
+ 
+On October 30, 2019, SGMD closed the
+previously announced acquisition of BZRTH, Inc., a Nevada corporation (“BZRTH”) pursuant to a Stock Exchange Agreement.
+The total consideration to be paid by the Company to acquire BZRTH was 650,000,000 shares of SGMD’s common stock, 3,500,000
+shares of Series B convertible preferred stock, $870,000 in cash, and 5% promissory notes in the sum of $7,130,000.00 due on or
+before October 31, 2021 to the BZRTH shareholders. $870,000 of cash had been paid along with 449,373,817 common shares and 750,000
+Series B Convertible Preferred shares.
+ 
+As of December 31, 2019, cash of $870,000 and
+249 million shares of the Company’s common stock had been paid and issued in connection with the acquisition.
+ 
+On January 15, 2020, the Company entered
+into a Rescission and Mutual Release Agreement (“Agreement”) with each of the parties agreeing to return all consideration
+exchanged pursuant to the Stock Exchange Agreement.
+ 
+The shareholders of BZRTH have agreed
+to surrender for cancellation, 449,373,817 common shares and 750,000 Series B Convertible Preferred shares. On an as converted
+to common basis the returns to Sugarmade’s treasury equal 449,373,817 relating to the common shares to be surrendered and
+750,000,000 million common shares equivalents due to each Series B Convertible Preferred share converting to common shares on a
+1 for 1,000 basis. Thus, on a common share equivalent basis, the surrender equals 1,199,373,817 common shares, if all Preferred
+Series B were converted. As part of the Agreement, the Company will retain or will receive 102,248 shares in BZRTH.
+ 
+
+ -12-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+5.
+Legal Proceedings  
+
+ 
+From time to time and in the
+course of business, we may become involved in various legal proceedings seeking monetary damages and other relief. The amount of
+the ultimate liability, if any, from such claims cannot be determined. As of date of this filing, there were no legal claims currently
+pending or, to our knowledge, threatened against our Company that, in the opinion of our management, would be likely to have a
+material adverse effect on our financial position, results of operations or cash flows, except as follows:
+
+On December 11, 2013, the Company was served
+with a complaint from two Convertible Note Holders and investors in the Company, Lovitt & Hannan, Inc. Salary Deferral Plan
+FBO J. Thomas Hannan, Attorney at Law 401K Plan and Trust, and Kevin M. Kearney. The Company's former CEO, Scott Lantz, was also
+named in the suit. On February 21, 2017, the Company signed a settlement agreement with the plaintiffs. Under the terms of the
+settlement agreement, the Company agreed to pay the plaintiffs $307,000 to settle all claims against the Company, which included
+the payoff of the two notes outstanding within one (1) week. Upon receipt of all payments, plaintiffs will surrender for cancellation
+230,000 of the Company's shares within ten (10) days. The parties agreed that all claims against the Company would be satisfied
+through such payments and that the matter would be fully resolved. As of June 30, 2018, third-parties had purchased two (2) notes
+of approximately $80,000, reducing the Company's exposure by $80,000. As of the date of this filing the balance for accrued legal
+settlement for Hannan vs Sugarmade has been reduced to $227,000, plus interest until the date of complete payoff.
+
+ 
+
+On August 13, 2019, a lawsuit was filed against
+the Company for unpaid legal fees of $50,000.00, which originates from the Company’s former chairman and CEO.  The
+Company was served in or around September 2019.  The Company has filed a response to the underlying complaint to preserve
+its rights to defend the lawsuit should it become necessary. However, the Company plans to amicably resolve this matter and anticipates
+that it will be settled and dismissed.
+
+ 
+There can be no assurances the ultimate liability relative
+to these lawsuits will not exceed what is outlined above.
+  
+
+
+6.
+Other Current Assets  
+
+ 
+As of December 31, 2019 and June 30, 2019,
+other current assets consisted of the following:
+ 
+
+ 
+Our 2,314,498 in prepaid deposit as of December
+31, 2019 was mainly related to the following investments to other companies:
+
+a.$1,175,000 related to investment in Sky Unlimited;
+
+b.$196,000 related to investment in Hempistry Inc.;
+
+c.$870,000 paid for BZRTH acquisition.
+ 
+
+
+7.
+Intangible Asset
+
+ 
+On August 21, 2017, the Company entered into
+an intellectual property assignment agreement with Sound Decisions to revamp the company’s shoplifty website to generate
+and attract more traffic from potential customers. The Company made a payment of $14,000 for the website (intellectual property).
+The Company amortized this use right as intangible asset over ten years, and recorded amortization expense of $700 for the periods
+ended December 31, 2019 and June 30, 2019, respectively.
+ 
+
+ -13-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+8.
+Property and Equipment, net
+
+ 
+As of December 31, 2019 and June 30, 2019,
+the property, plant and equipment, net of accumulated depreciation expenses were $430,396 and $476,585, respectively.
+ 
+For the six months ended December 31, 2019
+and 2018, depreciation expenses amounted to $46,189 and $26,578, respectively.
+ 
+The Company reviews the carrying value of property
+and equipment for impairment whenever events and circumstances indicate that the carrying value of an asset may not be recoverable
+from the estimated future cash flows expected to result from its use and eventual disposition. In cases where undiscounted expected
+future cash flows are less than the carrying value, an impairment loss is recognized equal to an amount by which the carrying value
+exceeds the fair value of assets. The factors considered by management in performing this assessment include current operating
+results, trends and prospects, the manner in which the property is used, and the effects of obsolescence, demand, competition and
+other economic factors. Based on this assessment, no impairment expenses for property, plant, and equipment was recorded in operating
+expenses during the six months ended December 31, 2019 and 2018.
+ 
+
+
+9.
+Convertible Notes
+
+ 
+As of December 31, 2019 and June 30, 2019,
+the balance owing on convertible notes, net of debt discount, with terms as described below was $1,378,221 and $1,046,909, respectively.
+ 
+Convertible notes issued as of September
+30, 2019 were as follows:
+ 
+Convertible note 1: On August 24, 2012, the
+Company entered into a convertible promissory note with an accredited investor for $25,000. The note has a term of six (6) months
+with an interest rate of 10% and is convertible to common shares at a 25% discount of the average of 30 days prior to the conversion
+date. As of December 31, 2019, the note is in default.
+ 
+Convertible note 2: On September 18, 2012,
+the Company entered into a convertible promissory note with an accredited investor for $25,000. The note has a term of six (6)
+months with an interest rate of 10% and is convertible to common shares at a 25% discount of the average of 30 days prior to the
+conversion date. As of December 31, 2019, the note is in default.
+ 
+Convertible note 3: On December 21, 2012, the
+Company entered into a convertible promissory note with an accredited investor for $100,000. The note has a term of six (6) months
+with an interest rate of 10% and is convertible to common shares at a 25% discount of the average of 30 days prior to the conversion
+date. As of December 31, 2019, the note is in default.
+  
+Convertible note 4: On March 1, 2017, the Company
+entered into a convertible promissory note with an accredited investor for $100,000. The note has been purchased by other investor
+in total amount of $156,067 with a term of nine (9) months with an interest rate of 10% and is convertible to common shares at
+a 45% discount to the then current market price of our shares. As of December 31, 2019, the remaining balance of note was $60,751.
+  
+Convertible note 5: On May 17, 2017, the Company
+entered a convertible promissory note with an investor for a total amount of $1,375,000 (after $10,000 legal and due diligence
+fee) with an OID of $125,000, the note will be fulfilled through a series of funding. The note is due 12 months after each funding
+date and bears an interest rate of 10%. The conversion price for the note is 55% of the lowest closing bid for the 20 consecutive
+trading days prior to the conversion date. In connection with the note, the investor will also receive warrants and is calculated
+based on 15% of the maturity amount. The warrants have a life of four years with exercise price of $0.15 per share and have cashless
+exercise option. During the three months ended September 30, 2019, the holder exercised 1,766,544 cashless warrant shares into
+28,381,818 shares of the Company’s common stock. On September 23, 2019, the remaining warrant shares were settled by exchange
+$200,000 convertible note with interest of 10% per annum, due on September 23, 2020, with conversion price of 55% of the lowest
+closing bid for the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the original principal balance
+has been fully converted, the remaining default charge balance of the note was $250,000, and the new convertible note balance was
+$200,000.
+  
+
+ -14-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+9.
+Convertible Notes (continued)
+
+ 
+Convertible note 6: On September 20, 2018,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $267,500 (includes $5,000 legal
+fee and an OID of $12,500). The note is due 360 days and bears an interest rate of 8%. The conversion price for the note is 55%
+of the lowest closing bid for the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the principal
+balance of 245,000 has been fully converted into the Company’s common stock.
+ 
+Convertible note 7: On November 1, 2018, the
+Company entered into a convertible promissory note with an accredited investor for $100,000. The note has a term of one year with
+an interest rate of 8% and is convertible to common shares at a fixed conversion price of $0.07.
+ 
+Convertible note 8: On November 16, 2018, the
+Company entered into a convertible promissory note with an accredited investor for $80,000. The note has a term of one year with
+an interest rate of 8% and is convertible to common shares at a fixed conversion price of $0.07.
+ 
+Convertible note 9: On November 16, 2018, the
+Company entered into a convertible promissory note with an accredited investor for $40,000. The note has a term of one year with
+an interest rate of 8% and is convertible to common shares at a fixed conversion price of $0.07.
+ 
+Convertible note 10: On December 3, 2018, the
+Company entered into a convertible promissory note with an accredited investor for $35,000. The note has a term of one year with
+an interest rate of 8% and is convertible to common shares at a fixed conversion price of $0.07.
+ 
+Convertible note 11: On December 26, 2018,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $250,000 (includes $5,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 45% of average three lowest closing
+bid for the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully converted.
+ 
+Convertible note 12: On January 8, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $105,000. The note is due 360 days
+and bear an interest rate of 8%. The conversion price for the note is 35% of average two lowest closing bid for the 20 consecutive
+trading days prior to the conversion date. As of December 31, 2019, the note has been fully converted.
+ 
+Convertible note 13: On January 22, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $100,000. The note is due 360 days
+and bear an interest rate of 8%. The conversion price for the note is 42% of average three lowest closing bid for the 20 consecutive
+trading days prior to the conversion date. As of December 31, the note has been fully converted.
+ 
+Convertible note 14: On January 24, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $53,000. The note is due 360 days
+and bear an interest rate of 8%. The conversion price for the note is 35% of average two lowest closing bid for the 20 consecutive
+trading days prior to the conversion date. As of December 31, the note has been fully converted.
+ 
+Convertible note 15: On February 26, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $100,000. The note is due 360
+days and bear an interest rate of 8%. The conversion price for the note is 42% of average three lowest closing bid for the 20 consecutive
+trading days prior to the conversion date. As of December 31, the note has been fully converted.
+ 
+
+ -15-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+9.
+Convertible Notes (continued)
+
+  
+Convertible note 16: On March 4, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $250,000 (includes $7,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 58% of average two lowest closing
+bid for the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully converted.
+ 
+Convertible note 17: On April 2, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $100,000 (includes $2,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 40% of average three lowest closing
+bid for the 10 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully repaid by
+cash.
+ 
+Convertible note 18: On April 4, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $100,000 (includes $2,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 58% of average two lowest closing
+bid for the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully converted.
+ 
+Convertible note 19: On May 2, 2019, the Company
+entered a convertible promissory note with an accredited investor for a total amount of $125,000 (includes $2,000 OID). The note
+is due 360 days and bear an interest rate of 8%. The conversion price for the note is 40% of average three lowest closing bid for
+the 10 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully repaid by cash.
+ 
+Convertible note 20: On May 7, 2019, the Company
+entered a convertible promissory note with an accredited investor for a total amount of $125,000 (includes $2,500 OID). The note
+is due 360 days and bear an interest rate of 8%. The conversion price for the note is 58% of average two lowest closing bid for
+the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully repaid by cash.
+ 
+Convertible note 21: On May 29, 2019, the Company
+entered a convertible promissory note with an accredited investor for a total amount of $125,000 (includes $2,000 OID). The note
+is due 360 days and bear an interest rate of 8%. The conversion price for the note is 40% of average three lowest closing bid for
+the 10 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully repaid by cash.
+ 
+Convertible note 22: On June 12, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $125,000 (includes $2,500 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 58% of average two lowest closing
+bid for the 20 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully repaid by
+cash.
+ 
+Convertible note 23: On July 3, 2019, the Company
+entered a convertible promissory note with an accredited investor for a total amount of $125,000 (includes $2,000 OID). The note
+is due 360 days and bear an interest rate of 8%. The conversion price for the note is 40% discount of average three lowest closing
+bid for the 10 consecutive trading days prior to the conversion date.
+ 
+ Convertible note 24: On July 30, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $162,000 (includes $7,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 40% discount of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 25: On August 14, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $153,000 (includes $3,000 OID).
+The note is due 360 days and bear an interest rate of 10%. The conversion price for the note is 65% of the average of lowest two
+closing bid for the 20 consecutive trading days prior to the conversion date.
+ 
+
+ -16-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+9.
+Convertible Notes (continued)
+
+ 
+Convertible note 26: On August 29, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $275,000 (includes $37,500 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing bid for
+the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 27: On August 29, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $275,000 (includes $25,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing bid for
+the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 28: On September 23, 2019,
+the Company entered a warrant settlement agreement to exchange convertible promissory note for a total amount of $200,000. The
+note is due 360 days and bear an interest rate of 10%. The conversion price for the note is 55% of the lowest closing bid for the
+20 consecutive trading days prior to the conversion date. As of December 31, 2019, the note has been fully settled by $127,321
+of cash and 18,181,818 shares of common stock.
+ 
+Convertible note 29: On September 27, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $165,000 (includes $16,250
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 30: On September 27, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $165,000 (includes $16,250
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 55% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 31: On October 28, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $225,500 (includes $23,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing bid for
+the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 32: On October 28, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $225,500 (includes $23,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing bid for
+the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 33: On November 14, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $125,000 (includes $3,000 OID).
+The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the average three lowest
+closing bid for the 10 consecutive trading days prior to the conversion date.
+ 
+Convertible note 34: On November 29, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $106,150 (includes $11,150
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 35: On November 29, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $106,150 (includes $11,150
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 36: On December 10, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $106,700 (includes $11,700
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+
+ -17-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+9.
+Convertible Notes (continued)
+
+ 
+Convertible note 37: On December 10, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $106,700 (includes $11,700
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 38: On December 27, 2019,
+the Company entered a convertible promissory note with an accredited investor for a total amount of $112,200 (includes $12,200
+OID). The note is due 360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing
+bid for the 20 consecutive trading days prior to the conversion date.
+ 
+Convertible note 39: On October 31, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $139,301. The note is due 360 days
+and bear an interest rate of 8%. The conversion price for the note is $0.008 per share.
+ 
+Convertible note 40: On November 1, 2019, the
+Company entered a convertible promissory note with an accredited investor for a total amount of $100,000. The note is due 360 days
+and bear an interest rate of 8%. The conversion price for the note is $0.008 per share.
+ 
+In connection with the convertible debt, debt
+discount balance as of December 31, 2019 and June 30, 2019 were $2,015,634 and $1,189,341, respectively, and were being amortized
+and recorded as interest expenses over the term of the convertible debt.
+ 
+
+
+10.
+Derivative liabilities
+
+ 
+The derivative liability is derived from the
+conversion features in note 9 and stock warrant in note 11. All were valued using the Binomial option pricing model using the
+assumptions detailed below. As of December 31, 2019 and June 30, 2019, the derivative liability was $3,259,345 and $2,991,953,
+respectively. The Company recorded $2,314,046 gain and $3,661,383 loss from changes in derivative liability during the six months
+ended December 31, 2019 and 2018, respectively. The Binomial Option Price Model with the following assumption inputs:
+ 
+
+ 
+
+  
+Fair value of the derivative is summarized as below:
+ 
+
+ 
+
+ -18-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+11.
+Stock warrants
+
+ 
+On May 17, 2017, the Company entered a promissory
+note with an accredited investor for a total amount of $1,375,000 (after $10,000 legal and due diligence fee) with an OID of $125,000,
+the note will be fulfilled through a series of funding. In connection with the note, the investor will also receive warrants and
+is calculated based on 15% of the maturity amount. The warrants have a life of four years with an exercise price of $0.15 per share
+and have cashless exercise option. The fair value of the warrants at the grant date was $40,400. During the three months ended
+September 30, 2019, the holder exercised 1,766,544 cashless warrant shares into 28,381,818 shares of the Company’s common
+stock. On September 23, 2019, the remaining warrant shares were settled by exchange $200,000 convertible note with interest of
+10% per annum, due on September 23, 2020, with conversion price of 55% of the lowest closing bid for the 20 consecutive trading
+days prior to the conversion date.
+ 
+On September 7, 2018, the Company entered a
+settlement agreement with several investors to settle all disputes by issues additional unrestricted shares. In connection with
+the note each individual investor will also receive warrants equal to the number of the shares the investors own as of the effective
+date of the settlement agreement. The warrants have a life of five years with an exercise price as of the date of exchange. The
+fair value of the warrants at the grant date was $56,730. As of December 31, 2019 and June 30, 2019, the fair value of the warrant
+liability was $15,663 and $19,103, respectively.
+ 
+As of December 31, 2019 and June 30, 2019,
+the total fair value of the warrant liability was $15,663 and $24,658, respectively.
+  
+
+
+12.
+Note payable due to bank
+
+ 
+During October 2011, we entered into a revolving
+demand note (line of credit) arrangement with HSBC Bank USA, with a revolving borrowing limit of $150,000. The line of credit bears
+a variable interest rate of one quarter percent (0.25%) above the prime rate (5.5% as of December 20, 2018). In the event the deposit
+account is not established or minimum balance maintained, HSBC can charge a higher rate of interest of up to 4.0% above prime rate.
+As of December 31, 2019 and June 30, 2019, the loan principal balance was $25,982. As of December 31, 2019, the note is in default.
+ 
+
+
+13.
+Related party transactions
+
+ 
+On January 23, 2013, the Company entered into
+a promissory note with its former employee who owns less than 5% of the Company’s stock. The original principal amount was
+$40,000 and the note bore no interest. The note was payable upon demand. As of December 31, 2019 and June 30, 2019, this note had
+a balance of $18,000.
+ 
+On January 14, 2015, the Company entered into
+a promissory note with Richard Ko (an employee of the Company, who owns less than 5% of the Company’s stock). The principle
+amount was $30,000 and the note bore no interest. The note had a term of one (1) year and was due on January 14, 2016, and became
+payable upon demand after January 14, 2016. As of December 31, 2019 and June 30, 2019, this note had a balance of $0 and $20,000,
+respectively.
+ 
+As of December 31, 2019 and June 30, 2019,
+the Company had an outstanding balance of notes payable due to related parties of $18,000 and $38,000, respectively.
+ 
+On July 7, 2016, SWC received a loan in total
+amount of $30,000 from an employee. During the three months ended December 31, 2019, SWC received additional loan in total amount
+of 105,000 from a related party. The amount of the loan bear no interest and due on demand. As of December 31, 2019 and June 30,
+2019, the balance of the loan due to related party were $135,000 and $30,000, respectively.
+  
+From
+time to time, SWC would receive short-term loans from company former director for its working capital needs.
+ 
+
+ -19-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+14.
+Loans payable
+
+  
+On October 1, 2017, SGMD entered a straight
+promissory note with Greater Asia Technology Limited (Greater Asia) for borrowing $100,000 with maturity date on June 30, 2018;
+the note bears an interest rate of 33.33%. As of December 31, 2019 and June 30, 2019, the note was in default and the outstanding
+balance under this note was $63,924 and $63,924, respectively.
+  
+During the year ended June 30, 2019, the Company
+entered a series of short-term loan agreements with Greater Asia Technology Limited (Greater Asia) for borrowing $375,000, with
+interest rate at 40% - 50% of the principal balance. As of December 31, 2019 and June 30, 2019, the outstanding balance with Greater
+Asia loans were $100,000 and $100,000, respectively.
+ 
+On January 6, 2015, the Company entered into
+repayment agreement with its former employee for a loan of $9,500 at no interest. As of December 31, 2019 and June 30, 2019, the
+Company has an outstanding balance of $0 and $3,584. 
+  
+On December 17, 2018, the Company entered into
+a repayment agreement with an individual for $100,000 at no interest. As of December 31, 2019 and June 30, 2019, the Company has
+an outstanding balance of $2,740 and $17,834, respectively.
+  
+On July 1, 2012, CarryOutSupplies entered an
+equipment loan agreement with a bank with maturity on June 21, 2024. The monthly payment is $648. As of December 31, 2019 and June
+30, 2019, the outstanding balance under this loan were $0 and $29,243, respectively.
+ 
+As of December 31, 2019 and June 30, 2019,
+the Company had an outstanding loan balance of $192,030 and $214,585, respectively.
+ 
+
+
+15.
+Stockholder’s Equity
+
+ 
+The Company is authorized to issue 1,990,000,000 shares of $.001
+par value common stock and 10,000,000 shares of $.001 par value preferred stock.
+ 
+Share issuance during the three months ended September 30, 2019
+- 
+ 
+During the three months ended September 30,
+2019, the Company issued 1,000,000 shares of common stock to settle the old liability to be issued in total amount of $29,000.
+ 
+During the three months ended September 30,
+2019, the Company issued 71,915,557 shares of common stock for debt conversions in total amount of $547,833.
+ 
+During the three months ended September 30,
+2019, the Company issued 11,348,591 shares of common stock for cash in total amount of $100,000.
+ 
+During the three months ended September 30,
+2019, the Company issued 28,381,818 shares of common stock for warrant exercise in total amount of $14,132. 
+ 
+As of September 30, 2019 and June 30, 2019,
+the Company had 2,000,000 share of its preferred stock, 810,254,536 and 697,608,570 shares of its common stock, respectively, issued
+and outstanding.
+ 
+Share issuance during the three months ended December 31, 2019
+- 
+ 
+During the three months ended December 31,
+2019, the Company issued 18,181,818 shares of common stock to settle the old liability to be issued in total amount of $290,455.
+ 
+
+ -20-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+15.
+Stockholder’s Equity (continued)
+
+ 
+During the three months ended December 31,
+2019, the Company issued 24,994,341 shares of common stock for convertible debt principal with interest conversions in total amount
+of $142,165.
+ 
+During the three months ended December 31,
+2019, the Company issued 26,621,610 shares of common stock for cash in total amount of $240,000.
+ 
+During the three months ended December 31,
+2019, the Company issued 500,000 shares of common stock for employee bonus in total fair value of $7,550. 
+ 
+During the three months ended December 31,
+2019, the Company issued 249,373,817 shares of common stock for acquisition of BZRTH in total fair value of $3,566,046. The shares
+are to be cancelled in subsequent period pursuant to the rescission on January 15, 2020.
+ 
+During the three months ended December 31,
+2019, the Company issued 750,001 shares of preferred stock for acquisition of BZRTH in total fair value of $10,725,014. The shares
+of preferred stock are to be cancelled in subsequent period pursuant to the rescission on January 15, 2020.
+ 
+During the three months ended December 31,
+2019, the Company issued 415,000 shares of series B preferred stock for award to employee bonus in total fair value of $5,934,500.
+ 
+As of December 31, 2019 and June 30, 2019,
+the Company had 3,165,001 share of its preferred stock, 1,129,926,122 and 697,608,570 shares of its common stock, respectively,
+issued and outstanding.
+  
+
+
+16.
+Shares to be issued – liability
+
+ 
+During the year ended June 30, 2019, the Company
+had entered into multiple private placement agreements and had shares to be issued under liability in total amount of $100,000.
+ 
+During the three months ended September 30,
+2019, the Company had entered into a private placement agreement and had increased shares to be issued for total amount of $96,000.
+ 
+During the three months ended September 30,
+2019, the Company had entered into an employee compensation plan and had increased shares to be issued for total amount of $12,000.
+ 
+During the three months ended December 31,
+2019, the Company had entered into a private placement agreement and had increased shares to be issued for total amount of $40,000.
+ 
+During the three months ended December 31,
+2019, the Company had entered into an employee compensation plan and had increased shares to be issued for total amount of $14,000.
+ 
+As of December 31, 2019 and June 30, 2019,
+the Company had balance of $262,000 and $100,000 share to be issued.
+ 
+
+ -21-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+17.
+Shares to be issued –equity
+
+ 
+As of the year ended June 30, 2019, the Company
+had potential shares to be issued under common stock in total amount of $29,000.
+ 
+During the three months ended September 30,
+2019, the Company issued the $29,000 share to be issued – equity by 1,000,000 shares of the Company’s common stock.
+ 
+During the three months ended December 31,
+2019, the Company recorded in total amount of $100,000 potential share to be issued – equity.
+  
+As of December 31, 2019 and June 30, 2019,
+the Company had total potential shares to be issued under common stock and preferred stock in total amount of $100,000 and $29,000,
+respectively.
+ 
+
+
+18.
+Shares to be cancelled – equity
+
+ 
+On October 30, 2019, SGMD closed the previously
+announced acquisition of BZRTH, Inc., a Nevada corporation (“BZRTH”) pursuant to a Stock Exchange Agreement. BZRTH
+is headquartered in Irwindale, California and is a marketer and manufacturer of hydroponic growth supplies and related products
+to distributors and retailers. The total consideration to be paid by the Company to acquire BZRTH was 650,000,000 shares of SGMD’s
+common stock, 3,500,000 shares of Series B convertible preferred stock, $870,000 in cash, and 5% promissory notes in the sum of
+$7,130,000.00 due on or before October 31, 2021 to the BZRTH shareholders. $870,000 of cash had been paid along with 449,373,817
+common shares and 750,000 Series B Convertible Preferred shares.
+ 
+On January 15, 2020, the Company entered into
+a Rescission and Mutual Release Agreement (“Agreement”) with each of the parties agreeing to return all consideration
+exchanged pursuant to the Stock Exchange Agreement. The Agreement provided for mutual releases and indemnities.
+ 
+The shareholders of BZRTH have agreed to surrender
+for cancellation, 449,373,817 common shares and 750,000 Series B Convertible Preferred shares. On an as converted to common basis
+the returns to Sugarmade’s treasury equal 449,373,817 relating to the common shares to be surrendered and 750,000,000 million
+common shares equivalents due to each Series B Convertible Preferred share converting to common shares on a 1 for 1,000 basis.
+Thus, on a common share equivalent basis, the surrender equals 1,199,373,817 common shares, if all Preferred Series B were converted.
+As of December 31, 2019, the Company recorded share to be cancelled – common stock and preferred stock in total amount of
+$38,225,560.
+ 
+
+ -22-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+19.
+Commitments and contingencies
+
+ 
+On February 23, 2018 the Company entered into
+lease agreement for a new office space as part of the plan to expand operation, the lease is set to commence Commencing March 1,
+2018. The term of the lease is for a (5) Five Years with 1 month free on the 1st year of the term. The monthly
+rent on the 1st year will be $11,770 with a 3% increase for each subsequent year. Total commitment for the full
+term of the lease will be $737,367. As of the date of this filing, this property became the headquarter of the company.
+ 
+
+ 
+
+ -23-
+ Table of Contents
+
+Sugarmade, Inc. and Subsidiary
+Notes to Unaudited Condensed Consolidated
+Financial Statements
+December 31, 2019
+ 
+
+
+20.
+Subsequent events
+
+  
+On December 27, 2019, the Company entered a
+convertible promissory note with an accredited investor for a total amount of $112,200 (includes $12,200 OID). The note is due
+360 days and bear an interest rate of 8%. The conversion price for the note is 60% of the lowest closing bid for the 20 consecutive
+trading days prior to the conversion date. The principal amount was received in January 2020.
+  
+On January 30, 2020, the Company issued 6,684,843
+shares of the Company’s common stock for debt conversions in total amount of $33,291.
+ 
+On January 15, 2020, the Company entered into
+a Rescission and Mutual Release Agreement (“Agreement”) with each of the parties agreeing to return all consideration
+exchanged pursuant to the Stock Exchange Agreement. The Agreement provided for mutual releases and indemnities.
+ 
+The shareholders of BZRTH have agreed to surrender
+for cancellation, 449,373,817 common shares and 750,000 Series B Convertible Preferred shares. On an as converted to common basis
+the returns to Sugarmade’s treasury equal 449,373,817 relating to the common shares to be surrendered and 750,000,000 million
+common shares equivalents due to each Series B Convertible Preferred share converting to common shares on a 1 for 1,000 basis.
+Thus, on a common share equivalent basis, the surrender equals 1,199,373,817 common shares, if all Preferred Series B were converted.
+As part of the Agreement, the Company will retain or will receive 102,248 shares in BZRTH.
+ 
+On January 21, 2020, the Company directed the
+creation of SugarRush, Inc., a California Corporation, as a wholly owned subsidiary. The new company will be utilized for the holding
+of acquired assets and as a primary commercial business unit.
+ 
+On February 7, 2020, the Company signed a definitive
+agreement (the “Agreement”) with Indigo Dye Group Corp. (“Indigo”) with a mailing address of 5600 Warehouse
+Way, Sacramento, CA 95826, the operator of BudCars Cannabis Delivery Service (“Budcars”), which provides services in
+the Sacramento metropolitan area. Under the terms of the Agreement, the Company will purchase a 40% stake in the Budcars operation
+for a cash amount of $700,000, and will receive an option to acquire an additional 30%, which upon exercise will provide a controlling
+stake in the operation for the Company.
+ 
+
+ -24-
+ Table of Contents
+
+Item 8. Changes in and Disagreements with Accountants on Accounting
+and Financial Disclosure
+ 
+N/A
+ 
+ITEM 2 – MANAGEMENT’S DISCUSSION
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+This discussion and analysis may include statements
+regarding our expectations with respect to our future performance, liquidity, and capital resources. Such statements, along with
+any other non-historical statements in the discussion, are forward-looking. These forward-looking statements are subject to numerous
+risks and uncertainties, including, but not limited to, factors listed in other documents we file with the Securities and Exchange
+Commission (SEC). We do not assume an obligation to update any forward- looking statement. Our actual results may differ materially
+from those contained in or implied by any of the forward-looking statements in this Form 10-Q. See “SPECIAL NOTE REGARDING
+FORWARD LOOKING STATEMENTS” above.
+ 
+Overview and Financial Condition
+ 
+Discussions with respect to our Company’s
+operations included herein refer to our operating subsidiary, SWC. As of the date of this filing, we had no other operations other
+than those of SWC.
+ 
+Results of Operations
+ 
+The following table sets forth the results
+of our operations for the three months ended December 31, 2019 and 2018.
+ 
+
+  
+Revenues
+ 
+For the three months ended December 31, 2019
+and 2018, revenues were $720,810 and $1,445,269, respectively. The decrease was primarily due to business loss within the stick
+supply industry.
+ 
+Cost of goods sold
+ 
+For the three month ended December 31, 2019
+and 2018, costs of goods sold were $435,690 and $1,071,033 respectively. The decrease was primarily due to the business loss within
+the stick supply industry.
+ 
+Gross profit
+ 
+For the three month ended December 31, 2019
+and 2018, gross profit was $285,120 and $374,236, respectively. The decrease was primarily due to the business loss within the
+stick supply industry.
+ 
+Operating expenses
+ 
+For the three month ended December 31, 2019
+and 2018, operating expenses were $7,215,933 and $3,823,085, respectively. The increase was due to the increase of employee stock
+compensation. 
+ 
+
+ -25-
+ Table of Contents
+
+Other non-operating income (expense)
+ 
+The Company had total other non-operating expense
+of $823,710 and $2,584,531 for the three months ended December 31, 2019 and 2018, respectively. The decrease in non-operating income
+is related to the accounting for derivative liabilities.
+ 
+Net income (loss)
+ 
+Net loss totaled $7,754,524 for the three month
+ended December 31, 2019, compared to a net loss totaling $6,033,380 for the three-month ended December 31, 2018. The increase was
+mainly due to the increase of employee stock compensation.
+ 
+The following table sets forth the results
+of our operations for the six months ended December 31, 2019 and 2018.
+ 
+
+  
+Revenues
+ 
+For the six months ended December 31, 2019
+and 2018, revenues were $1,474,784 and $2,886,885, respectively. The decrease was primarily due to business loss within the stick
+supply industry.
+ 
+Cost of goods sold
+ 
+For the six month ended December 31, 2019 and
+2018, costs of goods sold were $927,858 and $2,130,452 respectively. The decrease was primarily due to the business loss within
+the stick supply industry.
+ 
+Gross profit
+ 
+For the six month ended December 31, 2019 and
+2018, gross profit was $546,925 and $756,433, respectively. The decrease was primarily due to the business loss within the stick
+supply industry.
+ 
+Operating expenses
+ 
+For the six month ended December 31, 2019 and
+2018, operating expenses were $8,419,563 and $4,736,957, respectively. The increase was due to the increase of employee stock compensation. 
+ 
+Other non-operating income (expense)
+ 
+The Company had total other non-operating expense
+of $1,909,438 and $4,661,909 for the six months ended December 31, 2019 and 2018, respectively. The decrease in non-operating income
+is related to the accounting for derivative liabilities.
+ 
+Net income (loss)
+ 
+Net loss totaled $9,782,075 for the six month
+ended December 31, 2019, compared to a net loss totaling $8,642,433 for the six-month ended December 31, 2018. The increase was
+mainly due to the increase of employee stock compensation.
+ 
+
+ -26-
+ Table of Contents
+
+Liquidity and Capital Resources
+ 
+We have primarily financed our operations through
+the sale of unregistered equity and convertible notes payable. As of December 31, 2019, our Company had cash balance of $103,002,
+current assets totaling $3,225,281 and total assets of $4,141,568. We had current and total liabilities totaling $8,280,102 and
+$8,598,185, respectively. Stockholders’ equity reflected a deficiency of $4,456,617.
+ 
+The following is a summary of cash provided
+by or used in each of the indicated types of activities during the six months ended December 31, 2019 and 2018:
+ 
+
+ 
+Net cash (used in) provided by operating activities
+was $(2,122,441) for the six months ended December 31, 2019, and $1,060,980 for the six months ended December 31, 2018.
+ 
+There were $nil and $87,154 fixed assets and
+intangible assets purchased during the six months ended December 31, 2019 and 2018 relating to investing activities, respectively.
+ 
+Net cash (used in) provided by financing activities
+was $2,191,072 for the six months ended December 31, 2019 and $(856,278) for the six months ended December 31, 2018.
+ 
+Our capital requirements going forward will
+consist of financing our operations until we are able to reach a level of revenues and gross margins adequate to equal or exceed
+our ongoing operating expenses. Other than the notes payable discussed above, borrowings from our bank and the production credit
+facility with our suppliers, we do not have any credit agreement or source of liquidity immediately available to us.
+ 
+Given estimates of our Company’s future
+operating results and our credit arrangements with our suppliers, we are currently forecasting that we will need to secure additional
+financing to obtain adequate financial resources to reach profitability. As of the date of this report, we estimate that the cash
+necessary to implement our current business plan for the next twelve months is approximately $2,000,000.
+ 
+Based on our need to raise additional funds
+to implement our business plans for the next twelve months, we have included a discussion concerning the presentation of our financial
+statements on a going concern basis in the notes to our financial statements and our independent public accountants have included
+a similar discussion in their opinion on our financial statements through June 30, 2019. We will be required in the near future
+to issue debt or sell our Company’s equity securities in order to raise additional cash, although there are no firm arrangements
+in place for any such financing at this time. We cannot provide any assurances as to whether we will be able to secure the necessary
+financing, or the terms of any such financing transaction if one were to occur. The failure to secure such financing could severely
+curtail our plans for future growth or in more severe scenarios, the continued operations of our Company.
+ 
+Capital Expenditures
+ 
+Our current plans do not call for our Company
+to expend significant amounts for capital expenditures for the foreseeable future beyond relatively insignificant expenditures
+for office furniture and information technology related equipment as we add employees to our Company. We are however continually
+evaluating the production processes of our third party contract manufacturers to determine if there are investments we could make
+in their processes to achieve manufacturing improvements and significant cost savings. Any such desired investments would require
+additional cash above our current forecast requirements.
+ 
+Critical Accounting Policies Involving Management Estimates and
+Assumptions 
+ 
+Please see the notes to our financial statements.
+ 
+
+ -27-
+ Table of Contents
+
+ITEM 3 – QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK
+ 
+Intentionally omitted pursuant to Item 305(e)
+of Regulation S-K.
+ 
+ITEM 4 – CONTROLS AND PROCEDURES
+ 
+Disclosure Controls and Procedures
+ 
+We maintain disclosure controls and procedures
+that are designed to provide reasonable assurance that information required to be disclosed in our Exchange Act reports is recorded,
+processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission’s rules and
+forms and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief
+Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating the disclosure
+controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can
+provide only reasonable, and not absolute, assurance of achieving the desired control objectives. In reaching a reasonable level
+of assurance, management necessarily was required to apply its judgment in evaluating the cost benefit relationship of possible
+controls and procedures. Our disclosure controls and procedures are designed to provide reasonable assurance of achieving their
+objectives.
+ 
+As required by the Securities and Exchange
+Commission Rule 13a-15(e) and Rule 15d-15(e), we carried out an evaluation, under the supervision of and with the participation
+of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation
+of our disclosure controls and procedures as of the end of the period covered by this report. Based on the foregoing, our Chief
+Executive Officer and Chief Financial Officer concluded that as of September 30, 2019, our disclosure controls and procedures were
+ineffective due to the Company is relatively inexperienced with certain complexities within USGAAP and SEC reporting.
+ 
+We have taken, and are continuing to take,
+certain actions to remediate the material weakness related to our lack of U.S. GAAP experience. We plan to hire additional credentialed
+professional staff and consulting professionals with greater knowledge and experience of U.S. GAAP and related regulatory requirements
+to oversee our financial reporting process in order to ensure our compliance with U.S. GAAP and other relevant securities laws.
+In addition, we plan to provide additional training to our accounting personnel on U.S. GAAP, and other regulatory requirements
+regarding the preparation of financial statements.
+ 
+Notwithstanding the above identified material
+weakness, the Company’s management believes that its condensed consolidated financial statements included in this report
+fairly present in all material respects the Company’s financial condition, results of operations and cash flows for the periods
+presented and that this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements, in light of the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report.
+ 
+Changes in Internal Controls over Financial Reporting
+ 
+There have not been any changes in our internal
+controls over financial reporting during the quarter ended September 30, 2019 that have materially affected, or are reasonably
+likely to materially affect, our internal controls over financial reporting.
+ 
+
+ -28-
+ Table of Contents
+
+PART II: Other Information
+ 
+ITEM 1 – RISK FACTORS
+ 
+Investment in our common stock involves a high
+degree of risk. You should carefully consider the risks described below together with all of the other information included in
+this herein before making an investment decision. If any of the following risks actually occur, our business, financial condition
+or results of operations could suffer. In that case, the market price of our common stock could decline, and you may lose all or
+part of your investment. You should also read the section entitled “Special Notes Regarding Forward-Looking Statements”
+below for a discussion of what types of statements are forward-looking statements as well as the significance of such statements
+in the context of this report.
+ 
+Investment in our common stock involves a high
+degree of risk. You should carefully consider the risks described below together with all of the other information included in
+this herein before making an investment decision. If any of the following risks actually occur, our business, financial condition
+or results of operations could suffer. In that case, the market price of our common stock could decline, and you may lose all or
+part of your investment.
+ 
+The Company, as of the end of the 2019 fiscal
+year (June) was at a stage where it requires external capital to continue with its business. It must obtain additional significant
+capital in the future to continue its operations. There can be no certainty that the Company can obtain these funds.
+ 
+ITEM 2 –UNREGISTERED SALES OF SECURITIES
+AND USE OF PROCEEDS
+ 
+During the three months ended December 31, 2019, the Company issued
+shares as followings:
+  
+
+
+ 
+·
+18,181,818 shares of common stock for settlement of debts in total fair value of $290,455
+
+ 
+
+
+ 
+·
+24,994,341 shares of common stock upon conversion of convertible notes of $135,290
+
+ 
+
+
+ 
+·
+500,000 shares of common stock as Employee bonus in total fair value of $7,550
+
+ 
+
+
+ 
+·
+249,373,817 shares of common stock for acquisition of BZRTH  in total fair value of $3,566,046
+
+ 
+
+
+ 
+·
+26,621,610 shares of common stock for cash of $240,000
+
+ 
+Subsequent to December 31, 2019, the Company issued shares as followings:
+ 
+
+
+ 
+·
+6,684,843 shares of common stock upon conversion of convertible notes of $33,291
+
+ 
+All of the aforementioned securities were issued pursuant to Section
+4(a)(2) of the Securities Act of 1933, as amended, and Rule 506 thereunder.
+ 
+ITEM 3 – DEFAULTS UPON SENIOR SECURITIES
+ 
+Not applicable.
+ 
+ITEM 4 – MINE SAFETY DISCLOSURES
+ 
+None.
+ 
+ITEM 5 – OTHER INFORMATION
+ 
+None.
+ 
+
+ -29-
+ Table of Contents
+
+ITEM 6 – EXHIBITS
+ 
+
+(1)       Filed as an exhibit
+to this Report.
+ 
+
+ -30-
+ Table of Contents
+
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.
+ 
+
+
+ 
+Sugarmade, Inc., a Delaware corporation
+
+ 
+ 
+ 
+ 
+
+February 19, 2020
+By:
+/s/ Jimmy Chan
+ 
+
+ 
+ 
+Jimmy Chan
+ 
+
+ 
+ 
+CEO, CFO, and Director
+ 
+
+ 
+
+ -31-
+
+
+

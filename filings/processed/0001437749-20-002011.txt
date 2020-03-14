@@ -1,0 +1,620 @@
+
+10-Q
+1
+djco20191231_10q.htm
+FORM 10-Q
+
+djco20191231_10q.htm
+
+ 
+
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549
+FORM 10-Q
+ 
+(Mark One)
+ 
+
+     
+Commission File Number 0-14665
+ 
+DAILY JOURNAL CORPORATION 
+(Exact name of registrant as specified in its charter)
+ 
+
+
+South Carolina  
+ 
+95-4133299
+
+
+(State or other jurisdiction of  
+ 
+(I.R.S. Employer
+
+
+incorporation or organization) 
+ 
+Identification No.)
+
+
+ 
+
+
+915 East First Street
+ 
+ 
+
+
+Los Angeles, California
+ 
+90012-4050
+
+
+(Address of principal executive offices)
+ 
+(Zip code)
+
+
+ 
+(213) 229-5300
+(Registrant's telephone number, including area code)
+ 
+None
+(Former name, former address and former fiscal year, if changed since last report)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+   Title of each class   
+Trading Symbol(s)
+Name of each exchange on which registered
+
+
+Common Stock, par value $.01 per share
+DJCO
+The NASDAQ Stock Market
+
+
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  
+Yes: ☒    No: ☐
+ 
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes: ☒     No: ☐
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”, and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large Accelerated Filer: ☐
+ 
+ Accelerated Filer: ☒
+
+
+Non-accelerated Filer: ☐
+ 
+Smaller Reporting Company: ☐
+
+
+ 
+ 
+Emerging Growth Company: ☐
+
+
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes: ☐    No: ☒
+Indicate the number of shares outstanding of each of the issuer's classes of common stock as of the latest practicable date: 1,380,746 shares outstanding at January 31, 2020
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+DAILY JOURNAL CORPORATION
+ 
+ 
+INDEX
+ 
+ 
+
+ 
+
+2
+
+ 
+
+
+ 
+ 
+ 
+PART I
+Item 1. FINANCIAL STATEMENTS
+DAILY JOURNAL CORPORATION
+CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+ 
+
+
+
+ 
+See accompanying Notes to Consolidated Financial Statements
+ 
+
+3
+
+ 
+
+ 
+ 
+DAILY JOURNAL CORPORATION
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(Unaudited)
+ 
+
+
+
+ 
+See accompanying Notes to Consolidated Financial Statements.
+ 
+
+4
+
+ 
+
+ 
+ 
+DAILY JOURNAL CORPORATION
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(Unaudited)
+ 
+
+
+
+ 
+See accompanying Notes to Consolidated Financial Statements
+ 
+
+5
+
+ 
+
+ 
+ 
+DAILY JOURNAL CORPORATION
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+ 
+
+
+
+ 
+See accompanying Notes to Consolidated Financial Statements.
+ 
+
+6
+
+ 
+
+ 
+DAILY JOURNAL CORPORATION
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+ 
+
+Note 1 - The Corporation and Operations
+ 
+Daily Journal Corporation (the “Company”) publishes newspapers and web sites covering California and Arizona and produces several specialized information services. It also serves as a newspaper representative specializing in public notice advertising. This is sometimes referred to as the Company’s “Traditional Business”.
+ 
+Journal Technologies, Inc. (“Journal Technologies”), a wholly-owned subsidiary of Daily Journal, supplies case management software systems and related products to courts, prosecutor and public defender offices, probation departments and other justice agencies, including administrative law organizations, city and county governments and bar associations. These organizations use the Journal Technologies family of products to help manage cases and information electronically, to interface with other critical justice partners and to extend electronic services to the public, including efiling and a website to pay traffic citations and fees online, and bar members. These products are licensed to more than 500 organizations in 42 states and internationally.
+ 
+      Essentially all of the Company’s U.S. operations are based in California, Arizona, Colorado and Utah. The Company also has a presence in Australia where Journal Technologies is working on two important software installation projects. 
+
+ 
+ 
+
+Note 2 - Basis of Presentation
+ 
+        In the opinion of the Company, the accompanying interim unaudited consolidated financial statements contain all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation of its financial position as of December 31, 2019, its results of operations for the three--months period ended December 31, 2019 and 2018, its consolidated statements of shareholders’ equity for the three months ended December 31, 2019 and 2018 and cash flows for the three-months ended December 31, 2019 and 2018. The results of operations for the three months ended December 31, 2019 are not necessarily indicative of the results to be expected for the full year.
+ 
+       The consolidated financial statements included herein have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission. Certain information and footnote disclosures normally included in financial statements prepared in accordance with generally accepted accounting principles have been condensed or omitted pursuant to such rules and regulations, although the Company believes that the disclosures are adequate to make the information presented not misleading. These financial statements should be read in conjunction with the financial statements and the notes thereto included in the Company's Annual Report on Form 10-K for the fiscal year ended September 30, 2019.
+ 
+       Certain reclassifications of previously reported amounts have been made to conform to the current year’s presentation.
+ 
+
+7
+
+ 
+
+ 
+
+ 
+
+Note 3 - Accounting Standards Adopted in Fiscal 2020
+ 
+     In February 2016, the Financial Accounting Standard Board issued Accounting Standards Update (“ASU”) 2016-02, Leases (Topic 842) which requires that all leases be recognized by lessees on the balance sheet through a right-of-use (ROU) asset and corresponding lease liability, including today’s operating leases.  During the first quarter of fiscal 2020, the Company adopted this standard using the optional adoption method, which does not require an adjustment to comparative period financial statements.  At December 31, 2019, the Company recorded a right-of-use (ROU) asset and lease liability of approximately $390,000 for its operating office leases.  As allowed by the guidance, the Company has elected not to recognize ROU assets and lease liabilities for short-term (less than one year) leases of any class of underlying asset.  ROU assets represent the Company’s right to use an underlying asset for the lease term, and lease liabilities represent its obligation to make rental payments from the leases.  ROU assets and liabilities are required to be recognized based on the present value of lease payments over the lease term.  At December 31, 2019, the Company had office lease obligations of approximately $20,000 beyond one year; it is deemed immaterial for the present value difference.  Operating office leases are included in operating lease ROU assets, current accrued liabilities and long-term accrued liabilities in the Company’s accompanying Consolidated Balance Sheets.  The Company’s adoption of this new standard had no significant impact on the Company’s financial condition, results of operations or disclosures. 
+
+ 
+ 
+
+Note 4 - Revenue Recognition
+ 
+      The Company recognizes revenues in accordance with the provisions of ASU No. 2014-09, Revenue from Contracts with Customers (ASC Topic 606), which it adopted effective October 1, 2017, using the modified retrospective method.
+ 
+       For the Company’s Traditional Business, proceeds from the sale of subscriptions for newspapers, court rule books and other publications and other services are recorded as deferred revenue and are included in earned revenue only when the services are provided, generally over the subscription term. Advertising revenues are recognized when advertisements are published and are net of agency commissions.
+ 
+      Journal Technologies contracts may include several products and services, which are generally distinct and include separate transaction pricing and performance obligations. Most are one-transaction contracts. These current subscription-type contract revenues include (i) implementation consulting fees to configure the system to go-live, (ii) subscription software license, maintenance (including updates and upgrades) and support fees, and (iii) third-party hosting fees when used. Revenues for consulting are recognized at point of delivery (go-live) upon completion of services. These contracts include assurance warranty provisions for limited periods and do not include financing terms. For some contracts, the Company acts as a principal with respect to certain services, such as data conversion, interfaces and hosting that are provided by third-parties, and recognizes such revenues on a gross basis. For legacy contracts with perpetual license arrangements, licenses and consulting services are recognized at point of delivery, and maintenance revenues are recognized ratably after the go-live. Other public service fees are earned and recognized as revenues when the Company processes credit card payments on behalf of the courts via its websites through which the public can efile cases and pay traffic citations and other fees.
+ 
+ASC 606 also requires the capitalization of certain costs of obtaining contracts, specifically sales commissions, which are to be amortized over the expected term of the contracts. For its software contracts, the Company incurs an immaterial amount of sales commission costs which have no significant impact on the Company’s financial condition and results of operations. In addition, the Company’s implementation and fulfillment costs do not meet all criteria required for capitalization.
+ 
+Since the Company recognizes revenues when it can invoice the customer pursuant to the contract for the value of completed performance, as a practical expedient and because reliable estimates cannot be made, it has elected not to include the transaction price allocated to unsatisfied performance obligations. Also, as a practical expedient, the Company has elected not to include its evaluation of variable consideration of certain usage-based public service fees that are included in some contracts. Furthermore, there are no fulfillment costs to be capitalized for the software contracts because these costs do not generate or enhance resources that will be used in satisfying future performance obligations.
+
+ 
+ 
+
+Note 5 - Basic and Diluted Income Per Share
+ 
+       The Company does not have any common stock equivalents, and therefore basic and diluted income (loss) per share are the same.
+ 
+
+8
+
+ 
+
+ 
+
+ 
+
+Note 6 - Investments in Marketable Securities
+ 
+All investments are classified as “Current assets” because they are available for sale at any time. These “available-for-sale” marketable securities are stated at fair value. The Company uses quoted prices in active markets for identical assets (consistent with the Level 1 definition in the fair value hierarchy) to measure the fair value of its investments on a recurring basis pursuant to ASC 820, Fair Value Measurement.
+ 
+As of December 31, 2019, there were net accumulated unrealized gains of $160,223,000 with these investments. With the adoption of ASU No. 2016-01, Subtopic 825-10 in the prior fiscal year, the Company recorded and included in its net income the net unrealized gains on investments of $19,531,000 for the three months ended December 31, 2019 as compared with a net unrealized losses on investments of $28,640,000 in the prior year period. At September 30, 2019, there were net accumulated unrealized gains of $140,692,000 recorded in the accompanying Consolidated Balance Sheets. Most of the unrealized gains were in the common stocks of three U.S. financial institutions and one foreign manufacturer.
+ 
+Investments in marketable securities as of December 31, 2019 and September 30, 2019 are summarized below.
+ 
+ 
+
+
+
+ 
+
+ 
+
+Note 7 - Income Taxes
+ 
+       For the three months ended December 31, 2019, the Company recorded a provision for income taxes of $5,280,000 on pretax income of $19,490,000.   This was the net result of applying the 19% effective tax rate anticipated for fiscal 2020 to the pretax loss, before the unrealized gains on investments, for the three months ended December 31, 2019. The effective tax rate was less than the statutory rate primarily due to the dividends received deduction and state tax benefits.  In addition, the Company recorded taxes on its unrealized gains on investments of $19,531,000 during the three months ended December 31, 2019.  The effective tax rate for the three months ended December 31, 2019 was 27%, after including the taxes on the unrealized gains on investments.
+ 
+     For the three months ended December 31, 2018, the Company recorded an income tax benefit of $8,317,000 on a pretax loss of $29,850,000.   This was the net result of applying the effective tax rate anticipated for fiscal 2019 to the pretax loss for the three months ended December 31, 2018. The effective tax rate was greater than the statutory rate primarily due to state tax benefits. 
+ 
+      The Company’s effective tax rate was 27% for the three months ended December 31, 2019 as compared with 28% in the prior year period. 
+ 
+      The Company files consolidated federal income tax returns in the United States and with various state jurisdictions and is no longer subject to examinations for fiscal years before fiscal 2016 with regard to federal income taxes and fiscal 2015 for state income taxes. 
+ 
+
+9
+
+ 
+
+ 
+
+ 
+
+Note 8 - Debt and Commitments
+ 
+During fiscal 2013, the Company borrowed from its investment margin account the aggregate purchase price of $29.5 million for two acquisitions, in each case pledging its marketable securities as collateral. The interest rate for these investment margin account borrowings fluctuates based on the Federal Funds Rate plus 50 basis points with interest only payable monthly. The interest rate as of December 31, 2019 was 2.25%. These investment margin account borrowings do not mature.
+ 
+In 2015, the Company purchased a 30,700 square foot office building constructed in 1998 on about 3.6 acres in Logan, Utah that had been previously leased by Journal Technologies. The Company paid $1.24 million and financed the balance with a real estate bank loan of $2.26 million which bears a fixed interest rate of 4.66% and is repayable in equal monthly installments of about $17,600 through 2030. This loan is secured by the Logan facility and can be paid off at any time without prepayment penalty. This real estate loan had a balance of approximately $1.8 million as of December 31, 2019.
+ 
+      The Company also owns its facilities in Los Angeles and leases space for its other offices under operating leases which expire at various dates through fiscal 2021.
+
+ 
+ 
+
+Note 9 - Contingencies
+ 
+From time to time, the Company is subject to contingencies, including litigation, arising in the normal course of its business. While it is not possible to predict the results of such contingencies, management does not believe the ultimate outcome of these matters will have a material effect on the Company’s financial position or results of operations or cash flows.
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+Note 10 - Operating Segments
+ 
+The Company’s reportable segments are: (i) the Traditional Business and (ii) Journal Technologies. All inter-segment transactions were eliminated. Summarized financial information regarding the Company’s reportable segments is shown in the following table:
+ 
+
+
+
+ 
+
+
+
+ 
+
+11
+
+ 
+
+ 
+        During the three months ended December 31, 2019, the Traditional Business had total revenues of $4,132,000 of which $2,820,000 were recognized, at a point of time, after services were provided and $1,312,000 were recognized ratably over the subscription terms. Total revenues for the Journal Technologies’ software business were $7,545,000 of which $2,454,000 were recognized upon completion of services with customer acceptance while $5,091,000 were recognized ratably over the license and maintenance periods.
+ 
+        During the three months ended December 31, 2018, the Traditional Business had total revenues of $4,199,000 of which $2,861,000 were recognized, at a point of time, after services were provided and $1,338,000 were recognized ratably over the subscription terms.  Total revenues for the Company’s software business were $6,229,000 of which $1,935,000 were recognized upon completion of services with customer acceptance while $4,294,000 were recognized ratably over the license and maintenance periods.
+ 
+        Approximately 65% of the Company’s revenues during the three-month period ended December 31, 2019 were derived from Journal Technologies, as compared with 60% in the prior year period. In addition, the Company’s revenues have been primarily from the United States with approximately 1% from foreign countries. Journal Technologies’ revenues are primarily from governmental agencies.
+ 
+        The following table sets forth certain deferred obligations from October 1, 2019 through December 31, 2019:
+ 
+
+
+
+ 
+
+ 
+
+Note 11 - Subsequent Events
+ 
+The Company has completed an evaluation of all subsequent events through the issuance date of these financial statements and concluded that no subsequent events occurred that required recognition to the financial statements or disclosures in the Notes to Consolidated Financial Statements.
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+
+Item 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+
+ 
+Results of Operations
+ 
+The Company continues to operate as two different businesses: (1) The Traditional Business, being the business of newspaper publishing and related services that the Company had before 1999 when it purchased a software development company, and (2) Journal Technologies, Inc. (“Journal Technologies”), a wholly-owned subsidiary which supplies case management software systems and related products to courts, prosecutor and public defender offices, probation departments and other justice agencies, including administrative law organizations, city and county governments and bar associations. These organizations use the Journal Technologies family of products to help manage cases and information electronically, to interface with other critical justice partners and to extend electronic services to the public, including efiling and a website to pay traffic citations and fees online, and bar members. These products are licensed to more than 500 organizations in 42 states and internationally.
+ 
+Comparable three-month periods ended December 31, 2019 and 2018
+ 
+Consolidated revenues were $11,677,000 and $10,428,000 for the three months ended December 31, 2019 and 2018, respectively. This increase of $1,249,000 (12%) was primarily from (i) increased Journal Technologies’ license and maintenance fees of $420,000, consulting fees of $148,000 and public service fees of $748,000, and (ii) increased Traditional Business’ government notice advertising net revenues of $40,000 and legal notice advertising net revenues of $61,000, partially offset by a reduction in the Traditional Business’ classified advertising net revenues of $16,000, trustee sale notice advertising net revenues of $37,000 and circulation revenues of $26,000. The Company’s revenues derived from Journal Technologies’ operations constituted about 65% and 60% of the Company’s total revenues for the three months ended December 31, 2019 and 2018, respectively.
+ 
+Consolidated operating expenses increased by $246,000 (2%) to $13,195,000 from $12,949,000. Total salaries and employee benefits increased by $232,000 (3%) to $8,887,000 from $8,655,000 primarily resulting from additional personnel costs for Journal Technologies. Outside services decreased by $85,000 (9%) to $860,000 from $945,000 mainly because of decreased contractor costs for Journal Technologies. Depreciation and amortization costs decreased by $25,000 to $128,000 from $153,000. Credit card merchant discount fees, which represent fees paid to credit card service providers to process payments for the public service fee revenues, increased by $112,000 (41%) to $382,000 from $270,000 mainly resulting from increased efilings. Accounting and legal fees decreased by $147,000 (36%) to $256,000 from $403,000 primarily because of decreased legal fees to review and negotiate Journal Technologies’ contracts with customers.
+ 
+The Company’s non-operating income, net of expenses, increased to $21,008,000 from a loss of $27,329,000 primarily because of the recording of net unrealized gains on investments of $19,531,000 during the three months ended December 31, 2019, as compared with net unrealized losses on investments of $28,640,000 during the prior year period.
+ 
+During the three months ended December 31, 2019, consolidated pretax income was $19,490,000, as compared with pretax loss of $29,850,000 in the prior year period. There was consolidated net income of $14,210,000 ($10.29 per share) after tax provisions for the three months ended December 31, 2019, as compared with a net loss of $21,533,000 (-$15.60 per share) in the prior year period.
+ 
+
+13
+
+ 
+
+ 
+At December 31, 2019, the aggregate fair market value of the Company’s marketable securities was $214,112,000. These securities had approximately $160,223,000 of net unrealized gains before taxes of $42,611,000, and generated approximately $1,680,000 in dividends income during the three months ended December 31, 2019, which lowers the Company’s effective income tax rate because of the dividends received deduction. Most of the unrealized gains were in the common stocks of three U.S. financial institutions and one foreign manufacturer.
+ 
+Additional detail about each of the Company’s reportable segments, and its corporate income and expenses, is set forth below:
+ 
+
+ 
+The Traditional Business
+ 
+      The Traditional Business had pretax income of $112,000, representing a $144,000 increase from a pretax loss of $32,000 in the prior year period.
+ 
+Advertising revenues increased by $66,000 to $2,126,000 from $2,192,000, primarily because of increased government notice advertising net revenues of $40,000 and legal notice advertising net revenues of $61,000, partially offset by reduced classified advertising net revenues of $16,000 and trustee sale notice advertising net revenues of $37,000.
+ 
+Trustee sale notices are very much dependent on the number of California and Arizona foreclosures for which public notice advertising is required by law. The number of foreclosure notices published by the Company decreased by 13% during the three months ended December 31, 2019 as compared to the prior year period. Because this slowing is expected to continue, the Company expects there will be fewer foreclosure notice and other public notice advertisements and declining revenues for all of fiscal 2020. The Company’s smaller newspapers, those other than the Los Angeles and San Francisco Daily Journals (“The Daily Journals”), accounted for about 87% of the total public notice advertising revenues in the three months ended December 31, 2019. Public notice advertising revenues and related advertising and other service fees constituted about 19% and 21% of the Company’s total revenues for the three months ended December 31, 2019 and 2018, respectively. Because of this concentration, the Company’s revenues would be significantly adversely affected if California and Arizona eliminated the legal requirement to publish public notices in adjudicated newspapers of general circulation, as was implemented in Arizona for one notice type that had represented approximately $500,000 in annual revenues for the Company. Also, if the adjudication of one or more of the Company’s newspapers was challenged and revoked, those newspapers would no longer be eligible to publish public notice advertising, and it could have a material adverse effect on the Company’s revenues.
+ 
+
+14
+
+ 
+
+ 
+The Los Angeles Daily Journal and San Francisco Daily Journal accounted for about 91% of The Traditional Business’ total circulation revenues, which declined by $26,000 (2%) to $1,312,000 from $1,338,000. The court rule and judicial profile services generated about 7% of the total circulation revenues, with the other newspapers and services accounting for the balance. Advertising service fees and other are Traditional Business segment revenues, which include primarily (i) agency commissions received from outside newspapers in which the advertising is placed, and (ii) fees generated when filing notices with government agencies.
+ 
+The Traditional Business segment operating expenses decreased by $210,000 (5%) to $3,998,000 from $4,208,000, primarily due to decreased personnel costs and outside contract printing and distributing costs.
+ 
+Journal Technologies
+ 
+Journal Technologies’ business segment pretax loss decreased by $860,000 (34%) to $1,652,000 from $2,512,000 for the three months ended December 31, 2019 and 2018, respectively.
+ 
+Revenues increased by $1,316,000 (21%) to $7,545,000 from $6,229,000 in the prior year period. Licensing and maintenance fees increased by $420,000 (9%) to $5,210,000 from $4,790,000. Consulting fees increased by $148,000 (27%) to $689,000 from $541,000 due to more go-lives.
+ 
+Deferred revenues on installation contracts primarily represent the fair value of advances from customers of Journal Technologies for installation services and are recognized upon final project go-lives. Deferred revenues on license and maintenance contracts represent prepayments of annual license and maintenance fees and are recognized ratably over the maintenance period. Other public service fees increased by $748,000 (83%) to $1,646,000 from $898,000 primarily due to additional efiling fee revenues.         
+ 
+Operating expenses increased by $456,000 (5%) to $9,197,000 from $8,741,000, primarily because of increased salaries and employee benefit costs.
+ 
+Taxes 
+ 
+For the three months ended December 31, 2019, the Company recorded a provision for income taxes of $5,280,000 on pretax income of $19,490,000.   This was the net result of applying the 19% effective tax rate anticipated for fiscal 2020 to the pretax loss, before the unrealized gains on investments, for the three months ended December 31, 2019. The effective tax rate was less than the statutory rate primarily due to the dividends received deduction and state tax benefits.  In addition, the Company recorded taxes on its unrealized gains on investments of $19,531,000 during the three months ended December 31, 2019.  The effective tax rate for the three months ended December 31, 2019 was 27%, after including the taxes on the unrealized gains on investments.
+ 
+For the three months ended December 31, 2018, the Company recorded an income tax benefit of $8,317,000 on a pretax loss of $29,850,000.   This was the net result of applying the effective tax rate anticipated for fiscal 2019 to the pretax loss for the three months ended December 31, 2018. The effective tax rate was greater than the statutory rate primarily due to state tax benefits. 
+ 
+The Company’s effective tax rate was 27% for the three months ended December 31, 2019 as compared with 28% in the prior year period. 
+ 
+
+15
+
+ 
+
+ 
+      The Company files consolidated federal income tax returns in the United States and with various state jurisdictions and is no longer subject to examinations for fiscal years before fiscal 2016 with regard to federal income taxes and fiscal 2015 for state income taxes. 
+ 
+Liquidity and Capital Resources
+ 
+During the three months ended December 31, 2019, the Company’s cash and cash equivalents and marketable security positions increased by $16,277,000, including unrealized gains on investments of $19,531,000. Cash and cash equivalents were used for the purchase of capital assets of $97,000 and operating activities of $3,126,000 which included net decreases of $1,298,000 in deferred subscriptions, deferred installation contracts and deferred maintenance agreements and others.
+ 
+The investments in marketable securities, which had an adjusted cost basis of approximately $53,889,000 and a market value of about $214,112,000 at December 31, 2019, generated approximately $1,680,000 in dividends income. These securities had approximately $160,223,000 of net unrealized gains before estimated taxes of $42,611,000 which will become due only when we sell securities in which there is unrealized appreciation. Beginning in fiscal 2019, changes in unrealized gains (losses) on investments are now included in the Company’s net income (loss) and thus may have a significant impact depending on the fluctuations of the market prices of the invested securities.
+ 
+Cash flows from operating activities decreased by $629,000 during the three months ended December 31, 2019 as compared to the prior year period, primarily due to (i) decreases in accounts payable and accrued liabilities of $1,786,000 because of the timing difference in remitting efiling fees to the courts and (ii) decreases in net deferred subscriptions, deferred maintenance agreements and others and deferred installation contracts of $1,327,000, partially offset by decreases in accounts receivable of $1,734,000 resulting from more collections.
+ 
+As of December 31, 2019, the Company had working capital of $201,231,000, including the liabilities for deferred subscriptions, deferred installation and maintenance agreements and others of $19,675,000.
+ 
+The Company believes that it will be able to fund its operations for the foreseeable future through its cash flows from operations and its current working capital and expects that any such cash flows will be invested in its businesses. The Company may or may not have the ability to borrow against its marketable securities. The Company also may entertain additional business acquisition opportunities. Any excess cash flows could be used to reduce the investment margin account liability or note payable collateralized by real estate or invested as management and the Board of Directors deem appropriate at the time.
+ 
+Such investments may include additional securities of the companies in which the Company has already invested, securities of other companies, government securities (including U.S. Treasury Notes and Bills) or other instruments. The decision as to particular investments will be driven by the Company’s belief about the risk/reward profile of the various investment choices at the time, and it may utilize government securities as a default if attractive opportunities for a better return are not available. The Company’s Chairman of the Board, Charles Munger, is also the vice chairman of Berkshire Hathaway Inc., which maintains a substantial investment portfolio. The Company’s Board of Directors has utilized his judgment and suggestions, as well as those of J.P. Guerin, the Company’s vice chairman, when selecting investments, and the Company expects both of them to continue to play an important role in monitoring existing investments and selecting any future investments.
+ 
+
+16
+
+ 
+
+ 
+As of December 31, 2019, the investments were concentrated in just six companies. Accordingly, a significant decline in the market value of one or more of the Company’s investments may not be offset by the hypothetically better performance of other investments, and that could result in a large decrease in the Company’s shareholders’ equity and net income.
+ 
+Critical Accounting Policies and Estimates
+ 
+        The Company’s financial statements and accompanying notes are prepared in accordance with U.S. generally accepted accounting principles. Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. These estimates and assumptions are affected by management’s application of accounting policies. Management believes that revenue recognition, accounting for software costs, fair value measurement and disclosures (including for the long-term Incentive Plan liabilities), testing for goodwill impairment and income taxes are critical accounting policies and estimates.
+ 
+     The Company’s critical accounting policies are detailed in its Annual Report on Form 10-K for the year ended September 30, 2019. The above discussion and analysis should be read in conjunction with the unaudited consolidated financial statements and notes thereto included in this report.  
+ 
+
+17
+
+ 
+
+ 
+Disclosure Regarding Forward-Looking Statements
+ 
+     This Quarterly Report on Form 10-Q includes “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Certain statements contained in this document, including but not limited to those in “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” are “forward-looking” statements that involve risks and uncertainties that may cause actual future events or results to differ materially from those described in the forward-looking statements. Words such as “expects,” “intends,” “anticipates,” “should,” “believes,” “will,” “plans,” “estimates,” “may,” variations of such words and similar expressions are intended to identify such forward-looking statements. We disclaim any intention or obligation to revise any forward-looking statements whether as a result of new information, future developments, or otherwise. There are many factors that could cause actual results to differ materially from those contained in the forward-looking statements. These factors include, among others: risks associated with software development and implementation efforts; Journal Technologies’ reliance on professional services engagements with justice agencies; material changes in the costs of postage and paper; possible changes in the law, particularly changes limiting or eliminating the requirements for public notice advertising; possible loss of the adjudicated status of the Company’s newspapers and their legal authority to publish public notice advertising; a further decline in public notice advertising revenues because of fewer foreclosures; a further decline in subscriber and commercial advertising revenues; possible security breaches of the Company’s software or websites; the Company’s reliance on its president and chief executive officer, who has reduced his work schedule due to a health issue; changes in accounting guidance; material weaknesses in the Company’s internal control over financial reporting; and declines in the market prices of the securities owned by the Company. In addition, such statements could be affected by general industry and market conditions, general economic conditions (particularly in California) and other factors.  Although the Company believes that the expectations reflected in such forward-looking statements are reasonable, it can give no assurance that such expectations will prove to have been correct. Important factors that could cause actual results to differ materially from those in the forward-looking statements are discussed in this Form 10-Q, including in conjunction with the forward-looking statements themselves. Additional information concerning factors that could cause actual results to differ materially from those in the forward-looking statements is contained from time to time in documents filed by the Company with the Securities and Exchange Commission, including in the Company’s Annual Report on Form 10-K for the fiscal year ended September 30, 2019.
+ 
+
+18
+
+ 
+
+ 
+ Item 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ 
+     For information regarding the Company’s market risk, refer to Item 7A – Quantitative and Qualitative Disclosures about Market Risk in the Company’s Form 10-K for the fiscal year ended September 30, 2019. There have been no material changes to the Company’s market risk exposures since September 30, 2019.
+ 
+   Item 4.  CONTROLS AND PROCEDURES
+ 
+     In light of the material weaknesses in the Company’s internal control over financial reporting discussed in the Company’s Form 10-K for the fiscal year ended September 30, 2019, management concluded that the Company’s disclosure controls and procedures were not effective as of December 31, 2019.  There were no material changes in the Company’s internal control over financial reporting or in other factors reasonably likely to affect its internal control over financial reporting during the quarter ended December 31, 2019.
+  
+
+19
+
+ 
+
+ 
+PART II 
+ 
+Item 6.  Exhibits
+ 
+
+ 
+SIGNATURE
+ 
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+ 
+
+
+
+ 
+
+
+DAILY JOURNAL CORPORATION
+
+
+
+
+ 
+
+
+(Registrant) 
+
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+
+
+/s/ Gerald L. Salzman
+
+
+
+ 
+ 
+
+
+
+ 
+
+
+Chief Executive Officer 
+
+
+
+
+ 
+
+
+President 
+
+
+
+ 
+Chief Financial Officer
+
+
+ 
+Treasurer
+
+
+ 
+(Principal Executive Officer
+
+
+ 
+Principal Financial Officer and
+
+
+ 
+Principal Accounting Officer)
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+DATE: February 7, 2020
+ 
+
+
+ 
+20
+
+

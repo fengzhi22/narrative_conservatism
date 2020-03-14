@@ -1,0 +1,2036 @@
+
+10-Q
+1
+tm205300d1_10q.htm
+FORM 10-Q
+
+
+ 
+
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 10-Q
+ 
+
+
+x
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+For the quarterly period ended December
+31, 2019
+ 
+OR
+ 
+
+
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+For the transition period from          to
+ 
+Commission File Number: 001-36745
+ 
+Applied DNA Sciences, Inc.
+(Exact name of registrant as specified in
+its charter)
+ 
+
+
+Delaware
+59-2262718
+
+(State or other jurisdiction of
+(I.R.S. Employer
+
+incorporation or organization)
+Identification No.)
+
+ 
+ 
+
+50 Health Sciences Drive
+ 
+
+Stony Brook, New York
+11790
+
+(Address of principal executive offices)
+(Zip Code)
+
+ 
+631-240-8800
+(Registrant’s telephone number, including
+area code)
+ 
+Securities
+registered pursuant to Section 12(b) of the Act:
+ 
+
+
+Title of each class
+ 
+Trading
+Symbol(s)
+ 
+Name of each exchange on which registered
+
+Common Stock, $0.001 par value
+ 
+APDN
+ 
+The Nasdaq Capital Market
+
+ 
+Indicate by check mark
+whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+x   Yes    ¨    No
+ 
+Indicate by check mark
+whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405
+of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files).
+x   Yes    ¨    No
+ 
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See the definitions of “large accelerated filer”, “accelerated filer”, “smaller
+reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one): 
+ 
+
+
+Large accelerated filer ¨
+Accelerated filer ¨
+
+Non-accelerated filer x
+Smaller reporting company x
+
+ 
+Emerging Growth Company ¨
+
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨
+ 
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+¨   Yes    x    No
+ 
+On February 3, 2020, the registrant had
+3,485,399 shares of common stock outstanding.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+Applied DNA Sciences, Inc.
+ 
+Form 10-Q for the Quarter Ended December
+31, 2019
+ 
+Table of Contents
+ 
+
+ 
+
+
+ 
+ 
+
+ 
+Part I - Financial Information 
+Item 1 – Financial Statements
+ 
+
+ 
+See the accompanying notes to the unaudited
+condensed consolidated financial statements
+ 
+
+ 1 
+ 
+
+
+ 
+APPLIED DNA SCIENCES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF
+OPERATIONS
+(Unaudited)
+ 
+
+ 
+See the accompanying notes to the unaudited
+condensed consolidated financial statements
+ 
+
+
+ 2 
+ 
+
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+CONDENSED CONSOLIDATED STATEMENT OF STOCKHOLDERS’
+EQUITY
+(Unaudited)
+ 
+
+ 
+
+ 
+
+ 3 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF
+CASH FLOWS
+(Unaudited)
+ 
+
+ 
+See the accompanying notes to the unaudited
+condensed consolidated financial statements
+ 
+
+ 4 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE A — SUMMARY OF ACCOUNTING
+POLICIES
+ 
+General
+ 
+The accompanying condensed consolidated
+financial statements as of December 31, 2019 and for the three month periods ended December 31, 2019 and 2018 are unaudited. These
+unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted
+in the United States (“GAAP”) for interim financial information and are presented in accordance with the requirements
+of Regulation S-X of the Securities and Exchange Commission (the “SEC”) and with the instructions to Form 10-Q. Accordingly,
+they do not include all the information and footnotes required by GAAP for complete financial statements.
+ 
+In the opinion of management, all adjustments
+(consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Operating results for
+the three-month period ended December 31, 2019 are not necessarily indicative of the results that may be expected for the fiscal
+year ending September 30, 2020. The unaudited condensed consolidated financial statements should be read in conjunction with the
+audited consolidated financial statements as of and for the fiscal year ended September 30, 2019 and footnotes thereto included
+in the Annual Report on Form 10-K of Applied DNA Sciences, Inc. (the “Company”) filed with the SEC on December 12,
+2019, as amended.
+ 
+The condensed consolidated balance sheet
+as of September 30, 2019 contained herein has been derived from the audited consolidated financial statements as of September 30,
+2019 but does not include all disclosures required by GAAP.
+ 
+Business and Basis of Presentation
+ 
+The Company is principally devoted to developing
+and marketing linear DNA technology solutions in the United States, Europe and Asia. These solutions are used in, among other things,
+supply chain security, brand protection, law enforcement and drug and biologic applications. To date, the Company has produced
+limited recurring revenues from its products and services and has incurred expenses and has sustained losses. Consequently, its
+operations are subject to all the risks inherent in the establishment and development of a biotechnology company.
+ 
+The unaudited condensed consolidated financial
+statements include the accounts of the Company and its wholly-owned subsidiaries, APDN (B.V.I.) Inc., Applied DNA Sciences Europe
+Limited, and Applied DNA Sciences India Private Limited, and its majority-owned subsidiary, LineaRx, Inc. (“LRx”).
+Significant inter-company transactions and balances have been eliminated in consolidation. To facilitate comparison of information
+across periods, certain reclassifications have been made to prior year amounts to conform to the current year’s presentation.
+ 
+On October 31, 2019, the Company filed
+a Certificate of Amendment of its Certificate of Incorporation with the Secretary of State of the State of Delaware that effected
+a one-for-forty (1:40) reverse stock split of its common stock, par value $.001 per share (“Common Stock”), effective
+November 1, 2019. All warrant, option, share, and per share information in the condensed consolidated financial statements gives
+retroactive effect to a one-for-forty reverse stock split that was affected on November 1, 2019.
+ 
+Inventories
+ 
+Inventories, which consist primarily of
+raw materials, and finished goods, are stated at the lower of cost or net realizable value, with cost determined by using the first-in,
+first-out (FIFO) method.
+ 
+Revenue Recognition
+ 
+In May 2014, the Financial Accounting Standards
+Board (“FASB”) issued accounting standard updates which clarified principles for recognizing revenue arising from contracts
+with customers (“ASC 606” or “Topic 606”) and superseded most current revenue recognition guidance, including
+industry-specific guidance.
+ 
+
+ 5 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE A — SUMMARY OF ACCOUNTING
+POLICIES (continued)
+ 
+Revenue
+Recognition, continued
+ 
+The core principle of the revenue standard
+is that an entity recognizes revenue to depict the transfer of promised goods or services to clients in an amount that reflects
+the consideration to which the entity expects to be entitled in exchange for those goods or services. ASC 606 applies a five-step
+model for revenue measurement and recognition and also requires increased disclosures including the nature, amount, timing, and
+uncertainty of revenue and cash flows related to contracts with clients.
+ 
+The Company measures
+revenue at the amounts that reflect the consideration to which it is expected to be entitled in exchange for transferring control
+of goods and services to customers. The Company recognizes revenue either at the point in time or over the period of time that
+performance obligations to customers are satisfied. The Company’s contracts with customers may include multiple performance
+obligations (e.g. taggants, maintenance, authentication services, research and development services, etc.). For such arrangements,
+the Company allocates revenues to each performance obligation based on their relative standalone selling price.
+ 
+The Company recognizes revenue upon transfer
+of control of promised goods or services to customers in an amount that reflects the consideration it expects to receive for those
+goods or services, including any variable consideration.
+ 
+Due to the short-term nature of the Company’s
+contracts with customers, it has elected to apply the practical expedients under Topic 606 to: (1) expense as incurred, incremental
+costs of obtaining a contract and (2) not adjust the consideration for the effects of a significant financing component for contracts
+with an original expected duration of one year or less.   
+ 
+Product Revenues
+and Authentication Services
+ 
+The Company’s PCR-produced linear
+DNA products, including molecular taggants are manufactured in accordance with contracts with customers. The Company recognizes
+revenue upon satisfying its promises to transfer goods or services to customers under the terms of its contracts. These performance
+obligations are satisfied at the point in time the Company transfers control of the goods to the customer, which in nearly all
+cases is when title to and risk of loss of the goods transfer to the customer. The timing of transfer of title and risk of loss
+is dictated by customary or explicitly stated contract terms. The Company does not consider payment terms a performance obligation
+for customers with contractual terms that are one year or less and has elected the practical expedient. Nearly all of the Company’s
+sales contracts reflect market pricing at the time the contract is executed, or are one year or less, and generally provide for
+shipment within 30 to 60 days after the price has been agreed upon with the customer. The Company invoices customers upon shipment,
+and its collection terms range, on average from 30 to 60 days.
+ 
+The cotton ginning season in the United
+States takes place between September and March each year; therefore, revenues from these customer contracts may be seasonal and
+are recognized primarily during the first and fourth quarters of the Company’s fiscal year.
+ 
+Authentication Services
+ 
+The Company recognizes revenue for authentication
+services upon satisfying its promises to provide services to customers under the terms of its contracts. These performance obligations
+are satisfied at the point in time the Company services are complete, which in nearly all cases is when the authentication report
+is released to the customer.
+ 
+
+ 6 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE A — SUMMARY OF ACCOUNTING
+POLICIES (continued)
+ 
+Revenue
+Recognition, continued
+ 
+Research and Development Services
+ 
+The Company records revenue for its research
+and development contracts using the over-time revenue recognition model. Revenue is primarily measured using the cost-to-cost method,
+which the Company believes best depicts the transfer of control to the customer.  Under the cost-to-cost method, the
+extent of progress towards completion is measured based on the ratio of actual costs incurred to the total estimated costs expected
+upon satisfying the identified performance obligation.
+ 
+Revenues are recorded proportionally as
+costs are incurred. For contracts where the total costs cannot be estimated, revenues are recognized for the actual costs incurred
+during a period until the remaining costs to complete a contract can be estimated. The Company has elected to not disclose the
+value of unsatisfied performance obligations for contracts with an original expected duration of one year or less.
+ 
+Disaggregation of Revenue
+ 
+The following table presents revenues disaggregated
+by our business operations and timing of revenue recognition:
+ 
+
+ 
+Contract balances
+ 
+As of December
+31, 2019, the Company has entered into contracts with customers for which revenue has not yet been recognized. Consideration received
+from a customer prior to revenue recognition is recorded to a contract liability and is recognized as revenue when the Company
+satisfies the related performance obligations under the terms of the contract. The Company’s contract liabilities, which
+are reported as deferred revenue on the condensed consolidated balance sheet, consist almost entirely of research and development
+contracts where consideration has been received and the development services have not yet been fully performed.
+ 
+The opening and closing balances of
+the Company’s contract balances are as follows:
+ 
+
+ 
+For the three
+month period ended December 31, 2019, the Company recognized $244,484 of revenue that was included in Contract liabilities as of
+October 1, 2019.
+ 
+
+
+ 7 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE A — SUMMARY OF ACCOUNTING
+POLICIES (continued)
+ 
+Use of Estimates
+ 
+The preparation of the financial statements
+in conformity with GAAP requires management to make estimates and assumptions that affect certain reported amounts and disclosures.
+Management bases its estimates on historical experience and on various assumptions that are believed to be reasonable under the
+circumstances, the results of which form the basis for making judgments about the carrying value of assets and liabilities that
+are not readily apparent from other sources. The most complex and subjective estimates include revenue recognition, recoverability
+of long-lived assets, including the values assigned to goodwill, intangible assets and property and equipment, fair value calculations
+for stock-based compensation and convertible promissory notes, contingencies, allowance for doubtful accounts and management’s
+anticipated liquidity. Management reviews its estimates on a regular basis and the effects of any material revisions are reflected
+in the condensed consolidated financial statements in the period they are deemed necessary. Accordingly, actual results could differ
+from those estimates. 
+ 
+Income Taxes
+ 
+The Company recognizes deferred tax liabilities
+and assets for the expected future tax consequences of events that have been included in the financial statements or tax returns.
+Deferred tax assets and liabilities are determined based on the difference between the financial statement and tax basis of assets
+and liabilities using enacted tax rates in effect for the year in which the differences are expected to reverse. The Company estimates
+the degree to which tax assets and credit carry forwards will result in a benefit based on expected profitability by tax jurisdiction.
+ 
+In its interim financial statements, the
+Company follows the guidance in ASC 270, “Interim Reporting” and ASC 740 “Income Taxes”, whereby the Company
+utilizes the expected annual effective tax rate in determining its income tax provisions for the interim periods. That rate differs
+from U.S. statutory rates primarily as a result of valuation allowance related to the Company’s net operating loss carryforward
+as a result of the historical losses of the Company.
+ 
+Net Loss Per Share
+ 
+The Company presents loss per share utilizing
+a dual presentation of basic and diluted loss per share. Basic loss per share includes no dilution and has been calculated based
+upon the weighted average number of common shares outstanding during the period. Dilutive common stock equivalents consist of shares
+issuable upon the exercise of the Company’s stock options and warrants.
+ 
+For the three month periods ended December
+31, 2019 and 2018, common stock equivalent shares are excluded from the computation of the diluted loss per share as their effect
+would be anti-dilutive.
+ 
+Securities that could potentially dilute
+basic net income per share in the future were not included in the computation of diluted net loss per share because to do so would
+have been anti-dilutive for the three month periods ended December 31, 2019 and 2018 are as follows: 
+ 
+
+ 
+
+
+ 8 
+ 
+
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE A — SUMMARY OF ACCOUNTING
+POLICIES (continued)
+ 
+Stock-Based Compensation
+ 
+The Company accounts for stock-based compensation
+for employees, directors and nonemployees in accordance with ASC 718, Compensation (“ASC 718”). ASC 718 requires all
+share-based payments, including grants of employee stock options, to be recognized in the statement of operations based on their
+fair values. Under the provisions of ASC 718, stock-based compensation costs are measured at the grant date, based on the fair
+value of the award, and are recognized as expense over the requisite service period (generally the vesting period of the equity
+grant). The fair value of the Company’s common stock options are estimated using the Black Scholes option-pricing model with
+the following assumptions: expected volatility, dividend rate, risk free interest rate and the expected life. The Company expenses
+stock-based compensation by using the straight-line method. In accordance with ASC 740, excess tax benefits realized from the exercise
+of stock-based awards are classified as cash flows from operating activities. All excess tax benefits and tax deficiencies (including
+tax benefits of dividends on share-based payment awards) are recognized as income tax expense or benefit in the condensed consolidated
+statements of operations.
+ 
+Concentrations
+ 
+Financial instruments and related items,
+which potentially subject the Company to concentrations of credit risk, consist primarily of cash, cash equivalents and trade receivables.
+The Company places its cash and cash equivalents with high credit quality institutions. At times, such investments may be in excess
+of the FDIC insurance limit.
+ 
+The Company’s revenues earned from
+sale of products and services for the three month period ended December 31, 2019 included an aggregate of 27%, 22% and 10% from
+three customers, respectively.
+ 
+The Company’s revenues earned from
+sale of products and services for the three month period ended December 31, 2018 included an aggregate of 27%, 23%, 14% and 12%
+from four customers, respectively.
+ 
+Five customers accounted for 70% of the
+Company’s accounts receivable at December 31, 2019 and one customer accounted for an aggregate of 77% of the Company’s
+accounts receivable at September 30, 2019.
+ 
+Fair Value of Financial Instruments
+ 
+The valuation techniques utilized are based upon observable
+and unobservable inputs. Observable inputs reflect market data obtained from independent sources, while unobservable inputs reflect
+internal market assumptions. These two types of inputs create the following fair value hierarchy:
+ 
+Level 1
+ — Quoted prices in active markets for identical assets or liabilities.
+ 
+Level 2 — Observable inputs
+other than Level 1 prices such as quoted prices for similar assets or liabilities; quoted prices in markets that are not active
+or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the related
+asset or liabilities.
+ 
+Level 3
+ — Unobservable inputs that are supported by little or no market activity and that are significant to the fair value of assets
+or liabilities.
+ 
+The Company utilizes observable market
+inputs (quoted market prices) when measuring fair value whenever possible.
+ 
+For fair value measurements categorized within Level 3 of the
+fair value hierarchy, the Company’s accounting and finance department, who report to the Chief Financial Officer, determine
+its valuation policies and procedures. The development and determination of the unobservable inputs for Level 3 fair value measurements
+and fair value calculations are the responsibility of the Company’s accounting and finance department and are approved by
+the Chief Financial Officer.
+ 
+
+ 9 
+ 
+
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE A — SUMMARY OF ACCOUNTING POLICIES (continued)
+ 
+Fair
+Value of Financial Instruments, continued
+ 
+As of December 31, 2019, there were
+no transfers between Levels 1, 2 and 3 of the fair value hierarchy.
+ 
+Summary of Significant Valuation Techniques
+ 
+Level 3 Measurements:
+ 
+Secured
+convertible notes payable: For the Existing Notes (as defined in Note E), the Company has elected to record them at
+fair value. The fair value for the Existing Notes is estimated using the Monte Carlo simulation model. Significant observable and
+unobservable inputs include stock price, conversion price, annual risk free rate, term, likelihood of an event of default, and
+expected volatility. An increase or decrease in these inputs could significantly increase or decrease the fair value of the secured
+convertible notes payable. See Note E.
+ 
+Recent Accounting Standards
+ 
+In February 2016, the FASB issued ASU No. 2016-02, "Leases
+(Topic 842)." The objective of this update is to increase transparency and comparability among organizations by recognizing
+lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. This ASU is
+effective for fiscal years beginning after December 15, 2018, including interim periods within those annual periods and is to be
+applied utilizing a modified retrospective approach. The Company adopted Topic 842 as of October 1, 2019 utilizing the modified
+retrospective approach. The adoption of Topic 842 did not have a significant impact on its condensed consolidated financial statements,
+as the Company does not currently have any long-term lease obligations. The Company has elected the short-term lease measurement
+and recognition exemption as all of the Company’s leases are for twelve months or less.
+ 
+
+ 10 
+ 
+
+
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019 (unaudited)
+ 
+NOTE B — LIQUIDITY AND MANAGEMENT’S
+PLAN
+ 
+The Company has recurring net losses, which
+have resulted in an accumulated deficit of $259,471,142 as of December 31, 2019. The Company incurred a net loss of $2,662,741
+and generated negative operating cash flow of $2,731,273 for the three month period ended December 31, 2019. At December 31, 2019
+the Company had cash and cash equivalents of $8,662,853 and working capital of $8,128,977.
+ 
+The Company’s current capital
+resources include cash and cash equivalents, accounts receivable and inventories. The Company expects to finance its
+operations primarily through cash received from the November 2019 underwritten public offering, discussed below, as well as
+collection of its accounts receivable. The Company estimates that it will have sufficient cash and cash equivalents to fund
+operations for the next twelve months from the date of filing of this quarterly report. Historically, the Company has
+financed its operations principally from the sale of equity and equity-linked securities.
+ 
+As discussed in Note F, on November 15, 2019 the Company closed
+on an underwritten public offering of 2,285,000 shares of Common Stock and warrants to purchase up to an aggregate of 2,285,000
+shares of Common Stock. Each share of Common Stock was sold together with one warrant to purchase one share of Common Stock at
+a combined effective price to the public of $5.25 per share and accompanying warrant. Gross proceeds, before underwriting discounts
+and commissions and estimated offering expenses, were approximately $12.0 million. After deducting underwriting discounts and commissions
+and other offering expenses, the total net proceeds were $10.5 million.
+ 
+The Company may require additional funds to complete the continued
+development of its products, product manufacturing, and to fund expected additional losses from operations until revenues are sufficient
+to cover its operating expenses. If revenues are not sufficient to cover the Company’s operating expenses, and if the Company
+is not successful in obtaining the necessary additional financing, the Company will most likely be forced to reduce operations.
+ 
+NOTE C — INVENTORIES
+ 
+Inventories consist of the following:
+ 
+
+ 
+
+
+ 11 
+ 
+
+
+ 
+ APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE D — ACCOUNTS PAYABLE AND
+ACCRUED LIABILITIES
+ 
+Accounts payable and accrued liabilities
+are as follows:
+ 
+
+ 
+NOTE E — SECURED CONVERTIBLE NOTES
+PAYABLE
+ 
+During December 2019, the remaining
+outstanding balance of the secured convertible notes payable entered into during August and November 2018 (the
+ “Existing Notes”), for a total of $107,802, was repaid by the Company.
+ 
+During the three month period ended December 31, 2019, the Company
+reclassified $32,795 from accrued liabilities to senior secured notes payable to represent interest due to noteholders that was
+paid in kind and therefore increased the convertible note balance outstanding at December 31, 2019.
+ 
+The Company incurred $64,608 of debt
+issuance costs based on the cost incurred to issue  the secured convertible notes payable that were issued during
+July 2019  (the “July 2019 Notes”). As disclosed in Note F, the holder of the July 2019 Notes also
+participated in the November 15, 2019 underwritten public offering. During the three month periods ended December 31, 2019
+and 2018 the Company amortized $6,157 and $4,492, respectively, of debt issuance costs resulting in unamortized debt issuance
+costs of $53,525 and the secured notes payable of $1,479,254 at December 31, 2019. The debt issuance cost will be amortized
+over the life of the July 2019 Notes. During the three month periods ended December 31, 2019 and 2018, the Company incurred
+$28,543 and $27,120 of interest expense, respectively. The effective interest rate for the three month periods ended December
+31, 2019 and 2018 was 8.0% and 7.0%, respectively.
+ 
+
+ 12 
+ 
+
+
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE F — CAPITAL STOCK
+ 
+On October 31, 2019, the Company filed a Certificate of Amendment
+of its Certificate of Incorporation with the Secretary of State of the State of Delaware that effected a one-for-forty (1:40) reverse
+stock split of its Common Stock effective November 1, 2019. All warrant, option, share, and per share
+information in the consolidated financial statements gives retroactive effect to the one-for-forty reverse stock split that was
+effected on November 1, 2019.  
+ 
+On November 15, 2019, the Company
+closed an underwritten public offering (the “Offering”) in which, pursuant to the Underwriting Agreement
+dated November 13, 2019 by and between the Company and Maxim Group LLC (“Maxim”), as Representative of the
+Underwriters, the Company issued and sold 2,285,000 shares of the Company’s Common Stock and 2,285,000
+accompanying warrants each with the right to purchase one share of Common Stock at an exercise price of $5.25 per share (the
+ “Common Warrants”). The shares of Common Stock and accompanying Common Warrants were sold at a combined offering
+price of $5.25 before underwriting discounts. The Common Stock and the Common Warrants are collectively referred to herein as
+the “Securities.” As part of the Offering, the Company granted Maxim a 45-day option to purchase an additional
+342,750 shares of Common Stock and/or additional Common Warrants to purchase 342,750 shares of Common Stock (the
+ “Option Warrants”, together with the Common Warrants, the “Warrants”) at the public offering price, less discounts and
+commissions, to cover any over-allotments made by the Underwriters in the sale and distribution of the Securities. The gross
+proceeds of the offering, before deducting Underwriter discounts and commissions and other offering expenses, were
+approximately $12.0 million. 
+ 
+After deducting underwriting discounts and commissions and other
+expenses related to the offering, the aggregate net proceeds were approximately $10.5 million.
+ 
+On December 17, 2019, the Company closed on the Underwriters’
+partial exercise of its over-allotment option for 342,750 Common Warrants for gross proceeds of $3,428.
+ 
+The total number of Common Stock and Warrants issued under this
+offering, including the exercise of the over-allotment option was 2,285,000 and 2,627,750, respectively. The gross proceeds to
+us were approximately $12.0 million and net proceeds after deducting underwriting expenses and other estimated offering expenses
+was approximately $10.5 million.
+ 
+Pursuant to the Warrant Agreement, each Common Warrant will
+be exercisable beginning on the date of issuance thereof and ending on November 15, 2024.
+ 
+The Common Warrants include an
+adjustment provision that, subject to certain exceptions, reduces their exercise price if the Company issues Common Stock or
+Common Stock equivalents at a price lower than the then-current exercise price of the Common Warrants, subject to a minimum
+exercise price of $1.47 per share.
+ 
+Subject to limited exceptions, a holder of a Common Warrant
+will not have the right to exercise any portion of its Common Warrant if the holder, together with its affiliates, would beneficially
+own in excess of 4.99% (or, at the election of the holder, 9.99%) of the number of shares of Common Stock outstanding immediately
+after giving effect to such exercise (the “Beneficial Ownership Limitation”); provided, however, that upon 61
+days’ prior notice to us, the holder may increase the Beneficial Ownership Limitation, provided that in no event shall the
+Beneficial Ownership Limitation exceed 9.99%.
+ 
+The exercise price and number of the shares of Common Stock
+issuable upon the exercise of the Common Warrant will be subject to adjustment in the event of any stock dividends and splits,
+reverse stock split, recapitalization, reorganization or similar transaction, as described in the Warrant Agreement.
+ 
+As a result of this financing, the exercise price of the 8,375
+remaining warrants issued during December 2018 was reduced to an exercise price of $5.60 per share in accordance with the adjustment
+provision contained in the Warrant Agreement. The incremental change in fair value of these warrants as a result of the triggering
+event was $2,842.
+ 
+
+
+ 13 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE G —WARRANTS 
+ 
+Warrants
+ 
+The following table summarizes the
+changes in warrants outstanding. These warrants were granted in lieu of cash compensation for services performed or as
+financing expenses in connection with the sales of the Company’s Common Stock.
+ 
+Transactions involving warrants (see Note
+F) are summarized as follows:
+ 
+
+ 
+NOTE H — COMMITMENTS AND CONTINGENCIES
+ 
+Operating Leases
+ 
+The Company leases office space under an
+operating lease in Stony Brook, New York for its corporate headquarters. The lease is for a 30,000 square foot building. The term
+of the lease commenced on June 15, 2013 and expired on May 31, 2017, with the option to extend the lease for two additional three-year
+periods. The Company has exercised its option to extend the lease for one additional three-year period ending May 31, 2019. The
+base rent during the additional three-year period is $458,098 per annum. During November 2019, the Company extended this lease
+until January 15, 2020. In addition to the office space, the Company also has 2,200 square feet of laboratory space. On January
+20, 2020, the Company entered into an agreement to amend both of these leases, extending the term for the corporate headquarters
+as well as the laboratory space until January 15, 2021, with a one-year renewal option. The Company also has a satellite testing
+facility in Ahmedabad, India, which occupies 1,108 square feet for a three-year term beginning November 1, 2017. The base rent
+is approximately $6,500 per annum. The Company’s total short-term lease obligation as of December 31, 2019 is $572,482.
+ 
+The total rent expense for the three
+month periods ended December 31, 2019 and 2018 were $133,604 and $129,193, respectively.
+ 
+
+
+ 14 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE H — COMMITMENTS AND
+CONTINGENCIES (continued)
+ 
+Employment Agreement
+ 
+
+On
+July 28, 2016, the Company entered into an employment agreement with Dr. James Hayward, its Chief Executive Officer (“CEO”),
+effective July 1, 2016. The initial term was through June 30, 2017, with automatic one-year renewal periods. As of
+June 30, 2019, the employment agreement renewed for an additional year. Under the employment
+agreement, the CEO will be eligible for a special cash incentive bonus of up to $800,000, $300,000 of which will be payable if
+and when annual revenue reaches $8 million and $100,000 of which would be payable for each $2 million of annual revenue in excess
+of $8 million, provided that the CEO is still employed by the Company on such date(s). Pursuant to the employment agreement, the
+CEO’s initial  annual salary was $400,000 and the Company will pay or reimburse the CEO in an amount of up to $1,500
+per month for costs associated with an automobile used by the CEO. As of December 31, 2019, the CEO’s base salary is equal
+to $150,000. The agreement with the CEO also provides that if he is terminated by the Company without cause or if the
+CEO terminates his employment for good reason, then, in addition to earned and unpaid salary, bonus and benefits, and subject to
+the delivery of a general release and continuing compliance with restrictive covenants, the CEO will be entitled to receive a pro
+rata portion (based on the number of days elapsed from the beginning of the Company’s fiscal year) of the greater of (X)
+the annual bonus he would have received if employment had continued through the end of the year of termination or (Y) the prior
+year’s bonus; installment payments for two years following termination in an aggregate amount equal to the greater of (i)
+2.99 times the CEO’s base salary or (ii) two times the sum of (A) the CEO’s base salary and (B) the CEO’s prior
+year’s bonus (or, if greater, the CEO’s target bonus for the year of termination); Company-paid COBRA continuation
+coverage for 18 months post-termination; continuing life insurance benefits (if any) for two years; and extended exercisability
+of outstanding vested options (for three years from termination date or, if earlier, the expiration of the fixed option term).
+ 
+If termination of employment as described
+above occurs within six months before or two years after a change in control of the Company, then, in addition to the above payments
+and benefits, the CEO will receive a lump sum payment of the amounts that would otherwise be paid as installment payments. In general,
+a change in control will include a 30% or more change in ownership of the Company. Further, all of the CEO’s outstanding
+options and other equity incentive awards will become fully vested upon the occurrence of a change in control of the Company (whether
+or not his employment is terminated in connection with such change in control).
+ 
+Upon termination due to death or disability,
+the CEO will generally be entitled to receive the same payments and benefits he would have received if his employment had been
+terminated by the Company without cause (as described in the preceding paragraph), other than the installment payments.
+ 
+Effective March 15, 2018, the Compensation Committee of the
+Company’s Board of Directors, approved a bonus of $121,125 that would be payable to the CEO when the Company reaches $3,000,000
+in revenues for two consecutive quarters or $12,000,000 in revenues for a fiscal year, provided that the CEO is still employed
+by the Company on such date (the “Revenue Bonus”).
+ 
+Effective May 2, 2018, the Compensation Committee of the Company’s
+Board of Directors, increased the amount of the Revenue Bonus to $403,623. Effective December 11, 2019, the compensation committee
+approved an additional bonus opportunity of $250,000 for the calendar year-ended December 31, 2020 that would be payable to the
+CEO under the same terms as described above.
+  
+The accrual for the Revenue Bonus of $628,225 is recorded to
+long term accrued liabilities on the balance sheet as of December 31, 2019.
+ 
+
+ 
+Litigation
+ 
+From time to time, the Company may become
+involved in various lawsuits and legal proceedings which arise in the ordinary course of business. When the Company is aware of
+a claim or potential claim, it assesses the likelihood of any loss or exposure. If it is probable that a loss will result and the
+amount of the loss can be reasonably estimated, the Company will record a liability for the loss. In addition to the estimated
+loss, the recorded liability includes probable and estimable legal costs associated with the claim or potential claim. Litigation
+is subject to inherent uncertainties, and an adverse result in these or other matters may arise from time to time that may harm
+the Company’s business. There is no pending litigation involving the Company at this time.
+ 
+
+
+ 15 
+ 
+
+ 
+APPLIED DNA SCIENCES, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL
+STATEMENTS
+December 31, 2019
+(unaudited)
+ 
+NOTE I — GEOGRAPHIC AREA INFORMATION
+ 
+Net revenues by geographic location of
+customers are as follows: 
+ 
+
+ 
+NOTE J — FAIR VALUE OF FINANCIAL
+INSTRUMENTS
+ 
+The Company's financial instruments are measured at fair value
+on a recurring basis. Related unrealized gains or losses are recognized in unrealized gain on change in fair value of secured convertible
+notes payable in the consolidated statements of operations. For additional disclosures regarding methods and assumptions used in
+estimating fair values of these financial instruments, see Note A.
+ 
+The Existing Notes (as defined in Note E) were repaid in full
+during December 31, 2019. The fair value of the Existing Notes was calculated immediately prior to repayment. The fair value was
+calculated using the Monte Carlo simulation model and the significant unobservable output utilized in the calculation was annualized
+volatility at a rate of 170.3%. The Company did not have any assets or liabilities categorized as Level 1 or 2 as of December
+31, 2019.
+ 
+The following table presents a summary of changes in fair value
+of the Existing Notes (Level 3 financial liabilities) which are marked to market on a periodic basis:
+  
+
+ 
+NOTE K — RELATED PARTY TRANSACTIONS
+ 
+On
+December 12, 2019, the Company entered into a consulting agreement, with Meadow Hill Place, LLC (“Meadow Hill”),
+a company wholly owned by Scott L. Anchin (“Mr. Anchin”), a board member, whereby Meadow Hill will provide certain
+advisory services to the Company. The initial term of the agreement will continue through June 12, 2020 and may be renewed by the
+Company at its option for an additional six months through December 12, 2020. The agreement provides for compensation in the form
+of both cash and equity. Meadow Hill will be eligible to receive $25,000 for the first month of the term, $20,000 for each of the
+second through sixth months of the term, and if the Company chooses to renew the term, $12,500 for each month during the renewal
+term. In addition, in satisfaction of the equity compensation portion of the agreement, (i) the Company granted an option to purchase
+20,834 shares of its Common Stock to Mr. Anchin on December 12, 2019 at an exercise price equal to $4.26 per share, which is eligible
+to vest on June 12, 2020, subject to Meadow Hill providing services to the Company through such date, and (ii) the Company granted
+an option to purchase 20,786 shares of its Common Stock to Mr. Anchin on January 2, 2020 at an exercise price equal to $4.43 per
+share, of which 9,121 are eligible to vest on July 2, 2020 and 11,665 are eligible to vest on December 12, 2020, in each case subject
+to Meadow Hill providing services to the Company through the applicable date.
+ 
+
+
+ 16 
+ 
+
+ 
+
+ 
+Item 2. — Management’s Discussion
+and Analysis of Financial Condition and Results of Operations.
+ 
+Forward-Looking Statements
+ 
+This Quarterly Report on Form 10-Q (including
+but not limited to this Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations”)
+contains “forward-looking statements” within the meaning of Section 27A of the Securities Act of 1933, as amended (the
+ “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”),
+that are intended to qualify for the “safe harbor” created by those sections. In addition, we may make forward-looking
+statements in other documents filed with or furnished to the Securities and Exchange Commission (“SEC”), and our management
+and other representatives may make forward-looking statements orally or in writing to analysts, investors, representatives of the
+media and others. Forward-looking statements can generally be identified by the fact that they do not relate strictly to historical
+or current facts and include, but are not limited to, statements using terminology such as “can”, “may”,
+ “could”, “should”, “assume”, “forecasts”, “believe”, “designated
+to”, “will”, “expect”, “plan”, “anticipate”, “estimate”, “potential”,
+ “position”, “predicts”, “strategy”, “guidance”, “intend”, “budget”,
+ “seek”, “project” or “continue”, or the negative thereof or other comparable terminology regarding
+beliefs, plans, expectations or intentions regarding the future. You should read statements that contain these words carefully
+because they:
+ 
+
+
+ 
+•
+discuss our future expectations;
+
+ 
+
+
+ 
+• 
+contain projections of our future results of operations or of our financial condition; and
+
+ 
+
+
+ 
+•
+state other “forward-looking” information.
+
+ 
+We believe it is important to communicate
+our expectations. However, forward-looking statements are based on our current expectations, assumptions, estimates and projections
+about our business and our industry and are subject to known and unknown risks, uncertainties and other factors. Accordingly, our
+actual results and the timing of certain events may differ materially from those expressed or implied in such forward-looking statements
+due to a variety of factors and risks, including, but not limited to, those set forth in this Item 2, “Management’s
+Discussion and Analysis of Financial Condition and Results of Operations” and in our unaudited condensed consolidated financial
+statements and notes thereto included in this Quarterly Report, those set forth from time to time in our other filings with the
+SEC, including our Annual Report on Form 10-K for the fiscal year ended September 30, 2019, and the following factors and risks:
+ 
+
+•
+public reactions to our press releases, other public announcements and filings with
+                                                                 the SEC;
+
+ 
+
+
+ 
+•
+changes in financial estimates or recommendations by securities analysts, or their ceasing to publish research or reports about
+our business;
+
+ 
+
+
+ 
+•
+the possibility we may fail to make timely payment on our secured convertible notes and as a result, the noteholder enforcing
+its remedies and ultimately realizing on their collateral which includes substantially all of our assets, including our intellectual
+property;
+
+ 
+
+ 
+•
+our lack of significant revenues;
+
+ 
+
+ 
+•
+our operating and financial performance and prospects;
+
+ 
+
+ 
+•
+our quarterly or annual earnings or those of other companies in our industry or those that investors deem comparable to us;
+
+ 
+
+ 
+•
+our limited experience in commercializing, marketing, and distributing our products including our large-scale polymerase chain
+reaction (“PCR”) based manufacturing platform;  
+
+ 
+
+ 
+•
+our history of net losses, which may continue, and our potential inability to achieve profitability;  
+
+ 
+
+ 
+•
+our difficulty in obtaining or inability to obtain, additional financing if such financing becomes necessary;
+
+ 
+
+ 
+•
+the appeal and current level of investor interest in the biotechnology/biopharmaceutical capital market sector and in companies
+in general with business, research strategies and product development pipelines which are similar to us;
+
+ 
+
+ 
+•
+our commercial opportunities in pharmaceuticals and biologics may be limited;  
+
+ 
+
+ 
+•
+our dependence on a limited number of key customers;  
+
+ 
+
+ 
+•
+lack of acceptance of our products and services by potential customers and potential failure to introduce new products and services;
+    
+
+ 
+
+ 
+•
+loss of strategic relationships, including with suppliers;  
+
+ 
+
+
+ 17 
+ 
+
+ 
+
+
+ 
+•
+expenses or losses associated with lack of widespread market acceptance of our solutions;  
+
+ 
+
+ 
+•
+difficulty or failure in expanding and/or maintaining our sales, marketing and support organizations and our distribution arrangements
+necessary to enable us to reach our goals with respect to increasing market acceptance of our products and services;    
+
+ 
+
+ 
+•
+inability to attract and retain qualified scientific, production and managerial personnel, including Dr. James A. Hayward, our
+Chairman, Chief Executive Officer and President (“CEO”);  
+
+ 
+
+ 
+•
+conflicts of interest with affiliates and related parties with whom we have engaged or entered into transactions;  
+
+ 
+
+
+ 
+•
+competition from products and services provided by other companies, including competition in the principal markets for our drug and biologic candidates and linear DNA;
+
+ 
+
+
+ 
+•
+seasonality in revenues related to our cotton customer contracts;
+
+ 
+
+
+ 
+•
+fluctuations in quarterly results due to adverse changes in worldwide or domestic economic, political or business conditions;
+
+ 
+
+
+ 
+•
+shifting enforcement priorities of U.S. federal laws relating to cannabis;
+
+ 
+
+
+ 
+•
+inability to obtain and maintain regulatory approval in the pharmaceutical and biologic markets;
+
+ 
+
+
+ 
+•
+inability of our collaborators, licensees, and customers to develop, obtain approval for and successfully commercialize products that incorporate our technology;
+
+ 
+
+
+ 
+•
+inability of us, our collaborators or customers to develop and timely manufacture complex biologic products and their components to exacting quality and safety standards;
+
+ 
+
+
+ 
+•
+dependence on our collaborators’ and customers’ demand for our manufacturing services;
+
+ 
+
+
+ 
+•
+inability to compete effectively in the industries in which we operate;
+
+ 
+
+
+ 
+•
+lack of success in our research and development efforts for new products;
+
+ 
+
+
+ 
+•
+inability to license new technologies;
+
+ 
+
+
+ 
+•
+failure to manage our growth in operations and acquisitions of new technologies and businesses;
+
+ 
+
+
+ 
+•
+various uncertainties and risks should we or our competitors explore or engage in future business combinations or other transactions;
+
+ 
+
+
+ 
+•
+economic, political, regulatory, legal, operational, and other risks as a result of our international operations;
+
+ 
+
+
+ 
+•
+inability to attract qualified scientific, production and managerial personnel;
+
+ 
+
+
+ 
+•
+inability to protect our intellectual property rights;
+
+ 
+
+
+ 
+•
+intellectual property litigation against us or other legal actions or proceedings in which we may become involved;
+
+ 
+
+
+ 
+•
+accidents related to our use of hazardous materials;
+
+ 
+
+
+ 
+•
+potential product liability claims;
+
+ 
+
+
+ 
+•
+litigation brought by customers, former employees, officers and directors, former distributors and sales representatives, former consultants and vendors and service providers;
+
+ 
+
+
+ 
+•
+business disruption due to natural or manmade disaster or other business interruptions;
+
+ 
+
+
+ 
+•
+general weakening or decline in the global economy or a period of economic slowdown;
+
+ 
+
+
+ 
+•
+unauthorized disclosure of sensitive or confidential data (including customer data) and cybersecurity breaches;
+
+ 
+
+
+ 
+•
+the reverse
+stock split, as effected on Friday, November 1, 2019, may adversely impact the market price of our Common Stock;
+
+ 
+
+
+ 18 
+ 
+
+ 
+
+
+
+ 
+•
+the reverse stock split may decrease the liquidity of the shares of our Common Stock and the resulting market price of our Common Stock may not attract or satisfy the investing requirements of new investors, including institutional investors;
+
+ 
+
+
+
+ 
+•
+the effective increase in the number of shares of our Common Stock available for issuance as a result of our reverse stock split could result in further dilution to our existing stockholders and have anti-takeover implications;
+
+
+ 
+
+
+ 
+•
+failure to maintain the listing on, or the delisting of our securities from, The Nasdaq Stock Market LLC (“Nasdaq”);
+
+ 
+
+
+ 
+•
+unpredictability of regulatory approval as it relates to our product candidates;
+
+ 
+
+
+ 
+•
+potential difficulties and failures in clinically developing and manufacturing our products, or causation of undesirable side effects;
+
+ 
+
+
+ 
+•
+variance in regulatory approval across jurisdictions;
+
+ 
+
+
+ 
+•
+regulatory scrutiny of our products;
+
+ 
+
+
+ 
+•
+healthcare legislative measures;
+
+ 
+
+
+ 
+•
+noncompliance with regulatory standards and requirements;
+
+ 
+
+
+ 
+•
+noncompliance with healthcare legislation;
+
+ 
+
+
+ 
+•
+noncompliance with laws or regulatory standards by our suppliers;
+
+ 
+
+
+ 
+•
+sales of Common Stock by us, our directors, officers or large stockholders;
+
+ 
+
+
+ 
+•
+the large number of shares of Common Stock underlying outstanding options and warrants and potential repurchase requirements of certain warrants;
+
+ 
+
+
+ 
+•
+the expiration of any applicable contractual lock-up agreements;
+
+ 
+
+
+ 
+•
+the possibility that we may require additional financing, which may involve the issuance of additional shares of Common Stock or securities exercisable for Common Stock and dilute the percentage of ownership held by our current stockholders;
+
+ 
+
+
+ 
+•
+changes in our capital structure;
+
+ 
+
+
+ 
+•
+dilution to our stockholders due to conversion of our convertible notes into Common Stock;
+
+ 
+
+
+ 
+•
+the possibility we may fail to make timely payments on our secured convertible notes and, as a result, the noteholder enforcing its remedies and ultimately realizing on their collateral which includes substantially all of our assets.
+
+ 
+
+
+ 
+•
+the occurrence of any potential material weakness in internal controls over financial reporting;
+
+ 
+
+
+ 
+•
+changes in accounting standards, policies, guidance, interpretations or principles;
+
+ 
+
+
+ 
+•
+future short selling and/or manipulation of the price of our Common Stock; and
+
+ 
+
+
+ 
+•
+volatility in the price and/or trading volume of our Common Stock, or other securities we may issue from time to time.
+
+ 
+
+
+ 19 
+ 
+
+
+
+ 
+All forward-looking statements and risk
+factors included in this Quarterly Report are made as of the date hereof, and all forward-looking statements and risk factors included
+in documents incorporated herein by reference are made as of their original date, in each case based on information available to
+us as of the date hereof, or in the case of documents incorporated by reference, the original date of any such document, and we
+assume no obligations to update any forward-looking statement or risk factor, unless we are required to do so by law. If we do
+update one or more forward-looking statements, no inference should be drawn that we will make updates with respect to other forward-looking
+statements or that we will make any further updates to those forward-looking statements at any future time.
+ 
+Forward-looking statements may include
+our plans and objectives for future operations, including plans and objectives relating to our products and our future economic
+performance, projections, business strategy and timing and likelihood of success. Assumptions relating to the forward-looking statements
+included in this Quarterly Report involve judgments with respect to, among other things, future economic, competitive and market
+conditions, future business decisions, and the time and money required to successfully complete development and commercialization
+of our technologies, all of which are difficult or impossible to predict accurately and many of which are beyond our control.
+ 
+Any of the assumptions underlying the forward-looking
+statements contained in this Quarterly Report could prove inaccurate and, therefore, we cannot assure you that any of the results
+or events contemplated in any of such forward-looking statements will be realized. Based on the significant uncertainties inherent
+in these forward-looking statements, the inclusion of any such statement should not be regarded as a representation or as a guarantee
+by us that our objectives or plans will be achieved, and we caution you against relying on any of the forward looking-statements
+contained herein. 
+ 
+Our trademarks in the United States include
+Applied DNA Sciences®, SigNature® molecular tags, SigNature® T molecular tags, fiberTyping®, DNAnet®, digitalDNA®,
+SigNify®, BackTrac®, Beacon® and CertainT®. We do not intend our use or display of other companies’ trade
+names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. All trademarks,
+service marks and trade names included or incorporated by reference in this Quarterly Report are the property of the respective
+owners.
+ 
+Introduction
+ 
+Using
+our proprietary large-scale polymerase chain reaction (PCR) based manufacturing platform, we manufacture large quantities of linear
+DNA for various markets. Whether for supply chain security, brand protection, law enforcement or drug or biologic applications,
+it is our goal to help establish secure flourishing environments that foster quality, integrity and success.With secure taggants,
+high-resolution DNA authentication, and comprehensive reporting, our SigNature® molecular tag technologies are designed to
+deliver what we believe to be the greatest levels of security, deterrence and legal recourse strength. Under our 98% owned subsidiary,
+LineaRx, Inc. (“LRx”), we supply DNA for use in the in vitro medical diagnostics, preclinical biotechnology
+and preclinical drug and biologic development and manufacturing markets. We are also engaged in preclinical and animal drug candidate
+development, directly and with collaborators, focusing on therapeutically relevant DNA constructs manufactured via our PCR-based
+DNA production platform.
+ 
+SigNature® molecular tags, the core of our supply chain
+security technology platform, are what we believe to be nature’s ultimate means of authentication and supply chain security.
+We believe our precision-engineered molecular tags have not been broken. Additional layers of protection and complexity are added
+to the mark in a proprietary manner. SigNature® molecular tags in various carriers have proven highly resistant to UV radiation,
+heat, cold, vibration, abrasion and other extreme environments and conditions. We work closely with our customers to develop solutions
+that will be optimized to their specifications to deliver maximum impact. Our products and technology are protected by what we
+believe to be a robust portfolio of patents and trademarks.
+ 
+Using our tagging products and technology, manufacturers, brands,
+and other stakeholders can ensure authenticity and protect against diversion throughout a product’s journey from manufacturer
+to use.
+ 
+The core technologies of our supply chain security business
+are supplied as tag, test and track solutions for large complex supply chains. Our tag, test and track solutions allow our customers
+to use molecular tags to mark objects in a unique manner that we believe cannot be replicated, and then identify these objects
+by detecting the absence or presence of the molecular tag. We believe that our disruptive tracking platform offers broad commercial
+relevance across many industry verticals. Our underlying strategy in the tagging business is to become a solutions provider for
+supply chains of process industries in which contracts for our products and services are typically larger and of longer duration
+as compared to our historic norms, where the benefits to customers and consumers are more significant, and where our forensic security
+and traceability offer a unique and protected value. Consumers, governments and companies are demanding details about the systems
+and sources that deliver their goods. They worry about quality, safety, ethics, and the environmental impact. Farsighted organizations
+are directly addressing new threats and opportunities presented by this question: Where do these goods come from? This is the question
+and the concerns we are beginning to address for a growing number of companies. We supply key building blocks for creating secure
+supply chains with traceability of goods, which in turn can help ensure integrity in supply, honest sales and marketing claims,
+and ethical and sustainable sourcing.
+ 
+
+
+ 20 
+ 
+
+
+ 
+Customers using our PCR-produced linear DNA products for use
+in in vitro medical diagnostics, preclinical biotechnology research and preclinical drug and biologic development
+and manufacturing receive a DNA product we believe is made cleaner and faster than historical manufacturing methods, thereby offering
+the opportunity for increased efficiency and turnaround times in their processes. We are also engaged in preclinical and animal
+drug candidate development activities focusing on therapeutically relevant DNA constructs manufactured via our PCR-based production
+platform. We seek to develop, acquire and commercialize, alone or with partners, a diverse portfolio of nucleic acid based drugs
+and biologics based on PCR-produced linear DNA which we believe will improve existing nucleic acid based therapeutics or create
+new nucleic acid based therapeutics that address unmet medical needs.
+
+ 
+Non-Biological
+Tagging and Security Products and Services
+ 
+SigNature® molecular tags, SigNature® T molecular tags,
+fiberTyping®, SigNify® Beacon® and CertainT® comprise our principal tagging and security technology platform.
+ 
+Signature Molecular Tags
+ 
+SigNature® Molecular
+Tags. The SigNature® molecular tag is our patented molecular taggant technology, at the core of our platform.
+It provides forensic power and protection for a wide array of applications. Highly secure, robust and durable, SigNature® molecular
+tags are an ingredient that can be used to fortify brand protection efforts; strengthen supply chain security; and mark, track
+and convict criminals. Through our SigNature® molecular tags, custom DNA sequences can be embedded into a wide range of host
+carriers including natural and synthetic fibers, ink, varnish, thread, metal coatings, and pharmaceuticals and nutraceuticals.
+SigNature® molecular tags can be made resistant to challenging environments such as heat, cold, vibration, abrasion, organic
+solvents, chemicals, UV radiation and other extreme environmental conditions, and so can be identified for numerous years after
+being embedded directly, or into media applied or attached to the item to be marked. Each individual molecular tag is recorded
+and stored in a secure database so that we can later detect it using a simple in-field test, or in our laboratories to obtain definitive
+proof of the presence or absence of a specific SigNature® molecular tag (e.g., one designed to mark a particular product).
+Our in-lab forensic testing capability delivers an expert witness Certificate of DNA Authentication (“CODA”). Because
+DNA is one of the densest information carriers known, and can be amplified with high fidelity, only minute quantities of SigNature®
+molecular tags are necessary for successful analysis and authentication. As a result, SigNature® molecular tags can fold seamlessly
+into production and logistics workflows at extremely low concentrations.
+ 
+SigNature® molecular tags have been subjected to rigorous
+testing by the Idaho National Laboratory, a U.S. National Laboratory, by CALCE (the Center for Advanced Life Cycle Engineering),
+the largest electronic products and systems research center focused on electronics reliability, and by verified procedures in our
+laboratories. The molecular tag has passed all tests across a broad spectrum of materials and substrates, and has met key military
+stability standards. SigNature® molecular tags have also passed a strenuous “red-team” vetting on behalf of the
+U.S. Defense Logistics Agency.
+ 
+SigNature® molecular tags now exist on hundreds of millions
+of commodity quantities ranging from consumer product packaging to microcircuits to cotton and synthetic fibers; to our knowledge,
+none has ever been copied.
+ 
+SigNature® T
+Molecular Tags and fiberTyping®
+ 
+SigNature®
+T Molecular Tags. SigNature® T molecular tags are a unique patented tagging and authentication system specifically
+designed for textiles and apparel. Specially engineered to adhere tenaciously to textile substrates, including natural and synthetic
+fibers, SigNature® T molecular tags are resistant to standard textile production conditions. The result: an enduring forensic
+level molecular tag that remains present from the fiber stage through to the finished product.
+ 
+Our SigNature® T technology allows for better quality control
+and assurance at any point in the supply chain. SigNature® T molecular tags are currently used for brand protection efforts
+and raw material source compliance programs. For example, American grown cotton fibers can be tagged at the gin in the United States,
+verified as “American grown” and then traced through every step of the supply chain.
+ 
+fiberTyping®.
+Our patented cotton genotyping platform, known as “fiberTyping,” complements our SigNature® T molecular tag system.
+fiberTyping® is employed to identify the genus and species of the fibers before or after they are tagged with SigNature®
+T molecular tags. fiberTyping® cannot be used to provide the unique identity of a specific cotton through the supply chain.
+ 
+
+
+ 21 
+ 
+
+
+ 
+fiberTyping® is not a molecular tag, but a genotyping test
+of native cotton fiber DNA, which gives a clear result that determines whether the intended “nature-made” endogenous
+cotton DNA is present in fiber, yarn or fabric. Samples from the primary material are sent to our forensic labs for DNA analysis
+and authentication. Cotton classification and the authentication of cotton species after cotton has left its place of origin are
+issues of global significance, important to brand owners and to governments that must regulate the international cotton trade.
+We believe that the use of endogenous DNA to identify the cotton fiber content in textile supply chains, along with the SigNature®
+T molecular tag system, to identify traceability, is a significant opportunity for brand license holders to control their intellectual
+property, for brands to shield themselves against legal liabilities, and for governments to improve their ability to enforce compliance
+with trade agreements between nations.
+ 
+We believe that our proprietary DNA extraction protocols and
+methodologies are more effective than existing forensic systems. We believe that the combination of our SigNature® T molecular
+tags and fiberTyping® solutions cover the forensic authentication market for textiles.
+ 
+Smart DNA  
+ 
+Recognizing that DNA-based evidence is the cornerstone of modern-era
+law enforcement, we have developed what we believe to be the ultimate crime fighting tools – currently being used in vehicle
+and home asset marking, as well as other commercial and government applications.
+ 
+These molecular tags can be used to definitively link evidence
+and offenders to specific crime scenes. As the crime is investigated, the fluorescing molecular marker can assist police in linking
+the offender and stolen items to a specific crime scene, creating a greater ability to identify and convict.
+ 
+These long-lasting tagging solutions contain unique molecular
+tags that can help return stolen or lost property to its rightful owner.
+ 
+Beacon®
+ 
+Beacon® locked optical markers deliver secure real-time
+inspection capabilities. A unique patented encrypted mechanism creates a protected, covert screening tool that can be easily adapted
+to packaging, security labels and high-value assets through inks, varnishes and coatings. When Beacon® locked optical markers
+are combined with SigNature® molecular tags, a strong and flexible security and screening solution is created where authenticity
+and provenance can be determined with confidence.
+ 
+SigNify®
+ 
+Developing a secure method for real-time, in-field screening
+of molecularly-tagged items has long been a priority for us. We believe that standard fluorophores, up-converting phosphors, holograms
+and other more-traditional screening tools provide little to no defense against counterfeiting. We believe that secure in-field
+inspection backed with forensic-level molecular tag authentication is the key to maintaining a well-defended supply chain or asset
+management program.
+ 
+SigNify® IF portable DNA readers and SigNify consumable
+reagent test kits provide definitive real-time authentication of SigNature® and SigNature® T molecular tags in the field.
+With SigNify® IF, Signature® molecular tags become a true, front-line solution for supply chain integrity.
+
+ 
+Information Technology Systems
+ 
+Applied
+DNA Sciences Portal.  CertainT® and other customer applications include the use of a software platform
+that enables customers to manage the security of company-marked goods from point of marking to point of authentication or validation
+to end of life. The base platform is configurable to customer requirements which differ by vertical market, company business process
+and IT environment. Basic functions offered include molecular tag inventory management, program training and communications, a
+database of marked items information, associated documents and images, chain of custody and location tracking, sample authentication
+processing and CODA downloads, and other administrative functions. Designed for either cloud or local operation, the system supports
+mobile data capture using bar codes or other technologies. The system is architected as the controller and repository for other
+validation and authentication devices such as our SigNify® DNA Readers, DNA Transfer Systems, Cannabis Tracking Systems and
+other third-party devices and is designed to share data with third party applications through standard interfaces. 
+ 
+DNA
+Transfer Systems and Cannabis Tracking System. Our patent pending DNA Transfer System and patent pending Cannabis
+Tracking System are developed for DNA marking applications which are high volume with a need for monitoring and control. They are
+computer based, fully automated, offer remote internet access for real-time monitoring and can be configured for application-specific
+alerts and reporting online. Our DNA Transfer Systems were used to mark cotton at five U.S. cotton gins and one gin in Egypt in
+the 2018-2019 ginning season. 
+ 
+
+
+ 22 
+ 
+
+ 
+CertainT® Supply Chain Platform
+ 
+CertainT® helps brands confirm their product’s authenticity
+and origin with certified, trust, transparency and traceability through the seamless amalgamation of several of our platform technologies
+to tag, test and track. The CertainT® trademark indicates use of the CertainT® tagging, testing and tracking platform to
+enable proof of product claims for any material, item or product. Secure and proven, the CertainT® Platform helps manufacturers,
+brands or other commercial organizations deliver on their promise that customers are buying products that are ethically-sourced,
+safe and authentic.
+ 
+Biotherapeutic
+Contract Research and Contract Manufacturing Products and Services
+ 
+Large-scale production of specific DNA sequences using
+PCR.
+ 
+Our patented Triathlon™ continuous flow PCR systems and
+other proprietary PCR production technology and post-processing systems allow for the large-scale production of specific DNA sequences.
+The systems are computer-controlled, self-contained and modular. DNA sequences produced through our processes and systems are currently
+being used by customers as components of in vitro diagnostic tests. We believe we have the ability to manufacture
+longer DNA sequences valuable in nucleic acid-based therapeutics such as adoptive cell therapies (CAR T and TCR therapies), DNA
+vaccines, RNA therapies, gene therapy and in vitro diagnostics, with what we believe is a distinct competitive
+advantage in cost, cleanliness, and time-to-market. These types of DNA are distinct from our DNA-based molecular taggants marketed
+under our SigNature® and SigNature® T trademarks, and represent a potential new entry into biotherapeutics markets, where
+we believe there are opportunities for our broader platform.
+ 
+Contract Research
+ 
+Through LRx, we act as a preclinical contract research organization
+for the nucleic acid-based therapeutic markets. LRX is currently working with biotech companies to convert plasmid-based and/or
+viral transduction based preclinical biotherapeutics into PCR produced linear DNA-based forms. In addition, LRx is providing contract
+research services to several RNA based drug and biologic customers for preclinical studies. These services include the design,
+development and manufacture of PCR-produced DNA templates for RNA.
+ 
+Nucleic Acid Therapeutics
+ 
+We seek to develop, acquire, and
+commercialize, ourselves or with partners, a diverse portfolio of nucleic acid-based therapeutics based on PCR-produced
+linear DNA to improve existing nucleic acid-based therapeutics or to create new nucleic acid-based therapeutics that address
+unmet medical needs. We are also engaged in preclinical and animal drug candidate development activities focusing on
+therapeutically relevant DNA constructs manufactured through our large-scale PCR production systems. LRx uses its PCR systems
+to rapidly produce customized DNA for use by our contract research organization/contract manufacturing organization clients,
+our preclinical nucleic acid-based therapeutic clients and partners, and for our own nucleic acid-based therapeutic
+candidates under preclinical development in the field of CAR T-cell immunotherapy. LRx’s proprietary processes enable
+very large, gram-scale production of DNA through PCR for nucleic acid-based therapeutics which include adoptive cell
+therapies, gene therapies, RNA-based therapies, DNA-based vaccines (including cancer), clustered regularly interspaced short
+palindromic repeats (CRISPR) based therapies and other nucleic acid-based therapies. We believe linear DNA does not require
+recombination, therefore, there is no need for a virus or for plasmids. We believe this reduces the risk of unwanted DNA or
+other contaminants that would need to be removed.
+ 
+Invasive Circulating Tumor Cell Capture and Identification
+ 
+We seek to further develop,
+manufacture and commercialize our Vita-AssayTM invasive circulating tumor cell capture and identification
+technology (the “iCTC Technology”) recently acquired from Vitatex, Inc. Our iCTC Technology uses a patented
+functional assay to capture live invasive circulating tumor cell and associated lymphocytes that can be identified and
+expanded for further analysis, including genetic sequencing. We believe our iCTC technology can be used as an early cancer
+diagnostic tool, to facilitate cancer disease progression monitoring and to assess metastatic tumor risk. Our iCTC Technology
+has been used and is currently being used in a human cancer drug candidate clinical trial to monitor cancer disease
+progression in the trial subjects as a research use only diagnostic assay. We believe our iCTC Technology has several
+advantages over existing in vitro circulating tumor cell diagnostic technologies that do not capture live
+iCTC cells. We seek to further market out iCTC Technology for use in human cancer drug candidate clinical trials as a
+research use only diagnostic.
+ 
+
+
+ 23 
+ 
+
+
+ 
+Plan of Operations
+ 
+General
+ 
+To date, the substantial portion of our revenues has been generated
+from sales of our SigNature® and SigNature® T molecular tags, our principal supply chain security and product authentication
+solutions. We expect to grow revenues from sales of our SigNature® molecular tags, SigNature® T molecular tags, SigNify®
+and CertainT® offerings as we work with companies and governments to secure supply chains for various types of products and
+product labeling throughout the world. In addition, we expect to continue to grow revenues from PCR-produced linear DNA products
+and services using our patented Triathlon™ and other proprietary PCR production and post-processing systems. We have continued
+to incur expenses in expanding our business to meet current and anticipated future demand. We have limited sources of liquidity.
+Our products and services are offered in the United States, Europe and Asia. At the present time, we are focusing our efforts on
+textile and apparel, pharmaceuticals and nutraceuticals, microcircuits and other electronics, legal cannabis and PCR-produced linear
+DNA products for use in biotherapeutic applications, as well as services for in vitro medical diagnostics, preclinical
+biotechnology research and preclinical biotherapeutic manufacturing. Currently, approximately 35% of our annual revenue comes from
+the textile market. The basic technology we use in various markets is very similar, and we believe our solutions are adaptable
+for many types of products and markets. In the future, we plan to expand our focus to include additional consumer products, food
+and beverage and industrial materials. The cotton ginning season in the United States takes place between September and March each
+year; therefore, revenues from our cotton customer contracts may be seasonal and recognized primarily during our first and fourth
+fiscal quarters, which may cause operating results to fluctuate significantly quarterly and annually. 
+ 
+In addition, we seek to develop, acquire and commercialize,
+ourselves or with partners, a diverse portfolio of nucleic acid-based drugs and biologics based on PCR-produced linear DNA to improve
+existing nucleic acid-based therapeutics or to create new nucleic acid-based therapeutics that address unmet medical needs. We
+are also engaged in preclinical and animal drug candidate development activities focusing on therapeutically relevant DNA constructs
+manufactured through our large scale PCR production systems. LRx uses its PCR systems to rapidly produce customized DNA for use
+by our contract research organization/contract manufacturing organization clients, our preclinical drug and biologic clients and
+partners, and for our own nucleic acid-based preclinical drugs and biologics under development in the field of CAR T-cell immunotherapy.
+LRx’s proprietary processes enables large, gram-scale production of DNA through PCR for bio-based therapeutics, adoptive
+cell therapies, vaccines (including cancer), clustered regularly interspaced short palindromic repeats, or CRISPR and other nucleic
+acid-based therapies. Linear DNA does not require recombination, therefore, there is no need for a virus or for plasmids. This
+reduces the risk of unwanted DNA or other contaminants that would need to be removed.
+ 
+Critical Accounting Policies and
+Recently Issued Accounting Pronouncements
+ 
+See Note A to the accompanying unaudited
+condensed consolidated financial statements for our critical accounting policies and recent accounting pronouncements.
+ 
+
+
+ 24 
+ 
+
+
+ 
+Comparison of Results of Operations for the Three Month
+Periods Ended December 31, 2019 and 2018
+ 
+Revenues
+ 
+Product revenues
+ 
+For the three month periods ended December
+31, 2019 and 2018, we generated $237,870 and $321,875 in revenues from product sales, respectively. Product revenue decreased by
+$84,005 or 26% for the three month period ended December 31, 2019 as compared to the three month period ended December 31, 2018.
+The decrease in product revenues was primarily due to a decrease of approximately $200,000 in textiles, related to a cotton customer
+and $51,000 in consumer asset marking revenue offset by an increase of $135,000 in biopharmaceutical revenues and to a lesser extent,
+a $27,000 increase in government revenues.  
+ 
+Service revenues
+ 
+For the three month periods ended
+December 31, 2019 and 2018, we generated $395,649 and $562,447 in revenues from sales of services, respectively. The decrease
+in service revenues of $166,798 or 30% for the three month period ended December 31, 2019 as compared to the same period in
+the prior fiscal year is attributable to decreases of $200,000 from a government contract award that ended during the second
+half of fiscal 2019 as well as decreases within our pharmaceuticals and nutraceutical market for pre-commercial pilots of
+$61,000. These decreases were offset by increases in our cannabis and biopharmaceuticals markets of $50,000 and $45,000,
+respectively.
+ 
+Costs and Expenses
+ 
+Cost of Revenues
+ 
+Cost of revenues for the three month period
+ended December 31, 2019 increased by $78,546 or 51% from $153,485 for the three month period ended December 31, 2018 to $232,031
+for the three month period ended December 31, 2019. Cost of revenues as a percentage of product revenues was 98% and 48% for the
+three month periods ended December 31, 2019 and 2018, respectively. This increase in cost of revenues as a percentage of product
+revenues is due to the product sales mix as sales during the three month period ended December 31, 2018 were primarily comprised
+of sales in our textiles market, which are at a higher margin as compared to the same period in the current fiscal year. This increase
+was also the result of certain costs of revenues being fixed costs such as payroll and rent, which were not fully absorbed with
+the level of product revenues during the three month period ended December 31, 2019.
+ 
+Selling, General and Administrative
+ 
+Selling, general and administrative expenses
+for the three month period ended December 31, 2019 decreased by $708,967 or 23% from $3,082,380 for the three month period ended
+December 31, 2018 to $2,373,413 for the three month period ended December 31, 2019. The decrease is attributable to a decrease
+in payroll expense of approximately $334,000 due to headcount reductions. This decrease also relates to a decrease of approximately
+$285,000 in stock compensation expense associated with employee grant modifications during the three month period ended December
+31, 2018 . In addition, consulting fees decreased approximately $93,000.
+ 
+Research and Development
+ 
+Research and development expenses decreased
+to $564,426 for the three month period ended December 31, 2019 from $709,564 for the three month period ended December 31, 2018,
+a decrease of $145,138 or 20%. This decrease is primarily due to decreased development costs in relation to a government development
+contract award, which expired during the second half of fiscal 2019.
+ 
+Depreciation and Amortization
+ 
+In the three month period ended December
+31, 2019, depreciation and amortization decreased by $59,985 or 44% from $135,052 for the three month period ended December 31,
+2018 to $75,067 for the three month period ended December 31, 2019. The decrease is related to assets becoming fully depreciated
+during fiscal 2019.
+ 
+Interest expense
+ 
+Interest expense for the three month periods
+ended December 31, 2019 and 2018, was $29,091 and $31,611, respectively.
+ 
+Net Loss
+ 
+Net loss decreased by $571,579 or 18% from
+a loss of $3,234,320 for the three month period ended December 31, 2018 to a loss of $2,662,741 for the three month period ended
+December 31, 2019, due to the factors noted above.
+ 
+
+
+ 25 
+ 
+
+
+ 
+
+Liquidity and Capital Resources
+ 
+Our liquidity needs consist of our working
+capital requirements and research and development expenditure funding. As of December 31, 2019, we had working capital of $8,128,977.
+For the three month period ended December 31, 2019, we used cash in operating activities of $2,731,273 consisting primarily of
+our loss of $2,662,741 net with non-cash adjustments of $75,067 in depreciation and amortization charges, $205,490 in stock-based
+compensation expense, and $6,157 in amortization of debt issuance costs. Additionally, we had a net decrease in operating assets
+of $612,591 and a net decrease in operating liabilities of $967,837. Cash provided by financing activities was $10,835,138, which
+included net proceeds from the November 2019 sale of Common Stock and warrants of $10,942,940, and the repayment of secured convertible
+promissory notes of $107,802.
+ 
+We have recurring net losses, which have resulted in an accumulated
+deficit of $259,471,142 as of December 31, 2019. We have incurred a net loss of $2,662,741 for the three month period ended December
+31, 2019. At December 31, 2019, we had cash and cash equivalents of $8,662,853.
+ 
+Our current capital resources include cash and cash equivalents,
+accounts receivable and inventories. We expect to finance our operations primarily through cash received from the November 2019
+public offering, as well as collection of our accounts receivable. We estimate that we will have sufficient cash and cash equivalents
+to fund operations for the next twelve months from the date of filing of this quarterly report. Historically, we have financed
+our operations principally from the sale of equity and equity-linked securities.
+ 
+We may require additional funds to complete the continued development
+of our products, product manufacturing, and to fund expected additional losses from operations until revenues are sufficient to
+cover our operating expenses. If revenues are not sufficient to cover our operating expenses, and if we are not successful in obtaining
+the necessary additional financing, we will most likely be forced to reduce operations.
+ 
+
+
+ 26 
+ 
+
+
+ 
+Off-Balance Sheet Arrangements
+ 
+We do not have any off-balance sheet arrangements.
+ 
+Inflation
+ 
+The effect of inflation on our revenue
+and operating results was not significant.
+ 
+Item
+3. — Quantitative and Qualitative Disclosures About Market Risk.
+ 
+Information requested by this Item is not
+applicable as we are electing scaled disclosure requirements available to smaller reporting companies with respect to this Item.
+ 
+
+
+ 27 
+ 
+
+
+
+
+ 
+Item
+4. — Controls and Procedures.
+ 
+Evaluation of Disclosure Controls
+and Procedures
+ 
+As of the end of the period covered by
+this Quarterly Report on Form 10-Q, we conducted an evaluation, under the supervision and with the participation of our management,
+including our Chief Executive Officer and Chief Financial Officer, of our disclosure controls and procedures (as defined in Rules
+13a-15(e) and 15d-15(e) under the Exchange Act). Based on the evaluation of these disclosure controls and procedures, the
+Chief Executive Officer and Chief Financial Officer concluded that, as of December 31, 2019, our disclosure controls and procedures
+were effective to ensure that the information required to be disclosed by us in reports that we file or submit under the Exchange
+Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that
+such information is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer,
+as appropriate, to allow timely decisions regarding required disclosure.
+ 
+Changes in Internal Control over
+Financial Reporting
+ 
+During the fiscal quarter ended December
+31, 2019, there were no changes in our internal control over financial reporting that have materially affected, or are reasonably
+likely to materially affect, our internal control over financial reporting.
+  
+
+ 28 
+ 
+
+
+
+
+ 
+Part II — Other Information
+ 
+Item 1. — Legal Proceedings.
+ 
+None.
+ 
+Item 1A. — Risk Factors.
+ 
+Not applicable as we are a smaller reporting
+company.
+ 
+Item 2. — Unregistered Sales of
+Equity Securities and Use of Proceeds.
+ 
+None.
+ 
+Item 3. — Defaults Upon Senior
+Securities.
+ 
+None.
+ 
+Item 4. — Mine Safety Disclosures.
+ 
+None.
+ 
+Item 5. — Other Information.
+ 
+None.
+ 
+
+
+ 29 
+ 
+
+
+
+ 
+Item 6. — Exhibits.
+ 
+
+  
+* Filed herewith.
+** Furnished herewith.
+ 
+Exhibits 32.1 and 32.2 are being furnished
+and shall not be deemed to be “filed” for purposes of Section 18 of the Exchange Act or otherwise subject to the liability
+of that section, nor shall such exhibits be deemed to be incorporated by reference in any registration statement or other document
+filed under the Securities Act or the Exchange Act, except as otherwise stated in any such filing.
+
+ 
+
+ 30 
+ 
+
+
+
+ 
+Signatures
+ 
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+
+
+ 
+Applied DNA Sciences, Inc.
+
+ 
+ 
+
+Dated: February 6, 2020
+/s/ JAMES A. HAYWARD
+
+ 
+James A. Hayward, Ph. D.
+
+ 
+Chief Executive Officer
+
+ 
+(Duly authorized officer and principal executive officer)
+
+ 
+ 
+
+ 
+/s/ BETH JANTZEN
+
+Dated: February 6, 2020
+Beth Jantzen, CPA
+
+ 
+Chief Financial Officer
+
+ 
+(Duly authorized officer and
+
+ 
+principal financial and accounting officer)
+
+ 
+
+
+ 31 
+
+
+
+

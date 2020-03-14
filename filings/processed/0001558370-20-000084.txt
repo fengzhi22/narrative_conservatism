@@ -1,0 +1,3778 @@
+
+10-Q
+1
+ccf-20191130x10q.htm
+10-Q
+
+
+
+
+			ccf_Current folio_10Q
+		
+
+
+It
+
+
+ 
+
+
+UNITED STATES
+
+
+SECURITIES AND EXCHANGE COMMISSION
+
+
+Washington, D.C. 20549
+
+
+ 
+
+
+FORM 10-Q
+
+
+ 
+
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+
+
+OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+ 
+
+
+For the Quarterly Period Ended November 30, 2019
+
+
+Commission File Number: 1-9852
+
+
+ 
+
+
+CHASE CORPORATION
+
+
+(Exact name of registrant as specified in its charter)
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Massachusetts
+
+
+
+ 
+
+
+
+11-1797126
+
+
+
+
+
+(State or other jurisdiction of incorporationof organization)
+
+
+
+ 
+
+
+
+(I.R.S. Employer Identification No.)
+
+
+
+
+ 
+
+
+295 University Avenue, Westwood, Massachusetts 02090 
+
+
+(Address of Principal Executive Offices) (Zip Code)
+
+
+ 
+
+
+(781) 332-0700 
+
+
+(Registrant’s Telephone Number, Including Area Code)
+
+
+ 
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Title of each class
+
+Common stock, $.10 par value
+
+
+
+Trading Symbol(s)
+
+CCF
+
+
+
+Name of each exchange on which registered
+
+NYSE American
+
+
+
+
+ 
+
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months, and (2) has been subject to such filing requirements for the past 90 days.  YES ☒  NO ☐
+
+
+ 
+
+
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  YES ☒  NO ☐
+
+
+ 
+
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Large accelerated filer ☐
+
+
+
+Accelerated filer ☒
+
+
+
+
+
+Non-accelerated filer ☐ 
+
+
+
+Smaller reporting company ☐
+
+
+
+
+
+Emerging growth company ☐
+
+
+
+ 
+
+
+
+
+ 
+
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+
+ 
+
+
+Indicate by checkmark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  YES ☐  NO ☒
+
+
+ 
+
+
+The number of shares of Common Stock outstanding as of December 31, 2019 was 9,423,946
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+			 
+
+		
+
+
+			 
+
+		
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+CHASE CORPORATION
+
+
+INDEX TO FORM 10-Q
+
+
+ 
+
+
+For the Quarter Ended November 30, 2019
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+2
+
+
+
+Table of Contents
+
+
+
+
+Cautionary Note Concerning Forward-Looking Statements
+
+
+ 
+
+
+This Quarterly Report on Form 10-Q contains "forward-looking statements" within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements, including without limitation forward-looking statements made under the caption “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” involve risks and uncertainties. Any statements contained in this Quarterly Report that are not statements of historical fact may be deemed to be forward-looking statements.  Forward-looking statements include, without limitation, statements as to our future operating results; seasonality expectations; plans for the development, utilization or disposal of manufacturing facilities; future economic conditions; our expectations as to legal proceedings; the effect of our market and product development efforts; and expectations or plans relating to the implementation or realization of our strategic goals and future growth, including through potential future acquisitions. Forward-looking statements may also include, among other things, statements relating to future sales, earnings, cash flow, results of operations, use of cash and other measures of financial performance, as well as statements relating to future dividend payments. Other forward-looking statements may be identified through the use of words such as “believes,” “anticipates,” “may,” “should,” “will,” “plans,” “projects,” “expects,” “expectations,” “estimates,” “predicts,” “targets,” “forecasts,” “strategy,” and other words of similar meaning in connection with the discussion of future operating or financial performance. These statements are based on current expectations, estimates and projections about the industries in which we operate, and the beliefs and assumptions made by management. Because forward-looking statements relate to the future, they are subject to inherent risks, uncertainties and changes in circumstances that are difficult to predict. Accordingly, the Company’s actual results may differ materially from those contemplated by the forward-looking statements. Investors, therefore, are cautioned against relying on any of these forward-looking statements. They are neither statements of historical fact nor guarantees or assurances of future performance.  Readers should refer to the discussions under “Risk Factors” contained in our Annual Report on Form 10-K for the fiscal year ended August 31, 2019 concerning certain factors that could cause our actual results to differ materially from the results anticipated in such forward-looking statements. These Risk Factors are hereby incorporated by reference into this Quarterly Report.
+
+
+ 
+
+
+			 
+		
+
+
+ 
+
+3
+
+
+
+Table of Contents
+
+
+
+
+Item 1 — Unaudited Condensed Consolidated Financial Statements
+
+
+ 
+
+
+CHASE CORPORATION
+
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+
+
+(UNAUDITED)
+
+
+ 
+
+
+In thousands, except share and per share amounts
+
+
+ 
+
+
+
+ 
+
+
+See accompanying notes to the condensed consolidated financial statements
+
+
+
+
+
+
+ 
+
+4
+
+
+
+Table of Contents
+
+
+
+
+ CHASE CORPORATION
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+
+
+(UNAUDITED)
+
+
+ 
+
+
+ 
+
+
+In thousands, except share and per share amounts
+
+
+ 
+
+
+
+ 
+
+
+See accompanying notes to the condensed consolidated financial statements
+
+
+
+
+
+
+ 
+
+5
+
+
+
+Table of Contents
+
+
+
+
+CHASE CORPORATION
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+
+
+(UNAUDITED)
+
+
+ 
+
+
+In thousands, except share and per share amounts
+
+
+ 
+
+
+
+           
+
+
+See accompanying notes to the condensed consolidated financial statements
+
+
+ 
+
+
+			 
+		
+
+
+ 
+
+6
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+CHASE CORPORATION
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF EQUITY
+
+
+THREE MONTHS ENDED NOVEMBER 30, 2019 AND 2018
+
+
+(UNAUDITED)
+
+
+ 
+
+
+In thousands, except share and per share amounts
+
+
+ 
+
+
+
+ 
+
+
+See accompanying notes to the condensed consolidated financial statements
+
+
+ 
+
+
+			 
+		
+
+
+ 
+
+7
+
+
+
+Table of Contents
+
+
+
+
+CHASE CORPORATION
+
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+(UNAUDITED)
+
+
+ 
+
+
+In thousands
+
+
+ 
+
+
+
+ 
+
+
+See accompanying notes to the condensed consolidated financial statements
+
+
+			 
+		
+
+
+ 
+
+8
+
+
+
+Table of Contents
+
+
+
+
+Note 1 — Basis of Financial Statement Presentation
+
+
+ 
+
+
+Description of Business
+
+
+ 
+
+
+Chase Corporation (the “Company,” “Chase,” “we,” or “us”), a global specialty chemicals company founded in 1946, is a leading manufacturer of protective materials for high-reliability applications across diverse market sectors.   Our strategy is to maximize the performance of our core businesses and brands while seeking future opportunities through strategic acquisitions. Through investments in facilities, systems and organizational consolidation we seek to improve performance and gain economies of scale.
+
+
+ 
+
+
+Basis of Presentation
+
+
+ 
+
+
+The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with United States of America generally accepted accounting principles (“U.S. GAAP”) for interim financial reporting, and instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Therefore, they do not include all information and footnote disclosures necessary for a complete presentation of Chase Corporation’s financial position, results of operations and cash flows in conformity with generally accepted accounting principles.  The year-end condensed balance sheet was derived from audited financial statements but does not include all disclosures required by accounting principles generally accepted in the United States of America. Chase Corporation filed audited consolidated financial statements which included all information and notes necessary for such a complete presentation for the three years ended August 31, 2019 in conjunction with its 2019 Annual Report on Form 10-K. Certain immaterial reclassifications have been made to the prior year amounts to conform to the current year’s presentation.
+
+
+ 
+
+
+The results of operations for the interim period ended November 30, 2019 are not necessarily indicative of the results to be expected for any future period or the entire fiscal year.  These interim condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements for the year ended August 31, 2019 which are contained in the Company’s 2019 Annual Report on Form 10-K.
+
+
+ 
+
+
+The accompanying unaudited condensed consolidated financial statements contain all adjustments (consisting of normal recurring items) that are, in the opinion of management, necessary for a fair statement of the Company’s financial position as of November 30, 2019, and the results of its operations, comprehensive income, changes in equity and cash flows for the interim periods ended November 30, 2019 and 2018.
+
+
+ 
+
+
+The financial statements include the accounts of the Company and its wholly-owned subsidiaries.  All intercompany transactions and balances have been eliminated in consolidation.  The Company uses the U.S. dollar as the reporting currency for financial reporting.  The financial position and results of operations of the Company’s U.K.-based operations are measured using the British pound as the functional currency. The financial position and results of operations of the Company’s operations based in France are measured using the euro as the functional currency.  The financial position and results of the Company’s HumiSeal India Private Limited business are measured using the Indian rupee as the functional currency. The functional currency for all our other operations is the U.S. dollar. Foreign currency translation gains and losses are determined using current exchange rates for monetary items and historical exchange rates for other balance sheet items, and are recorded as a change in other comprehensive income.  Transaction gains and losses generated from the remeasurement of assets and liabilities denominated in currencies other than the functional currency of each applicable operation are included in other income (expense) on the condensed consolidated statements of operations, and were ($501) and $52 for the three-month periods ended November 30, 2019 and 2018, respectively.
+
+
+ 
+
+
+Other Business Developments
+
+
+ 
+
+
+During the first quarter of fiscal 2020, third-party-led studies regarding the potential upgrading of the Company’s current worldwide ERP system were conducted. Chase is currently reviewing the data and recommendations provided by the study and may further utilize third-party engineering, IT and other professional services firms in the future for similar work, as well as work around our facilities rationalization and consolidation initiative. The Company recognized $150 in expense related to these services in the first quarter of fiscal 2020. Given the ongoing nature of the review, an estimate of future costs, including those that may be capitalized, cannot currently be determined.
+
+
+
+ 
+
+9
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+During the third quarter of fiscal 2019, Chase began moving the pulling and detection operations housed in its Granite Falls, NC location to its Hickory, NC facility. This is in line with the Company’s ongoing initiative to consolidate its manufacturing plants and streamline its existing processes. Currently, the pulling and detection operations are the only Chase-owned production operations in Granite Falls, NC, with the remaining portions of the building being either utilized for research and development or leased to a third party. The process of moving has continued subsequent to the end of fiscal 2019 and is anticipated to be completed during the first half of fiscal 2020. The Company recognized $499 in expense related to the move in the three-month period ended November 30, 2019, having recognized $1,260 in expense during the second half of fiscal 2019. Future costs related to this move are currently anticipated to be approximately $200, and the Company plans to disclose these amounts separately on the condensed consolidated statement of operations in future periods.
+
+
+ 
+
+
+On June 25, 2018, the Company announced to its employees the planned closing of its Pawtucket, RI manufacturing facility effective August 31, 2018. This is in line with the Company’s ongoing efforts to consolidate its manufacturing plants and streamline its existing processes. The manufacture of products previously produced in the Pawtucket, RI facility was substantially moved to Company facilities in Oxford, MA and Lenoir, NC during a two-month transition period.  In the fourth quarter of fiscal 2018, the Company expensed $1,272 related to the closure. The Company also recognized $260 in expense related to the move in the three-month period ended November 30, 2018, with no additional expense recognized in fiscal 2019. Future costs related to this move are not anticipated to be significant to the condensed consolidated financial statements.
+
+
+ 
+
+
+Significant Accounting Policies 
+
+
+ 
+
+
+The Company’s significant accounting policies are detailed in Note 1 — “Summary of Significant Accounting Policies” within Item 8 of the Company’s Annual Report on Form 10-K for the year ended August 31, 2019. Significant changes to these accounting policies as a result of adopting ASU No. 2016-02, “Leases (Topic 842)” during the first quarter of fiscal 2020 are discussed within Note 2 — “Recent Accounting Standards” and Note 8 — “Leases” within this Current Quarterly Report on Form 10-Q.
+
+
+ 
+
+
+ 
+
+
+Note 2 — Recent Accounting Standards
+
+
+ 
+
+
+Recently Adopted Accounting Pronouncements
+
+
+ 
+
+
+In February 2016, the FASB issued ASU No. 2016-02, “Leases (Topic 842).” Under the new guidance, lessees will be required to recognize the following for all leases (with the exception of short-term leases) at the commencement date: (a) a lease liability, which is a lessee’s obligation to make lease payments arising from a lease, measured on a discounted basis; and (b) a right-of-use asset, which represents the lessee’s right to use, or control the use of, a specified asset for the lease term.  In July 2018, the FASB issued ASU 2018-11, “Leases (Topic 842) Targeted Improvements.”  The updated guidance provides an optional transition method, which allows for the application of the standard as of the adoption date with no restatement of prior period amounts.  We adopted the standard on September 1, 2019 (start of fiscal 2020) under the optional transition method described above.  Consequently, historical financial information was not updated, and the disclosures required under the new standard are not provided for dates and periods prior to September 1, 2019. 
+
+
+    
+
+
+The new standard provides several optional practical expedients in transition. The Company has elected to apply the “package of practical expedients” which allow us to not reassess i) whether existing or expired arrangements contain a lease, ii) the lease classification of existing or expired leases, or iii) whether previous initial direct costs would qualify for capitalization under the new lease standard. In preparation for adoption of the standard, the Company enhanced its internal controls to enable the preparation of financial information including the assessment of the impact of the standard. The initial adoption of the ASU resulted in the recognition of additional lease liabilities of $9,644  ($2,071 short-term and $7,573 long-term) and right-of-use assets of $10,200 as of September 1, 2019 on the condensed consolidated balance sheet as it relates to the Company’s operating leases. The new standard did not have a material impact on the Company’s consolidated statement of operations or cash flows. 
+
+
+ 
+
+
+
+ 
+
+10
+
+
+
+Table of Contents
+
+
+
+
+In February 2018, the FASB issued ASU 2018-02, “Income Statement - Reporting Comprehensive Income (Topic 220) - Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income.” This ASU was issued to address a narrow-scope financial reporting issue that arose as a result of the enactment of the Tax Cuts and Jobs Act (“Tax Reform”) on December 22, 2017. The objective of ASU 2018-02 is to address the tax effects of items within accumulated other comprehensive income (referred to as “stranded tax effects”) that do not reflect the appropriate tax rate enacted in the Tax Reform. As a result, the ASU 2018-02 allows a reclassification from accumulated other comprehensive income to retained earnings for stranded tax effects resulting from the newly enacted federal corporate income tax rate. The amount of the reclassification would be the difference between the historical corporate income tax rate of 35 percent and the current enacted corporate income tax rate of 21 percent. ASU 2018-02 is effective for fiscal years beginning after December 15, 2018, with early adoption permitted, including adoption in an interim period. The amendments in this ASU may be applied retrospectively to each period in which the effect of the change in the U.S. Federal corporate income tax rate in the Tax Reform is recognized. Therefore, the Company has adopted ASU 2018-02 in the first quarter of the year ending August 31, 2020, and has elected to reclassify the income tax effects related to its pension funding of the Tax Reform from accumulated other comprehensive loss to retained earnings.
+
+
+ 
+
+
+ 
+
+
+Note 3 — Inventory
+
+
+ 
+
+
+Inventory consisted of the following as of November 30, 2019 and August 31, 2019:
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+11
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Note 4 — Net Income Per Share
+
+
+ 
+
+
+The Company has unvested share-based payment awards with a right to receive nonforfeitable dividends which are considered participating securities under ASC Topic 260, “Earnings Per Share.”  The Company allocates earnings to participating securities and computes earnings per share using the two-class method.  The determination of earnings per share under the two-class method is as follows:
+
+
+ 
+
+
+
+ 
+
+
+For the three-month periods ended November 30, 2019 and 2018, stock options to purchase 8,805 and 12,418 shares, respectively, of common stock were outstanding but were not included in the calculation of diluted income per share because their inclusion would be anti-dilutive. Included in the calculation of dilutive common stock equivalents are the unvested portion of restricted stock and stock options.
+
+
+
+
+
+
+ 
+
+12
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+Note 5 — Stock-Based Compensation
+
+
+ 
+
+
+In August 2018, the Board of Directors of the Company approved the fiscal year 2019 Long Term Incentive Plan (“2019 LTIP”) for the executive officers and other members of management.  The 2019 LTIP is an equity-based plan with a grant date of September 1, 2018 and contains a performance and service-based restricted stock grant of 6,609 shares in the aggregate, subject to adjustment (as discussed below), with a vesting date of August 31, 2021.  
+
+
+ 
+
+
+During the fourth quarter of fiscal 2019, an additional grant of restricted stock was made related to the 2019 LTIP grant in conjunction with an amendment to the equity compensation program for a promoted employee.  The additional grant contains the following restricted stock components: (a) a performance and service-based restricted stock grant of 211 shares in the aggregate, subject to adjustment based on fiscal 2019 results, with a vesting date of August 31, 2021, for which compensation expense is recognized on a ratable basis over the vesting period based on quarterly probability assessments; and (b) a time-based restricted stock grant of 132 shares in the aggregate, with a vesting date of August 31, 2021, for which compensation expense is recognized on a ratable basis over the vesting period. 
+
+
+    
+
+
+In August 2019, restricted stock in the amount of 833 shares related to the 2019 LTIP grant was forfeited in conjunction with an amendment in the equity compensation agreement of an employee.
+
+
+ 
+
+
+Based on the fiscal year 2019 financial results, 2,694 shares of restricted stock already granted was forfeited subsequent to the end of fiscal year 2019 in accordance with the performance measurement criteria.  No further performance-based measurements apply to this award.  Compensation expense is being recognized on a ratable basis over the vesting period.
+
+
+ 
+
+
+In August 2019, the Board of Directors of the Company approved the fiscal year 2020 Long Term Incentive Plan (“2020 LTIP”) for the executive officers and other members of management.  The 2020 LTIP is an equity-based plan with a grant date of September 1, 2019 and contains the following equity components:
+
+
+ 
+
+
+Restricted Shares — (a) a performance and service-based restricted stock grant of 3,697 shares in the aggregate, subject to adjustment based on fiscal 2020 results, with a vesting date of August 31, 2022.  Compensation expense is recognized on a ratable basis over the vesting period based on quarterly probability assessments; and (b) a time-based restricted stock grant of 3,689 shares in the aggregate, with a vesting date of August 31, 2022. Compensation expense is recognized on a ratable basis over the vesting period.
+
+
+ 
+
+
+Stock options — options to purchase 13,418 shares of common stock in the aggregate with an exercise price of $100.22 per share.  The options will vest in three equal annual installments beginning on August 31, 2020 and ending on August 31, 2022. Of the options granted, 6,218 options will expire on August 31, 2029, and 7,200 options will expire on September 1, 2029. Compensation expense is recognized over the period of the award consistent with the vesting terms.
+
+
+ 
+
+
+In August 2019, the Board of Directors of the Company approved equity retention agreements with certain executive officers.  The equity-based retention agreements have a grant date of September 1, 2019 and contain the following equity components: (a) time-based restricted stock grant of 15,945 shares in the aggregate, and having a vesting date of August 31, 2022; and (b) options to purchase 53,642 shares of common stock in the aggregate with an exercise price of $100.22 per share (the options will cliff vest on August 31, 2022 and will expire on August 31, 2029). Compensation expense for both the restricted stock and the stock option components of the equity retention agreements is recognized on a ratable basis over the vesting period.
+
+
+ 
+
+
+
+ 
+
+13
+
+
+
+Table of Contents
+
+
+
+
+Note 6 — Segment Data and Foreign Operations
+
+
+ 
+
+
+The Company is organized into three reportable operating segments: Adhesives, Sealants and Additives; Industrial Tapes; and Corrosion Protection and Waterproofing. The segments are distinguished by the nature of the products manufactured and how they are delivered to their respective markets. In the fourth quarter of our fiscal year 2019, we reorganized from two into three reportable operating segments; prior year quarter amounts have been recast to reflect this change.
+
+
+ 
+
+
+The Adhesives, Sealants and Additives segment offers innovative and specialized product offerings consisting of both end-use products and intermediates that are used in, or integrated into, another company’s product.  Demand for the segment’s product offerings is typically dependent upon general economic conditions. The Adhesives, Sealants and Additives segment leverages the core specialty chemical competencies of the Company, and serves diverse markets and applications.  The segment sells predominantly into the transportation, appliances, medical, general industrial and environmental market verticals. The segment’s products include moisture protective coatings and customized sealant and adhesive systems for electronics, polymeric microspheres, polyurethane dispersions and superabsorbent polymers. 
+
+
+ 
+
+
+The Industrial Tapes segment features legacy wire and cable materials, specialty tapes and other laminated and coated products. The segment derives its competitive advantage through its proven chemistries, diverse specialty offerings and the reliability its supply chain offers to end customers. These products are generally used in the assembly of other manufacturers’ products, with demand typically dependent upon general economic conditions. The Industrial Tapes segment sells mostly to established markets, with some exposure to growth opportunities through further development of existing products. Markets served include cable manufacturing, utilities and telecommunications, and electronics packaging.   The segment’s offerings include insulating and conducting materials for wire and cable manufacturers, laminated durable papers, laminates for the packaging and industrial laminate markets, custom manufacturing services, pulling and detection tapes used in the installation, measurement and location of fiber optic cables and water and natural gas lines, cover tapes essential to delivering semiconductor components via tape-and-reel packaging, and composite materials and elements. 
+
+
+    
+
+
+The Corrosion Protection and Waterproofing segment is principally composed of project-oriented product offerings that are primarily sold and used as “Chase” branded products. End markets include new and existing infrastructure projects on oil, gas, water and wastewater pipelines, highways and bridge decks, water and wastewater containment systems, and commercial buildings. The segment’s products include protective coatings for pipeline applications, coating and lining systems for waterproofing and liquid storage applications, adhesives and sealants used in architectural and building envelope waterproofing applications, high-performance polymeric asphalt additives, and expansion joint systems for waterproofing applications in transportation and architectural markets. With sales generally dependent on outdoor project work, the segment experiences highly seasonal sales patterns.
+
+
+
+
+
+
+ 
+
+14
+
+
+
+Table of Contents
+
+
+
+
+The following tables summarize information about the Company’s reportable segments: 
+
+
+ 
+
+
+
+ 
+
+
+
+
+ (a)
+
+
+
+Includes $499 in exit costs related to the movement of the pulling and detection business out of the Granite Falls, NC location and into the Hickory, NC location during the first quarter of fiscal 2020
+
+
+ (b)
+
+
+
+Includes $150 of expense related to exploratory IT work performed to assess potential future upgrades to our companywide ERP system
+
+
+ (c)
+
+
+
+Includes $260 of expense related to the closure and exit of our Pawtucket, RI location recognized in the first quarter of fiscal 2019
+
+
+ (d)
+
+
+
+Includes $200 of pension-related settlement costs due to the timing of lump-sum distributions
+
+
+ 
+
+15
+
+
+
+Table of Contents
+
+
+
+
+Total assets for the Company’s reportable segments as of November 30, 2019 and August 31, 2019 were:
+
+
+ 
+
+
+
+ 
+
+
+The Company’s products are sold worldwide.  Revenue for the three-month periods ended November 30, 2019 and 2018 were attributed to operations located in the following countries:
+
+
+ 
+
+
+
+
+
+ (1)
+
+
+
+Comprises sales originated from our Paris, France location, royalty revenue attributable to our licensed manufacturer in Asia, and Chase foreign manufacturing operations.
+
+ 
+
+
+As of November 30, 2019 and August 31, 2019 the Company had long-lived assets (defined as tangible assets providing the Company with a future economic benefit beyond the current year or operating period, including buildings, equipment and leasehold improvements) and goodwill and intangible assets, less accumulated amortization, in the following countries:
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+16
+
+
+
+Table of Contents
+
+
+
+
+Note 7 — Goodwill and Other Intangibles
+
+
+ 
+
+
+The changes in the carrying value of goodwill were as follows:
+
+
+ 
+
+
+
+ 
+
+
+The Company’s goodwill is allocated to each reporting unit based on the nature of the products manufactured by the respective business combinations that originally created the goodwill. The Company has identified a total of three reporting units within its three operating segments that are used to evaluate the possible impairment of goodwill. Goodwill impairment exists when the carrying value of goodwill exceeds its fair value. Assessments of possible impairment of goodwill are made when events or changes in circumstances indicate that the carrying value of the asset may not be recoverable through future operations. Additionally, testing for possible impairment of recorded goodwill and certain intangible asset balances is required annually. The amount and timing of any impairment charges based on these assessments require the estimation of future cash flows and the fair market value of the related assets based on management’s best estimates of certain key factors, including future selling prices and volumes; operating, raw material and energy costs; and various other projected operating and economic factors. When testing, fair values of the reporting units and the related implied fair values of their respective goodwill are established using discounted cash flows. The Company evaluates the possible impairment of goodwill annually during the fourth quarter, and whenever events or circumstances indicate the carrying value of goodwill may not be recoverable.
+
+
+ 
+
+
+In fiscal 2017, the Company early adopted ASU No. 2017-04 “Intangibles - Goodwill and Other Topics (Topic 350): Simplifying the Test for Goodwill Impairment.”  We assess goodwill for impairment by comparing the fair value of the reporting unit to its carrying amount. If the fair value of a reporting unit is less than its carrying value, an impairment loss, limited to the amount of goodwill allocated to that reporting unit, is recorded.
+
+
+ 
+
+
+Intangible assets subject to amortization consisted of the following as of November 30, 2019 and August 31, 2019:
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+17
+
+
+
+Table of Contents
+
+
+
+
+Aggregate amortization expense related to intangible assets for the three months ended November 30, 2019 and 2018 was $2,914 and $3,113 respectively.  Estimated amortization expense for the remainder of fiscal year 2020 and for the next five years is as follows:
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+Note 8 — Leases
+
+
+ 
+
+
+Effective September 1, 2019 (the start of fiscal 2020), the Company adopted ASU 2016-02, Leases (Topic 842), using the modified retrospective approach and utilizing the effective date as its date of initial application. As a result, prior periods are presented in accordance with the previous guidance in ASC 840, Leases (“ASC 840”). The Company has elected to apply the ‘package of practical expedients’ which allow us to not reassess i) whether existing or expired arrangements contain a lease, ii) the lease classification of existing or expired leases, or iii) whether previous initial direct costs would qualify for capitalization under the new lease standard.
+
+
+ 
+
+
+At the inception of an arrangement, the Company determines whether the arrangement is or contains a lease based on the unique facts and circumstances present in the arrangement. Leases with a term greater than one year are recognized on the balance sheet as right-of-use (ROU) assets and short-term and long-term lease liabilities, as applicable. The Company does not have any financing leases that are material.
+
+
+ 
+
+
+Operating lease liabilities and their corresponding right-of-use assets are initially recorded based on the present value of lease payments over the expected remaining lease term. The interest rate implicit in lease contracts is typically not readily determinable. As a result, the Company utilizes its incremental borrowing rate to discount lease payments, which reflects the fixed rate at which the Company believes it could borrow on a collateralized basis the amount of the lease payments in the same currency, for a similar term, in a similar economic environment. 
+
+
+ 
+
+
+The Company has elected not to recognize leases with an original term of one year or less on the balance sheet. The Company typically only includes an initial lease term in its assessment of a lease arrangement. Options to renew a lease are not included in the Company’s assessment unless there is reasonable certainty that the Company will renew.
+
+
+ 
+
+
+
+
+
+
+ 
+
+18
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+
+ 
+
+
+Lease cost
+
+
+ 
+
+
+The components of lease costs for the three months ended November 30, 2019 are as follows:
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Three Months Ended
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+November 30, 2019
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Operating lease cost (a)
+
+
+
+ 
+
+
+
+$
+
+
+
+ 931
+
+
+
+
+ 
+
+
+
+ (a)
+
+
+
+Includes short-term leases and variable lease costs (e.g. common area maintenance), which are immaterial.
+
+ 
+
+
+Maturity of lease liability 
+
+
+ 
+
+
+The maturity of the Company's lease liabilities at November 30, 2019 were as follows:
+
+
+
+ 
+
+
+ 
+
+
+The weighted average remaining lease term and discount rates are as follows:
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+November 30, 2019
+
+
+
+ 
+
+
+
+
+
+Lease Term and Discount Rate
+
+
+
+    
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Weighted average remaining lease term (years)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Operating leases
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 5.9
+
+
+
+ 
+
+
+
+
+
+Weighted average discount rate (percentage)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Operating leases
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 3.1
+
+
+
+%
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+19
+
+
+
+Table of Contents
+
+
+
+
+Other Information
+
+
+ 
+
+
+Supplemental cash flow information related to leases is as follows:
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Three Months Ended
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+November 30, 2019
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Operating cash outflows from operating leases
+
+
+
+ 
+
+
+
+$
+
+
+
+ 607
+
+
+
+
+
+Total cash paid for amounts included in the measurement of lease liabilities
+
+
+
+ 
+
+
+
+$
+
+
+
+ 607
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Minimum lease payments under operating leases prior to adoption of ASU 2016-02 were as follows:
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Note 9 — Revenue from Contracts with Customers
+
+
+ 
+
+
+The Company accounts for revenue in accordance with ASC 606, “Revenue from Contracts with Customers.” This revenue is generated from the manufacture of specialty chemical products including coatings, linings, adhesives, sealants, specialty tapes, polymers and laminates. Certain of these manufactured products can incorporate customer-owned materials. The Company also recognizes, to a lesser extent, revenue through royalties and commissions from licensed manufacturers and from providing custom manufacturing-related services. The Company’s revenue recognition policies require the Company to make significant judgments and estimates. In applying the Company’s revenue recognition policy, determinations must be made as to when control of products passes to the Company’s customers, which can be either at a point in time or over time based on contractual terms with customers. Revenue is generally recognized at a point in time when control passes upon either shipment to or receipt by the customer of the Company’s products, while revenue is generally recognized over time when control of the Company’s products transfers to customers during the manufacturing process. The Company analyzes several factors, including but not limited to, the nature of the products being sold and contractual terms and conditions in contracts with customers to help the Company make such judgments about revenue recognition.
+
+
+
+
+
+
+ 
+
+20
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Contract Balances
+
+
+ 
+
+
+The Company’s contract assets primarily relate to unbilled revenue for products currently in production at the Company’s facilities and which incorporate customer-owned material. Revenue is recognized in advance of billing to the customer in these specific circumstances, whereas billing is typically performed at the time of shipment to or receipt by the customer. 
+
+
+ 
+
+
+Contract assets are included in prepaid expenses and other current assets on the Company’s condensed consolidated balance sheets. The following table presents contract assets by reportable operating segment as of November 30, 2019 and August 31, 2019:
+
+
+
+ 
+
+
+The Company did not have any contract liabilities as of November 30, 2019 and August 31, 2019.
+
+
+ 
+
+
+ Disaggregated Revenue 
+
+
+ 
+
+
+The Company disaggregates revenue from customers by geographic region, as it believes this disclosure best depicts how the nature, amount, timing and uncertainty of the Company's revenue and cash flows are affected by economic factors. Disaggregated revenue by geographical region for the three months ended November 30, 2019 and 2018 was as follows:
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+21
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+Note 10 — Commitments and Contingencies
+
+
+ 
+
+
+The Company is involved from time to time in litigation incidental to the conduct of its business. Although the Company does not expect that the outcome in any of these matters, individually or collectively, will have a material adverse effect on its financial condition, results of operations or cash flows, litigation is inherently unpredictable. Therefore, judgments could be rendered, or settlements agreed to that could adversely affect the Company’s operating results or cash flows in a particular period. The Company routinely assesses all its litigation and threatened litigation as to the probability of ultimately incurring a liability and records its best estimate of the ultimate loss in situations where we assess the likelihood of loss as probable.
+
+
+ 
+
+
+Note 11 — Pensions and Other Postretirement Benefits
+
+
+ 
+
+
+The components of net periodic benefit cost for the three months ended November 30, 2019 and 2018 were as follows:
+
+
+ 
+
+
+
+ 
+
+
+When funding is required, the Company’s policy is to contribute amounts that are deductible for federal income tax purposes.  The Company has made contributions of $392 in the three months ended November 30, 2019 to fund its obligations under its pension plans, and plans to make the necessary contributions over the remainder of fiscal 2020 to ensure the qualified plans continue to be adequately funded given the current market conditions. The Company made contributions of $389 in the three months ended November 30, 2018.
+
+
+
+
+
+
+ 
+
+22
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Note 12 — Fair Value Measurements
+
+
+ 
+
+
+The Company defines fair value as the price that would be received to sell an asset or paid to transfer a liability (exit price) in an orderly transaction between market participants at the measurement date.  The Company uses a three-tier fair value hierarchy, which classifies the inputs used in measuring fair values. These tiers are: Level 1, defined as observable inputs such as quoted prices for identical instruments in active markets; Level 2, defined as inputs other than quoted prices in active markets that are either directly or indirectly observable; and Level 3, defined as unobservable inputs in which little or no market data exists, therefore requiring an entity to develop its own assumptions.
+
+
+ 
+
+
+The Company utilizes the best available information in measuring fair value.  Financial assets and liabilities are classified based on the lowest level of input that is significant to the fair value measurement.  The financial assets classified as Level 1 and Level 2 as of November 30, 2019 and August 31, 2019 represent investments that are restricted for use in nonqualified retirement savings plans for certain key employees and directors.
+
+
+ 
+
+
+The following table sets forth the Company’s financial assets that were accounted for at fair value on a recurring basis as of November 30, 2019 and August 31, 2019:
+
+
+ 
+
+
+
+ 
+
+
+The following table presents the fair value of the Company’s long-term debt (including any current portion of long-term debt) as of November 30, 2019 and August 31, 2019, which is recorded at its carrying value:
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Fair value measurement category
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Quoted prices
+
+
+
+ 
+
+
+
+Significant other
+
+
+
+ 
+
+
+
+Significant
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Fair value 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+in active markets
+
+
+
+ 
+
+
+
+observable inputs
+
+
+
+ 
+
+
+
+unobservable inputs
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+    
+
+
+
+measurement date
+
+
+
+    
+
+
+
+Total
+
+
+
+    
+
+
+
+(Level 1)
+
+
+
+    
+
+
+
+(Level 2)
+
+
+
+    
+
+
+
+(Level 3)
+
+
+
+ 
+
+
+
+
+
+Liabilities:
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Long-term debt
+
+
+
+ 
+
+
+
+November 30, 2019
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Long-term debt
+
+
+
+ 
+
+
+
+August 31, 2019
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+$
+
+
+
+  —
+
+
+
+ 
+
+
+
+
+ 
+
+
+The long-term debt had no outstanding balance as of November 30, 2019 and August 31, 2019. The carrying value of the long-term debt approximates its fair value, as the interest rate is set based on the movement of the underlying market rates. See Note 16 to the condensed consolidated financial statements for additional information on long-term debt.
+
+
+
+
+
+
+ 
+
+23
+
+
+
+Table of Contents
+
+
+
+
+Note 13 — Accumulated Other Comprehensive Income
+
+
+ 
+
+
+The changes in accumulated other comprehensive income (loss), net of tax, were as follows:
+
+
+ 
+
+
+
+
+
+ (1)
+
+
+
+Net of tax expense of $11, $0 and $0, respectively.
+
+
+ (2)
+
+
+
+Net of tax benefit of $4, $83 and $0, respectively. 
+
+
+ (3)
+
+
+
+Net of tax benefit of $15, $0 and $0, respectively.
+
+
+ (4)
+
+
+
+Net of tax expense of $1, tax benefit of $44 and $0, respectively.
+
+
+ (5)
+
+
+
+See Note 2 for further information related to the adoption of ASU 2018-02.
+
+
+ 
+
+24
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+The following table summarizes the reclassifications from accumulated other comprehensive income (loss) to the unaudited condensed consolidated statements of income:
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+25
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Note 14 — Assets Held for Sale
+
+
+ 
+
+
+The Company periodically reviews long-lived assets against its plans to retain or ultimately dispose of these assets. If the Company decides to dispose of an asset and commits to a plan to actively market and sell the asset, it will be moved to assets held for sale. The Company analyzes market conditions each reporting period, and, if applicable, records additional impairments due to declines in market values of like assets. The fair value of the asset is determined by observable inputs such as appraisals and prices of comparable assets in active markets for assets like the Company's. Gains are not recognized until the assets are sold.  
+
+
+ 
+
+
+Assets held for sale as of November 30, 2019 and August 31, 2019 were:
+
+
+
+ 
+
+
+ 
+
+
+See Note 15 to the condensed consolidated financial statements for additional information on the Pawtucket, RI location assets held as of November 30, 2019.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Note 15 — Operations Optimization Costs
+
+
+ 
+
+
+IT Studies Related to the Upgrade of the Company’s Worldwide ERP System
+
+
+   
+
+
+During the first quarter of fiscal 2020, third-party-led studies regarding the potential upgrading of the Company’s current worldwide ERP system were conducted. Chase is currently reviewing the data and recommendations provided by the study and may further utilize third-party engineering, IT and other professional services firms in the future for similar work, as well as work around our facilities rationalization and consolidation initiative. The Company recognized $150 in expense related to these services in the first quarter of fiscal 2020. Given the ongoing nature of the review, an estimate of future costs, including those that may be capitalized, cannot currently be determined.
+
+
+ 
+
+
+Relocation of Pulling and Detection Manufacturing to Hickory, NC
+
+
+ 
+
+
+During the third quarter of fiscal 2019, Chase began moving the pulling and detection operations housed in its Granite Falls, NC location to its Hickory, NC facility. This is in line with the Company’s ongoing initiative to consolidate its manufacturing plants and streamline its existing processes. Currently, the pulling and detection operations are the only Chase-owned production operations in Granite Falls, NC, with the remaining portions of the building being either utilized for research and development or leased to a third party. The process of moving has continued subsequent to the end of fiscal 2019 and is anticipated to be completed during the first half of fiscal 2020. The Company recognized $499 in expense related to the move in the three-month period ended November 30, 2019, having recognized $1,260 in expense during the second half of fiscal 2019. Future costs related to this move are currently anticipated to be approximately $200, and the Company plans to disclose these amounts separately on the condensed consolidated statement of operations in future periods.
+
+
+ 
+
+
+
+
+
+
+ 
+
+26
+
+
+
+Table of Contents
+
+
+
+
+Closure of Pawtucket, RI Facility
+
+
+ 
+
+
+On June 25, 2018, the Company announced to its employees the planned closing of its Pawtucket, RI manufacturing facility effective August 31, 2018. This is in line with the Company’s ongoing efforts to consolidate its manufacturing plants and streamline its existing processes. The manufacture of products previously produced in the Pawtucket, RI facility was substantially moved to Company facilities in Oxford, MA and Lenoir, NC during a two-month transition period.  In the fourth quarter of fiscal 2018, the Company expensed $1,272 related to the closure. The Company also recognized $260 in expense related to the move in the three-month period ended November 30, 2018, with no additional expense recognized in fiscal 2019. Future costs related to this move are not anticipated to be significant to the condensed consolidated financial statements.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Note 16 — Long-Term Debt
+
+
+ 
+
+
+On December 15, 2016, the Company entered into an Amended and Restated Credit Agreement (the “Credit Agreement”) with Bank of America, acting as administrative agent, and with participation from Citizens Bank and JPMorgan Chase Bank (collectively with Bank of America, the “Lenders”). The Credit Agreement is initially an all-revolving credit facility with a borrowing capacity of $150,000, which can be increased by an additional $50,000 at the request of the Company and the individual or collective option of any of the Lenders. The Credit Agreement contains customary affirmative and negative covenants that, among other things, restrict our ability to incur additional indebtedness and require lender approval for acquisitions by the Company and its subsidiaries over a certain size.  It also requires us to maintain certain financial ratios on a consolidated basis, including a consolidated net leverage ratio (as defined in the facility) of no more than 3.25 to 1.00, and a consolidated fixed charge coverage ratio (as defined in the facility) of at least 1.25 to 1.00. We were in compliance with our debt covenants as of November 30, 2019. The Credit Agreement is guaranteed by all of Chase’s direct and indirect domestic subsidiaries, which collectively had a carrying value of $242,578 at November 30, 2019.  The Company entered into the Credit Agreement both to refinance our previously existing term loan and revolving line of credit, and to provide for additional liquidity to finance potential acquisitions, working capital, capital expenditures, and for other general corporate purposes.
+
+
+ 
+
+
+The applicable interest rate for the revolver portion of the Credit Agreement (the “Revolving Facility”) and any Term Loan (defined below) is based on the effective London Interbank Offered Rate (LIBOR) plus an additional amount in the range of 1.00% to 1.75%, depending on the consolidated net leverage ratio of Chase and its subsidiaries. At November 30, 2019, there was no outstanding principal balance, and therefore no applicable interest rate.  The Credit Agreement has a five-year term with interest payments due at the end of the applicable LIBOR period (but in no event less frequently than the three-month anniversary of the commencement of such LIBOR period) and principal payment due at the expiration of the agreement, December 15, 2021.  In addition, the Company may elect a base rate option for all or a portion of the Revolving Facility, in which case interest payments shall be due with respect to such portion of the Revolving Facility on the last business day of each quarter.
+
+
+Subject to certain conditions set forth in the Credit Agreement, the Company may elect to convert all or a portion of the outstanding Revolving Facility into a term loan (each, a “Term Loan”), which shall be payable quarterly in equal installments sufficient to amortize the original principal amount of such Term Loan on a seven year amortization schedule; provided, however, that the final principal repayment installment shall be repaid on December 15, 2021 and in any event shall be in an amount equal to the aggregate principal amount of all Term Loans outstanding on such date. Prepayment is allowed by the Credit Agreement at any time during the term of the agreement, subject to customary notice requirements.
+
+
+ 
+
+
+In December 2017 (fiscal 2018), the Company utilized $65,000 of the Credit Agreement to finance the majority of the acquisition cost of Zappa Stewart. The Company paid down $40,000 of the outstanding balance in fiscal 2018, and made additional principal payments of $10,000,  $9,000 and $6,000 in the first, second and third quarters of fiscal 2019, respectively, resulting in an outstanding balance of $0 at August 31, 2019 and November 30, 2019.  
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+27
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Note 17 — Income Taxes
+
+
+ 
+
+
+For the three months ended November 30, 2019 and 2018, the Company recorded income taxes of $2,709 and $2,985 on income before income taxes of $10,071 and $11,808, respectively. The effective tax rate for the three months ended November 30, 2019 and 2018 was 26.9% and 25.3%, respectively. 
+
+
+ 
+
+
+On December 22, 2017, President Trump signed into law the Tax Cuts and Jobs Act (the “Tax Act”). The Tax Act impacted the U.S. statutory Federal tax rate that the Company will be subject to going forward, reducing it from 35% to 21%. The Company applied this U.S. statutory Federal rate of 21% for both the quarters ended November 30, 2019 and 2018.
+
+
+ 
+
+
+During the quarter ended November 30, 2018 (the first quarter of fiscal 2019), the Company began recognizing an additional component of total Federal tax expense, the tax on Global Intangible Low-Taxed Income (“GILTI”) provision of the Tax Act, which became applicable to the Company in fiscal 2019. The Company elected to account for GILTI as a period cost, and therefore included GILTI expense in the effective tax rate calculation. This provision did not have a material effect on the effective tax rate for the quarters ended November 30, 2019 and 2018. 
+
+
+ 
+
+
+The Company concluded that the Base Erosion and Anti Abuse Tax (“BEAT”) provision of the Tax Act, which also became applicable to the Company in fiscal 2019, had no effect on our effective tax rate for the first quarters  of fiscal year 2020 and 2019. Additionally, the Company is deferring the application of Foreign-Derived Intangible Income (“FDII”) for the current period, in anticipation of further guidance and the establishment of industry standards by the U.S. Treasury Department and trade associations.
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+28
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Item 2 — Management’s Discussion and Analysis of Financial Condition and Results of Operations
+
+
+ 
+
+
+The following discussion provides an analysis of the Company’s financial condition and results of operations and should be read in conjunction with the Condensed Consolidated Financial Statements and notes thereto included in Item 1 of Part I of this Quarterly Report on Form 10-Q and with the Company’s Annual Report on Form 10-K filed for the fiscal year ended August 31, 2019.
+
+
+ 
+
+
+Overview
+
+
+ 
+
+
+We experienced a  primarily volume-based revenue decline in the quarter ended November 30, 2019, as compared to the first fiscal quarter of the prior year. Macrotrends observed in the prior year continued, including tightness in Asian markets, contraction in Middle East construction starts and declining domestic bridge work. In the current quarter, we also saw a slowdown in cable materials demand and the planned winding down of the transitional toll manufacturing services we provide to the common purchaser of the structural composites rod and fiber optic cable components businesses. While revenue was down, certain operational improvements over the comparative period were recognized, including an increased relative gross profit margin, as the Company saw the current year benefits of the prior year consolidation of our wire and cable materials manufacturing into our Oxford, MA and Lenoir, NC locations.  A favorable sales mix, including the reduction in low-margin tolling services, and price increases put into effect to address rising raw material costs in the prior year both further aided our gross profit margin as a percentage of revenue.
+
+
+ 
+
+
+During the first quarter of fiscal 2020, the Company further progressed its facility consolidation and rationalization initiative, nearly completing the relocation of our pulling and detection product line production operations from our Granite Falls, NC facility to our Hickory, NC facility. The pulling and detection relocation effort began in the third quarter of the prior year and is anticipated to be substantially completed in the coming second fiscal quarter of 2020. Operational efficiency gains continued at our Oxford, MA and Lenoir, NC facilities. Our Industrial Tapes segment is the beneficiary of both these consolidation efforts, and the segment’s improved gross profit margin as a percentage of revenue demonstrated the gains that can be realized by the proper execution of an effective consolidation program.  We also began the process of exploring future upgrades to our existing worldwide ERP system as a means to invest in the streamlining of our operations and making us more scalable for future growth whether organic or via potential acquisitions.
+
+
+ 
+
+
+Net cash provided by operating activities exceeded the prior year first quarter and the Company’s cash position continued the positive trend seen in the latter half of the prior fiscal year following the full payoff of our outstanding debt. We remain unleveraged, holding no outstanding balance on our revolving credit facility at the close of the current period. Our revolving credit facility allows for us to pay down debt when we have excess cash, while retaining access to immediate liquidity to fund future accretive activities, including mergers and acquisitions, as identified. 
+
+
+ 
+
+
+Revenue from the Adhesives, Sealants and Additives segment decreased as our electronic and industrial coatings product line sales volume continued to be affected by slower Asian markets, a trend which began in the second half of the prior year. Our specialty chemical intermediates product line sales increased on volume over the prior year, partially tempering the overall sales decline for the segment.    
+
+
+ 
+
+
+Our Industrial Tapes segment’s sales decreased compared to the prior year, most notably related to both our cable materials and specialty products product lines. The reduction in our specialty products product line came largely on less low-margin transitional toll manufacturing services provided to the common purchaser of our structural composites rod and fiber optical cable components businesses as that arrangement neared completion. Our electronic materials product line, which sells into near exclusively Asian end markets, also had reduced sales volume as compared to the prior year. The segment’s top-line results for the quarter were positively affected by our pulling and detection product line, which had strong sales into North American utility and telecommunication markets.
+
+
+ 
+
+
+
+ 
+
+29
+
+
+
+Table of Contents
+
+
+
+
+Our Corrosion Protection and Waterproofing segment’s revenue fell short of the prior year for the quarter ended November 30, 2019. Our bridge and highway, pipeline coatings and coating and lining systems product lines all saw declines from the prior year first quarter. Our bridge and highway product line sales results in the first quarter were affected by non-repeating, large-scale bridge work in the eastern U.S. which began in fiscal 2018 and completed in fiscal 2019 (prior year).   Continued compressed construction in the Middle East affected our U.K.-produced water and wastewater pipeline products, which was the primary driver for the product line’s year-over-year sales volume decline. Our building envelope product line finished the quarter surpassing prior year sales results.
+
+
+ 
+
+
+The upcoming second fiscal quarter has historically generated lower quarterly revenue for many of our product lines, especially within the Corrosion Protection and Waterproofing segment due to the seasonal effects of winter weather across much of North America.
+
+
+ 
+
+
+Our balance sheet remains strong at November 30, 2019, with cash on hand  of $66,056,000, a current ratio of 4.6 and no outstanding principal balance owed on our $150,000,000 revolving credit facility.
+
+
+ 
+
+
+We have three reportable operating segments as summarized below:
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Segment
+
+
+
+    
+
+
+
+Product Lines
+
+
+
+    
+
+
+
+Manufacturing Focus and Products
+
+
+
+
+
+Adhesives, Sealants and Additives
+
+
+
+ 
+
+
+
+Electronic and Industrial CoatingsSpecialty Chemical Intermediates
+
+
+
+ 
+
+
+
+Protective coatings, including moisture protective coatings and customized sealant and adhesive systems for electronics; polyurethane dispersions, polymeric microspheres and superabsorbent polymers.
+
+
+
+
+
+Industrial Tapes
+
+
+
+ 
+
+
+
+Cable Materials
+
+Specialty Products
+
+Pulling and Detection
+
+Electronic Materials
+
+
+
+ 
+
+
+
+Protective tape and coating products and services, including insulating and conducting materials for wire and cable manufacturers; laminated durable papers, packaging and industrial laminate products and custom manufacturing services; pulling and detection tapes used in the installation, measurement and location of fiber optic cables and water and natural gas lines; cover tapes essential to delivering semiconductor components via tape-and-reel packaging.
+
+
+
+
+
+Corrosion Protection and Waterproofing
+
+
+
+ 
+
+
+
+Coating and Lining Systems
+
+Pipeline Coatings
+
+Building Envelope
+
+Bridge and Highway
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+Protective coatings and tape products, including coating and lining systems for use in liquid storage and containment applications; protective coatings for pipeline and general construction applications; adhesives and sealants used in architectural and building envelope waterproofing applications; high-performance polymeric asphalt additives and expansion and control joint systems for use in the transportation and architectural markets.
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+30
+
+
+
+Table of Contents
+
+
+
+
+Results of Operations
+
+
+ 
+
+
+Revenue and Income before Income Taxes by Segment were as follows (dollars in thousands):
+
+
+ 
+
+
+
+ 
+
+
+
+
+ (a)
+
+
+
+Includes $499 in exit costs related to the movement of the pulling and detection business out of the Granite Falls, NC location and into the Hickory, NC location during the first quarter of fiscal 2020
+
+
+ (b)
+
+
+
+Includes $150 of expense related to exploratory IT work performed to assess potential future upgrades to our companywide ERP system
+
+
+ (c)
+
+
+
+Includes $260 of expense related to the closure and exit of our Pawtucket, RI location recognized in the first quarter of fiscal 2019
+
+
+ (d)
+
+
+
+Includes $200 of pension-related settlement costs due to the timing of lump-sum distributions
+
+ 
+
+
+Total Revenue
+
+
+ 
+
+
+Total revenue decreased $5,701,000 or 8% to $66,802,000 for the quarter ended November 30, 2019, compared to $72,503,000 in the same quarter of the prior year. 
+
+
+ 
+
+
+Revenue in our Adhesives, Sealants and Additives segment decreased $876,000 or 3% to $25,822,000 for the quarter ended November 30, 2019 compared to $26,698,000 in the first quarter of fiscal 2019.  The decrease in revenue from our Adhesives, Sealants and Additives segment in fiscal 2020 was primarily due to our electronic and industrial coatings product line’s $1,193,000 sales-volume-driven decrease, with headwinds seen most acutely in Asian markets. Partially offsetting the segment’s sales decline was an increase in revenue from our specialty chemical intermediates product line totaling $317,000, with strong North America sales into the consumer, environmental, industrial and medical markets.
+
+
+ 
+
+
+Revenue in our Industrial Tapes segment decreased $3,338,000 or 10% to $30,124,000 for the three months ended November 30, 2019 compared to $33,462,000 in fiscal 2019.  The decrease in revenue was primarily due to: (a) a sales volume demand decrease of $1,978,000 from our cable materials product line; (b) a quarter-over-quarter revenue reduction of $1,730,000 for our specialty products product line, as we provided less low-margin transitional toll manufacturing services in the current period; and (c) an entirely volume-driven sales decrease of $270,000 in our electronic materials product line, which has a near exclusively Asian end-market. Partially offsetting the sales decline for the segment was our pulling and detection tapes product line, which achieved a volume- and price-driven revenue growth of $640,000 over the first quarter of the prior year.
+
+
+
+
+
+
+ 
+
+31
+
+
+
+Table of Contents
+
+
+
+
+Compared to the prior year first quarter, revenue from our Corrosion Protection and Waterproofing segment decreased $1,487,000 or 12% to $10,856,000 compared to $12,343,000 in the first three months of fiscal 2019. The segment’s sales decrease was predominantly driven by unfavorable results for our bridge and highway products, which saw a volume-driven sales decline of $1,090,000 as compared to the elevated results of the bridge work-heavy prior year. Our pipeline coatings and coating and lining systems product lines also saw sales contract from the prior year by $677,000 and $265,000, respectively. In the case of our pipeline coatings products, the reduction was primarily related to the prolonged contraction in certain Middle East credit markets, which has delayed construction starts. Tempering the overall sales decrease, our building envelope product line finished the first quarter with sales favorable to the prior year by $545,000.
+
+
+ 
+
+
+Cost of Products and Services Sold
+
+
+ 
+
+
+Cost of products and services sold decreased $4,792,000 or 10% to $41,783,000 for the quarter ended November 30, 2019, compared to $46,575,000 in the prior year quarter. 
+
+
+ 
+
+
+The following table summarizes our cost of products and services sold as a percentage of revenue for each of our reportable operating segments:
+
+
+ 
+
+
+
+ 
+
+
+Cost of products and services sold in our Adhesives, Sealants and Additives segment was $14,532,000 in the current quarter compared to $14,992,000 in the comparable period in the prior year.  Cost of products and services sold in our Industrial Tapes segment was  $21,319,000 in the current quarter compared to $24,618,000 in the comparable period in the prior year.  Cost of products and services sold in our Corrosion Protection and Waterproofing segment was $5,932,000 for the quarter ended November 30, 2019, compared to $6,965,000 in the same period of the prior year.  
+
+
+ 
+
+
+As a percentage of revenue, cost of products and services sold stayed the same for the Adhesives, Sealants and Additives segment, and was reduced for both the Industrial Tapes  and Corrosion Protection and Waterproofing segments for the quarter as compared to the same period in the prior year. These relative gross margin improvements were primarily due to: (a) production efficiencies recognized in the quarter over the prior year,  most acutely seen at our Oxford, MA and Lenoir, NC locations following the consolidation of our former Pawtucket, RI cable materials plant, and benefiting our Industrial Tapes segment; (b) more favorable sales mix, most specifically obtained in our Industrial Tapes segment, as our lower margin products constituted a comparatively lower portion of total sales; and (c) the full period effects of price increases the Company instituted during fiscal 2019 (prior year) to address inflation in raw material costs.
+
+
+ 
+
+
+With the composition of our finished goods and the markets we serve, the costs  of certain commodities (including petroleum-based solvents, films, yarns, polymers and nonwovens, aluminum and copper foils, specialty papers, and various resins, adhesives and inks) both directly and indirectly affect the purchase price of our raw materials and the market demand for our product offerings. The Company diligently monitors raw material and commodities pricing across all its product lines in its efforts to preserve margins.
+
+
+ 
+
+
+Selling, General and Administrative Expenses
+
+
+ 
+
+
+Selling, general and administrative expenses increased $278,000 or 2% to $13,640,000 for the quarter ended November 30, 2019 compared to $13,362,000 in the prior year quarter. As a percentage of revenue, selling, general and administrative expenses represented 20% and 18% for the quarter ended November 30, 2019 and 2018, respectively. The nominal increase for the current fiscal quarter compared to the prior year period was largely attributable to an increase of $209,000 in non-cash stock-based compensation expenses.
+
+
+
+
+
+
+ 
+
+32
+
+
+
+Table of Contents
+
+
+
+
+Operations Optimization Costs
+
+
+ 
+
+
+During the first quarter of fiscal 2020, third-party-led studies regarding the potential upgrading of the Company’s current worldwide ERP system were conducted. Chase is currently reviewing the data and recommendations provided by the study and may further utilize third-party engineering, IT and other professional services firms in the future for similar work, as well as work around our facilities rationalization and consolidation initiative. The Company recognized $150,000 in expense related to these services in the first quarter of fiscal 2020. Given the ongoing nature of the review, an estimate of future costs, including costs that could be capitalized, cannot currently be determined.
+
+
+ 
+
+
+During the third quarter of fiscal 2019, Chase began moving the pulling and detection operations housed in its Granite Falls, NC location to its Hickory, NC facility. This is in line with the Company’s ongoing initiative to consolidate its manufacturing plants and streamline its existing processes. Currently, the pulling and detection operations are the only Chase-owned production operations in Granite Falls, NC, with the remaining portions of the building being either utilized for research and development or leased to a third party. The process of moving has continued subsequent to the end of fiscal 2019 and is anticipated to be completed during the first half of fiscal 2020. The Company recognized $499,000 in expense related to the move in the three-month period ended November 30, 2019, having recognized $1,260,000 in expense during the second half of fiscal 2019. Future costs related to this move are currently anticipated to be approximately $200,000, and the Company plans to disclose these amounts separately on the condensed consolidated statement of operations in future periods.
+
+
+ 
+
+
+On June 25, 2018, the Company announced to its employees the planned closing of its Pawtucket, RI manufacturing facility effective August 31, 2018. This is in line with the Company’s ongoing efforts to consolidate its manufacturing plants and streamline its existing processes. The manufacture of products previously produced in the Pawtucket, RI facility was substantially moved to Company facilities in Oxford, MA and Lenoir, NC during a two-month transition period.  In the fourth quarter of fiscal 2018, the Company expensed $1,272,000 related to the closure. The Company also recognized $260,000 in expense related to the move in the three-month period ended November 30, 2018, with no additional expense recognized in fiscal 2019. Future costs related to this move are not anticipated to be significant to the condensed consolidated financial statements.
+
+
+ 
+
+
+Interest Expense
+
+
+ 
+
+
+Interest expense decreased $149,000 or 73% to $55,000 for the quarter ended November 30, 2019 compared to $204,000 in the prior year first quarter.  The decrease in interest expense in the current quarter is primarily the result of the decreased average outstanding balance of our revolving debt facility, following the $65,000,000 draw on the facility in December 2017 (the second fiscal quarter of fiscal 2018) to substantially fund the Company’s acquisition of Zappa Stewart. 
+
+
+ 
+
+
+In fiscal 2018, subsequent to the December 2017 borrowing, the Company made $40,000,000 in payments against the principal. In the first,  second and third quarters of fiscal 2019, Chase made additional $10,000,000, $9,000,000 and $6,000,000 principal payments, respectively, paying off the outstanding balance in full as of May 31, 2019 (third quarter of the prior year). 
+
+
+ 
+
+
+
+
+
+
+ 
+
+33
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Other Income (Expense)
+
+
+ 
+
+
+Other income (expense) was an expense of $604,000 in the quarter ended November 30, 2019 compared to an expense of $294,000 in the same period in the prior year, an increase of $310,000. Other income (expense) primarily includes foreign exchange gains (losses) caused by changes in exchange rates on transactions or balances denominated in currencies other than the functional currency of our subsidiaries, non-service cost components of periodic pension expense (including pension-related settlement costs due to the timing of lump-sum distributions), interest income, rental income and other receipts that are not classified as trade, royalties or commissions. For the current quarter, the net loss was primarily caused by foreign exchange losses of $501,000, as compared to a $52,000 gain seen in the comparable period.
+
+
+ 
+
+
+Income Taxes
+
+
+ 
+
+
+The effective tax rates for the three-month periods ended November 30, 2019 and 2018 were 26.9% and 25.3%, respectively.
+
+
+ 
+
+
+The current and prior year effective tax rates were most prominently affected by the passage of the Tax Cuts and Jobs Act (the “Tax Act”) in December 2017. For fiscal 2020 and 2019, the Company is utilizing the new 21% Federal tax rate enacted by the Tax Act.  Please see Note 17 — “Income Taxes” to the Condensed Consolidated Financial Statements for further discussion of the effects of the Tax Act.
+
+
+ 
+
+
+Net Income 
+
+
+ 
+
+
+Net income decreased $1,461,000 or 17% to $7,362,000 in the quarter ended November 30, 2019 compared to $8,823,000 in the prior year first quarter.  The decrease in net income in the first fiscal quarter was primarily due to a lower recognized gross margin on decreased sales volume, a net foreign exchange loss as compared to a gain in the prior year and higher operations optimization costs in the current year.
+
+
+
+
+
+
+ 
+
+34
+
+
+
+Table of Contents
+
+
+
+
+Other Important Performance Measures
+
+
+ 
+
+
+We believe that EBITDA, Adjusted EBITDA and Free Cash Flow are useful performance measures.  They are used by our executive management team to measure operating performance, to allocate resources, to evaluate the effectiveness of our business strategies and to communicate with our Board of Directors and investors concerning our financial performance. The Company believes EBITDA, Adjusted EBITDA and Free Cash Flow are also useful to investors. EBITDA is useful in comparing the core operations of the business from period to period by removing the impact of the Company’s capital structure (through interest expense), asset base (through depreciation and amortization) and tax rate, and in evaluating operating performance relative to others in the industry.  Adjusted EBITDA allows for comparison to the Company’s performance in prior periods without the effect of items that, by their nature, tend to obscure the Company’s core operating results due to the potential variability across periods based on their timing, frequency and magnitude. Free Cash Flow provides a means for measuring the cash generated from operations that is available for mandatory obligations, including interest payments and debt repayment, and discretionary investment opportunities such as funding acquisitions, product and market development and paying dividends. As a result, management believes these metrics, which are commonly used by financial analysts and others in the industries in which the Company operates, enhance the ability of investors to analyze trends in the Company’s business and evaluate the Company’s performance relative to peer companies and the past performance of the Company itself. EBITDA, Adjusted EBITDA and Free Cash Flow are non-U.S. GAAP financial measures. 
+
+
+    
+
+
+We define EBITDA as net income before interest expense from borrowings, income tax expense, depreciation expense from fixed assets, and amortization expense from intangible assets.  We define Adjusted EBITDA as EBITDA excluding costs and (gains) losses related to our acquisitions and divestitures, costs of products sold related to inventory step-up to fair value, settlement (gains) losses resulting from lump-sum distributions to participants from our defined benefit plans, operations optimization costs, and other significant items. We define Free Cash Flow as net cash provided by operating activities less purchases of property, plant and equipment. 
+
+
+    
+
+
+The use of EBITDA, Adjusted EBITDA and Free Cash Flow has limitations and these performance measures should not be considered in isolation from, or as an alternative to, U.S. GAAP measures such as net income and net cash provided by operating activities.  None of these measures should be interpreted as representing the residual cash flow of the Company available solely for discretionary expenditures or to invest in the growth of our business, since we may have certain non-discretionary expenditures that are not deducted from these measures, including scheduled principal and (in the case of Free Cash Flow) interest payments on outstanding debt. Our measurement of EBITDA, Adjusted EBITDA and Free Cash Flow may not be comparable to similarly-titled measures used by other companies.
+
+
+
+
+
+
+ 
+
+35
+
+
+
+Table of Contents
+
+
+
+
+The following table provides a reconciliation of net income, the most directly comparable financial measure presented in accordance with U.S. GAAP, to EBITDA and Adjusted EBITDA for the periods presented (dollars in thousands):
+
+
+ 
+
+
+
+ 
+
+
+
+ (a)
+
+
+
+Represents costs to relocate certain production operations from Granite Falls, NC to Hickory, NC and to perform certain exploratory work into upgrading our companywide ERP system, both incurred in the first quarter of fiscal 2020, and Pawtucket, RI facility closure costs recognized in the first quarter of fiscal 2019
+
+
+ (b)
+
+
+
+Represents pension-related settlement costs due to the timing of lump-sum distributions
+
+ 
+
+
+The following table provides a reconciliation of net cash provided by operating activities, the most directly comparable financial measure presented in accordance with U.S. GAAP, to Free Cash Flow for the periods presented (dollars in thousands):
+
+
+ 
+
+
+
+ 
+
+
+Liquidity and Sources of Capital
+
+
+ 
+
+
+Our overall cash and cash equivalents balance increased $18,285,000 to $66,056,000 at November 30, 2019, from $47,771,000 at August 31, 2019.  The increased cash balance is primarily attributable to cash provided by operations of $18,153,000. Of the above-noted amounts, $18,996,000 and $17,235,000 were held outside the United States by Chase Corporation and our foreign subsidiaries as of November 30, 2019 and August 31, 2019, respectively. Given our cash position and borrowing capability in the United States and the potential for increased investment and acquisitions in foreign jurisdictions, prior to the second quarter of fiscal 2018 we did not have a history of repatriating a significant portion of our foreign cash. With the passage of the Tax Cuts and Jobs Act (the “Tax Act”) in the second fiscal quarter of 2018, significant changes in the Internal Revenue Code were enacted, changing the U.S. taxable nature of previously unrepatriated foreign earnings. Following the passage of the Tax Act, the Company repatriated $10,499,000 in U.K. foreign earnings in fiscal 2018 and $17,230,000 in fiscal 2019. No additional amounts were repatriated in the first fiscal quarter of 2020.  Please see Note 17 — “Income Taxes” to the Condensed Consolidated Financial Statements for further discussion of the effects of the Tax Act.
+
+
+ 
+
+
+Cash flow provided by operations was $18,153,000 in the first three months of fiscal year 2020 compared to $11,577,000 in the same period in the prior year.  Cash provided by operations during the current period was primarily related to operating income.  Positively impacting our cash flow from operations were decreases in accounts receivable and inventory balances, as the Company had lower sales in the first quarter of the current year.
+
+
+ 
+
+
+The ratio of current assets to current liabilities was 4.6 as of November 30, 2019 compared to 6.0 as of August 31, 2019.  The ratio decreased over the first three months of fiscal 2020 primarily as a result of the declaration of the dividend payable.
+
+
+
+ 
+
+36
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Cash flow used in investing activities of $744,000 was primarily due to cash spent on capital purchases of machinery and equipment in fiscal 2020.
+
+
+ 
+
+
+There was no cash flow related to financing activities for the first three months of fiscal 2020.
+
+
+ 
+
+
+On November 13, 2019, we announced a cash dividend of $0.80 per share (totaling $7,539,000).  The dividend was paid on December 4, 2019 (the second quarter of fiscal 2020) to shareholders of record on November 26, 2019.
+
+
+ 
+
+
+On December 15, 2016, we entered an Amended and Restated Credit Agreement (the “Credit Agreement”) with Bank of America, acting as administrative agent, and with participation from Citizens Bank and JPMorgan Chase Bank (collectively with Bank of America, the “Lenders”). The Credit Agreement is initially an all-revolving credit facility with a borrowing capacity of $150,000,000, which can be increased by an additional $50,000,000 at the request of the Company and the individual or collective option of any of the Lenders. The Credit Agreement contains customary affirmative and negative covenants that, among other things, restrict our ability to incur additional indebtedness and require lender approval for acquisitions by us and our subsidiaries over a certain size.  It also requires us to maintain certain financial ratios on a consolidated basis, including a consolidated net leverage ratio (as defined in the facility) of no more than 3.25 to 1.00, and a consolidated fixed charge coverage ratio (as defined in the facility) of at least 1.25 to 1.00. We were in compliance with our debt covenants as of November 30, 2019. The applicable interest rate for the Credit Agreement is based on the effective LIBOR plus an additional amount in the range of 1.00% to 1.75%, depending on our consolidated net leverage ratio or, at our option, at the bank’s base lending rate. At November 30, 2019, there was no outstanding principal balance, and as such no applicable interest rate.
+
+
+ 
+
+
+We have several ongoing capital projects, as well as our facility rationalization and consolidation initiative, which are important to our long-term strategic goals.  Machinery and equipment may be added as needed to increase capacity or enhance operating efficiencies in our production facilities.
+
+
+ 
+
+
+We may acquire companies or other assets in future periods which are complementary to our business.  We believe that our existing resources, including cash on hand and the Credit Agreement, together with cash generated from operations and additional bank borrowings, will be sufficient to fund our cash flow requirements through at least the next twelve months.  However, there can be no assurance that additional financing, if needed, will be available on favorable terms, if at all.
+
+
+ 
+
+
+To the extent that interest rates increase in future periods, we will assess the impact of these higher interest rates on the financial and cash flow projections of our potential acquisitions.
+
+
+ 
+
+
+We have no significant off-balance sheet arrangements.
+
+
+
+
+
+
+ 
+
+37
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Contractual Obligations
+
+
+ 
+
+
+Please refer to Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended August 31, 2019 for a complete discussion of our contractual obligations.
+
+
+ 
+
+
+Recent Accounting Standards
+
+
+ 
+
+
+Please see Note 2 —  “Recent Accounting Standards” to the Condensed Consolidated Financial Statements for a discussion of the effects of recently issued and recently adopted accounting pronouncements.
+
+
+ 
+
+
+Critical Accounting Policies
+
+
+ 
+
+
+Our financial statements are prepared in accordance with accounting principles generally accepted in the United States.  To apply these principles, we must make estimates and judgments that affect our reported amounts of assets, liabilities, revenue and expenses, and related disclosure of contingent assets and liabilities.  In many instances, we reasonably could have used different accounting estimates and, in other instances, changes in the accounting estimates are reasonably likely to occur from period to period. Accordingly, actual results could differ significantly from our estimates.  To the extent that there are material differences between these estimates and actual results, our financial condition or results of operations will be affected.  We base our estimates and judgments on historical experience and other assumptions that we believe to be reasonable at the time and under the circumstances, and we evaluate these estimates and judgments on an ongoing basis.  We refer to accounting estimates and judgments of this type as critical accounting policies, judgments, and estimates.  Management believes that there have been no material changes during the three months ended November 30, 2019 to the critical accounting policies reported in Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended August 31, 2019. 
+
+
+
+
+
+
+ 
+
+38
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+Item 3 — Quantitative and Qualitative Disclosures about Market Risk
+
+
+ 
+
+
+We limit the amount of credit exposure to any one issuer.  At November 30, 2019, other than our restricted investments (which are restricted for use in non-qualified retirement savings plans for certain key employees and members of the Board of Directors), all of our funds were either in demand deposit accounts or investment instruments that meet high credit quality standards, such as money market funds, government securities, or commercial paper.
+
+
+ 
+
+
+Our domestic operations have limited currency exposure since substantially all transactions are denominated in U.S. dollars. However, our European and Asian operations are subject to currency exchange fluctuations. We continue to review our policies and procedures to control this exposure while maintaining the benefit from these operations and sales not denominated in U.S. dollars. The effect of an immediate hypothetical 10% change in the exchange rate between the British pound and the U.S. dollar would not have a material direct effect on the Company’s overall liquidity. As of November 30, 2019, the Company had cash balances in the following foreign currencies (with USD equivalents, dollars in thousands):
+
+
+ 
+
+
+
+ 
+
+
+We will continue to review our current cash balances denominated in foreign currency considering current tax guidelines, including the impact of the recently enacted revisions to the Internal Revenue Code, working capital requirements, infrastructure improvements and potential acquisitions.
+
+
+ 
+
+
+We recognized a foreign currency translation gain for the three months ended November 30, 2019 in the amount of $1,537,000 related to our European and Indian operations, which is recorded in other comprehensive income (loss) within our Statement of Equity and Statement of Comprehensive Income.  We do not have or utilize any derivative financial instruments.
+
+
+ 
+
+
+We pay interest on our outstanding long-term debt at interest rates that fluctuate based upon changes in various base interest rates. There was no outstanding balance of long-term debt at November 30, 2019 (having been paid in full during the third fiscal quarter of 2019).  See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Liquidity and Sources of Capital,” together with Note 12 — “Fair Value Measurements” and Note 16 — “Long-Term Debt” to the Condensed Consolidated Financial Statements for additional information regarding our outstanding long-term debt.  An immediate hypothetical 10% change in variable interest rates would not have a material direct effect on our Condensed Consolidated Financial Statements.
+
+
+
+
+
+
+ 
+
+39
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+Item 4 — Controls and Procedures
+
+
+ 
+
+
+Evaluation of disclosure controls and procedures
+
+
+ 
+
+
+We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow for timely decisions regarding required disclosure.  In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, and management is required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. 
+
+
+    
+
+
+We carry out a variety of ongoing procedures under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, to evaluate the effectiveness of the design and operation of our disclosure controls and procedures. Based on the foregoing, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective at a reasonable assurance level as of the end of the period covered by this report.
+
+
+ 
+
+
+Changes in internal control over financial reporting
+
+
+ 
+
+
+In relation to the adoption of ASC 842 Leases, the Company has implemented internal controls such as updated accounting policies and expanded data gathering procedures to comply with the additional disclosure requirements. Otherwise, there have not been any changes in the Company’s internal control over financial reporting during the first quarter of fiscal 2020 that have materially affected, or are reasonably likely to materially affect, its internal control over financial reporting.
+
+
+
+
+
+
+ 
+
+40
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+Part II — OTHER INFORMATION
+
+
+ 
+
+
+Item 1 — Legal Proceedings
+
+
+ 
+
+
+The Company is involved from time to time in litigation incidental to the conduct of its business. Although the Company does not expect that the outcome in any of these matters, individually or collectively, will have a material adverse effect on its financial condition, results of operations or cash flows, litigation is inherently unpredictable. Therefore, judgments could be rendered, or settlements agreed to, that could adversely affect the Company’s operating results or cash flows in a particular period. The Company routinely assesses all its litigation and threatened litigation as to the probability of ultimately incurring a liability and records its best estimate of the ultimate loss in situations where we assess the likelihood of loss as probable.
+
+
+ 
+
+
+ 
+
+
+Item 1A — Risk Factors
+
+
+ 
+
+
+Please refer to Item 1A in our Annual Report on Form 10-K for the fiscal year ended August 31, 2019 for a discussion of the risk factors which could materially affect our business, financial condition or future results.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+ 
+
+41
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Item 6 — Exhibits
+
+
+ 
+
+
+
+ 
+
+
+
+*Furnished, not filed
+
+
+ 
+
+
+
+
+
+
+ 
+
+42
+
+
+
+Table of Contents
+
+
+
+
+ 
+
+
+ 
+
+
+SIGNATURES
+
+
+ 
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+Chase Corporation
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Dated: January 8, 2020
+
+
+
+By:
+
+
+
+/s/ Adam P. Chase
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Adam P. Chase
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+President and Chief Executive Officer
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Dated: January 8, 2020
+
+
+
+By:
+
+
+
+/s/ Christian J. Talma
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Christian J. Talma
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Chief Financial Officer
+
+
+
+
+ 
+
+ 
+
+43
+
+
+
+

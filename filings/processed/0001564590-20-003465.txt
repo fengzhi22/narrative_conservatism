@@ -1,0 +1,705 @@
+
+
+
+
+arwr-10q_20191231.htm
+
+
+
+
+ 
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, DC 20549 
+ 
+FORM 10-Q 
+ 
+(Mark One) 
+
+
+
+
+☒
+
+QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+For the quarterly period ended December 31, 2019 
+
+
+
+
+☐
+
+TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+Commission file number 001-38042 
+ 
+ARROWHEAD PHARMACEUTICALS, INC. 
+(Exact name of registrant as specified in its charter) 
+ 
+ 
+
+
+
+
+Delaware
+
+ 
+
+46-0408024
+
+
+
+(State of incorporation)
+
+ 
+
+(I.R.S. Employer Identification No.)
+
+
+177 E. Colorado Blvd, Suite 700 
+Pasadena, California 91105 
+(626) 304-3400 
+(Address and telephone number of principal executive offices) 
+ 
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  ☒    No  ☐ 
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☒    No  ☐ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+ 
+
+
+
+
+Large Accelerated Filer
+
+ 
+
+☒
+
+  
+
+Accelerated Filer
+
+ 
+
+☐  
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Non-Accelerated Filer
+
+ 
+
+☐  
+
+  
+
+Smaller Reporting Company
+
+ 
+
+☐
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Emerging Growth Company
+
+ 
+
+☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+Title of each class
+
+ 
+
+Trading Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+
+
+Common Stock, Par Value $0.001 per share
+
+ 
+
+ARWR
+
+ 
+
+The Nasdaq Global Select Market
+
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  ☐    No  ☒ 
+The number of shares of the registrant’s common stock outstanding as of February 3, 2020 was 101,654,477. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+PART I. FINANCIAL INFORMATION 
+
+
+
+
+ITEM 1.
+
+FINANCIAL STATEMENTS 
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Balance Sheets 
+ 
+
+
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+ 
+ 
+ 
+1
+
+ 
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Statements of Operations and Comprehensive Income (Loss)
+(unaudited) 
+ 
+
+
+ 
+The accompanying notes are an integral part of these unaudited consolidated financial statements. 
+ 
+ 
+ 
+2
+
+ 
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Statement of Stockholders’ Equity 
+(unaudited)
+ 
+
+
+ 
+ 
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+ 
+ 
+ 
+3
+
+ 
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Statements of Cash Flows 
+(unaudited)
+ 
+
+
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+ 
+ 
+4
+
+ 
+Arrowhead Pharmaceuticals, Inc.
+Notes to Consolidated Financial Statements 
+(unaudited)
+Unless otherwise noted, (1) the term “Arrowhead” refers to Arrowhead Pharmaceuticals, Inc., a Delaware corporation and its Subsidiaries, (2) the terms “Company,” “we,” “us,” and “our,” refer to the ongoing business operations of Arrowhead and its Subsidiaries, whether conducted through Arrowhead or a subsidiary of Arrowhead, (3) the term “Subsidiaries” refers collectively to Arrowhead Madison Inc. (“Arrowhead Madison”), Arrowhead Australia Pty Ltd (“Arrowhead Australia”) and Ablaris Therapeutics, Inc. (“Ablaris”), (4) the term “Common Stock” refers to Arrowhead’s Common Stock, (5) the term “Preferred Stock” refers to Arrowhead’s Preferred Stock  and (6) the term “Stockholder(s)” refers to the holders of Arrowhead Common Stock. 
+                         
+NOTE 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES 
+Nature of Business and Recent Developments
+Arrowhead Pharmaceuticals, Inc. develops medicines that treat intractable diseases by silencing the genes that cause them.  Using a broad portfolio of RNA chemistries and efficient modes of delivery, Arrowhead therapies trigger the RNA interference mechanism to induce rapid, deep and durable knockdown of target genes. RNA interference, or RNAi, is a mechanism present in living cells that inhibits the expression of a specific gene, thereby affecting the production of a specific protein. Arrowhead’s RNAi-based therapeutics leverage this natural pathway of gene silencing. The Company's pipeline includes ARO-AAT for liver disease associated with alpha-1 antitrypsin deficiency (AATD), ARO-APOC3 for hypertriglyceridemia, ARO-ANG3 for dyslipidemia, ARO-HSD for liver disease, ARO-ENaC for cystic fibrosis, and ARO-HIF2 for renal cell carcinoma. ARO-JNJ1 is being developed for an undisclosed liver-expressed target under a collaboration agreement with Janssen Pharmaceuticals, Inc. (“Janssen”).  ARO-HBV (JNJ-3989) for chronic hepatitis B virus was out-licensed to Janssen in October 2018.  ARO-LPA (AMG 890) for cardiovascular disease was out-licensed to Amgen Inc. (“Amgen”) in 2016.
+Arrowhead operates a lab facility in Madison, Wisconsin, where the Company’s research and development activities, including the development of RNAi therapeutics, are based. The Company’s principal executive offices are located in Pasadena, California.
+During the first quarter of fiscal 2020, the Company has continued to develop its pipeline and partnered candidates.  The Company has began dosing in an adaptive design phase 2/3 trial, called SEQUOIA, with the potential to serve as a pivotal registration study of ARO-AAT.  The Company also began dosing in its ARO-AAT 2002 study, a pilot open-label, multi-dose Phase 2 study to assess changes in novel histological activity scale in response to ARO-AAT over time in patients with alpha-1 antitrypsin deficiency associated liver disease.  The Company also presented new clinical data on its two cardiometabolic candidates, ARO-APOC3 and ARO-ANG3, in two late-breaking oral presentations at the American Heart Association Scientific Sessions 2019.  The Company also filed an IND to begin a phase 1b study of ARO-HIF2, and filed a CTA to begin a phase 1 study of ARO-HSD.  The Company has continued to work on optimizing its other extra-hepatic preclinical pipeline candidates including ARO-ENaC.  
+The Company’s partnered candidates under its collaboration agreements with Janssen and Amgen also continue to progress.  Janssen began dosing patients in a phase 2b triple combination study called REEF-1, designed to enroll up to 450 patients with chronic hepatitis B infection, and in connection with the start of this study Arrowhead earned a $25 million milestone payment under the License Agreement (“Janssen License Agreement”).  Janssen has also nominated the first of 3 potential candidates under the Research Collaboration and Option Agreement (“Janssen Collaboration Agreement”), ARO-JNJ1, and the Company is currently performing discovery, optimization and preclinical research and development for this candidate.  Under the terms of the Janssen agreements taken together, the Company has received $175 million as an upfront payment, $75 million in the form of an equity investment by JJDC in Arrowhead common stock, two $25 million milestone payments and may receive up to $1.6 billion in development and sales milestones payments for the Janssen License Agreement, and up to $1.9 billion in development and sales milestone payments for the three additional targets covered under the Janssen Collaboration Agreement.  The Company is further eligible to receive tiered royalties up to mid teens under the Janssen License Agreement and up to low teens under the Janssen Collaboration Agreement on product sales.  The Company’s collaboration agreement with Amgen for AMG 890 (ARO-LPA), (the “Second Collaboration and License Agreement” or “AMG 890 (ARO-LPA) Agreement”), continues to progress.  The Company has received $35 million in upfront payments, $21.5 million in the form of an equity investment by Amgen in the Company’s Common Stock, a $10 million milestone payment, and may receive up to $420 million in development, regulatory and sales milestone payments.  The Company is eligible to receive up to low double-digit royalties for sales of products under the AMG 890 (ARO-LPA) Agreement.    
+The revenue recognition for these collaboration agreements is discussed further in Note 2 below.  
+5
+
+ 
+Liquidity 
+The Consolidated Financial Statements have been prepared in conformity with the accounting principles generally accepted in the United States of America, which contemplate the continuation of the Company as a going concern.  Historically, the Company’s primary source of financing has been through the sale of its securities. Research and development activities have required significant capital investment since the Company’s inception. The Company expects its operations to continue to require cash investment to pursue its research and development goals, including clinical trials and related drug manufacturing.  
+At December 31, 2019, the Company had $461.0 million in cash and cash equivalents (including $1.0 million in restricted cash), $41.0 million in short-term investments, and $26.3 million in long-term investments to fund operations.  During the three months ended December 31, 2019, the Company’s cash and investments balance increased by $225.5 million, which was primarily the result of the December 2019 securities offering that generated $250.5 million in net cash proceeds for the Company, as discussed further in Note 6 below.  These cash inflows were partially offset by cash outflows related to operating activities.        
+Summary of Significant Accounting Policies 
+There have been no changes to the significant accounting policies disclosed in the Company’s most recent Annual Report on Form 10-K, except as a result of the Financial Accounting Standards Board (FASB)’s Accounting Standards Update (ASU) No. 2016-02, Leases (ASC 842), as discussed below. 
+Leases — The Company determines whether a contract is, or contains, a lease at inception. The Company classifies each of its  leases as operating or financing considering factors such as the length of the lease term, the present value of the lease payments, the nature of the asset being leased, and the potential for ownership of the asset to transfer during the lease term. Leases with terms greater than one-year are recognized on the Consolidated Balance Sheets as Right-of-use assets and Lease liabilities and are measured at the present value of the fixed payments due over the expected lease term less the present value of any incentives, rebates or abatements expected to be received from the lessor. Options to extend a lease are typically excluded from the expected lease term as the exercise of the option is typically not reasonably certain.  The interest rate implicit in lease contracts is typically not readily determinable. As such, the Company utilizes the appropriate incremental borrowing rate, which is the rate incurred to borrow on a collateralized basis an amount equal to the lease payments over a similar term and in a similar economic environment. The Company records expense to recognize fixed lease payments on a straight-line basis over the expected lease term. Costs determined to be variable and not based on an index or rate are not included in the measurement of the lease liability and are expensed as incurred. 
+Recent Accounting Pronouncements
+In March 2016, the FASB issued ASU No. 2016-02, Leases (Topic ASC 842).  Under ASC 842, lessees are required to recognize a right-of-use asset and a right-of-use lease liability for virtually all leases other than those that meet the definition of a short-term lease. For income statement purposes, a dual model was retained, requiring leases to be classified as either operating or finance. Operating leases will result in straight-line expense while finance leases will result in a front-loaded expense pattern (similar to current capital leases).  The Company adopted this standard effective October 1, 2019 and elected the package of three practical expedients that permits an entity to a) not reassess whether expired or existing contracts contain leases, b) not reassess lease classification for existing or expired leases, and c) not consider whether previously capitalized initial direct costs would be appropriate under the new standard.  At December 31, 2019, the Company has recorded right-of-use assets of $10.4 million and right-of-use liabilities of $14.8 million on its Consolidated Balance Sheets for its research and development facility lease in Madison, Wisconsin, and its corporate headquarters lease in Pasadena, California, as discussed further in Note 8 below.  The adoption of this standard did not have a material impact on the Company’s Consolidated Statement of Comprehensive Income (Loss) and the Company’s Consolidated Statement of Cash Flows.   
+In November 2018, the FASB issued ASU No. 2018-18 Collaborative Arrangements (Topic 808).  This update provides clarification on the interaction between Revenue Recognition (Topic 606) and Collaborative Arrangements (Topic 808) including the alignment of unit of account guidance between the two topics. ASU 2018-18 becomes effective for the Company in the first quarter of fiscal 2021 with early adoption permitted.  The Company does not expect the adoption of this update to have a material effect on its Consolidated Financial Statements. 
+ 
+6
+
+ 
+NOTE 2. COLLABORATION AND LICENSE AGREEMENTS
+Amgen Inc.
+On September 28, 2016, the Company entered into two Collaboration and License agreements, and a Common Stock Purchase Agreement with Amgen Inc., a Delaware corporation (“Amgen”). Under one of the license agreements (the “Second Collaboration and License Agreement” or “AMG 890 (ARO-LPA) Agreement”), Amgen has received a worldwide, exclusive license to Arrowhead’s novel, RNAi ARO-LPA program. These RNAi molecules are designed to reduce elevated lipoprotein(a), which is a genetically validated, independent risk factor for atherosclerotic cardiovascular disease. Under the other license agreement (the “First Collaboration and License Agreement” or “ARO-AMG1 Agreement”), Amgen received an option to a worldwide, exclusive license for ARO-AMG1, an RNAi therapy for an undisclosed genetically validated cardiovascular target. In both agreements, Amgen is wholly responsible for clinical development and commercialization. Under the terms of the agreements taken together, the Company has received $35 million in upfront payments, $21.5 million in the form of an equity investment by Amgen in the Company’s Common Stock, and a $10 million milestone payment, and may receive up to $420 million in development, regulatory and sales milestone payments. The Company is further eligible to receive up to low double-digit royalties for sales of products under the AMG 890 (ARO-LPA) Agreement. In July 2019, Amgen informed the Company that it would not be exercising its option for an exclusive license for ARO-AMG1, and as such, there will be no further milestone or royalty payments under the ARO-AMG1 Agreement.     
+The Company substantially completed its performance obligations under the AMG 890 (ARO-LPA) Agreement and the ARO-AMG1 Agreement.  Future milestones and royalties achieved will be recognized in their entirety when earned.  During the three months ended December 31, 2019 and 2018, the Company recognized $0 and $0 of Revenue associated with its agreements with Amgen, respectively.  As of December 31, 2019, there were $0 contract assets, and $0 contract liabilities recorded as current deferred revenue on the Company’s Consolidated Balance Sheets. 
+Janssen Pharmaceuticals, Inc.
+On October 3, 2018, the Company entered into a License Agreement (“Janssen License Agreement”) and a Research Collaboration and Option Agreement (“Janssen Collaboration Agreement”) with Janssen Pharmaceuticals, Inc. (“Janssen”) part of the Janssen Pharmaceutical Companies of Johnson & Johnson.  The Company also entered into a Stock Purchase Agreement (“JJDC Stock Purchase Agreement”) with Johnson & Johnson Innovation-JJDC, Inc. (“JJDC”), a New Jersey corporation.  Under the Janssen License Agreement, Janssen has received a worldwide, exclusive license to the Company’s JNJ-3989 (ARO-HBV) program, the Company’s third-generation subcutaneously administered RNAi therapeutic candidate being developed as a potentially curative therapy for patients with chronic hepatitis B virus infection. Beyond the Company’s ongoing Phase 1 / 2 study of JNJ-3989 (ARO-HBV), Janssen will be wholly responsible for clinical development and commercialization.  Under the Janssen Collaboration Agreement, Janssen will be able to select three new targets against which Arrowhead will develop clinical candidates.  These candidates are subject to certain restrictions and will not include candidates in the Company’s current pipeline.  The Company will perform discovery, optimization and preclinical research and development, entirely funded by Janssen, sufficient to allow the filing of a U.S. Investigational New Drug application or equivalent, at which time Janssen will have the option to take an exclusive license. If the option is exercised, Janssen will be wholly responsible for clinical development and commercialization of each optioned candidate.  Under the terms of the agreements taken together, the Company has received $175 million as an upfront payment, $75 million in the form of an equity investment by JJDC in Arrowhead common stock under the JJDC Stock Purchase Agreement, and two $25 million milestone payments, and may receive up to $1.6 billion in development and sales milestones payments for the Janssen License Agreement, and up to $1.9 billion in development and sales milestone payments for the three additional targets covered under the Janssen Collaboration Agreement.  The Company is further eligible to receive tiered royalties up to mid teens under the Janssen License Agreement and up to low teens under the Janssen Collaboration Agreement on product sales.   
+The Company has evaluated these agreements in accordance with the new revenue recognition standard that became effective for the Company on October 1, 2018.  The adoption of the new revenue standard did not have a material impact on the balances reported when evaluated under the superseded revenue standard.  At the inception of these agreements, the Company has identified one distinct performance obligation.  Regarding the Janssen License Agreement, the Company determined that the key deliverables included the license and certain R&D services including the Company’s responsibility to complete the ongoing Phase 1 / 2 study of JNJ-3989 (ARO-HBV) and the Company’s responsibility to ensure certain manufacturing of JNJ-3989 (ARO-HBV) drug product is completed and delivered to Janssen (the “Janssen R&D Services”).  Due to the specialized and unique nature of these Janssen R&D services, and their direct relationship with the license, the Company determined that these deliverables represent one distinct bundle and thus, one performance obligation.  The Company also determined that Janssen’s option to require the Company to develop up to three new targets is not a material right, and thus, not a performance obligation at the onset of the agreement.  The consideration for this option will be accounted for if and when it is exercised. 
+The Company determined the transaction price totaled approximately $252.6 million which includes the upfront payment, the premium paid by JJDC for its equity investment in the Company, the two $25 million milestone payments earned and estimated payments for reimbursable Janssen R&D services to be performed.  The Company has allocated the total $252.6 million initial 
+7
+
+ 
+transaction price to its one distinct performance obligation for the JNJ-3989 (ARO-HBV) license and the associated Janssen R&D Services.  This revenue will be recognized using a proportional performance method (based on actual labor hours versus estimated total labor hours) beginning in October 2018 and ending as the Company’s efforts in overseeing the ongoing phase 1 / 2 clinical trial are completed.  During the three months ended December 31, 2019 and 2018, the Company recognized approximately $28.8 million and $34.7 million of Revenue associated with its agreements with Janssen and JJDC, respectively.  As of December 31, 2019 there were $0 contract assets recorded as accounts receivable, and $54.0 million of contract liabilities recorded as current deferred revenue on the Company’s Consolidated Balance Sheets.  The $54.0 million of current deferred revenue is driven by the upfront payment, the premium paid by JJDC for its equity investment in the Company, and the two $25 million milestone payments earned, net of revenue recognized to date. 
+Janssen has also selected the first of the three targets under the Janssen Collaboration Agreement, now referred to as ARO-JNJ1, and the Company has begun to conduct its discovery, optimization and preclinical research and development of ARO-JNJ1.  All costs and labor hours spent by the Company will be entirely funded by Janssen.  During the three months ended December 31, 2019 and 2018, the Company recognized $0.7 million and $0 of Revenue associated with its efforts on the ARO-JNJ1 candidate, respectively. As of December 31, 2019, there were $1.3 million of contract assets recorded as Accounts Receivable, and $0 of contract liabilities.                                
+ 
+NOTE 3. PROPERTY AND EQUIPMENT
+The following table summarizes the Company’s major classes of property and equipment: 
+ 
+
+
+ 
+Depreciation and amortization expense for Property and Equipment for the three months ended December 31, 2019 and 2018 and was $834,777 and $752,245, respectively.  
+ 
+NOTE 4. INVESTMENTS 
+The Company invests a portion of its excess cash balances in short-term debt securities and may, from time to time, also invest in long-term debt securities.  Investments at December 31, 2019 consisted of corporate bonds with maturities remaining of less than 24 months.  The Company may also invest excess cash balances in certificates of deposits, money market accounts, government-sponsored enterprise securities, corporate bonds and/or commercial paper.  The Company accounts for its investments in accordance with FASB ASC 320, Investments – Debt and Equity Securities.  At December 31, 2019, all investments were classified as held-to-maturity securities.
+The following tables summarize the Company’s short-term and long-term investments as of December 31, 2019, and September 30, 2019.
+ 
+
+
+8
+
+ 
+ 
+
+
+ 
+NOTE 5. INTANGIBLE ASSETS 
+Intangible assets subject to amortization include patents and a license agreement capitalized as part of the Novartis RNAi asset acquisition in March 2015. The license agreement associated with the Novartis RNAi asset acquisition is being amortized over the estimated life remaining at the time of acquisition, which was 21 years, and the accumulated amortization of the asset is approximately $717,292.  The patents associated with the Novartis RNAi asset acquisition are being amortized over the estimated life remaining at the time of acquisition, which was 14 years, and the accumulated amortization of the assets is approximately $7,501,448.  Amortization expense for the three months ended December 31, 2019 and 2018 was $425,107 and $425,107, respectively.  Amortization expense is expected to be $1,275,322 for the remainder of fiscal 2020, $1,700,429 in 2021, $1,700,429 in 2022, $1,700,429 in 2023, $1,700,429 in 2024, and $8,561,435 thereafter.
+The following table provides details on the Company’s intangible asset balances: 
+ 
+
+
+ 
+NOTE 6. STOCKHOLDERS’ EQUITY 
+At December 31, 2019, the Company had a total of 150,000,000 shares of capital stock authorized for issuance, consisting of 145,000,000 shares of Common Stock, par value $0.001 per share, and 5,000,000 shares of Preferred Stock, par value $0.001 per share. 
+At December 31, 2019, 101,111,797 shares of Common Stock were outstanding.  At December 31, 2019, 6,665,719 shares of Common Stock were reserved for issuance upon exercise of options and vesting of restricted stock units granted or available for grant under Arrowhead’s 2004 Equity Incentive Plan and 2013 Incentive Plan, as well as for inducement grants made to new employees. 
+In December 31, 2019 the Company sold 4,600,000 shares of its Common Stock in a public offering at a price of $58.00 per share.  The aggregate purchase price paid by the investors for the Common Stock was $266.8 million, and the Company received net proceeds of $250.5 million after deducting advisory fees and offering expenses.  
+                   
+NOTE 7. COMMITMENTS AND CONTINGENCIES
+Litigation
+On occasion, the Company may be subject to various claims and legal proceedings in the ordinary course of business.  If the potential loss from any claim, asserted or unasserted, or legal proceeding is considered probable and the amount is reasonably estimable, the Company will accrue a liability for the estimated loss.  There were no contingent liabilities recorded as of December 31, 2019. 
+Purchase Commitments
+In the normal course of business, the Company enters into various purchase commitments for the manufacture of drug components, for toxicology studies, and for clinical studies.  As of December 31, 2019, these future commitments were estimated at approximately $62.5 million, of which approximately $42.5 million is expected to be incurred in fiscal 2020, and $20.0 million is expected to be incurred beyond fiscal 2020.  
+9
+
+ 
+Technology License Commitments
+The Company has licensed from third parties the rights to use certain technologies for its research and development activities, as well as in any products the Company may develop using these licensed technologies. These agreements and other similar agreements often require milestone and royalty payments.  Milestone payments, for example, may be required as the research and development process progresses through various stages of development, such as when clinical candidates enter or progress through clinical trials, upon NDA and upon certain sales level milestones.  These milestone payments could amount to the mid to upper double-digit millions of dollars. During the three months ended December 31, 2019 and 2018, the Company did not reach milestones requiring payment.  In certain agreements, the Company may be required to make mid to high single-digit percentage royalty payments based on a percentage of the sales of the relevant products.     
+ 
+NOTE 8. LEASES 
+Leases
+ 
+In April 2019, the Company entered a new lease for its corporate headquarters in Pasadena, California.  The 91 month office building lease between the Company and 177 Colorado Owner, LLC is for approximately 24,000 square feet of office space located at 177 E. Colorado Blvd, Pasadena, California, and this lease has replaced the Company’s previous corporate headquarters office lease.  The increased capacity of this new office space compared to the Company’s current corporate headquarters will accommodate increased personnel as the Company’s pipeline of drug candidates expands and moves closer to market. Lease payments began on September 30, 2019 and are estimated to total approximately $8.8 million over the remainder of the term.  The Company expects to pay approximately $3.5 million for leasehold improvements, net of tenant improvement allowances.  The lease contains an option to renew for one term of five years. The exercise of this option was not determined to be reasonably certain and thus was not included in Lease liabilities on the Company’s Consolidated Balance Sheet at December 31, 2019.  
+The Company also leases approximately 74,000 square feet of office and laboratory space for its research facility in Madison, Wisconsin.  The lease will expire in September 2029.  Lease payments are estimated to total approximately $13.3 million for the remainder of the term. The lease contains two options to renew for two terms of five years. The exercise of these options were not determined to be reasonably certain and thus was not included in Lease liabilities on the Company’s Consolidated Balance Sheet at December 31, 2019.     
+Operating lease cost during the three months ended December 31, 2019 was $0.5 million.  Variable lease cost during the three months ended December 31, 2019 was $0.2 million.  There was no short-term lease cost during the three months ended December 31, 2019. 
+The following table presents maturities of Operating Lease Liabilities on an undiscounted basis as of December 31, 2019:
+ 
+
+
+Cash paid for the amounts included in the measurement of the operating lease liabilities on the Company’s Consolidated Balance Sheet and included in Other changes in operating assets and liabilities within cash flows from operating activities on the Company’s Consolidated Statement of Cash Flow was $0.3 million for the three months ended December 31, 2019.  The weighted-average remaining lease term and weighted-average discount rate for all leases as of December 31, 2019 was 8.8 years and 8.9%, respectively.
+10
+
+ 
+As of September 30, 2019, future minimum lease payments due in fiscal years under operating leases were as follows: 
+ 
+
+
+ 
+ 
+NOTE 9. STOCK-BASED COMPENSATION 
+Arrowhead has two plans that provide for equity-based compensation. Under the 2004 Equity Incentive Plan and 2013 Incentive Plan, as of December 31, 2019, 955,949 and 4,500,846 shares, respectively, of Arrowhead’s Common Stock are reserved for the grant of stock options, stock appreciation rights, restricted stock awards and performance unit/share awards to employees, consultants and others. No further grants may be made under the 2004 Equity Incentive Plan.  As of December 31, 2019, there were options granted and outstanding to purchase 955,949 and 2,635,429 shares of Common Stock under the 2004 Equity Incentive Plan and the 2013 Incentive Plan, respectively, and there were 1,526,000 restricted stock units granted and outstanding under the 2013 Incentive Plan. Also, as of December 31, 2019, there were 915,849 shares reserved for options and 293,075 shares reserved for restricted stock units issued as inducement grants to new employees outside of equity compensation plans. During the three months ended December 31, 2019, 4,000 options and 5,000 restricted stock units were granted under the 2013 Incentive Plan, and 217,000 options and 284,575 restricted stock units were granted as inducement awards to new employees outside of equity incentive plans.     
+The following table summarizes information about stock options:
+ 
+
+
+ 
+Stock-based compensation expense related to stock options for the three months ended December 31, 2019 and 2018 was $1,609,071 and $790,345, respectively. For non-qualified stock options, the expense creates a timing difference, resulting in a deferred tax asset, which is fully reserved by a valuation allowance. 
+The grant date fair value of the options granted by the Company for the three months ended December 31, 2019 and 2018 was $8,630,492 and $556,889, respectively.
+The intrinsic value of the options exercised during the three months ended December 31, 2019 and 2018 was $21,640,591 and $1,315,700, respectively.  
+As of December 31, 2019, the pre-tax compensation expense for all outstanding unvested stock options in the amount of approximately $19,560,770 will be recognized in the Company’s results of operations over a weighted average period of 3.4 years. 
+The fair value of each stock option award is estimated on the date of grant using the Black-Scholes option pricing model. The Black-Scholes option valuation model was developed for use in estimating the fair value of traded options, which do not have vesting restrictions and are fully transferable. The determination of the fair value of each stock option is affected by the Company’s stock price on the date of grant, as well as assumptions regarding a number of highly complex and subjective variables. Because the Company’s employee stock options have characteristics significantly different from those of traded options, and because changes in the subjective input assumptions can materially affect the fair value estimate, in management’s opinion, the existing models do not necessarily provide a reliable single measure of the fair value of its employee stock options. 
+11
+
+ 
+The assumptions used to value stock options are as follows: 
+ 
+
+
+ 
+The dividend yield is zero as the Company currently does not pay a dividend. 
+The risk-free interest rate is based on that of the U.S. Treasury bond. 
+Volatility is estimated based on volatility average of the Company’s Common Stock price. 
+Restricted Stock Units
+Restricted stock units (RSUs), including time-based and performance-based awards, were granted under the Company’s 2013 Incentive Plan and as inducements grants granted outside of the Plan.   During the three months ended December 31, 2019, the Company issued 5,000 RSUs under the 2013 Incentive Plan and 284,575 RSUs as inducement awards to a new director and several new employees outside of equity incentive plans.  At vesting, each outstanding RSU will be exchanged for one share of the Company’s Common Stock. RSU recipients may elect to net share settle upon vesting, in which case the Company pays the employee’s income taxes due upon vesting and withholds a number of shares of Common Stock of equal value.  RSU awards generally vest subject to the satisfaction of service requirements or the satisfaction of both service requirements and achievement of certain performance targets.  
+The following table summarizes the activity of the Company’s RSUs:
+ 
+
+
+ 
+During the three months ended December 31, 2019 and 2018, the Company recorded $2,882,681 and $1,927,099 of expense related to RSUs, respectively. Such expense is included in stock-based compensation expense in the Company’s Consolidated Statement of Operations and Comprehensive Income (Loss). For RSUs, the expense creates a timing difference, resulting in a deferred tax asset, which is fully reserved by a valuation allowance.   
+For RSUs, the grant date fair value of the award is based on the Company’s closing stock price at the grant date, with consideration given to the probability of achieving performance conditions for performance-based awards.
+As of December 31, 2019, the pre-tax compensation expense for all unvested RSUs in the amount of approximately $21,642,921 will be recognized in the Company’s results of operations over a weighted average period of 3.3 years. 
+      
+ 
+NOTE 10. FAIR VALUE MEASUREMENTS
+The Company measures its financial assets and liabilities at fair value. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (i.e., exit price) in an orderly transaction between market participants at the measurement date. Additionally, the Company is required to provide disclosure and categorize assets and liabilities measured at fair value into one of three different levels depending on the assumptions (i.e., inputs) used in the valuation. Level 1 provides the most reliable measure 
+12
+
+ 
+of fair value while Level 3 generally requires significant management judgment. Financial assets and liabilities are classified in their entirety based on the lowest level of input significant to the fair value measurement. The fair value hierarchy is defined as follows: 
+Level 1—Valuations are based on unadjusted quoted prices in active markets for identical assets or liabilities. 
+Level 2—Valuations are based on quoted prices for similar assets or liabilities in active markets, or quoted prices in markets that are not active for which significant inputs are observable, either directly or indirectly. 
+Level 3—Valuations are based on prices or valuation techniques that require inputs that are both unobservable and significant to the overall fair value measurement. Inputs reflect management’s best estimate of what market participants would use in valuing the asset or liability at the measurement date. 
+The following table summarizes fair value measurements at December 31, 2019 and September 30, 2019 for assets and liabilities measured at fair value on a recurring basis: 
+December 31, 2019: 
+ 
+
+
+ 
+September 30, 2019: 
+ 
+
+
+The Company had a liability for contingent consideration related to its acquisition of the Roche RNAi business completed in 2011. The fair value measurement of the contingent consideration obligations is determined using Level 3 inputs. The fair value of contingent consideration obligations is based on a discounted cash flow model using a probability-weighted income approach. The measurement is based upon unobservable inputs supported by little or no market activity based on the Company’s assumptions and experience. Estimating timing to complete the development and obtain approval of products is difficult, and there are inherent uncertainties in developing a product candidate, such as obtaining FDA and other regulatory approvals. In determining the probability of regulatory approval and commercial success, the Company utilizes data regarding similar milestone events from several sources, including industry studies and its own experience. These fair value measurements represent Level 3 measurements as they are based on significant inputs not observable in the market. Significant judgment is employed in determining the appropriateness of these assumptions as of the acquisition date and for each subsequent period. Accordingly, changes in assumptions could have a material impact on the amount of contingent consideration expense the Company records in any given period. In November 2016, the Company announced the discontinuation of its clinical trial efforts for ARC-520, ARC-AAT and ARC-521.  Given this development, the Company assessed the fair value of its contingent consideration obligation to be $0 at December 31, 2019 and September 30, 2019.  
+ 
+ 
+ 
+ 
+ 
+13
+
+ 
+
+
+
+
+ITEM  2.
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+This Quarterly Report on Form 10-Q contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, and we intend that such forward-looking statements be subject to the safe harbors created thereby. For this purpose, any statements contained in this Quarterly Report on Form 10-Q except for historical information may be deemed to be forward-looking statements. Without limiting the generality of the foregoing, words such as “may,” “will,” “expect,” “believe,” “anticipate,” “intend,” “could,” “estimate,” or “continue” or the negative or other variations thereof or comparable terminology are intended to identify forward-looking statements. In addition, any statements that refer to projections of our future financial performance, trends in our businesses, or other characterizations of future events or circumstances are forward-looking statements.
+The forward-looking statements included herein are based on current expectations of our management based on available information and involve a number of risks and uncertainties, all of which are difficult or impossible to predict accurately and many of which are beyond our control. As such, our actual results may differ significantly from those expressed in any forward-looking statements. Readers should carefully review the factors identified in our most recent Annual Report on Form 10-K under the caption “Risk Factors” as well as the additional risks described in other documents we file from time to time with the Securities and Exchange Commission (“SEC”), including subsequent quarterly reports on Form 10-Q. In light of the significant risks and uncertainties inherent in the forward-looking information included herein, the inclusion of such information should not be regarded as a representation by us or any other person that such results will be achieved, and readers are cautioned not to place undue reliance on such forward-looking information. Except as may be required by law, we disclaim any intent to revise the forward-looking statements contained herein to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events.
+Overview 
+Arrowhead Pharmaceuticals, Inc. develops medicines that treat intractable diseases by silencing the genes that cause them.  Using a broad portfolio of RNA chemistries and efficient modes of delivery, Arrowhead therapies trigger the RNA interference mechanism to induce rapid, deep and durable knockdown of target genes. RNA interference, or RNAi, is a mechanism present in living cells that inhibits the expression of a specific gene, thereby affecting the production of a specific protein. Arrowhead’s RNAi-based therapeutics leverage this natural pathway of gene silencing. The company's pipeline includes ARO-AAT for liver disease associated with alpha-1 antitrypsin deficiency (AATD), ARO-APOC3 for hypertriglyceridemia, ARO-ANG3 for dyslipidemia, ARO-HSD for liver disease, ARO-ENaC for cystic fibrosis, and ARO-HIF2 for renal cell carcinoma. ARO-JNJ1 is being developed for an undisclosed liver-expressed target under a collaboration agreement with Janssen Pharmaceuticals, Inc. (“Janssen”).  ARO-HBV (JNJ-3989) for chronic hepatitis B virus was out-licensed to Janssen in October 2018.  ARO-LPA (AMG 890) for cardiovascular disease was out-licensed to Amgen Inc. (“Amgen”) in 2016.
+Arrowhead operates a lab facility in Madison, Wisconsin, where the Company’s research and development activities, including the development of RNAi therapeutics, are based. The Company’s principal executive offices are located in Pasadena, California.
+Arrowhead has focused its resources on therapeutics that exclusively utilize the company’s Targeted RNAi Molecule (TRiMTM) platform technology. Therapeutics built on the TRiMTM platform have demonstrated high levels of pharmacologic activity in multiple animal models spanning several therapeutic areas. TRiMTM enabled therapeutics offer several potential advantages over prior generation and competing technologies, including: simplified manufacturing and reduced costs; multiple routes of administration including subcutaneous injection and inhaled administration; the ability to target multiple tissue types including liver, lung, and tumors; and the potential for improved safety and reduced risk of intracellular buildup, because there are less metabolites from smaller, simpler molecules.  
+During the first quarter of fiscal 2020, the Company has continued to develop its pipeline and partnered candidates.  The Company has began dosing in an adaptive design phase 2/3 trial, called SEQUOIA, with the potential to serve as a pivotal registration study of ARO-AAT.  The Company also began dosing in its ARO-AAT 2002 study, a pilot open-label, multi-dose Phase 2 study to assess changes in novel histological activity scale in response to ARO-AAT over time in patients with alpha-1 antitrypsin deficiency associated liver disease.  The Company also presented new clinical data on its two cardiometabolic candidates, ARO-APOC3 and ARO-ANG3, in two late-breaking oral presentations at the American Heart Association Scientific Sessions 2019.  The Company also filed an IND to begin a phase 1b study of ARO-HIF2, and filed a CTA to begin a phase 1 study of ARO-HSD.  The Company also continues to work on optimizing its other extra-hepatic preclinical pipeline candidates including ARO-ENaC.  Amgen is currently progressing its phase 1 clinical study of AMG-890 (ARO-LPA).  
+The Company’s partnered candidates under its collaboration agreements with Janssen and Amgen also continue to progress.  Janssen began dosing patients in a phase 2b triple combination study called REEF-1, designed to enroll up to 450 patients with chronic 
+14
+
+ 
+hepatitis B infection, and in connection with the start of this study Arrowhead earned a $25 million milestone payment under the License Agreement (“Janssen License Agreement”).  Janssen has also nominated the first of 3 potential candidates under the Research Collaboration and Option Agreement (“Janssen Collaboration Agreement”), ARO-JNJ1, and the Company is currently performing discovery, optimization and preclinical research and development for this candidate.  Under the terms of the Janssen agreements taken together, the Company has received $175 million as an upfront payment, $75 million in the form of an equity investment by Johnson & Johnson Innovation-JJDC, Inc. (“JJDC”) in Arrowhead common stock under the Stock Purchase Agreement (“JJDC Stock Purchase Agreement”), two $25 million milestone payments and may receive up to $1.6 billion in development and sales milestones payments for the Janssen License Agreement, and up to $1.9 billion in development and sales milestone payments for the three additional targets covered under the Janssen Collaboration Agreement.  The Company is further eligible to receive tiered royalties up to mid teens under the Janssen License Agreement and up to low teens under the Janssen Collaboration Agreement on product sales.  The Company’s collaboration agreement with Amgen for AMG 890 (ARO-LPA), (the “Second Collaboration and License Agreement” or “AMG 890 (ARO-LPA) Agreement”), continues to progress.  The Company has received $35 million in upfront payments, $21.5 million in the form of an equity investment by Amgen in the Company’s Common Stock, a $10 million milestone payment, and may receive up to $420 million in development, regulatory and sales milestone payments.  The Company is eligible to receive up to low double-digit royalties for sales of products under the AMG 890 (ARO-LPA) Agreement.   
+The Company continues to develop other clinical candidates for future clinical trials. Clinical candidates are tested internally and through GLP toxicology studies at outside laboratories.  Drug materials for such studies and clinical trials are either contracted to third-party manufactures or manufactured internally.  The Company engages third-party contract research organizations (CROs) to manage clinical trials and works cooperatively with such organizations on all aspects of clinical trial management, including plan design, patient recruiting, and follow up.  These outside costs, relating to the preparation for and administration of clinical trials, are referred to as “program costs”.  If the clinical candidates progress through human testing, program costs will increase. 
+Net losses were $2.7 million for the three months ended December 31, 2019 as compared to net income of $12.0 million for the three months ended December 31, 2018.  Net losses per share – diluted were $0.03 for the three months ended December 31, 2019 as compared to net income per share - diluted of $0.13 for the three months ended December 31, 2018.  An increase in research and development and general and administrative expenses coupled with a decrease in revenue from the license and collaboration agreements with Janssen were the drivers of the increase in net losses and net losses per share, as discussed further below.
+The Company strengthened its liquidity and financial position through the Janssen License Agreement, Janssen Collaboration Agreement and JJDC Stock Purchase Agreement, executed in October 2018.  Under the terms of the agreements taken together, the Company has received $175 million as an upfront payment, $75 million in the form of an equity investment by JJDC in Arrowhead common stock, and two $25 million milestone payments.  Additionally, in December 2019, the Company completed a securities offering which generated approximately $250.5 million in net cash proceeds.   These cash proceeds secure the funding needed to continue to advance our pipeline candidates. The Company had $461.0 million of cash and cash equivalents, $41.0 million in short-term investments, $26.3 million of long term investments and $587.6 million of total assets as of December 31, 2019, as compared to $221.8 million, $36.9 million, $44.2 million and $349.8 million as of September 30, 2019, respectively. Based upon the Company’s current cash and investment resources and operating plan, the Company expects to have sufficient liquidity to fund operations for at least the next twelve months. 
+Critical Accounting Policies and Estimates 
+Management makes certain judgments and uses certain estimates and assumptions when applying GAAP in the preparation of our Consolidated Financial Statements. We evaluate our estimates and judgments on an ongoing basis and base our estimates on historical experience and on assumptions that we believe to be reasonable under the circumstances. Our experience and assumptions form the basis for our judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may vary from what we anticipate and different assumptions or estimates about the future could change our reported results. We believe the following accounting policies are the most critical to us, in that they require our most difficult, subjective or complex judgments in the preparation of our consolidated financial statements. For further information, see Note 1, Organization and Significant Accounting Policies, to our Consolidated Financial Statements, which outlines our application of significant accounting policies.
+There have been no changes to the significant accounting policies disclosed in the Company’s most recent Annual Report on Form 10-K, except as a result of the Financial Accounting Standards Board (FASB)’s Accounting Standards Update (ASU) No. 2016-02, Leases (ASC 842), as discussed below:
+15
+
+ 
+Leases - The Company determines whether a contract is, or contains, a lease at inception. The Company classifies each of its  leases as operating or financing considering factors such as the length of the lease term, the present value of the lease payments, the nature of the asset being leased, and the potential for ownership of the asset to transfer during the lease term. Leases with terms greater than one-year are recognized on the Consolidated Balance Sheets as Right-of-use assets and Lease liabilities and are measured at the present value of the fixed payments due over the expected lease term minus the present value of any incentives, rebates or abatements expected to be received from the lessor. Options to extend a lease are typically excluded from the expected lease term as the exercise of the option is typically not reasonably certain.  The interest rate implicit in lease contracts is typically not readily determinable. As such, the Company utilizes the appropriate incremental borrowing rate, which is the rate incurred to borrow on a collateralized basis an amount equal to the lease payments over a similar term and in a similar economic environment. The Company records expense to recognize fixed lease payments on a straight-line basis over the expected lease term. Costs determined to be variable and not based on an index or rate are not included in the measurement of the lease liability and are expensed as incurred. 
+Results of Operations 
+The following data summarizes our results of operations for the following periods indicated: 
+ 
+
+
+ 
+The decrease in our Revenue during the three months ended December 31, 2019 was driven by the timing of progress achieved in completing our performance obligation from our agreements with Janssen and JJDC, which were executed in October 2018.  The increase in our Net Loss during the three months ended December 31, 2019 was driven by this decrease in Revenue and also increases in Research and Development and General and Administrative Expenses as our pipeline of clinical candidates has continued to increase.   
+Revenue
+Total revenue was $29,454,579 for the three months ended December 31, 2019 and $34,657,896 for the three months ended December 31, 2018.  Revenue in the both periods is primarily related to the recognition of a portion of the $252.6 million initial transaction price associated with our agreements with Janssen and JJDC as we achieved progress toward completing our performance obligation within those agreements.  
+Amgen Inc.
+On September 28, 2016, the Company entered into two Collaboration and License agreements, and a Common Stock Purchase Agreement with Amgen Inc., a Delaware corporation (“Amgen”). Under one of the license agreements (the “Second Collaboration and License Agreement” or “AMG 890 (ARO-LPA) Agreement”), Amgen has received a worldwide, exclusive license to Arrowhead’s novel, RNAi ARO-LPA program. These RNAi molecules are designed to reduce elevated lipoprotein(a), which is a genetically validated, independent risk factor for atherosclerotic cardiovascular disease. Under the other license agreement (the “First Collaboration and License Agreement” or “ARO-AMG1 Agreement”), Amgen received an option to a worldwide, exclusive license for ARO-AMG1, an RNAi therapy for an undisclosed genetically validated cardiovascular target. In both agreements, Amgen is wholly responsible for clinical development and commercialization. Under the terms of the agreements taken together, the Company has received $35 million in upfront payments, $21.5 million in the form of an equity investment by Amgen in the Company’s Common Stock, and a $10 million milestone payment, and may receive up to $420 million in development, regulatory and sales milestone payments. The Company is further eligible to receive up to low double-digit royalties for sales of products under the AMG 890 (ARO-LPA) Agreement. In July 2019, Amgen informed the Company that it would not be exercising its option for an exclusive license for ARO-AMG1, and as such, there will be no further milestone or royalty payments under the ARO-AMG1 Agreement.   
+The Company substantially completed its performance obligations under the AMG 890 (ARO-LPA) Agreement and the ARO-AMG1 Agreement.  Future milestones and royalties achieved will be recognized in their entirety when earned.  During the three months ended December 31, 2019 and 2018, the Company recognized $0 and $0 Revenue associated with its agreements with Amgen, respectively.  As of December 31, 2019, there was $0 contract assets recorded as accounts receivable, and $0 contract liabilities recorded as current deferred revenue on the Company’s Consolidated Balance Sheets.        
+16
+
+ 
+Janssen Pharmaceuticals, Inc.
+On October 3, 2018, the Company entered into a License Agreement (“Janssen License Agreement”) and a Research Collaboration and Option Agreement (“Janssen Collaboration Agreement”) with Janssen Pharmaceuticals, Inc.  (“Janssen”) part of the Janssen Pharmaceutical Companies of Johnson & Johnson.  The Company also entered into a Stock Purchase Agreement (“JJDC Stock Purchase Agreement”) with Johnson & Johnson Innovation-JJDC, Inc.  (“JJDC”), a New Jersey corporation.  Under the Janssen License Agreement, Janssen has received a worldwide, exclusive license to the Company’s JNJ-3989 (ARO-HBV) program, the Company’s third-generation subcutaneously administered RNAi therapeutic candidate being developed as a potentially curative therapy for patients with chronic hepatitis B virus infection. Beyond the Company’s ongoing Phase 1 / 2 study of JNJ-3989 (ARO-HBV), Janssen will be wholly responsible for clinical development and commercialization.  Under the Janssen Collaboration Agreement, Janssen will be able to select three new targets against which Arrowhead will develop clinical candidates.  These candidates are subject to certain restrictions and will not include candidates in the Company’s current pipeline.  The Company will perform discovery, optimization and preclinical research and development, entirely funded by Janssen, sufficient to allow the filing of a U.S. Investigational New Drug application or equivalent, at which time Janssen will have the option to take an exclusive license. If the option is exercised, Janssen will be wholly responsible for clinical development and commercialization of each optioned candidate.  Under the terms of the agreements taken together, the Company has received $175 million as an upfront payment, $75 million in the form of an equity investment by JJDC in Arrowhead common stock, two $25 million milestone payments and may receive up to $1.6 billion in development and sales milestones payments for the Janssen License Agreement, and up to $1.9 billion in development and sales milestone payments for the three additional targets covered under the Janssen Collaboration Agreement.  The Company is further eligible to receive tiered royalties up to mid teens under the Janssen License Agreement and up to low teens under the Janssen Collaboration Agreement on product sales.   
+The Company has evaluated these agreements in accordance with the new revenue recognition requirements that became effective for the Company on October 1, 2018.  The adoption of the new revenue standard did not have a material impact on the balances reported when evaluated under the superseded revenue standard.  At the inception of these agreements, the Company has identified one distinct performance obligation.  Regarding the Janssen License Agreement, the Company determined that the key deliverables included the license and certain R&D services including the Company’s responsibility to complete the ongoing Phase 1 / 2 study of JNJ-3989 (ARO-HBV) and the Company’s responsibility to ensure certain manufacturing of ARO-HBV drug product is completed and delivered to Janssen (the “Janssen R&D Services”).  Due to the specialized and unique nature of these Janssen R&D services, and their direct relationship with the license, the Company determined that these deliverables represent one distinct bundle and thus, one performance obligation.  The Company also determined that Janssen’s option to require the Company to develop up to three new targets is not a material right, and thus, not a performance obligation at the onset of the agreement.  The consideration for this option will be accounted for if and when it is exercised. 
+The Company determined the transaction price totaled approximately $252.6 million which includes the upfront payment, the premium paid by JJDC for its equity investment in the Company, the two $25 million milestone payments earned and estimated payments for reimbursable Janssen R&D services to be performed.  The Company has allocated the total $252.6 million initial transaction price to its one distinct performance obligation for the JNJ-3989 (ARO-HBV)) license and the associated Janssen R&D Services.  This revenue will be recognized using a proportional performance method (based on actual labor hours versus estimated total labor hours) beginning in October 2018 and ending as the Company’s efforts in overseeing the ongoing phase 1 / 2 clinical trial are completed.  During the three months ended December 31, 2019 and 2018, the Company recognized approximately $28.8 million and $34.7 million of Revenue associated with this performance obligation, respectively.  As of December 31, 2019 there were $0 contract assets recorded as Accounts Receivable and $54.0 million of contract liabilities recorded as current Deferred Revenue on the Company’s Consolidated Balance Sheets.  The $54.0 million of current Deferred Revenue is driven by the upfront payment and premium paid by JJDC for its equity investment in the Company as well as the two $25 million milestones paid by Janssen, net of revenue recognized to date.   
+Janssen has also selected the first of the three targets under the Janssen Collaboration Agreement, now referred to as ARO-JNJ1, and the Company has begun to conduct its discovery, optimization and preclinical research and development of ARO-JNJ1.  All costs and labor hours spent by the Company will be entirely funded by Janssen.  During the three months ended December 31, 2019 and 2018, the Company recognized $0.7 million and $0 of Revenue associated with its efforts on the ARO-JNJ1 candidate, respectively. As of December 31, 2019 there were $1.3 million of contract assets recorded as Accounts Receivable, and $0 of contract liabilities. 
+ 
+17
+
+ 
+Operating Expenses 
+The analysis below details the operating expenses and discusses the expenditures of the Company within the major expense categories. Certain reclassifications have been made to prior-period operating expense categories to conform to the current period presentation.  For purposes of comparison, the amounts for the three months ended December 31, 2019 and 2018 are shown in the tables below. 
+Research and Development Expenses 
+R&D expenses are related to the Company’s research and development efforts, and related program costs which are comprised primarily of outsourced costs related to the manufacturing of clinical supplies, toxicity/efficacy studies and clinical trial expenses.  Internal costs primarily relate to operations at our research facility in Madison, Wisconsin, including facility costs and laboratory-related expenses. Salaries and stock compensation expense consist of salary, bonuses, payroll taxes and related benefits and stock compensation for our R&D personnel.  Depreciation and amortization expense relates to depreciation on lab equipment and leasehold improvements at our Madison research facility.  The following table provides details of research and development expenses for the periods indicated:
+(in thousands)
+ 
+
+
+ 
+Salaries expense increased by $819,000 from $3,277,000 during the three months ended December 31, 2018 to $4,096,000 during the current period.  The increase in the expense is primarily due to an increase in R&D headcount that has occurred as the Company has expanded its pipeline of candidates. 
+Stock compensation expense, a non-cash expense, increased by $521,000 from $641,000 during the three months ended December 31, 2018 to $1,162,000 during the current period.  Stock compensation expense is based upon the valuation of stock options and restricted stock units granted to employees, directors, and certain consultants. Many variables affect the amount expensed, including the Company’s stock price on the date of the grant, as well as other assumptions. The increase in the expense is primarily due to the increased headcount discussed above and a mix of higher grant date fair values of awards amortizing during the periods due to the Company’s stock price at the time of the grants.
+In vivo studies expense increased by $488,000 from $483,000 during the three months ended December 31, 2018 to $971,000 during the current period.  In vivo studies expense can vary depending on the stage of preclinical candidates, the nature and amount of testing required and the cost variation of different in vivo testing models.  The increase in vivo studies expense is the result of the timing of discovery studies being completed between periods.  
+Drug manufacturing expense decreased by $696,000 from $5,804,000 during the three months ended December 31, 2018 to $5,108,000 during the current period.  The decrease in the expense primarily relates to the timing of manufacturing campaigns in preparation for our candidate clinical trials and toxicology studies.  We anticipate this expense to increase as the volume of candidates in our pipeline increases and as each candidate progresses through clinical trial phases. 
+18
+
+ 
+Toxicity/efficacy studies expense increased by $1,541,000 from $2,411,000 during the three months ended December 31, 2018 to $3,952,000 during the current period.  This category includes IND-enabling toxicology studies as well as post-IND toxicology studies, such as long-term toxicology studies, and other efficacy studies.  The increase in the expense primarily relates to toxicology studies for ARO-ANG3, ARO-APOC3, ARO-HIF2 and ARO-HSD as each candidate progresses through and into clinical trials.  We anticipate this expense to increase as we prepare to enter clinical trials with our other drug candidates.
+Clinical trials expense increased by $2,125,000 from $2,242,000 during the three months ended December 31, 2018 to $4,367,000 during the current period.  The increase in the expense is primarily due to the ongoing ARO-AAT and JNJ-3989 (ARO-HBV) clinical trials, and the start up of the ARO-ANG3 and ARO-APOC3 clinical trials.  We anticipate this expense to increase as our current clinical candidates progress through clinical trials and as we enter clinical trials with our other drug candidates. 
+License, royalty and milestones expense was minor in both periods. This category includes milestone payments which can vary from period to period depending on the nature of our various license agreements, and the timing of reaching various development milestones requiring payment.  No milestones were achieved in either period.       
+Facilities expense increased by $37,000 from $583,000 during the three months ended December 31, 2018 to $620,000 during the current period.  This category includes rental costs for our research and development facility in Madison, Wisconsin.  The increase in the expense is primarily due to increased rental and common area maintenance expenses for our research and development facility. 
+Depreciation and amortization expense, a non-cash expense, decreased by $61,000 from $1,172,000 during the three months ended December 31, 2018 to $1,111,000 during the current period. The majority of depreciation and amortization expense relates to depreciation on lab equipment at our Madison research facility.  In addition, the Company records depreciation on leasehold improvements at its Madison research facility, and the decrease in depreciation and amortization expense relates to the timing of amortization of these leasehold improvements in each period as the length of our lease has been extended.  
+Other research expense increased by $1,025,000 from $959,000 during the three months ended December 31, 2018 to $1,984,000 during the current period.  This category includes the following costs to support discovery efforts and the advancement of current drug candidates: in-house laboratory supplies, outsourced labs services, and other miscellaneous research and development expenses.  The increase in other research expense is due to additional in-house laboratory supplies for our increased headcount.  
+General & Administrative Expenses 
+The following table provides details of our general and administrative expenses for the periods indicated: 
+(in thousands) 
+ 
+
+
+ 
+Salaries expense increased by $1,992,000 from $2,089,000 during the three months ended December 31, 2018 to $4,081,000 during the current period.  The increase in the expense is primarily driven by annual merit increases, performance bonuses and increased headcount.  
+Stock compensation expense, a non-cash expense, increased by $1,253,000 from $2,077,000 during the three months ended December 31, 2018 to $3,330,000 during the current period.  Stock compensation expense is based upon the valuation of stock options and restricted stock units granted to employees, directors, and certain consultants. Many variables affect the amount expensed, including the Company’s stock price on the date of the grant, as well as other assumptions. The increase in expense is primarily due to the timing of the achievement of certain performance-based awards in each period. 
+19
+
+ 
+Professional/outside services include legal, accounting, consulting, patent expenses, business insurance expenses and other outside services retained by the Company. Professional/outside services expense increased by $602,000 from $1,220,000 during the three months ended December 31, 2018 to $1,822,000 during the current period.  The increase in the expense is primarily related to recruiting fees for increased headcount.
+Facilities-related expense increased by $495,000 from $298,000 during the three months ended December 31, 2018 to $793,000 during the current period.  This category primarily includes rental costs for our corporate headquarters in Pasadena, California.  The increase in the expense is primarily related to costs incurred as we moved into a new corporate headquarters during the current period.    
+Depreciation and amortization expense, a noncash expense, increased by $144,000 from $5,000 during the three months ended December 31, 2018 to $149,000 during the current period.  The majority of general and administrative depreciation and amortization expense relates to depreciation on leasehold improvements at our Pasadena headquarters.  The increase in the expense is primarily related to amortization of leasehold improvements for our new corporate headquarters. 
+Other G&A expense increased by $308,000 from $451,000 during the three months ended December 31, 2018 to $759,000 during the current period.  This category consists primarily of travel, communication and technology, office expenses, and franchise and property tax expenses.  The increase in the expense was due to increased communication and technology and office expenses associated with our new corporate headquarters.  
+Other Income / Expense 
+Other income / expense was income of $2,179,886 and $1,091,109 during the three months ended December 31, 2019 and 2018, respectively.  Other income / expense in the both periods was interest income earned on the Company’s investments.  This interest income has increased in the current periods as our investment holdings have grown.    
+Liquidity and Cash Resources 
+Arrowhead has historically financed its operations through the sale of its equity securities. Research and development activities have required significant capital investment since the Company’s inception and are expected to continue to require significant cash expenditure in the future. 
+At December 31, 2019, the Company had cash on hand of approximately $461.0 million as compared to $221.8 million at September 30, 2019.  Excess cash invested in short-term fixed income securities was $41.0 million at December 31, 2019, compared to $36.9 million at September 30, 2019.  Excess cash invested in long-term fixed income securities was $26.3 million at December 31, 2019, compared to $44.2 million at September 30, 2019.  The Company believes its current financial resources are sufficient to fund its operations through at least the next twelve months.
+A summary of cash flows for the three months ended December 31, 2019 and 2018 is as follows:
+ 
+ 
+
+
+During the three months ended December 31, 2019, the Company used $23.5 million in cash from operating activities, which was primarily related to the ongoing expenses of the Company’s research and development programs and general and administrative expenses.  Cash provided by investing activities was $9.3 million, which was primarily related to maturities of fixed-income investments of $13.6 million, partially offset by capital expenditures of $4.3 million.  Cash provided by financing activities of $253.5 million was driven by the securities financing in December 2019, which generated $250.5 million in net cash proceeds, as well as $3.0 million in cash received from stock option exercises. 
+20
+
+ 
+During the three months ended December 31, 2018, the Company generated $168.3 million in cash from operating activities, which was primarily related to the $175.0 million upfront payment received from Janssen and the premium JJDC paid on the Company’s common stock during the period.  These inflows were partially offset by $21.2 million of cash used for the ongoing expenses of the Company’s research and development programs and general and administrative expenses.  Cash used in investing activities was $67.8 million, which was primarily related to purchases of fixed-income investments of $69.3 million.  Cash provided by financing activities of $59.1 million was driven by the equity investment the Company received from JJDC during the period.
+Off-Balance Sheet Arrangements 
+We do not have any off-balance sheet arrangements or relationships. 
+ 
+21
+
+ 
+
+
+
+
+ITEM 3.
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+There has been no material change in our exposure to market risk from that described in Item 7A of our Annual Report on Form 10-K for the year ended September 30, 2019.
+
+
+
+
+ITEM 4.
+
+CONTROLS AND PROCEDURES 
+Our Chief Executive Officer and our Chief Financial Officer, after evaluating our “disclosure controls and procedures” (as defined in Rules 13a-15(e) and 15d-15(e)) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) as of the end of the period covered by this Quarterly Report on Form 10-Q (the “Evaluation Date”), have concluded that, as of the Evaluation Date, our disclosure controls and procedures are effective to ensure that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and to ensure that information required to be disclosed by us in such reports is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer where appropriate, to allow timely decisions regarding required disclosure. 
+No change in the Company’s internal controls over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) of the Exchange Act) occurred during the Company’s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+22
+
+ 
+PART II—OTHER INFORMATION 
+
+
+
+
+ITEM 1.
+
+LEGAL PROCEEDINGS 
+From time to time, we may be involved in routine legal proceedings, as well as demands, claims and threatened litigation, which arise in the normal course of our business. Litigation can be expensive and disruptive to normal business operations. Moreover, the results of legal proceedings, particularly complex legal proceedings, cannot be predicted with any certainty. We disclosed information about certain of our legal proceedings in Part I, Item 3 of our Annual Report on Form 10-K for the year ended September 30, 2019.  
+
+
+
+
+ITEM 1A.
+
+Risk Factors 
+There have been no material changes to the risk factors included in our Annual Report on Form 10-K for the year ended September 30, 2019. Please carefully consider the information set forth in this Quarterly Report on Form 10-Q and the risk factors discussed in Part I, “Item 1A. Risk Factors” in our Annual Report on Form 10-K for the year ended September 30, 2019, which could materially affect our business, financial condition or future results. The risks described in our Annual Report on Form 10-K, as well as other risks and uncertainties, could materially and adversely affect our business, results of operations and financial condition, which in turn could materially and adversely affect the trading price of shares of our Common Stock. Additional risks not currently known or currently material to us may also harm our business. 
+
+
+
+
+ITEM 2.
+
+UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+None.
+
+
+
+
+ITEM 3.
+
+DEFAULTS UPON SENIOR SECURITIES 
+None. 
+
+
+
+
+ITEM 4.
+
+MINE SAFETY DISCLOSURES 
+Not Applicable. 
+
+
+
+
+ITEM 5.
+
+OTHER INFORMATION 
+None. 
+ 
+ 
+ 
+23
+
+ 
+
+
+
+
+ITEM 6.
+
+EXHIBITS 
+ 
+
+
+ 
+
+
+
+
+*
+
+Filed herewith 
+
+
+
+
+**
+
+Furnished herewith
+ 
+ 
+ 
+24
+
+ 
+SIGNATURE 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized. 
+Dated: February 5, 2020
+ 
+
+
+
+
+ARROWHEAD PHARMACEUTICALS, INC.
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+By:
+
+ 
+
+/s/ Kenneth A. Myszkowski
+
+
+
+
+ 
+
+ 
+
+Kenneth A. Myszkowski
+
+
+
+
+ 
+
+ 
+
+Chief Financial Officer
+
+
+
+ 
+ 
+25
+

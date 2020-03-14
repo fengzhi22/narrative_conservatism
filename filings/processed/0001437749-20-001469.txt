@@ -1,0 +1,1485 @@
+
+
+jjsf20191228_10q.htm
+
+
+
+0000785956
+J&J SNACK FOODS CORP
+false
+--09-26
+Q1
+2020
+2
+20
+0
+51
+10
+414,000
+279,000
+2
+20
+10.7
+2
+1
+7.3
+4.0
+1
+1
+10,000,000
+10,000,000
+0
+0
+0
+0
+50,000,000
+50,000,000
+18,900,000
+18,895,000 
+18,900,000
+18,895,000 
+
+
+
+00007859562019-09-292019-12-28
+xbrli:shares
+00007859562020-01-23
+iso4217:USD
+00007859562019-12-28
+00007859562019-09-28
+00007859562018-09-302018-12-29
+iso4217:USDxbrli:shares
+0000785956us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember2019-09-28
+0000785956us-gaap:AccumulatedOtherComprehensiveIncomeMember2019-09-28
+0000785956us-gaap:RetainedEarningsMember2019-09-28
+0000785956us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember2019-09-292019-12-28
+0000785956us-gaap:AccumulatedOtherComprehensiveIncomeMember2019-09-292019-12-28
+0000785956us-gaap:RetainedEarningsMember2019-09-292019-12-28
+0000785956us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember2019-12-28
+0000785956us-gaap:AccumulatedOtherComprehensiveIncomeMember2019-12-28
+0000785956us-gaap:RetainedEarningsMember2019-12-28
+0000785956us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember2018-09-29
+0000785956us-gaap:AccumulatedOtherComprehensiveIncomeMember2018-09-29
+0000785956us-gaap:RetainedEarningsMember2018-09-29
+00007859562018-09-29
+0000785956us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember2018-09-302018-12-29
+0000785956us-gaap:AccumulatedOtherComprehensiveIncomeMember2018-09-302018-12-29
+0000785956us-gaap:RetainedEarningsMember2018-09-302018-12-29
+0000785956us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember2018-12-29
+0000785956us-gaap:AccumulatedOtherComprehensiveIncomeMember2018-12-29
+0000785956us-gaap:RetainedEarningsMember2018-12-29
+00007859562018-12-29
+utr:Y
+0000785956srt:MinimumMember2018-09-302019-03-30
+0000785956srt:MaximumMember2018-09-302019-03-30
+0000785956us-gaap:EmployeeStockOptionMember2019-09-292019-12-28
+0000785956us-gaap:EmployeeStockOptionMember2018-09-302018-12-29
+0000785956jjsf:StockPurchasePlanMember2019-09-292019-12-28
+0000785956jjsf:StockPurchasePlanMember2018-09-302018-12-29
+utr:M
+0000785956jjsf:FiveYearOptionsMember2019-09-292019-12-28
+0000785956jjsf:TenYearOptionsMember2019-09-292019-12-28
+xbrli:pure
+0000785956us-gaap:AccountingStandardsUpdate201602Member2019-07-01
+0000785956us-gaap:AccountingStandardsUpdate201602Member2017-07-01
+0000785956jjsf:MARYBsBiscuitOperationsMember2018-09-302019-09-28
+0000785956jjsf:SoftPretzelsMemberjjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:SoftPretzelsMemberjjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:FrozenJuicesAndIcesMemberjjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:FrozenJuicesAndIcesMemberjjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:ChurrosMemberjjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:ChurrosMemberjjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:HandheldsMemberjjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:HandheldsMemberjjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:BakeryMemberjjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:BakeryMemberjjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:OtherProductsMemberjjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:OtherProductsMemberjjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:FoodServiceMember2019-09-292019-12-28
+0000785956jjsf:FoodServiceMember2018-09-302018-12-29
+0000785956jjsf:SoftPretzelsMemberjjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:SoftPretzelsMemberjjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:FrozenJuicesAndIcesMemberjjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:FrozenJuicesAndIcesMemberjjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:BakeryMemberjjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:BakeryMemberjjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:HandheldsMemberjjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:HandheldsMemberjjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:CouponRedemtionMemberjjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:CouponRedemtionMemberjjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:OtherProductsMemberjjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:OtherProductsMemberjjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:RetailSupermarketMember2019-09-292019-12-28
+0000785956jjsf:RetailSupermarketMember2018-09-302018-12-29
+0000785956jjsf:BeverageMemberjjsf:FrozenBeveragesMember2019-09-292019-12-28
+0000785956jjsf:BeverageMemberjjsf:FrozenBeveragesMember2018-09-302018-12-29
+0000785956jjsf:RepairAndMaintenanceServiceMemberjjsf:FrozenBeveragesMember2019-09-292019-12-28
+0000785956jjsf:RepairAndMaintenanceServiceMemberjjsf:FrozenBeveragesMember2018-09-302018-12-29
+0000785956jjsf:MachineSalesMemberjjsf:FrozenBeveragesMember2019-09-292019-12-28
+0000785956jjsf:MachineSalesMemberjjsf:FrozenBeveragesMember2018-09-302018-12-29
+0000785956jjsf:OtherProductsMemberjjsf:FrozenBeveragesMember2019-09-292019-12-28
+0000785956jjsf:OtherProductsMemberjjsf:FrozenBeveragesMember2018-09-302018-12-29
+0000785956jjsf:FrozenBeveragesMember2019-09-292019-12-28
+0000785956jjsf:FrozenBeveragesMember2018-09-302018-12-29
+0000785956jjsf:FoodServiceMember2019-12-28
+0000785956jjsf:FoodServiceMember2018-12-29
+0000785956jjsf:RetailSupermarketMember2019-12-28
+0000785956jjsf:RetailSupermarketMember2018-12-29
+0000785956jjsf:FrozenBeveragesMember2019-12-28
+0000785956jjsf:FrozenBeveragesMember2018-12-29
+0000785956us-gaap:TradeNamesMemberjjsf:FoodServiceMember2019-12-28
+0000785956us-gaap:TradeNamesMemberjjsf:FoodServiceMember2019-09-28
+0000785956us-gaap:NoncompeteAgreementsMemberjjsf:FoodServiceMember2019-12-28
+0000785956us-gaap:NoncompeteAgreementsMemberjjsf:FoodServiceMember2019-09-28
+0000785956us-gaap:CustomerRelationshipsMemberjjsf:FoodServiceMember2019-12-28
+0000785956us-gaap:CustomerRelationshipsMemberjjsf:FoodServiceMember2019-09-28
+0000785956jjsf:LicenseAndRightsMemberjjsf:FoodServiceMember2019-12-28
+0000785956jjsf:LicenseAndRightsMemberjjsf:FoodServiceMember2019-09-28
+0000785956jjsf:FoodServiceMember2019-09-28
+0000785956us-gaap:TradeNamesMemberjjsf:RetailSupermarketMember2019-12-28
+0000785956us-gaap:TradeNamesMemberjjsf:RetailSupermarketMember2019-09-28
+0000785956jjsf:FiniteLivedTradeNamesMemberjjsf:RetailSupermarketMember2019-12-28
+0000785956jjsf:FiniteLivedTradeNamesMemberjjsf:RetailSupermarketMember2019-09-28
+0000785956us-gaap:CustomerRelationshipsMemberjjsf:RetailSupermarketMember2019-12-28
+0000785956us-gaap:CustomerRelationshipsMemberjjsf:RetailSupermarketMember2019-09-28
+0000785956jjsf:RetailSupermarketMember2019-09-28
+0000785956us-gaap:TradeNamesMemberjjsf:FrozenBeveragesMember2019-12-28
+0000785956us-gaap:TradeNamesMemberjjsf:FrozenBeveragesMember2019-09-28
+0000785956jjsf:DistributionRightsIndefinitelivedMemberjjsf:FrozenBeveragesMember2019-12-28
+0000785956jjsf:DistributionRightsIndefinitelivedMemberjjsf:FrozenBeveragesMember2019-09-28
+0000785956us-gaap:CustomerRelationshipsMemberjjsf:FrozenBeveragesMember2019-12-28
+0000785956us-gaap:CustomerRelationshipsMemberjjsf:FrozenBeveragesMember2019-09-28
+0000785956jjsf:LicenseAndRightsMemberjjsf:FrozenBeveragesMember2019-12-28
+0000785956jjsf:LicenseAndRightsMemberjjsf:FrozenBeveragesMember2019-09-28
+0000785956jjsf:FrozenBeveragesMember2019-09-28
+0000785956jjsf:ICEEDistributorMemberjjsf:FrozenBeveragesMember2019-09-292019-12-28
+0000785956srt:MinimumMember2019-09-292019-12-28
+0000785956srt:MaximumMember2019-09-292019-12-28
+0000785956jjsf:FoodServiceMember2018-09-29
+0000785956jjsf:RetailSupermarketMember2018-09-29
+0000785956jjsf:FrozenBeveragesMember2018-09-29
+0000785956us-gaap:CorporateBondSecuritiesMember2019-12-28
+0000785956us-gaap:CertificatesOfDepositMember2019-12-28
+0000785956jjsf:MutualFundsMember2019-12-28
+0000785956us-gaap:PreferredStockMember2019-12-28
+0000785956us-gaap:CorporateBondSecuritiesMember2019-09-292019-12-28
+0000785956us-gaap:CorporateBondSecuritiesMember2019-09-28
+0000785956us-gaap:CertificatesOfDepositMember2019-09-28
+0000785956jjsf:MutualFundsMember2019-09-28
+0000785956us-gaap:PreferredStockMember2019-09-28
+0000785956us-gaap:AccumulatedTranslationAdjustmentMember2019-09-28
+0000785956us-gaap:AccumulatedTranslationAdjustmentMember2019-09-292019-12-28
+0000785956us-gaap:AccumulatedTranslationAdjustmentMember2019-12-28
+0000785956us-gaap:AccumulatedTranslationAdjustmentMember2018-09-29
+0000785956us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember2018-09-29
+0000785956us-gaap:AccumulatedTranslationAdjustmentMember2018-09-302018-12-29
+0000785956us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember2018-09-302018-12-29
+0000785956us-gaap:AccumulatedTranslationAdjustmentMember2018-12-29
+0000785956us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember2018-12-29
+0000785956jjsf:ICEEDistributorMember2019-10-012019-10-01
+0000785956jjsf:ICEEDistributorMember2019-09-292019-12-28
+0000785956jjsf:ICEEDistributorMember2019-10-01
+0000785956jjsf:ICEEDistributorMemberus-gaap:CustomerRelationshipsMember2019-10-01
+0000785956jjsf:ICEEDistributorMemberus-gaap:DistributionRightsMember2019-10-01
+0000785956jjsf:ICEEDistributorMember2019-12-282019-12-28
+0000785956jjsf:ICEEDistributorMember2018-09-302018-12-29
+00007859562019-09-292019-12-29
+00007859562019-12-29
+0000785956us-gaap:BuildingMember2019-09-28
+0000785956us-gaap:EquipmentMember2019-09-28
+
+
+     
+  
+UNITED STATES
+ 
+SECURITIES AND EXCHANGE COMMISSION
+ 
+Washington, D.C. 20549
+ 
+FORM 10-Q
+ 
+(Mark One)
+ 
+☒     Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+For the period ended December 28, 2019
+or
+ 
+☐     Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+Commission File Number:     0-14616
+ 
+J&J SNACK FOODS CORP.
+(Exact name of registrant as specified in its charter)
+         
+
+
+
+New Jersey
+22-1935537
+
+
+(State or other jurisdiction of
+(I.R.S. Employer
+
+
+incorporation or organization) 
+Identification No.)
+
+
+
+ 
+6000 Central Highway, Pennsauken, New Jersey 08109
+(Address of principal executive offices)
+ 
+Telephone (856) 665-9533
+ 
+Securities registered pursuant to Section 12(b) of the Exchange Act:
+ 
+
+
+
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+
+
+Common Stock, no par value
+JJSF
+The NASDAQ Global Select Market
+
+
+
+                                        
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.               
+
+
+
+☒          Yes
+☐          No
+
+
+
+                          
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).            
+
+
+
+☒          Yes
+☐          No
+
+
+
+                          
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+   
+
+
+
+Large Accelerated filer        ☒
+Accelerated filer                  
+ 
+☐
+
+
+ 
+ 
+ 
+ 
+
+
+Non-accelerated filer           ☐
+Smaller reporting company
+ 
+☐
+
+
+ 
+Emerging growth company
+ 
+☐
+
+
+
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+
+
+
+☐          Yes
+☒          No
+
+
+
+                                         
+As January 23, 2020 there were 18,918,943 shares of the Registrant’s Common Stock outstanding.
+ 
+
+
+  1
+ 
+
+
+   
+ 
+
+
+     
+  
+ 
+
+     
+  
+
+INDEX
+ 
+
+ 
+
+
+      2
+    
+
+
+       
+    
+
+
+
+     
+  
+ 
+
+     
+  
+
+
+
+ J & J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+
+ CONSOLIDATED BALANCE SHEETS 
+
+
+ (in thousands, except share amounts) 
+
+
+
+ 
+
+
+
+ 
+
+     
+  
+
+
+
+ The accompanying notes are an integral part of these statements. 
+
+
+
+ 
+
+
+     3
+   
+
+
+      
+   
+
+ 
+
+
+
+ J & J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+
+ CONSOLIDATED STATEMENTS OF EARNINGS 
+
+
+(Unaudited)
+
+
+ (in thousands, except per share amounts) 
+
+
+
+ 
+
+
+
+ 
+
+     
+  
+
+
+
+ The accompanying notes are an integral part of these statements. 
+
+
+
+ 
+
+
+     4
+   
+
+
+      
+   
+
+ 
+
+
+
+ J&J SNACK FOODS CORP. AND SUBSIDIARIES  
+
+
+ CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+
+
+ (Unaudited) 
+
+
+ (in thousands) 
+
+
+
+ 
+
+
+
+ 
+
+     
+  
+
+
+
+ The accompanying notes are an integral part of these statements. 
+
+
+
+ 
+
+
+     5
+   
+
+
+      
+   
+
+ 
+
+
+
+ J & J SNACK FOODS CORP. AND SUBSIDIARIES 
+
+
+ CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY 
+
+
+ (in thousands) 
+
+
+
+ 
+
+
+
+ 
+ 
+ 
+
+
+
+ 
+
+     
+  
+
+
+
+ The accompanying notes are an integral part of these statements. 
+
+
+
+ 
+
+
+     6
+   
+
+
+      
+   
+
+ 
+
+
+
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+
+
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+
+ (Unaudited)     (in thousands) 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ The accompanying notes are an integral part of these statements. 
+
+
+
+ 
+
+
+     7
+   
+
+
+      
+   
+
+ 
+J & J SNACK FOODS CORP. AND SUBSIDIARIES
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)
+ 
+
+     
+  
+
+
+ 
+In the opinion of management, the accompanying unaudited consolidated financial statements contain all adjustments (consisting of only normal recurring adjustments) necessary to present fairly the financial position and the results of operations and cash flows.
+ 
+The results of operations for the three months ended  December 28, 2019 and  December 29, 2018 are not necessarily indicative of results for the full year. Sales of our frozen beverages and frozen juice bars and ices are generally higher in the third and fourth quarters due to warmer weather.
+ 
+Certain prior year financial statement amounts have been reclassified to be consistent with the presentation for the current year.
+ 
+While we believe that the disclosures presented are adequate to make the information not misleading, it is suggested that these consolidated financial statements be read in conjunction with the consolidated financial statements and the notes included in the Company’s Annual Report on Form 10-K for the fiscal year ended  September 28, 2019.
+
+ 
+
+     
+  
+
+Note 2
+ 
+Revenue Recognition
+ 
+When Performance Obligations Are Satisfied
+A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account for revenue recognition. A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied.
+ 
+The singular performance obligation of our customer contracts for product and machine sales is determined by each individual purchase order and the respective products ordered, with revenue being recognized at a point-in-time when the obligation under the terms of the agreement is satisfied and product control is transferred to our customer. Specifically, control transfers to our customers when the product is delivered to, installed or picked up by our customers based upon applicable shipping terms, as our customers can direct the use and obtain substantially all of the remaining benefits from the product at this point in time. The performance obligations in our customer contracts for product are generally satisfied within 30 days.
+ 
+The singular performance obligation of our customer contracts for time and material repair and maintenance equipment service is the performance of the repair and maintenance with revenue being recognized at a point-in-time when the repair and maintenance is completed.
+ 
+
+
+
+
+
+
+
+
+8
+
+
+
+        
+     
+  
+
+The singular performance obligation of our customer repair and maintenance equipment service contracts is the performance of the repair and maintenance with revenue being recognized over the time the service is expected to be performed. Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet.
+ 
+Significant Payment Terms
+In general, within our customer contracts, the purchase order identifies the product, quantity, price, pick-up allowances, payment terms and final delivery terms. Although some payment terms  may be more extended, presently the majority of our payment terms are 30 days. As a result, we have used the available practical expedient and, consequently, do not adjust our revenues for the effects of a significant financing component.
+ 
+Shipping 
+All amounts billed to customers related to shipping and handling are classified as revenues; therefore, we recognize revenue for shipping and handling fees at the time the products are shipped or when services are performed. The cost of shipping products to the customer is recognized at the time the products are shipped to the customer and our policy is to classify them as Distribution expenses.
+ 
+Variable Consideration
+In addition to fixed contract consideration, our contracts include some form of variable consideration, including sales discounts, trade promotions and certain other sales and consumer incentives, including rebates and coupon redemptions. In general, variable consideration is treated as a reduction in revenue when the related revenue is recognized. Depending on the specific type of variable consideration, we use the most likely amount method to determine the variable consideration. We believe there will be no significant changes to our estimates of variable consideration when any related uncertainties are resolved with our customers. We review and update our estimates and related accruals of variable consideration each period based on historical experience. Our recorded liability for allowances, end-user pricing adjustments and trade spending was approximately $15.1 million at  December 28, 2019 and $14.8 million at  September 28, 2019.
+ 
+
+
+
+
+
+
+
+
+9
+
+
+
+        
+     
+  
+
+Warranties & Returns
+We provide all customers with a standard or assurance type warranty. Either stated or implied, we provide assurance the related products will comply with all agreed-upon specifications and other warranties provided under the law. No services beyond an assurance warranty are provided to our customers.
+ 
+We do not grant a general right of return. However, customers  may return defective or non-conforming products. Customer remedies  may include either a cash refund or an exchange of the product. We do not estimate a right of return and related refund liability as returns of our products are rare.
+ 
+Contract Balances
+Our customers are billed for service contracts in advance of performance and therefore we have contract liability on our balance sheet as follows:
+ 
+ 
+
+
+
+ 
+Disaggregation of Revenue
+See Note 9 for disaggregation of our net sales by class of similar product and type of customer.
+ 
+Allowance for Doubtful Receivables 
+ 
+We provide an allowance for doubtful receivables after taking into consideration historical experience and other factors. The allowance for doubtful receivables was $465,000 and $572,000 at  December 28, 2019 and  September 28, 2019, respectively.
+
+ 
+ 
+
+     
+  
+
+
+ 
+
+
+10
+
+
+
+       
+    
+
+
+
+     
+  
+ 
+
+     
+  
+
+
+
+
+ Note 4 
+ Basic earnings per common share (EPS) excludes dilution and is computed by dividing income available to common shareholders by the weighted average common shares outstanding during the period. Diluted EPS takes into consideration the potential dilution that could occur if securities (stock options) or other contracts to issue common stock were exercised and converted into common stock. Our calculation of EPS is as follows: 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 20,000 anti-dilutive shares have been excluded in the computation of EPS for  the three months ended  December 28, 2019 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 500 anti-dilutive shares have been excluded in the computation of EPS for the three months ended  December 29, 2018 
+
+
+
+ 
+
+
+
+
+
+
+11
+
+
+
+        
+     
+
+
+
+
+     
+  
+ 
+
+     
+  
+
+
+
+
+ Note 5 
+ At  December 28, 2019, the Company has three stock-based employee compensation plans. Share-based compensation expense was recognized as follows: 
+
+
+
+ 
+
+
+
+ 
+ 
+The fair value of each option grant is estimated on the date of grant using the Black-Scholes options-pricing model.
+ 
+The Company did not grant any stock options during the fiscal year 2020 three month period.
+ 
+During the fiscal year 2019 three month period, the Company granted 1,000 stock options. The weighted-average grant date fair value of these options was $27.09
+ 
+Expected volatility is based on the historical volatility of the price of our common shares over the past 51 months for 5 year options and 10 years for 10 year options. We use historical information to estimate expected life and forfeitures within the valuation model. The expected term of awards represents the period of time that options granted are expected to be outstanding. The risk-free rate for periods within the expected life of the option is based on the U.S. Treasury yield curve in effect at the time of grant. Compensation cost is recognized using a straight-line method over the vesting or service period and is net of estimated forfeitures.
+
+ 
+
+     
+  
+
+
+
+
+ Note 6 
+ We account for our income taxes under the liability method. Under the liability method, deferred tax assets and liabilities are determined based on the difference between the financial statement and tax bases of assets and liabilities as measured by the enacted tax rates that will be in effect when these differences reverse.  Deferred tax expense is the result of changes in deferred tax assets and liabilities. 
+
+
+
+ 
+Additionally, we recognize a liability for income taxes and associated penalties and interest for tax positions taken or expected to be taken in a tax return which are more likely than not to be overturned by taxing authorities (“uncertain tax positions”).  We have not recognized a tax benefit in our financial statements for these uncertain tax positions.  
+ 
+The total amount of gross unrecognized tax benefits is $414,000 on both  December 28, 2019 and  September 28, 2019, all of which would impact our effective tax rate over time, if recognized. We recognize interest and penalties related to uncertain tax positions as a part of the provision for income taxes. As of  December 28, 2019 and  September 28, 2019, the Company has $279,000 of accrued interest and penalties.
+ In addition to our federal tax return and tax returns for Mexico and Canada, we file tax returns in all states that have a corporate income tax with virtually all open for examination for three to four years.
+ 
+Net earnings in last year’s quarter benefitted by a reduction of approximately $900,000 in tax as the provision for the one time repatriation tax as a result of the Tax Cuts and Job Act of 2017 was reduced as the amount recorded the year prior was an estimate. Excluding the reduction in the provision for the one time repatriation tax, our effective tax rate was 28.0% in last year’s quarter.    
+ 
+
+
+12
+
+
+
+       
+    
+
+
+
+     
+  
+ 
+
+     
+  
+
+
+
+ 
+
+     
+  
+
+
+
+
+ Note 8 
+ Inventories consist of the following: 
+
+
+
+ 
+
+
+
+ 
+
+
+     
+  
+
+
+
+
+ Note 9 
+ We principally sell our products to the food service and retail supermarket industries. Sales and results of our frozen beverages business are monitored separately from the balance of our food service business because of different distribution and capital requirements. We maintain separate and discrete financial information for the three operating segments mentioned above which is available to our Chief Operating Decision Makers. 
+
+
+
+ 
+Our three reportable segments are Food Service, Retail Supermarkets and Frozen Beverages. All inter-segment net sales and expenses have been eliminated in computing net sales and operating income. These segments are described below.
+ 
+Food Service
+ 
+The primary products sold by the food service group are soft pretzels, frozen juice treats and desserts, churros, dough enrobed handheld products and baked goods. Our customers in the food service industry include snack bars and food stands in chain, department and discount stores; malls and shopping centers; fast food outlets; stadiums and sports arenas; leisure and theme parks; convenience stores; movie theatres; warehouse club stores; schools, colleges and other institutions. Within the food service industry, our products are purchased by the consumer primarily for consumption at the point-of-sale.
+ 
+Retail Supermarkets
+ 
+The primary products sold to the retail supermarket channel are soft pretzel products – including SUPERPRETZEL, frozen juice treats and desserts including LUIGI’S Real Italian Ice, MINUTE MAID Juice Bars and Soft Frozen Lemonade, WHOLE FRUIT frozen fruit bars and sorbet, PHILLY SWIRL cups and sticks, ICEE Squeeze-Up Tubes and dough enrobed handheld products including PATIO burritos. Within the retail supermarket channel, our frozen and prepackaged products are purchased by the consumer for consumption at home.
+ 
+Frozen Beverages
+ 
+We sell frozen beverages and related products to the food service industry primarily under the names ICEE, SLUSH PUPPIE and PARROT ICE in the United States, Mexico and Canada. We also provide repair and maintenance service to customers for customers’ owned equipment.
+ 
+
+
+
+
+
+
+
+
+13
+
+
+
+        
+     
+  
+
+The Chief Operating Decision Maker for Food Service and Retail Supermarkets and the Chief Operating Decision Maker for Frozen Beverages monthly review detailed operating income statements and sales reports in order to assess performance and allocate resources to each individual segment. Sales and operating income are key variables monitored by the Chief Operating Decision Makers and management when determining each segment’s and the company’s financial condition and operating performance. In addition, the Chief Operating Decision Makers review and evaluate depreciation, capital spending and assets of each segment on a quarterly basis to monitor cash flow and asset needs of each segment. Due to a change in management and the reporting of our MARYB’s biscuit operations, which had sales and operating income of $25,316,000 and $1,584,000, respectively, in our 2019 fiscal year, we have reclassified the operations from our Food Service segment to our Retail Supermarket segment, which is reflected in both periods reported. Information regarding the operations in these three reportable segments is as follows:
+ 
+
+
+
+ 
+
+
+
+14
+
+
+
+        
+     
+
+
+
+
+
+
+     
+  
+ 
+
+     
+  
+
+
+
+
+ Note 10 
+ Our three reporting units, which are also reportable segments, are Food Service, Retail Supermarkets and Frozen Beverages. 
+
+
+
+ 
+The carrying amounts of acquired intangible assets for the Food Service, Retail Supermarkets and Frozen Beverage segments as of  December 28, 2019 and  September 28, 2019 are as follows:
+ 
+
+
+
+ 
+
+
+15
+
+
+
+       
+    
+
+ 
+Fully amortized intangible assets have been removed from the  December 28, 2019 amounts. Intangible assets of $21,769,000 were added in the frozen beverages segment from the acquisition of ICEE Distributors.
+ 
+Amortizing intangible assets are being amortized by the straight-line method over periods ranging from 2 to 20 years and amortization expense is reflected throughout operating expenses. Aggregate amortization expense of intangible assets for the three months ended  December 28, 2019 and  December 29, 2018 was $843,000 and $855,000, respectively.
+ 
+Estimated amortization expense for the next five fiscal years is approximately $3,100,000 in 2020, $2,500,000 in 2021, $2,300,000 in 2022, $2,300,000 in 2023 and $2,000,000 in 2024. The weighted amortization period of the intangible assets is 10.7 years.
+ 
+Goodwill 
+ 
+The carrying amounts of goodwill for the Food Service, Retail Supermarket and Frozen Beverage segments are as follows:
+   
+
+
+
+ 
+ 
+Goodwill of $16,973,000 was added in the frozen beverages segment from the acquisition of ICEE Distributors.
+
+ 
+ 
+
+     
+  
+
+
+
+
+ Note 11 
+ We have classified our investment securities as marketable securities held to maturity and available for sale. The FASB defines fair value as the price that would be received from selling an asset or paid to transfer a liability in an orderly transaction between market participants. As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or liability. As a basis for considering such assumptions, the FASB has established three levels of inputs that  may be used to measure fair value: 
+
+
+
+ 
+
+
+
+ Level 1 
+ Observable input such as quoted prices in active markets for identical assets or liabilities; 
+
+
+
+ 
+
+
+
+ Level 2 
+ Observable inputs, other than Level 1 inputs in active markets, that are observable either directly or indirectly; and 
+
+
+
+ 
+
+
+
+ Level 3 
+ Unobservable inputs for which there is little or no market data, which require the reporting entity to develop its own assumptions. 
+
+
+
+ 
+ 
+
+
+16
+
+
+
+       
+    
+
+ 
+Marketable securities held to maturity and available for sale consist primarily of investments in mutual funds, preferred stock and corporate bonds.  The fair values of mutual funds are based on quoted market prices in active markets and are classified within Level 1 of the fair value hierarchy.  The fair values of preferred stock, corporate bonds and certificates of deposit are based on quoted prices for identical or similar instruments in markets that are not active.  As a result, preferred stock, corporate bonds and certificates of deposit are classified within Level 2 of the fair value hierarchy. 
+ 
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities held to maturity at  December 28, 2019 are summarized as follows:
+ 
+
+
+
+ 
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities available for sale at  December 28, 2019 are summarized as follows:
+ 
+
+
+
+ 
+The mutual funds seek current income with an emphasis on maintaining low volatility and overall moderate duration. The Fixed-to-Floating Perpetual Preferred Stock generate fixed income to call dates in 2020 and 2025 and then income is based on a spread above LIBOR if the securities are not called. The mutual funds and Fixed-to-Floating Perpetual Preferred Stock do not have contractual maturities; however, we classify them as long term assets as it is our intent to hold them for a period of over one year, although we  may sell some or all of them depending on presently unanticipated needs for liquidity or market conditions. The corporate bonds generate fixed income to maturity dates in 2020 through 2024, with $106 million maturing within 2 years. Our expectation is that we will hold the corporate bonds to their maturity dates and redeem them at our amortized cost.
+ 
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities held to maturity at  September 28, 2019 are summarized as follows:
+ 
+
+
+
+ 
+
+
+17
+
+
+
+       
+    
+
+ 
+The amortized cost, unrealized gains and losses, and fair market values of our investment securities available for sale at  September 28, 2019 are summarized as follows:
+ 
+
+
+
+ 
+The amortized cost and fair value of the Company’s held to maturity securities by contractual maturity at  December 28, 2019 and  September 28, 2019 are summarized as follows:
+ 
+
+
+
+ 
+Proceeds from the redemption and sale of marketable securities were $18,782,000 in the three months ended  December 28, 2019 and $17,125,000 in the three ended  December 29, 2018, respectively. Losses of $11,000 and $1,027,000 were recorded in the three months ended  December 28, 2019 and  December 28, 2018, respectively, which included unrealized gains on marketable securities of $71,000 and unrealized losses on marketable securities of $1,027,000 in the three months ended  December 28, 2019 and  December 29, 2018, respectively. We use the specific identification method to determine the cost of securities sold.
+ 
+
+
+18
+
+
+
+       
+    
+
+ 
+
+
+     
+  
+
+
+
+
+ Note 12 
+ Changes to the components of accumulated other comprehensive loss are as follows: 
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+
+
+19
+
+
+
+       
+    
+
+
+
+     
+  
+ 
+
+     
+  
+
+
+ 
+The preliminary purchase price allocation for the acquisition is as follows:
+ 
+
+
+
+ 
+The goodwill recognized is attributable to the assembled workforce of ICEE Distributors and certain other strategic intangible assets that do not meet the requirements for recognition separate and apart from goodwill.
+ 
+Acquisition costs of $36,000 are included in other general expense for the three months ended  December 28, 2019.
+ 
+Our unaudited proforma results, giving effect to this acquisition and assuming an acquisition date of  September 29, 2018, would have been:
+ 
+
+
+
+ 
+
+ 
+
+     
+  
+
+Note 14 – Leases
+ 
+General Lease Description
+ 
+We have operating leases with initial noncancelable lease terms in excess of one year covering the rental of various facilities and equipment. Certain of these leases contain renewal options and some provide options to purchase during the lease term. Our operating leases include leases for real estate for some of our office and manufacturing facilities as well as manufacturing and non-manufacturing equipment used in our business. The remaining lease terms for these operating leases range from 1 month to 13 years.
+ 
+We have finance leases with initial noncancelable lease terms in excess of one year covering the rental of various equipment. These leases are generally for manufacturing and non-manufacturing equipment used in our business. The remaining lease terms for these finance leases range from 1 year to 6 years.        
+                                     
+
+
+20
+
+
+
+       
+    
+
+ 
+Significant Assumptions and Judgments
+ 
+Contract Contains a Lease
+In evaluating our contracts to determine whether a contract is or contains a lease, we considered the following:      
+                             
+•         Whether explicitly or implicitly identified assets have been deployed in the contract; and
+ 
+•         Whether we obtain substantially all of the economic benefits from the use of that underlying asset, and we can direct how and for what purpose the asset is used during the term of the contract.
+ 
+Allocation of Consideration
+ 
+In determining how to allocate consideration between lease and non-lease components in a contract that was deemed to contain a lease, we used judgment and consistent application of assumptions to reasonably allocate the consideration.
+ 
+Options to Extend or Terminate Leases
+ 
+We have leases which contain options to extend or terminate the leases. On a lease-by-lease basis, we have determined if the extension should be considered reasonably certain to be exercised and thus a right-of-use asset and a lease liability should be recorded.
+ 
+Discount Rate
+ 
+The discount rate for leases, if not explicitly stated in the lease, is the incremental borrowing rate, which is the rate of interest that we would have to pay to borrow on a collateralized basis over a similar term an amount equal to the lease payments in a similar economic environment.
+ 
+We used the discount rate to calculate the present value of the lease liability at the date of adoption. In the development of the discount rate, we considered our incremental borrowing rate as provided by our lender which was based on cash collateral and credit risk specific to us, and our lease portfolio characteristics.
+ 
+As of  September 29, 2019, the weighted-average discount rate of our operating and finance leases was 3.3% and 3.1%, respectively.
+ 
+Practical Expedients and Accounting Policy Elections
+ 
+We elected the package of practical expedients that permits us not to reassess our prior conclusions about lease identification, lease classification and initial direct costs and made an accounting policy election to exclude short-term leases with an initial term of 12 months or less from our Consolidated Balance Sheets.
+ 
+
+
+21
+
+
+
+       
+    
+
+ 
+Amounts Recognized in the Financial Statements
+ 
+The components of lease expense were as follows:
+ 
+
+
+
+ 
+Supplemental balance sheet information related to leases is as follows:
+ 
+
+
+
+ 
+Supplemental cash flow information related to leases is as follows:
+ 
+
+
+
+
+ 
+ 
+ Three Months Ended 
+ 
+
+
+ 
+ 
+ December 28, 2019 
+ 
+
+
+ 
+ 
+ (in thousands) 
+ 
+
+
+ Cash paid for amounts included in the measurement of lease liabilities: 
+ 
+ 
+ 
+ 
+
+
+ Operating cash flows from operating leases 
+ 
+$
+4,244
+ 
+
+
+ Operating cash flows from finance leases 
+ 
+$
+86
+ 
+
+
+ Financing cash flows from finance leases 
+ 
+$
+7
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+ Supplemental noncash information on lease liabilities arising from obtaining right-of-use assets 
+ 
+$
+-
+ 
+
+
+ Supplemental noncash information on lease liabilities removed due to purchase of leased asset 
+ 
+$
+-
+ 
+
+
+
+
+ 
+As of  December 28, 2019, the maturities of lease liabilities were as follows:
+ 
+
+
+
+ 
+
+
+22
+
+
+
+       
+    
+
+ 
+As of  December 28, 2019, the weighted-average remaining term of our operating and finance leases was 7.3 years and 4.0 years, respectively.
+ 
+As previously disclosed in our 2019 Annual Report on Form 10-K and under the previous lease accounting standard (Topic 840), as of  September 28, 2019, future minimum lease payments under noncancelable leases with initial lease terms in excess of one year were as follows:
+ 
+
+
+
+ 
+ 
+
+
+     
+  
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ 
+Liquidity and Capital Resources
+ 
+Our current cash and cash equivalents balances, investments and cash expected to be provided by future operations are our primary sources of liquidity. We believe that these sources, along with our borrowing capacity, are sufficient to fund future growth and expansion. See Note 11 to these financial statements for a discussion of our investment securities.
+ 
+The Company’s Board of Directors declared a regular quarterly cash dividend of $.575 per share of its common stock payable on January 7, 2020, to shareholders of record as of the close of business on December 20, 2019.
+ 
+We did not purchase any shares of our common stock in fiscal year 2019 or in the three months ended December 28, 2019. On August 4, 2017 the Company’s Board of Directors authorized the purchase and retirement of 500,000 shares of the Company’s common stock; 384,506 shares remain to be purchased under this authorization.
+ 
+Fluctuations in the valuation of the Mexican and Canadian currencies and the resulting translation of the net assets of our Mexican and Canadian subsidiaries caused an decrease of $810,000 in accumulated other comprehensive loss in the 2020 first quarter and an increase of $1,359,000 in accumulated other comprehensive loss in the 2019 first quarter.
+ 
+Our general-purpose bank credit line which expires in November 2021 provides for up to a $50,000,000 revolving credit facility. The agreement contains restrictive covenants and requires commitment fees in accordance with standard banking practice. There were no outstanding balances under this facility at December 28, 2019.
+ 
+
+
+     23
+   
+
+
+      
+   
+
+ 
+RESULTS OF OPERATIONS
+ 
+Net sales increased $11,285,000 or 4% to $282,897,000 for the three months ended December 28, 2019 compared to the three months ended December 29, 2018. Excluding sales from the acquisition of ICEE Distributors in October 2019, sales increased 3%.
+ 
+ 
+FOOD SERVICE
+ 
+Sales to food service customers increased $3,422,000 or 2% in the first quarter to $183,448,000. Soft pretzel sales to food service increased 2% to $49,941,000 as higher sales to convenience store chains more than offset lower sales to schools.
+ 
+Frozen juices and ices sales decreased 6% to $7,043,000 in the three months with sales decreases primarily to school food service customers.
+ 
+Churro sales to food service customers were up 8% in the quarter to $16,391,000 with sales increases to warehouse club stores and generally across our customer base.
+ 
+Sales of bakery products increased $2,127,000 or 2% in the first quarter to $96,372,000 with significant offsetting increases and decreases in sales to particular customers.
+ 
+Sales of handhelds decreased $1,613,000 or 18% in the quarter with the decrease primarily coming from lower sales to co-pack customers. Sales of funnel cake increased $1,240,000 or 25% in the quarter primarily due to higher sales to one casual dining restaurant chain.
+ 
+Sales of new products in the first twelve months since their introduction were approximately $2.5 million in this quarter. Price increases were approximately $2.7 million for the quarter and net volume increases accounted for approximately $700,000 of sales in the quarter.
+ 
+Operating income in our Food Service segment increased from $17,697,000 to $18,034,000 in the quarter primarily because of higher volume and improved operations at our Hill & Valley bakery.
+ 
+RETAIL SUPERMARKETS
+ 
+Sales of products to retail supermarkets decreased $1,853,000 or 6% to $29,426,000 in the first quarter. Soft pretzel sales for the first quarter were down 4% to $9,826,000, sales of frozen juices and ices were down 8% to $10,093,000 in the first quarter and sales of biscuits were down 11% to $6,978,000 in the first quarter as we lost some volume and placements in all three product categories due to price increases implemented a year ago.  We expect volume to at least stabilize beginning in our second quarter.   Handheld sales to retail supermarket customers increased 8% to $2,761,000 in the quarter.
+ 
+
+
+     24
+   
+
+
+      
+   
+
+ 
+There were virtually no sales of new products in the first quarter. Price increases provided about $1.3 million of sales in the quarter and net volume decreased by about $3.2 million.
+ 
+Operating income in our Retail Supermarkets segment was $2,217,000 in this year’s first quarter compared to $2,211,000 in last year’s quarter as the benefits of higher prices offset the negative impact of lower volume.
+ 
+FROZEN BEVERAGES
+ 
+Frozen beverage and related product sales increased 16% to $70,023,000 in the first quarter. Beverage related sales were up 13% to $35,255,000. Excluding sales from the acquisition of ICEE Distributors in October 2019, frozen beverages and related product sales increased 12% and beverage related sales increased 4%. Gallon sales were up 6% for the three months exclusive of ICEE Distributors’ gallons. Service revenue increased 13% to $22,486,000 in the first quarter with sales increases and decreases spread throughout our customer base.
+ 
+Machines revenue (primarily sales of frozen beverage machines) were $11,981,000, an increase of 35%. Operating income in our Frozen Beverage segment decreased to $1,452,000 in this quarter compared to $2,174,000 last year as a result of generally higher costs, including approximately $1 million of costs for the relocation of ICEE’s headquarters. We expect additional relocation costs of about $800,000 in our second quarter.   
+ 
+CONSOLIDATED
+ 
+Gross profit as a percentage of sales was 27.52% in the three month period this year and 28.30% last year.  Gross profit percentage decreased because of lower volume in our combined food service and retail supermarket segments, product mix changes including higher machines sales in our frozen beverages segment and generally higher costs in our frozen beverages segment.
+ 
+Total operating expenses increased $1,377,000 in the first quarter but as a percentage of sales decreased to 19.9% from 20.2% last year. Marketing expenses increased to 8.04% of sales in this year’s quarter from 7.89% last year. Distribution expenses were 8.32% of sales in this year’s quarter and 8.82% of sales in last year’s quarter primarily because of lower freight rates. Administrative expenses were 3.40% of sales this quarter compared to 3.40% of sales last year.
+ 
+Operating income decreased $379,000 or 2% to $21,703,000 in the first quarter as a result of the aforementioned items.
+ 
+Investment income increased by $746,000 in the first quarter primarily because of recognized unrealized gains of $71,000 this year compared to recognized unrealized losses of $1,027,000 last year.
+ 
+Net earnings decreased $467,000, or 3%, in the current three month period to $17,059,000. Net earnings in last year’s quarter benefitted by a reduction of approximately $900,000 in tax as the provision for the one time repatriation tax as a result of the Tax Cuts and Job Act of 2017 was reduced as the amount recorded the year prior was an estimate. Excluding the reduction in the provision for the one time repatriation tax, our effective tax rate was 28.0% in last year’s quarter. Our effective tax rate was 27.3% in this year’s quarter.    
+  
+There are many factors which can impact our net earnings from year to year and in the long run, among which are the supply and cost of raw materials and labor, insurance costs, factors impacting sales as noted above, the continuing consolidation of our customers, our ability to manage our manufacturing, marketing and distribution activities, our ability to make and integrate acquisitions and changes in tax laws and interest rates.
+ 
+
+
+     25
+   
+
+
+      
+   
+
+ 
+
+
+
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+
+
+
+ 
+There has been no material change in the Company’s assessment of its sensitivity to market risk since its presentation set forth, in item 7a. “Quantitative and Qualitative Disclosures About Market Risk,” in its 2017 annual report on Form 10-K filed with the SEC.
+ 
+
+
+
+ Item 4. 
+ Controls and Procedures 
+
+
+
+ 
+The Chief Executive Officer and the Chief Financial Officer of the Company (its principal executive officer and principal financial officer, respectively) have concluded, based on their evaluation as of December 28, 2019, that the Company’s disclosure controls and procedures are effective to ensure that information required to be disclosed by the Company in the reports filed or submitted by it under the Securities Exchange Act of 1934, as amended, is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and include controls and procedures designed to ensure that information required to be disclosed by the Company in such reports is accumulated and communicated to the Company’s management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+ 
+There has been no change in the Company’s internal control over financial reporting during the quarter ended December 28, 2019, that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+ 
+
+
+     26
+   
+
+
+      
+   
+
+ 
+PART II. OTHER INFORMATION
+ 
+
+
+
+ Item 6. 
+ Exhibits 
+
+
+
+ 
+
+
+
+   
+ Exhibit No. 
+
+
+
+ 
+
+ 
+            
+SIGNATURES
+ 
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+
+ 
+J & J SNACK FOODS CORP.
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+Dated: January 31, 2020
+ /s/ Gerald B. Shreiber Gerald B. Shreiber Chairman of the Board, President, Chief Executive Officer and Director (Principal Executive Officer) 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+Dated: January 31, 2020
+ /s/ Dennis G. Moore Dennis G. Moore, Senior Vice President, Chief Financial Officer and Director (Principal Financial Officer) (Principal Accounting Officer) 
+
+
+
+     
+27
+
+

@@ -1,0 +1,1837 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0000823546
+false
+2020
+Q3
+--03-31
+True
+Non-accelerated Filer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0000823546
+
+
+2019-04-01
+2019-12-31
+
+
+
+
+0000823546
+
+
+2020-02-13
+
+
+
+
+0000823546
+
+
+2019-12-31
+
+
+
+
+0000823546
+
+
+2019-03-31
+
+
+
+
+0000823546
+
+
+2019-10-01
+2019-12-31
+
+
+
+
+0000823546
+
+
+2018-10-01
+2018-12-31
+
+
+
+
+0000823546
+
+
+2018-04-01
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-03-31
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-03-31
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-03-31
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-03-31
+
+
+
+
+0000823546
+
+
+2018-03-31
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-04-01
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-04-01
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-04-01
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-04-01
+2018-06-30
+
+
+
+
+0000823546
+
+
+2018-04-01
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-06-30
+
+
+
+
+0000823546
+
+
+2018-06-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-07-01
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-07-01
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-07-01
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-07-01
+2018-09-30
+
+
+
+
+0000823546
+
+
+2018-07-01
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-09-30
+
+
+
+
+0000823546
+
+
+2018-09-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-10-01
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-10-01
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-10-01
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-10-01
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2018-12-31
+
+
+
+
+0000823546
+
+
+2018-12-31
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-03-31
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-03-31
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-03-31
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-03-31
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-04-01
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-04-01
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-04-01
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-04-01
+2019-06-30
+
+
+
+
+0000823546
+
+
+2019-04-01
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-06-30
+
+
+
+
+0000823546
+
+
+2019-06-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-07-01
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-07-01
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-07-01
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-07-01
+2019-09-30
+
+
+
+
+0000823546
+
+
+2019-07-01
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-09-30
+
+
+
+
+0000823546
+
+
+2019-09-30
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-10-01
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-10-01
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-10-01
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-10-01
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:PreferredStockMember
+
+
+
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:CommonStockMember
+
+
+
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:AdditionalPaidInCapitalMember
+
+
+
+2019-12-31
+
+
+
+
+0000823546
+
+us-gaap:RetainedEarningsMember
+
+
+
+2019-12-31
+
+
+
+
+0000823546
+
+RKFL:ContributionAgreementMember
+RKFL:BFourMCGoldMinesIncMember
+
+
+
+2018-06-27
+
+
+
+
+0000823546
+
+RKFL:ContributionAgreementMember
+
+
+
+2018-06-27
+
+
+
+
+0000823546
+
+
+2018-08-07
+
+
+
+
+0000823546
+
+
+2018-08-08
+
+
+
+
+0000823546
+
+RKFL:CorporateAdvisoryAgreementMember
+RKFL:ConsultantMember
+
+
+
+2018-09-29
+2018-10-02
+
+
+
+
+0000823546
+
+RKFL:CorporateAdvisoryAgreementMember
+RKFL:ConsultantMember
+
+
+
+2018-10-02
+
+
+
+
+0000823546
+
+RKFL:OneInvestorMember
+
+
+
+2018-09-29
+2018-10-03
+
+
+
+
+0000823546
+
+RKFL:OneInvestorMember
+
+
+
+2018-10-03
+
+
+
+
+0000823546
+
+RKFL:PrivateInvestorMember
+
+
+
+2019-09-02
+2019-09-03
+
+
+
+
+0000823546
+
+RKFL:PrivateInvestorMember
+
+
+
+2019-09-03
+
+
+
+
+0000823546
+
+RKFL:TwoThousandEighteenStockIncentivePlanMember
+
+
+
+2018-08-08
+
+
+
+
+0000823546
+
+RKFL:MrBennettAndJYankowitzMember
+
+
+
+2018-08-06
+2018-08-08
+
+
+
+
+0000823546
+
+
+2018-08-06
+2018-08-08
+
+
+
+
+0000823546
+
+us-gaap:SubsequentEventMember
+RKFL:OneInvestorMember
+
+
+
+2020-01-08
+2020-01-09
+
+
+
+
+0000823546
+
+us-gaap:SubsequentEventMember
+RKFL:OneInvestorMember
+
+
+
+2020-01-09
+
+
+
+iso4217:USD
+
+
+xbrli:shares
+
+
+
+
+iso4217:USD
+
+
+xbrli:shares
+
+
+
+
+xbrli:pure
+
+
+
+
+
+ 
+
+ 
+ 
+U.S.
+SECURITIES AND EXCHANGE COMMISSION
+Washington,
+D.C. 20549
+ 
+Form
+10-Q
+ 
+
+ 
+Commission File No. 033-17773-NY
+ 
+ROCKETFUEL BLOCKCHAIN, INC.
+(Name of small business issuer in its charter)
+ 
+
+
+Nevada
+(State
+        or other jurisdiction of
+incorporation
+        or organization)
+ 
+90-1188745
+(I.R.S.
+        Employer
+Identification
+        No.)
+
+ 
+ 
+ 
+
+3651
+        Lindell Road, Las Vegas, Nevada
+(Address
+        of principal executive offices)
+ 
+89103
+(Zip
+        Code)
+
+ 
+Issuer’s
+telephone number (424) 256-8560
+ 
+
+
+Securities
+    registered under Section 12(b) of the Exchange Act:
+
+ 
+
+None
+Title
+        of each class
+ 
+None
+Name
+        of each exchange on which registered
+
+ 
+Securities
+registered pursuant to Section 12(g) of the Act: Common Stock, $0.001 par value per share
+ 
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.
+
+Yes
+☒ No ☐
+ 
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files). Yes ☒ No ☐
+ 
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+
+Large accelerated filer 
+☐
+Accelerated
+filer 
+☐
+
+Non-accelerated filer
+☐
+Smaller
+Reporting Company 
+☒
+
+Emerging
+growth company 
+☐
+ 
+ 
+
+
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+ 
+As
+of February 13, 2020, 22,788,416 shares of the registrant’s Common Stock were outstanding.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+TABLE
+OF CONTENTS
+ 
+
+ 
+
+ 2 
+ 
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+Balance
+Sheets
+ 
+
+ 
+The
+accompanying notes are an integral part of these condensed financial statements.
+ 
+
+ 3 
+ 
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+Statements
+of Operations
+(Unaudited)
+ 
+
+ 
+The
+accompanying notes are an integral part of these condensed financial statements.
+ 
+
+ 4 
+ 
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+Statement
+of Stockholders’ Deficit
+For
+the Three and Nine Month Periods Ended December 31, 2018 and 2019
+(Unaudited)
+ 
+
+
+
+ 
+ 
+The
+accompanying notes are an integral part of these condensed financial statements.
+ 
+
+ 5 
+ 
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+Statements
+of Cash Flows
+(Unaudited)
+ 
+
+ 
+The
+accompanying notes are an integral part of these condensed financial statements.
+ 
+
+ 6 
+ 
+
+ 
+
+ROCKETFUEL
+BLOCKCHAIN, INC.
+NOTES
+TO CONDENSED FINANCIAL STATEMENTS
+DECEMBER
+31, 2019
+(UNAUDITED)
+ 
+1.
+Business
+ 
+Business
+ 
+RocketFuel
+Blockchain Company, a Nevada corporation (“RocketFuel” or the “Company”) was formed on January 12, 2018
+for the purpose of bringing highly efficient check-out systems to eCommerce. These new check-out means based upon blockchain technology
+are designed to increase speed, security, and ease of use. Using RocketFuel’s technology, merchants can enable new impulse
+buying schemes that may be unavailable in present day eCommerce sites.
+ 
+On
+June 27, 2018, we consummated a transaction as contemplated by that certain Contribution Agreement made and entered into as of
+June 27, 2018 by and among B4MC Gold Mines, Inc. (“B4MC”), a Nevada corporation, and us. Pursuant to the Contribution
+Agreement, B4MC issued 17,001,312 shares of its $0.001 par value common stock to us in exchange for a 100% ownership interest
+in us resulting in 22,668,416 post-merger shares of B4MC common stock issued and outstanding. On September 25, 2018, B4MC changed
+its name to RocketFuel Blockchain, Inc.
+
+ 
+2.
+Interim Financial Statements and Basis of Presentation
+ 
+The
+accompanying unaudited condensed financial statements have been prepared in accordance with U.S. generally accepted accounting
+principles (“U.S. GAAP”) for interim financial information pursuant to Rule 8-03 of Regulation S-X. Accordingly, these
+unaudited condensed financial statements do not include all of the information and disclosures required by U.S. GAAP for complete
+financial statements. In the opinion of management, the accompanying unaudited condensed financial statements include all adjustments
+(consisting only of normal recurring adjustments), which we consider necessary, for a fair presentation of those financial statements.
+The results of operations and cash flows for the nine months ended December 31, 2019 may not necessarily be indicative of results
+that may be expected for any succeeding quarter or for the entire fiscal year. These condensed financial statements should be
+read in conjunction with our audited financial statements as of March 31, 2019 as filed with the Securities and Exchange Commission
+(the “SEC”) on August 23, 2019.
+ 
+The
+preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and judgments, which are
+evaluated on an ongoing basis, and that affect the amounts reported in our unaudited condensed financial statements and accompanying
+notes. Management bases its estimates on historical experience and on various other assumptions that it believes are reasonable
+under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities
+and the amounts of revenues and expenses that are not readily apparent from other sources. Actual results could differ from those
+estimates and judgments.
+ 
+Our
+significant accounting policies are described in Note 3 to the audited financial statements as of March 31, 2019 which are included
+in our Annual Report on Form 10-K as filed with the SEC on August 23, 2019.
+
+ 
+Reclassification
+ 
+Certain amounts from prior periods
+have been reclassified to conform to the current period presentation.
+
+ 
+3.
+Going Concern
+ 
+Our
+financial statements have been presented on the basis that we are a going concern, which contemplates the realization of
+assets and satisfaction of liabilities in the normal course of business. During the nine months ended December 31, 2019, we
+reported a net loss of $105,807
+and negative cash flows of $113,679
+from operating activities. As of December 31, 2019, we reported negative working capital of $64,495.
+These factors, among others, raise substantial doubt about our ability to continue as a going concern.
+ 
+Prior
+to June 27, 2018, management was engaged in efforts to identify and negotiate a transaction with a public company quoted on the
+OTC Markets having shell status where a contemplated transaction would be treated as a reverse merger. On June 27, 2018, we consummated
+a transaction as contemplated by that certain Contribution Agreement made and entered into as of June 27, 2018 by and among B4MC
+and us. Pursuant to the Contribution Agreement, B4MC issued 17,001,312 shares of its $0.001 par value common stock to us in exchange
+for a 100% ownership interest in us resulting in 22,668,416 post-merger shares of B4MC common stock issued and outstanding. We
+financed our efforts to consummate this reverse merger transaction through the issuance of equity securities. We will require
+additional financing in order to continue to develop our product and execute on our business plan. However, there can be no assurances
+that we will be successful in raising the additional capital necessary to continue operations and execute on our business plan.
+ 
+
+ 7 
+ 
+
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+NOTES
+TO CONDENSED FINANCIAL STATEMENTS
+DECEMBER
+31, 2019
+(UNAUDITED)
+ 
+4.
+New Accounting Pronouncements
+ 
+From
+time to time, new accounting pronouncements are issued by the Financial Accounting Standards Board or other standard setting bodies
+that may have an impact on our accounting and reporting. We believe that such recently issued accounting pronouncements and other
+authoritative guidance for which the effective date is in the future either will not have an impact on our accounting or reporting
+or that such impact will not be material to our financial position, results of operations and cash flows when implemented.
+ 
+
+5.
+Income Taxes
+ 
+We
+are required to file federal and state income tax returns in the United States. The preparation of these tax returns requires
+us to interpret the applicable tax laws and regulations in effect in such jurisdictions, which could affect the amount of tax
+paid by us. In consultation with our tax advisors, we base our tax returns on interpretations that are believed to be reasonable
+under the circumstances. The tax returns, however, are subject to routine reviews by the various federal and state taxing authorities
+in the jurisdictions in which we file tax returns. As part of these reviews, a taxing authority may disagree with respect to the
+income tax positions taken by us (“uncertain tax positions”) and, therefore, may require us to pay additional taxes.
+As required under applicable accounting rules, we accrue an amount for our estimate of additional income tax liability, including
+interest and penalties, which we could incur as a result of the ultimate or effective resolution of the uncertain tax positions.
+We account for income taxes using the asset and liability method. Under the asset and liability method, deferred tax assets and
+liabilities are recognized for the future tax consequences attributed to differences between the financial statement carrying
+amounts of existing assets and liabilities and their respective tax bases. Deferred tax assets and liabilities are measured using
+enacted tax rates expected to apply to taxable income in the years in which those temporary differences and carry-forwards are
+expected to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax rates is recognized
+in income in the period that includes the enactment date. A valuation allowance is established when necessary to reduce deferred
+tax assets to amounts expected to be realized.
+ 
+In
+assessing the realization of deferred tax assets, management considers whether it is more likely than not that some portion or
+all of the deferred tax assets will be realized. The ultimate realization of deferred tax assets is dependent upon the generation
+of future taxable income during the periods in which those temporary differences become deductible. Management considers the scheduled
+reversal of deferred tax liabilities, projected future taxable income and tax planning strategies in making this assessment.
+ 
+We
+had no income tax credits for the three and nine months ended December 31, 2019 and 2018. The effective tax rates for the three
+and nine months ended December 31, 2019 was 21.0%. We have estimated our provision for income taxes in accordance with the Tax
+Act and guidance available as of the date of this filing but have kept the full valuation allowance.
+ 
+The
+U.S. Tax Cuts and Jobs Act (Tax Act) was enacted on December 22, 2017 and introduces significant changes to U.S. income tax law.
+Effective in 2018, the Tax Act reduces the U.S. statutory tax rate from 35% to 21% and creates new taxes on certain foreign-sourced
+earnings and certain related-party payments, which are referred to as the global intangible low-taxed income tax and the base
+erosion tax, respectively. The Tax Act requires us to pay U.S. income taxes on accumulated foreign subsidiary earnings not previously
+subject to U.S. income tax at a rate of 15.5% to the extent of foreign cash and certain other net current assets and 8% on the
+remaining earnings.
+ 
+
+ 8 
+ 
+
+
+ 
+ROCKETFUEL
+BLOCKCHAIN, INC.
+NOTES
+TO CONDENSED FINANCIAL STATEMENTS
+DECEMBER
+31, 2019
+(UNAUDITED)
+ 
+6.
+Stockholders’ Deficit
+ 
+Prior
+to August 8, 2018, we had 750,000,000 shares of our $0.001 par value common stock authorized. On August 8, 2018, our Board of
+Directors voted to amend our articles of incorporation whereby the authorized shares of our common stock were reduced to 250,000,000.
+Additionally, the Board authorized 50,000,000 shares of $0.001 par value preferred stock. On September 25, 2018, we filed a certificate
+of amendment to our articles of incorporation to effect such changes. On June 27, 2018, we consummated a transaction as contemplated
+by that certain Contribution Agreement made and entered into as of June 27, 2018 by and among B4MC and us. Pursuant to the Contribution
+Agreement, B4MC issued 17,001,312 shares of its $0.001 par value common stock to us in exchange for a 100% ownership interest
+in us resulting in 22,668,416 post-merger shares of B4MC common stock issued and outstanding.
+ 
+On
+October 1, 2018, we entered into a corporate advisory agreement with a consultant (the “Consultant”), who is a non-related
+party, to provide business advisory services, including research distribution services. As compensation for these services, the
+Consultant received 12,500 shares of our common stock having a value of $50,000 based on a fair market value of $4.00 per share
+as determined by recent private financings that occurred on October 3, 2018 and November 7, 2018 which are described below.
+ 
+On
+October 3, 2018 and November 7, 2018, we issued an aggregate of 7,500 shares of our common stock to one investor at $4.00 per
+share in consideration of $30,000 in cash.
+ 
+On
+September 3, 2019, a private investor purchased 100,000 shares of our common stock at a price of $1.00 per share. These securities
+were issued in a transaction exempt from registration under the Securities Act pursuant to Rules 506 and 903 thereunder and constitute
+restricted securities under Rule 144 thereunder.
+ 
+As
+of December 31, 2019 and March 31, 2019, we had 22,788,416 shares and 22,688,416 shares of our common stock issued and outstanding,
+respectively.
+ 
+7.
+Stock-Based Compensation
+ 
+On
+August 8, 2018, the Board and stockholders holding a majority of our voting power approved the “RocketFuel Blockchain, Inc.,
+2018 Stock Incentive Plan,” which plan enables us to make awards that qualify as performance-based compensation. We have
+reserved 2,000,000 shares of our common stock for issuance in connection with awards under the plan.
+ 
+On
+August 8, 2018, our Board of Directors approved the grant of options to purchase 500,000 shares of our common stock to Mr. Bennett
+J. Yankowitz, our chief financial officer and a director, pursuant to an exemption under Section 4(a)(2) of the Securities Act
+of 1933, as amended (the “Securities Act”). Pursuant to the terms of the option agreement, these options are exercisable
+immediately on the date of grant at an exercise price of $3.00 per share and are exercisable for a term of 10 years from the date
+of grant. In determining the fair value of the stock option, we used the Black-Scholes pricing model having the following assumptions:
+i) stock option exercise price of $3.00; ii) fair market value of our common stock of $4.00, which was based on available valuation
+factors made available to us at that time of the date of grant; iii) expected term of option of 7 years; iv) expected volatility
+of our common stock of approximately 40%; v) expected dividend rate of 0.0%; and vi) risk-free interest rate of approximately
+2.80%. As a result, we recorded stock-based compensation of $1,100,350 on the date of grant.
+ 
+8.
+Legal Proceedings
+ 
+We
+are not the subject of any pending legal proceedings; and to the knowledge of management, no proceedings are presently contemplated
+against us by any federal, state or local governmental agency. Further, to the knowledge of management, no director or executive
+officer is party to any action in which any has an interest adverse to us.
+ 
+9.
+Subsequent Events
+ 
+We
+evaluated all events or transactions that occurred after the balance sheet date through the date when we issued these financial
+statements and, other than the event described below, we did not have any other material recognizable subsequent events during
+this period.
+ 
+On
+January 9, 2020, we sold 10,000 shares of our $0.001 par value common stock to one investor at a purchase price of $1.00 per share
+for which we received cash proceeds of $10,000.
+ 
+
+ 9 
+ 
+
+
+
+
+ 
+Item
+2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ 
+Forward-Looking
+Statements
+ 
+This
+Quarterly Report on Form 10-Q contains certain statements that are “forward-looking” within the meaning of the federal
+securities laws. These forward-looking statements and other information are based on our beliefs as well as assumptions made by
+us using information currently available.
+ 
+The
+words “anticipate,” “believe,” “estimate,” “expect,” “intend,” “will,”
+“should” and similar expressions, as they relate to us, are intended to identify forward-looking statements. Such
+statements reflect our current views with respect to future events and are subject to certain risks, uncertainties and assumptions,
+and are not guaranties of future performance. Should one or more of these risks or uncertainties materialize, or should underlying
+assumptions prove incorrect, actual results may vary materially from those described herein as anticipated, believed, estimated,
+expected, intended or using other similar expressions. We are making investors aware that such forward-looking statements, because
+they relate to future events, are by their very nature subject to many important factors that could cause actual results to differ
+materially from those contemplated by the forward-looking statements contained in this Quarterly Report on Form 10-Q. Important
+factors that could cause actual results to differ from our predictions include those discussed under “Risk Factors,”
+“Management’s Discussion and Analysis” and “Business.” Although we have sought to identify the most
+significant risks to our business, we cannot predict whether, or to what extent, any of such risks may be realized, nor can there
+be any assurance that we have identified all possible issues which we might face. For all of these reasons, the reader is cautioned
+not to place undue reliance on forward-looking statements contained herein, which speak only as of the date hereof. We assume
+no responsibility to update any forward-looking statements as a result of new information, future events, or otherwise except
+as required by law. We urge readers to review carefully the risk factors described in this Quarterly Report and in the other documents
+that we file with the Securities and Exchange Commission. You can read these documents at www.sec.gov.
+ 
+Overview
+ 
+RocketFuel
+was formed on January 12, 2018 for the purpose of bringing highly efficient check-out systems to eCommerce. We are currently developing
+innovative check-out systems based upon blockchain technology and designed to increase speed, security, and ease of use. We believe
+that users of RocketFuel’s systems will enjoy a seamless check-out experience compared to current online shopping solutions.
+We believe that with RocketFuel’s technology, online merchants will be able to implement new impulse buying schemes that
+are unavailable in present day eCommerce sites.
+ 
+On
+June 27, 2018, we consummated the Business Combination and related transactions contemplated by the Contribution Agreement. Pursuant
+to the Contribution Agreement, B4MC issued 17,001,312 shares of its $0.001 par value common stock to the Sellers in exchange for
+a 100% ownership interest in us, resulting in 22,668,416 post-merger shares of B4MC common stock issued and outstanding.
+ 
+On
+June 29, 2018, we filed a Current Report on Form 8-K with the Securities and Exchange Commission which fully describes the transaction
+set forth herein.
+ 
+Critical
+Accounting Policies
+ 
+Our
+significant accounting policies are described in Note 3 to the financial statements as of March 31, 2019 which are included in
+our Annual Report on Form 10-K. Our discussion and analysis of our financial condition and results of operations are based upon
+these financial statements, which have been prepared in accordance with accounting principles generally accepted in the United
+States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts
+of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We evaluate our estimates
+on an on-going basis. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable
+under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities
+that are not readily apparent from other sources. In the past, actual results have not been materially different from our estimates.
+However, results may differ from these estimates under different assumptions or conditions.
+ 
+
+ 10 
+ 
+
+ 
+
+Results
+of Operations
+ 
+For
+the Three Months Ended December 31, 2019 vs December 31, 2018
+ 
+Revenues
+ 
+We
+had no revenue generating operations during the three months ended December 31, 2019 and 2018.
+ 
+General
+and Administrative Expenses
+ 
+General
+and administrative expenses for the three months ended December 31, 2019 were $36,719 as compared with $80,555 for the prior year
+period, a decrease of $43,836 or 54.4%. The decrease is primarily a result of the recording of $50,000 in stock-based compensation
+during the three months ended December 31, 2018 for services provided by a consultant which did not reoccur during the three months
+ended December 31, 2019.
+ 
+For
+the Nine Months Ended December 31, 2019 vs December 31, 2018
+ 
+Revenues
+ 
+We
+had no revenue generating operations during the nine months ended December 31, 2019 and 2018.
+ 
+General
+and Administrative Expenses
+ 
+General and administrative
+expenses for the nine months ended December 31, 2019 were $105,807 as compared with $3,329,632 for the prior year period, a decrease
+of $3,223,825 or 96.9%. The decrease is primarily a result of the recording of $3,204,208 in stock-based compensation for stock
+options to our chief financial officer and a consultant for services during the nine months ended December 31, 2018.
+ 
+Liquidity
+and Capital Resources
+ 
+As
+of December 31, 2019, we had cash of $5,807 as compared to $19,486 as of March 31, 2019.
+ 
+During
+the nine months ended December 31, 2019, we had net cash of $113,679 used in operating activities, which was composed of our net
+loss of $105,807 and a decrease in accounts payable and accrued expenses of $7,872. During the nine months ended December 31,
+2018, we had net cash of $2,220 used in operating activities, which was composed of our net loss of $3,329,632 and offset by
+(i) the recording of $3,204,209 in stock-based compensation for stock options to our chief financial officer and a consultant
+for services; and (ii) an increase in accounts payable and accrued expenses of $127,643 primarily for legal and accounting fees
+and the effect of the reverse merger transaction.
+ 
+During
+the nine months ended December 31, 2019, we had net cash of $100,000 provided by financing activities from the issuance of 100,000
+shares of our common stock to an investor. During the nine months ended December 31, 2018, we had net cash of $29,695 provided
+by financing activities, which was composed of (i) the repayment of $305 of related party advances, and (ii) the issuance of 7,500
+shares of our common stock to one investor in consideration of $30,000 in cash.
+ 
+Our
+financial statements have been presented on the basis that we are a going concern, which contemplates the realization of assets
+and satisfaction of liabilities in the normal course of business. We incorporated our business on January 12, 2018. During the
+nine months ended December 31, 2019, we reported a net loss of $105,807 and negative cash flows of $113,679 from operating activities.
+As of December 31, 2019, we reported negative working capital of $64,495. As a result, management believes that there is substantial
+doubt about our ability to continue as a going concern.
+ 
+Prior
+to June 27, 2018, management was engaged in efforts to identify and negotiate a transaction with a public company quoted on the
+OTC Markets having shell status where a contemplated transaction would be treated as a reverse merger. On June 27, 2018, we consummated
+a transaction as contemplated by that certain Contribution Agreement made and entered into as of June 27, 2018 by and among B4MC
+Gold Mines, Inc. (“B4MC”), a Nevada corporation, and us. Pursuant to the Contribution Agreement, B4MC issued 17,001,312
+shares of its $0.001 par value common stock to us in exchange for a 100% ownership interest in us resulting in 22,668,416 post-merger
+shares of B4MC common stock issued and outstanding. We financed our efforts to consummate this reverse merger transaction through
+the issuance of equity securities. In October 2018, we issued (i) 12,500 shares of our common stock, having a fair market value
+of $4.00 per share, or $50,000, in consideration for business advisory services, including research distribution services; and
+(ii) 1,250 shares of our common stock to an investor (the “Investor”) at $4.00 per share in consideration for $5,000
+in cash. In November 2018, we issued an additional 6,250 shares of our common stock to the Investor at $4.00 per share in consideration
+for $25,000 in cash. We will require additional financing in order to continue to develop our product and execute on our business
+plan. However, there can be no assurances that we will be successful in raising the additional capital necessary to continue operations
+and execute on our business plan.
+ 
+
+ 11 
+ 
+
+
+ 
+Commitments
+ 
+We
+do not have any long-term commitments at December 31, 2019.
+ 
+Off-Balance
+Sheet Arrangements
+ 
+At
+December 31, 2019, we did not have any transactions, obligations or relationships that could be considered off-balance sheet arrangements.
+ 
+Item
+3. Quantitative and Qualitative Disclosures About Market Risk
+ 
+Not
+applicable.
+ 
+Item
+4. Controls and Procedures
+ 
+Evaluation
+of Disclosure Controls and Procedures
+ 
+Based
+on an evaluation under the supervision and with the participation of our management, our principal executive officer and principal
+financial officer have concluded that our disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under
+the Exchange Act were not effective as of December 31, 2019 to ensure that information required to be disclosed by us in reports
+that we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified
+in the SEC rules and forms and (ii) accumulated and communicated to our management, including our principal executive officer
+and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. Based on this evaluation,
+our management concluded that, as of December 31, 2019, our internal control over financial reporting was not effective due to
+(i) insufficient segregation of duties in the finance and accounting functions due to limited personnel; and (ii) inadequate corporate
+governance policies. In the future, subject to working capital limitations, we intend to take appropriate and reasonable steps
+to make improvements to remediate these deficiencies.
+ 
+Changes
+in Internal Control Over Financial Reporting
+ 
+There
+have not been any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) under the
+Exchange Act) during the fiscal period to which this report relates that have materially affected, or are reasonably likely to
+materially affect, our internal control over financial reporting.
+ 
+PART
+II. OTHER INFORMATION
+ 
+Item
+1. Legal Proceedings
+ 
+We
+are not the subject of any pending legal proceedings; and to the knowledge of management, no proceedings are presently contemplated
+against us by any federal, state or local governmental agency. Further, to the knowledge of management, no director or executive
+officer is party to any action in which any has an interest adverse to us.
+ 
+Item
+1A. Risk Factors
+ 
+Not
+applicable.
+ 
+Item
+2. Unregistered Sales of Equity Securities
+ 
+None.
+ 
+Item
+3. Defaults Upon Senior Securities
+ 
+None.
+ 
+Item
+4. Mine Safety Disclosures
+ 
+Not
+applicable.
+ 
+Item
+5. Other Information
+ 
+None.
+ 
+
+ 12 
+ 
+
+
+ 
+Item
+6. Exhibits
+ 
+
+ 
+
+ 13 
+ 
+
+
+ 
+SIGNATURES
+ 
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused
+this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+
+
+ 
+RocketFuel
+    Blockchain, Inc.
+
+ 
+ 
+
+ 
+By:
+/s/
+    Gert Funk
+
+ 
+ 
+Gert
+    Funk
+
+ 
+ 
+President
+
+ 
+ 
+(Principal
+    Executive Officer)
+
+ 
+ 
+ 
+
+ 
+By:
+/s/
+    Bennett J. Yankowitz
+
+ 
+ 
+Bennett
+    J. Yankowitz
+
+ 
+ 
+Chief
+    Financial Officer
+
+ 
+ 
+(Principal
+    Financial and Accounting Officer)
+
+Dated:
+    February 13, 2020
+ 
+ 
+
+
+ 
+
+ 14 
+ 
+
+
+
+ 
+
+
+
+

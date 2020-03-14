@@ -1,0 +1,1518 @@
+
+10-Q
+1
+telinstru20191231_10q.htm
+FORM 10-Q
+
+telinstru20191231_10q.htm
+
+
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION     
+WASHINGTON, D.C. 20549  
+ 
+
+ 
+FORM 10-Q
+ 
+
+ 
+☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+For the quarterly period ended: December 31, 2019
+ 
+☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+ 
+Commission File Number: 001-31990
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+(Exact name of registrant as specified in its charter)
+ 
+
+
+
+New Jersey
+
+
+22-1441806
+
+
+
+
+(State or other jurisdiction of
+incorporation or organization)
+
+
+(I.R.S. Employer
+Identification No.)
+
+
+
+ 
+
+
+
+One Branca Road
+East Rutherford, NJ 07073
+
+
+
+
+(Address of principal executive offices)
+
+
+
+ 
+
+
+
+(201) 933-1600
+
+
+
+
+(Registrant’s telephone number, including area code)
+
+
+
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+Title of each class
+
+
+ 
+
+
+Trading Symbol(s)
+
+
+ 
+
+
+Name of each exchange on which registered
+
+
+
+
+N/A
+
+
+ 
+
+
+N/A
+
+
+ 
+
+
+N/A
+
+
+
+                    
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by section 13 or 15(d) of the Securities Exchange Act of 1934 during the past 12 months, and (2) has been subject to such filing requirements for the past 90 days.  Yes ☒   No ☐
+ 
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes ☒   No ☐
+ 
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+
+Large accelerated filer
+
+
+☐
+
+
+Accelerated filer
+
+
+☐
+
+
+
+
+Non-accelerated filer
+
+
+☒ 
+
+
+Smaller reporting company
+
+
+☒
+
+
+
+
+ 
+
+
+ 
+
+
+Emerging growth company
+
+
+☐
+
+
+
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐ 
+ 
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes ☐   No ☒
+ 
+As of February 10, 2020, there were 3,255,887 shares outstanding of the registrant’s common stock.
+ 
+
+ 
+
+ 
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+ 
+TABLE OF CONTENTS
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+PART I – FINANCIAL INFORMATION
+ 
+Item 1.  Unaudited Condensed Consolidated Financial Statements.
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+ 
+
+ 
+See accompanying notes to unaudited condensed consolidated financial statements.
+ 
+
+3
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+ 
+
+ 
+See accompanying notes to unaudited condensed consolidated financial statements.
+ 
+
+4
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT)
+For the Three Months Ended December 31, 2019 and 2018
+(Unaudited)
+ 
+
+ 
+ 
+
+ 
+See accompanying notes to unaudited condensed consolidated financial statements.
+ 
+
+5
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY (DEFICIT)
+For the Nine Months Ended December 31, 2019 and 2018
+(Unaudited)
+ 
+
+ 
+ 
+
+ 
+See accompanying notes to unaudited condensed consolidated financial statements.
+ 
+ 
+
+6
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+ 
+
+ 
+Supplemental disclosure of non-cash financing activities:
+Upon adoption of ASC 842, Leases, on April 1, 2019 the Company recorded $508,551 of right-of-use assets and related operating leases liabilities.
+ 
+See accompanying notes to unaudited condensed consolidated financial statements.
+  
+
+7
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 1 – Basis of Presentation
+ 
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements contain all adjustments necessary to present fairly the financial position of Tel-Instrument Electronics Corp. (the “Company” or “TIC” or “Tel”) as of December 31, 2019, the results of operations and changes in stockholders’ equity (deficit) for the three and nine months ended December 31, 2019 and December 31, 2018, and statements of cash flows for the nine months ended December 31, 2019 and December 31, 2018.  These results are not necessarily indicative of the results to be expected for the full year.  The unaudited condensed consolidated financial statements have been prepared in accordance with the requirements of Form 10-Q and consequently do not include disclosures normally made in an Annual Report on Form 10-K.  The March 31, 2019 balance sheet included herein was derived from the audited financial statements included in the Company’s Annual Report on Form 10-K as of that date.  Accordingly, the unaudited condensed consolidated financial statements included herein should be reviewed in conjunction with the financial statements and notes thereto included in the Company’s Annual Report on Form 10-K for the fiscal year ended March 31, 2019, as filed with the United States Securities and Exchange Commission (the “SEC”) on July 1, 2019 (the “Annual Report”).
+ 
+Note 2 – Liquidity and Going Concern
+ 
+The Aeroflex litigation (see Note 13 to the unaudited condensed consolidated financial statements) did not result in a favorable outcome for the Company, despite our belief that we committed no wrong doing. These unaudited condensed consolidated financial statements have been prepared in conformity with generally accepted accounting principles (“GAAP”), which contemplates continuation of the Company as a going concern.  As reflected in the accompanying unaudited condensed consolidated balance sheet at December 31, 2019, the Company has recorded estimated damages to date of approximately $5.6 million, including interest, as a result of a jury verdict associated with the Aeroflex litigation. The Company has filed for an appeal (see Note 13). In June 2019, Bank of America agreed to extend the Company’s line of credit until March 31, 2020 (see Note 8). In February 2020, Bank of America agreed to extend the line of credit from March 31, 2020 to January 31, 2021. The new agreement includes open availability up to $689,700. Monthly payments will be interest only. While the Company’s operations and profitability have significantly improved, and the Company believes it has sufficient cash and financing in place to fund its plans for the next twelve months, exclusive of any determination that may result from the Aeroflex litigation, due in part to recent large orders it has received that has returned the Company to profitability. The Company may not have sufficient resources to satisfy the judgment if we are not successful in our appeal. We have no commitment from any party to provide additional working capital and there is no assurance that any funding will be available as required, or if available, that its terms will be favorable or acceptable to the Company. This factor raises substantial doubt about the Company’s ability to continue as a going concern within one year of the date that the financial statements are issued.
+ 
+The jury found no misappropriation of Aeroflex trade secrets, but it did find that the Company tortiously interfered with a prospective business opportunity and awarded damages. The jury also ruled that Tel tortiously interfered with Aeroflex’s non-disclosure agreements with two former Aeroflex employees. The jury also found that the former Aeroflex employees breached their non-disclosure agreements with Aeroflex. The Court conducted further hearings on the Company’s post-trial motions which sought to reduce the damages award of $2.8 million, as well as the punitive damages claim.  The Court denied the Company’s motions and awarded Aeroflex an additional $2.1 million of punitive damages. The Company filed motions in January 2018 for the Court to reconsider the amount of damages on the grounds that they are duplicative and not legally supportable. The Court heard these motions and such motions were denied. The Company has filed for the appeal. The Company has posted a $2 million bond for the appeal. This $2 million bond amount will remain in place during the appeal process (See Note 13).
+ 
+The Company is optimistic about the prospects of its appeal for either a judgment as a matter of law or a new trial. The appeal process is expected to take at least another year to complete. However, the Company cannot predict the timing or the outcome of the appeal.
+ 
+The Company believes it has sufficient cash and financing in place to fund its plans for the next twelve months, exclusive of any determination that may result from the Aeroflex litigation.
+ 
+The unaudited condensed consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities and commitments in the normal course of business. The accompanying unaudited condensed consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+ 
+
+8
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 3 – Summary of Significant Accounting Policies
+ 
+Revenue Recognition
+ 
+In May 2014, the FASB issued ASU 2014-09, Revenue from Contracts with Customers: Topic 606 which supersedes nearly all existing revenue recognition guidance under GAAP. The core principle of Topic 606 is to recognize revenues when promised goods or services are transferred to customers in an amount that reflects the consideration that is expected to be received for those goods or services. The ASU defines a five-step process to achieve the core principal and, in doing so, it is possible more judgement and estimates may be required within the revenue recognition process than are currently in use. The ASU was effective for the Company in the first quarter of the fiscal year ended March 31, 2019 using either of two methods: (1) retrospective application to each prior reporting period presented with the option to elect certain practical expedients or (2) retrospective application with the cumulative effect of initially applying the ASU recognized at the date of the initial application and providing certain disclosures. The Company adopted Topic 606 pursuant to the method (2) and determined that any cumulative effect for the initial application did not require an adjustment to retained earnings at April 1, 2018.
+ 
+The Company generates revenue from designing, manufacturing and selling avionic tests and measurement solutions for the global commercial air transport, general aviation, and government/military aerospace and defense markets. The Company also offers calibration and repair services for a wide range of airborne navigation and communication equipment. 
+  
+Under ASU 2014-09 Topic 606, Revenue from Contacts with Customers (“ASC 606”), the Company recognizes revenue when the customer obtains control of promised goods or services, in an amount that reflects the consideration which is expected to be received in exchange for those goods or services. The Company recognizes revenue following the five-step model prescribed under ASC 606: (i) identify contract(s) with a customer; (ii) identify the performance obligation(s) in the contract; (iii) determine the transaction price; (iv) allocate the transaction price to the performance obligation(s) in the contract; and (v) recognize revenue when (or as) the Company satisfies a performance obligation. The Company only applies the five-step model to contracts when it is probable that the entity will collect the consideration it is entitled to in exchange for the goods or services it transfers to the customer. At contract inception, once the contract is determined to be within the scope of ASC 606, the Company assesses the goods or services promised within each contract and determines those that are performance obligations and assesses whether each promised good or service is distinct. The Company then recognizes as revenue the amount of the transaction price that is allocated to the respective performance obligation when (or as) the performance obligation is satisfied.
+ 
+Nature of goods and services
+ 
+The following is a description of the products and services from which the Company generates revenue, as well as the nature, timing of satisfaction of performance obligations, and significant payment terms for each.
+ 
+Test Units/Sets 
+ 
+The Company develops and manufactures unit sets to test navigation and communication equipment, such as ramp testers and bench testers for equipment installed in aircraft. The Company recognizes revenue when the customer obtains control of the Company’s product based on the contractual shipping terms of the contract. Revenue on products are presented gross because the Company is primarily responsible for fulfilling the promise to provide the product, is responsible to ensure that the product is produced in accordance with the related supply agreement, and bears the risk of loss while the inventory is in-transit. Revenue is measured as the amount of consideration the Company expects to receive in exchange for transferring products to the customer.
+ 
+If the contract contains a single performance obligation, the entire transaction price is allocated to the single performance obligation. Contracts that contain multiple performance obligations require an allocation of the transaction price based on the estimated relative standalone selling prices of the promised products or services underlying each performance obligation. The Company determines stand-alone selling prices based on the price at which the performance obligation is sold separately. If the stand-alone selling price is not observable through past transactions, the Company estimates the standalone selling price taking into account available information such as market conditions and internally approved pricing guidelines related to the performance obligations.
+ 
+When determining the transaction price of a contract, an adjustment is made if payment from the customer occurs either significantly before or significantly after performance, resulting in a significant financing component. Applying the practical expedient in paragraph 606-10-32-18, the Company does not assess whether a significant financing component exists if the period between when the Company performs its obligations under the contract and when the customer pays is one year or less. None of the Company’s contracts contained a significant financing component as of December 31, 2019.
+ 
+
+9
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 3 – Summary of Significant Accounting Policies (continued)
+ 
+Revenue Recognition (continued)
+  
+Replacement Parts 
+ 
+The Company offers replacement parts for test equipment, ramp testers, and bench testers. Similar to the sale of test units, the control of the product transfers at a point of time and therefore, revenue is recognized at the point in time when the obligation to the customer has been fulfilled.
+ 
+Extended Warranties
+ 
+The extended warranties sold by the Company provide a level of assurance beyond the coverage for defects that existed at the time of a sale or against certain types of covered damage with coverage terms generally ranging from 5 to 7 years. Amounts received for warranties are recorded as deferred revenue and recognized as revenue ratably over the respective term of the agreements. As of December 31, 2019, approximately $435,694 is expected to be recognized from remaining performance obligations for extended warranties as compared to $349,865 at March 31, 2019.  For the three and nine months ended December 31, 2019, the Company recognized revenue of $22,431 and $63,171, respectively, from amounts that were included in Deferred Revenue as compared to $13,635 and $33,255 for the three and nine months ended December 31, 2018.
+ 
+The following table provides a summary of the changes in deferred revenues for the nine ended December 31, 2019:
+ 
+
+ 
+Other Deferred Revenues
+ 
+The Company sometimes receives payments in advance of shipment. These amounts are classified as other deferred revenues. For the periods ended December 31, 2019 and March 31, 2019, the Company has other deferred revenues of $111,619 and $11,926, respectively.
+ 
+Repair and Calibration Services 
+ 
+The Company offers repair and calibration services for units that are returned for annual calibrations and/or for repairs after the warranty period has expired. The Company repairs and calibrates a wide range of airborne navigation and communication equipment. Revenue is recognized at the time the repaired or calibrated unit is shipped back to the customer, as it is at this time that the work is completed.
+ 
+The majority of the Company’s revenues are from contracts with the U.S. government, airlines, aircraft manufacturers, such as Boeing and Lockheed Martin, domestic distributors, international distributors for sales to military and commercial customers, and other commercial customers. The contracts with the U.S. government typically are subject to the Federal Acquisition Regulation (“FAR”) which provides guidance on the types of costs that are allowable in establishing prices for goods and services provided under U.S. government contracts.
+ 
+Payment terms and conditions vary by contract, although terms generally include a requirement of payment within a range from 30 to 60 days, or in certain cases, up-front deposits. In circumstances where the timing of revenue recognition differs from the timing of invoicing, the Company has determined that the Company's contracts generally do not include a significant financing component. Payments received prior to the delivery of units or services performed are recorded as deferred revenues. Taxes collected from customers, which are subsequently remitted to governmental authorities, are excluded from sales. The Company applied the practical expedient to account for shipping and handling activities as fulfillment cost rather than as a separate performance obligation. Shipping and handling costs charged to customers are classified as sales, and the shipping and handling costs incurred are included in cost of sales. 
+ 
+
+10
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 3 – Summary of Significant Accounting Policies (continued)
+ 
+Revenue Recognition (continued)
+ 
+Other
+ 
+All sales are denominated in U.S. dollars.
+ 
+The Company excludes from revenues all taxes assessed by a governmental authority that are imposed on the sale of its products and collected from customers.
+ 
+The Company chose to apply the available practical expedient as commission eligible sales orders are fulfilled within less than one year and commissions are generally paid by the Company within 30 days of the related sales order fulfillment. Accordingly, management has determined that no change in accounting for costs to obtain a contract will be required for the Company to conform to ASC 606.
+ 
+Disaggregation of revenue
+ 
+In the following tables, revenue is disaggregated by revenue category.
+ 
+
+ 
+The remainder of our revenues for the three months ended December 31, 2019 are derived from repairs and calibration of $368,722, replacement parts of $151,065 and extended warranties of $22,514. We do not disaggregate these revenue streams as they are not deemed an important element related to how management operates the business between segments.
+ 
+
+ 
+The remainder of our revenues for the three months ended December 31, 2018 are derived from repairs and calibration of $366,563, replacement parts of $64,527 and extended warranties of $13,635. We do not disaggregate these revenue streams as they are not deemed an important element related to how management operates the business between segments.
+ 
+
+11
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 3 – Summary of Significant Accounting Policies (continued)
+ 
+Revenue Recognition (continued)
+ 
+
+ 
+The remainder of our revenues for the nine months ended December 31, 2019 are derived from repairs and calibration of $1,265,978, replacement parts of $309,135 and extended warranties of $63,171. We do not disaggregate these revenue streams as they are not deemed an important element related to how management operates the business between segments.
+ 
+
+ 
+The remainder of our revenues for the nine months ended December 31, 2018 are derived from repairs and calibration of $1,285,839, replacement parts of $189,881 and extended warranties of $33,255. We do not disaggregate these revenue streams as they are not deemed an important element related to how management operates the business between segments.
+  
+In the following table, revenue is disaggregated by geography.
+ 
+
+ 
+
+ 
+
+12
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 3 – Summary of Significant Accounting Policies (continued)
+ 
+Recently Adopted Authoritative Pronouncements 
+ 
+In February 2016, the FASB established Topic 842, Leases, by issuing Accounting Standards Update (ASU) No. 2016-02, which requires lessees to recognize leases on-balance sheet and disclose key information about leasing arrangements. Topic 842 was subsequently amended by ASU No. 2018-01, Land Easement Practical Expedient for Transition to Topic 842; ASU No. 2018-10, Codification Improvements to Topic 842, Leases; and ASU No. 2018-11, Targeted Improvements. The new standard establishes a right-of-use model (ROU) that requires a lessee to recognize a ROU asset and lease liability on the balance sheet for all leases with a term longer than 12 months. Leases will be classified as finance or operating, with classification affecting the pattern and classification of expense recognition in the income statement. The new standard was effective on April 1, 2019. A modified retrospective transition approach is required, applying the new standard to all leases existing at the date of initial application. An entity may choose to use either (1) its effective date or (2) the beginning of the earliest comparative period presented in the financial statements as its date of initial application. If an entity chooses the second option, the transition requirements for existing leases also apply to leases entered into between the date of initial application and the effective date. The entity must also recast its comparative period financial statements and provide the disclosures required by the new standard for the comparative periods. The Company adopted the new standard on April 1, 2019 and uses the effective date as the date of initial application. Consequently, financial information will not be updated and the disclosures required under the new standard will not be provided for dates and periods before April 1, 2019. The new standard provides a number of optional practical expedients in transition. The Company elects the ‘package of practical expedients’, which permits the Company not to reassess under the new standard prior conclusions about lease identification, lease classification and initial direct costs.
+ 
+At the inception of an arrangement, the Company determines whether the arrangement is or contains a lease based on the circumstances present. Leases with a term greater than one year are recognized on the balance sheet as right-of-use assets, lease liabilities, and, if applicable, long-term lease liabilities. Lease liabilities and the corresponding right-of-use assets are recorded based on the present values of lease payments over the lease terms. The interest rate implicit in lease contracts is typically not readily determinable. As such, the Company utilizes the appropriate incremental borrowing rates, which are the rates that would be incurred to borrow on a collateralized basis, over similar terms, amounts equal to the lease payments in a similar economic environment. At adoption, the Company recognized additional operating lease liabilities of $508,551 with corresponding ROU assets of the same amount based on the present value of the remaining minimum rental payments under current leasing standards for existing operating leases. The Company used 6.25%. ASU 2016-02 did not have an impact on our unaudited condensed consolidated statements of income for the nine month period ended December 31, 2019, but had a significant impact on our unaudited consolidated condensed balance sheet as of December 31, 2019.
+ 
+No other recently issued accounting pronouncements had or are expected to have a material impact on the Company’s unaudited condensed consolidated financial statements.
+ 
+
+13
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+ 
+Note 4 – Accounts Receivable, net
+ 
+The following table sets forth the components of accounts receivable:
+ 
+
+ 
+Note 5 – Restricted Cash to support appeal bond
+ 
+In January 2018, the Company transferred $2,000,000 to a restricted cash account to secure a letter of credit which was used for collateral for the appeal bond (See Note 13).
+ 
+Note 6 – Inventories, net
+ 
+Inventories consist of:
+ 
+
+ 
+Note 7 – Net Income (Loss) per Share
+ 
+Net income (loss) per share has been computed according to Financial Accounting Standards Board (“FASB”) Accounting Standards Codification (“ASC 260”), “Earnings per Share,” which requires a dual presentation of basic and diluted income (loss) per share (“EPS”). Basic EPS represents net income (loss) divided by the weighted average number of common shares outstanding during a reporting period. Diluted EPS reflects the potential dilution that could occur if securities, including preferred stock, warrants and options, were converted into common stock. The dilutive effect of outstanding warrants and options is reflected in earnings per share by use of the treasury stock method. The dilutive effect of preferred stock is reflected in earnings per share by use of the if-converted method. In applying the treasury stock method for stock-based compensation arrangements, the assumed proceeds are computed as the sum of the amount the employee must pay upon exercise and the amounts of average unrecognized compensation
+ 
+
+14
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 7 – Net Income (Loss) per Share (continued)
+ 
+
+ 
+
+ 
+ 
+
+15
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 7 – Net Income (Loss) per Share (continued)
+ 
+The following table summarizes securities that, if exercised, would have an anti-dilutive effect on earnings per share for the nine months ended:
+ 
+
+ 
+Note 8 – Line of Credit
+ 
+On March 21, 2016, the Company entered into a line of credit agreement with Bank of America, which expired March 31, 2017. In March 2017, the Company extended until March 31, 2018.  The line provided a revolving credit facility with borrowing capacity of up to $1,000,000. There were no covenants or borrowing base calculations associated with this line of credit. On August 29, 2018, the Company entered a Loan Modification Agreement (the “Agreement”) with the bank. The Company had been working with the bank and had paid $100,000 to the bank to lower the outstanding balance to $900,000 at the signing of the Agreement. The Agreement had the following provisions:
+ 
+
+
+
+1)
+
+
+The Company to make an additional principal payment of $50,000 by October 1, 2018. (The Company made this payment.)
+
+
+
+
+
+
+2)
+
+
+Borrowing base calculation tied to accounts receivable and inventories.
+
+
+
+
+
+
+3)
+
+
+The Agreement expired May 31, 2019.
+
+
+
+
+
+
+4)
+
+
+Interest on any outstanding balances was payable monthly at an annual interest rate equal to the LIBOR (London Interbank Offered Rates) Daily Floating plus 3.75 percentage points.
+
+
+
+
+
+
+5)
+
+
+The line was collateralized by substantially all of the assets of the Company. 
+
+
+
+
+
+
+
+7)
+
+
+Beginning with the fiscal year ended March 31, 2019, the Company must maintain a debt service coverage ratio.
+
+
+
+ 
+During the nine months ended December 31, 2019 the Company repaid $90,000 against this line of credit. As of December 31, 2019 and March 31, 2019, the outstanding balances were $710,000 and $800,000, respectively.  As of December 31, 2019 the remaining availability under this line is $-0-.
+ 
+During June 2019, Bank of America agreed to extend the Company’s line of credit until March 31, 2020. The new Loan Modification Agreement (the “Amended Loan Modification Agreement”) with the bank contains the following provisions:
+ 
+
+ 
+
+16
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 9 – Segment Information
+ 
+In accordance with FASB ASC 280, “Disclosures about Segments of an Enterprise and related information”, the Company determined it has two reportable segments - avionics government and avionics commercial. There are no inter-segment revenues.
+ 
+The Company is organized primarily on the basis of its avionics products.  The avionics government segment consists primarily of the design, manufacture, and sale of test equipment to the U.S. and foreign governments and militaries either directly or through distributors.  The avionics commercial segment consists of design, manufacture, and sale of test equipment to domestic and foreign airlines, directly or through commercial distributors, and to general aviation repair and maintenance shops. The Company develops and designs test equipment for the avionics industry and as such, the Company’s products and designs cross segments.
+  
+Management evaluates the performance of its segments and allocates resources to them based on gross margin. The Company’s general and administrative costs and sales and marketing expenses, and engineering costs are not segment specific. As a result, all operating expenses are not managed on a segment basis.  Net interest includes expenses on debt and income earned on cash balances, both maintained at the corporate level. The tables below present information about reportable segments within the avionics business for the three and nine month periods ending December 31, 2019 and 2018:
+ 
+
+  
+ 
+
+ 
+ 
+
+17
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 9 – Segment Information (continued)
+ 
+
+ 
+
+ 
+Note 10 – Income Taxes
+ 
+FASB ASC 740-10, “Accounting for Uncertainty in Income Taxes” (“ASC 740-10”) prescribes a recognition threshold and measurement attribute for the financial statement recognition and measurement of a tax position taken or expected to be taken in a tax return.  The Company has analyzed filing positions in all of the federal and state jurisdictions where it is required to file income tax returns, as well as all open tax years in these jurisdictions.  The Company does not have any unrecognized tax benefits.
+ 
+The tax effect of temporary differences, primarily net operating loss carryforwards, asset reserves and accrued liabilities, gave rise to the Company’s deferred tax asset.  Deferred income taxes are recognized for the tax consequence of such temporary differences at the enacted tax rate expected to be in effect when the differences reverse.  The Company had approximately $3.2 million in deferred tax assets at March 31, 2019, and the Company has provided a valuation allowance that offsets the majority of the asset. The inability to obtain new profitable contracts or the failure of the Company’s engineering development efforts could reduce estimates of future profitability, which could affect the Company’s ability to realize the deferred tax assets. Due to the adverse judgment and the resulting losses the past few years, management has established a valuation allowance against this deferred tax asset. This valuation allowance could be reversed when the Company returns to profitability, and can demonstrate that it will be able to utilize the deferred tax asset. The valuation will be re-evaluated as the Company continues to be profitable and will be utilizing a certain portion of its deferred tax asset. Currently, the Company is utilizing existing fully-reserved NOL’s to offset taxable income, thereby resulting in no income tax provision.
+ 
+
+18
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 11 – Fair Value Measurements
+ 
+FASB ASC 820-10, Fair Value Measurements and Disclosures (“ASC 820-10”) defines fair value, establishes a framework for measuring fair value under generally accepted accounting principles and expands disclosures about fair value measurements.
+ 
+As defined in ASC 820-10, fair value is the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (exit price).  The Company utilizes market data or assumptions that market participants would use in pricing the asset or liability, including assumptions about risk and the risks inherent in the inputs to the valuation technique.  These inputs can be readily observable, market corroborated, or generally unobservable.  The Company classifies fair value balances based on the observation of those inputs. ASC 820-10 establishes a fair value hierarchy that prioritizes the inputs used to measure fair value.  The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets or liabilities (level 1 measurement) and the lowest priority to unobservable inputs (level 3 measurement).
+ 
+The three levels of the fair value hierarchy defined by ASC 820-10 are as follows:
+ 
+
+
+
+- 
+
+
+Level 1 – Quoted prices are available in active markets for identical assets or liabilities as of the reporting date. Active markets are those in which transactions for the asset or liability occur in sufficient frequency and volume to provide pricing information on an ongoing basis.  Level 1 primarily consists of financial instruments such as exchange-traded derivatives, marketable securities and listed equities.
+
+
+
+ 
+
+
+
+- 
+
+
+Level 2 – Pricing inputs are other than quoted prices in active markets included in Level 1, which are either directly or indirectly observable as of the reported date.  Level 2 includes those financial instruments that are valued using models or other valuation methodologies.  These models are primarily industry-standard models that consider various assumptions, including quoted forward prices for commodities, time value, volatility factors, and current market and contractual prices for the underlying instruments, as well as other relevant economic measures.  Substantially all of these assumptions are observable in the marketplace throughout the full term of the instrument, can be derived from observable data or are supported by observable levels at which transactions are executed in the marketplace.  Instruments in this category generally include non-exchange-traded derivatives such as commodity swaps, interest rate swaps, options and collars.
+
+
+
+ 
+
+
+
+- 
+
+
+Level 3 – Pricing inputs include significant inputs that are generally less observable from objective sources.  These inputs may be used with internally developed methodologies that result in management’s best estimate of fair value.
+
+
+
+ 
+The valuation techniques that may be used to measure fair value are as follows:
+ 
+
+
+
+●
+
+
+Market approach — Uses prices and other relevant information generated by market transactions involving identical or comparable assets or liabilities.
+
+
+
+ 
+
+
+
+●
+
+
+Income approach — Uses valuation techniques to convert future amounts to a single present amount based on current market expectations about those future amounts, including present value techniques, option-pricing models and excess earnings method.
+
+
+
+ 
+
+
+
+●
+
+
+Cost approach — Based on the amount that currently would be required to replace the service capacity of an asset (replacement cost). 
+
+
+
+ 
+The carrying value of the Company’s borrowings is a reasonable estimate of its fair value as borrowings under the Company’s credit facility reflect currently available terms and conditions for similar debt.
+ 
+The following table sets forth by level within the fair value hierarchy the Company’s financial assets and liabilities that were accounted for at fair value as of December 31, 2019 and March 31, 2019.  As required by ASC 820-10, financial assets and liabilities are classified in their entirety based on the lowest level of input that is significant to the fair value measurement.
+ 
+
+19
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 11 – Fair Value Measurements (continued)
+ 
+The Company’s assessment of the significance of a particular input to the fair value measurement requires judgment, and may affect the valuation of fair value assets and liabilities and their placement within the fair value hierarchy levels.
+ 
+
+
+
+December 31, 2019
+
+ 
+
+Level I
+
+ 
+ 
+
+Level II
+
+ 
+ 
+
+Level III
+
+ 
+ 
+
+Total
+
+ 
+
+
+
+Total Assets
+
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Warrant liability
+
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+
+
+
+Total Liabilities
+
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+ 
+$
+-
+ 
+
+
+ 
+
+ 
+The Company adopted the guidance of ASC 815 “Derivative and Hedging”, which requires that we mark the value of our warrant liability to market and recognize the change in valuation in our statement of operations each reporting period. Determining the warrant liability to be recorded requires us to develop estimates to be used in calculating the fair value of the warrant.  
+ 
+The following table provides a summary of the changes in fair value of our Level 3 financial liabilities from March 31, 2019 through December 31, 2019, as well as the portion of gains or losses included in income attributable to unrealized gains or losses related to the liability held at December 31, 2019:
+ 
+
+ 
+The Company had warrants with an outside investor to purchase 50,000 shares of the Company’s common stock at an exercise price of $3.35 per share or exercising the “put option” to the Company.  The warrant liability of the 50,000 warrants was $43,500 at March 31, 2019. These warrants must be converted at a purchase price of $3.35 per share or the cash put option must be exercised by September 10, 2019. On September 3, 2019, the holder of the warrant informed the Company that it has elected to exercise its “put option”, thereby requiring the Company to purchase the warrants held by holder. Total warrants were to purchase a total of 50,000 shares of the Company’s common stock.
+ 
+The value of the warrants for the 50,000 shares of the Company’s common stock at the time of exercise was $116,500, and the Company paid this amount using cash from operations in October 2019, thereby extinguishing the warrant liability.
+ 
+At December 31, 2019, the warrant liability was $-0-.
+ 
+The holder had the right, exercisable at any time, in writing (the “Warrant Put Notice”, to cause the Company, subject to the terms and conditions herein, to purchase from the holder all, or any portion, of the warrant for the warrant put repurchase price (the “Repurchase Price”). The Repurchase Price is the greater of 1) Adjusted EBITDA (as defined below) per share as of the date of the Warrant Put Notice, less $0.01, multiplied by the number of warrants or 2) the product of the current market price per share as of the date of the Warrant Put Notice, less the purchase price of the warrant or warrants, multiplied by the number of warrants, if this amount is higher. “Adjusted EBITDA” means EBITDA, multiplied by 5, plus cash and cash equivalents less unpaid debt divided by the number of shares outstanding on a fully diluted basis. 
+ 
+
+20
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 12 – Operating Lease Liability
+ 
+The Company leases its facility in East Rutherford, NJ with monthly payments of $18,467 which expires in August 2021 and includes a renewal option for an additional five years. The Company also has an operating lease for office equipment with monthly payments of $523 which expires in May 2021.
+ 
+The Company's leases generally do not provide an implicit rate, and therefore the Company uses its incremental borrowing rate as the discount rate when measuring operating lease liabilities. The incremental borrowing rate represents an estimate of the interest rate the Company would incur at lease commencement to borrow an amount equal to the lease payments on a collateralized basis over the term of a lease. The Company used incremental borrowing rates as of April 1, 2019 for operating leases that commenced prior to that date. The Company estimated its incremental borrowing rate based on its credit quality, line of credit agreement and by comparing interest rates available in the market for similar borrowings. The Company used a discount rate of 6.25% at December 31, 2019.
+ 
+The following table reconciles the undiscounted future minimum lease payments (displayed by year and in the aggregate) under non-cancelable operating leases with terms of more than one year to the total lease liabilities recognized on the unaudited condensed consolidated balance sheet as of December 31, 2019:
+ 
+
+ 
+Total rent expense for the three and nine months ended December 31, 2019 was $97,664 and $269,282 as compared to $84,861 and $265,788 for the three and nine months ended December 31, 2018.
+ 
+Disclosures related to periods prior to adoption of ASU 2016-02
+ 
+The Company adopted ASU 2016-02 using a modified retrospective adoption method at April 1, 2019 as noted in Note 3 “Recently Adopted Authoritative Pronouncements”. As required, the following disclosure is provided for periods prior to adoption. Minimum operating lease commitments as of March 31, 2019 that have initial or remaining lease terms in excess of one year are as follows:
+ 
+
+ 
+Note 13 – Litigation
+ 
+Contingencies are recorded in the unaudited condensed consolidated financial statements when it is probable that a liability will be incurred and the amount of the loss is reasonably estimable, or otherwise disclosed, in accordance with Accounting Standards Codification 450, Contingencies (ASC 450). Significant judgment is required in both the determination of probability and the determination as to whether a loss is reasonably estimable. In the event the Company determines that a loss is not probable, but is reasonably possible, and it becomes possible to develop what the Company believes to be a reasonable range of possible loss, then the Company will include disclosures related to such matter as appropriate and in compliance with ASC 450. To the extent there is a reasonable possibility that the losses could exceed the amounts already accrued, the Company will, when applicable, adjust the accrual in the period the determination is made, disclose an estimate of the additional loss or range of loss or if the amount of such adjustment cannot be reasonably estimated, disclose that an estimate cannot be made.
+ 
+
+21
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 13 – Litigation (continued)
+ 
+On March 24, 2009, Aeroflex Wichita, Inc. (“Aeroflex”) filed a petition against the Company and two of its employees in the District Court located in Sedgwick County, Kansas, Case No. 09 CV 1141 (the “Aeroflex Action”), alleging that the Company and its two employees misappropriated Aeroflex’s proprietary technology in connection with the Company winning a substantial contract from the U.S. Army, to develop new Mode-5 radar test sets and kits to upgrade the existing TS-4530 radar test sets to Mode 5 (the “Award”). Aeroflex’s petition, seeking injunctive relief and damages, alleges that in connection with the Award, the Company and its named employees misappropriated Aeroflex’s trade secrets; tortiously interfered with Aeroflex’s business relationship; conspired to harm Aeroflex and tortiously interfered with Aeroflex’s contract. The central basis of all the claims in the Aeroflex Action is that the Company misappropriated and used Aeroflex proprietary technology and confidential information in winning the Award.  In February 2009, subsequent to the Company winning the Award, Aeroflex filed a protest of the Award with the Government Accounting Office (“GAO”). In its protest, Aeroflex alleged, inter alia, that the Company used Aeroflex’s proprietary technology in order to win the Award, the same material allegations as were later alleged in the Aeroflex Action. On or about March 17, 2009, the U.S. Army Contracts Attorney and the U.S. Army Contracting Officer each filed a statement with the GAO, expressly rejecting Aeroflex’s allegations that the Company used or infringed on Aeroflex’s proprietary technology in winning the Award, and concluding that the Company had used only its own proprietary technology. On April 6, 2009, Aeroflex withdrew its protest.
+ 
+In December 2009, the Kansas District Court dismissed the Aeroflex Action on jurisdiction grounds. Aeroflex appealed this decision. In May 2012, the Kansas Supreme Court reversed the decision and remanded the Aeroflex Action to the Kansas District Court for further proceedings. The case then entered an extended discovery period in the District Court.
+ 
+On May 23, 2016, the Company filed a motion for summary judgment based on Aeroflex’s lack of jurisdictional standing to bring the case. The motion asserts that Aeroflex does not own the intellectual property at issue since it is a bare licensee of Northrop Grumman. Northrop Grumman has declined to join this suit as plaintiff. The motion asserted Aeroflex lacks standing to sue alone. Also, the motion raises the fact that Aeroflex allowed the license to expire, Aeroflex’s claims are either moot or Aeroflex lacks standing to sue for damages alleged to have accrued after the license ended in 2011. The motion for summary judgment was denied.
+ 
+The Aeroflex trial on remand in the Kansas District Court began in March 2017. After a nine-week trial, the jury rendered its verdict. The jury found no misappropriation of Aeroflex trade secrets but it did rule that the Company tortiously interfered with a prospective business opportunity and awarded damages of $1.3 million for lost profits. The jury also ruled that Tel tortiously interfered with Aeroflex’s non-disclosure agreements with two former Aeroflex employees and awarded damages of $1.5 million for lost profits, resulting in total damages against the Company of $2.8 million. The jury also found that the former Aeroflex employees breached their non-disclosure agreements with Aeroflex and awarded damages against these two individuals totaling $525,000. The jury also decided that punitive damages should be allowed against the Company.
+ 
+Following the verdict, the Company filed a motion for judgment as a matter of law. In the motion, the Company renewed its motion for judgment on Aeroflex’s tortious interference with prospective business opportunity claim arguing that such claim is barred by the statute of limitations. Alternatively, the motion asserts there is insufficient evidence supporting the lost profit award on that claim.  Additionally, the motion for judgment addresses inconsistency between the awards against the former Aeroflex employees for breach of the non-disclosure agreements and the award against the Company for interfering with those agreements. Alternatively, the motion asserts there is insufficient evidence supporting the lost profit award on that claim.
+ 
+During July 2017, the Court heard the Company’s motion for judgment as well as conducting a hearing as to the amount of a punitive damages award. Kansas statutes limit punitive damages to a maximum of $5 million.
+ 
+Aeroflex submitted a motion to the Court requesting that the judge award punitive damages at the maximum $5 million amount. In October 2017, the Court denied the Company’s motions and awarded Aeroflex an additional $2.1 million of punitive damages, which brings the total Tel damages awarded in this case to approximately $4.9 million.
+ 
+The Journal Entry of Judgment including judgment against the Company in the amount of $1.3 million for tortious interference with prospective business advantage, of $1.5 million for tortious interference with existing contracts, and $2.1 million in punitive damages was entered on November 22, 2017. Pursuant to K.S.A. 16-204(d) “any judgment rendered by a court of this state on or after July 1, 1986, shall bear interest on and after the day on which judgment is rendered at the rate provided by subsection (e). The Kansas Secretary of State publishes the rate amount. The amount published for July 1, 2017 through June 30, 2018 is 5.75% and 6.5% July 1, 2018 through June 30, 2019. The current rate beginning July 1, 2019 is 7.0%. Interest on the $4,900,000 judgment started to accrue on November 22, 2017, the date the judgment was entered.
+ 
+
+22
+
+Table of Contents
+
+ 
+TEL-INSTRUMENT ELECTRONICS CORP.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Unaudited)
+ 
+Note 13 – Litigation (continued)
+ 
+The Company filed post-trial motions to avoid damage duplication and inconsistency, and to secure judgment as a matter of law or a new trial. The trial court denied those motions. The Company appealed the verdict and the post-trial rulings to the Court of Appeals of the State of Kansas, Case No. 18-119,563. The Company posted a $2 million supersedeas bond. The Plaintiff filed a cross-appeal. The appeal and cross-appeal are fully briefed. The appellate court has not set a date to hear the appeal.
+ 
+The Company is optimistic about the prospects of its appeal for either a judgment as a matter of law or a new trial. However, the appeal process is expected to take at least another year to complete. However, the Company cannot predict the timing or the outcome of the appeal.
+ 
+Other than the matters outlined above, the Company is currently not involved in any litigation that we believe could have a material adverse effect on the Company’s financial condition or results of operations. There is no action, suit, proceeding, inquiry or investigation before any court, public board, government agency, self-regulatory organization or body pending or, to the knowledge of executive officers of our Company, threatened against or affecting our Company, or our common stock in which an adverse decision could have a material effect.
+ 
+Note 14 – Subsequent Event
+ 
+In February 2020, Bank of America agreed to extend the line of credit from March 31, 2020 to January 31, 2021. The new agreement includes open availability up to $689,700. Monthly payments will be interest only (see Note 8).
+ 
+ 
+ 
+
+23
+
+Table of Contents
+
+ 
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+ 
+Forward Looking Statements
+ 
+This Quarterly Report on Form 10-Q and other reports filed by the Company from time to time with the SEC (collectively the “Filings”) contain or may contain forward-looking statements and information that are based upon beliefs of, and information currently available to, the Company’s management as well as estimates and assumptions made by Company’s management.  Readers are cautioned not to place undue reliance on these forward-looking statements, which are only predictions and speak only as of the date hereof.  When used in the Filings, the words “may”, “will”, “anticipate”, “believe”, “estimate”, “expect”, “future”, “intend”, “plan”, or the negative of these terms and similar expressions as they relate to the Company or the Company’s management are intended to identify forward-looking statements.  Such statements reflect the current view of the Company with respect to future events and we caution you that these statements are not guarantees of future performance or events and are subject to risks, assumptions, and other factors.  Should one or more of these risks or uncertainties materialize, or should the underlying assumptions prove incorrect, actual results may differ significantly from those anticipated, believed, estimated, expected, intended, or planned.
+ 
+Although the Company believes that the expectations reflected in the forward-looking statements are reasonable, the Company cannot guarantee future results, levels of activity, performance, or achievements.  Except as required by applicable law, including the securities laws of the United States, the Company does not intend to update any of the forward-looking statements to conform these statements to actual results.
+ 
+Our unaudited condensed consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States (“GAAP”).  These accounting principles require us to make certain estimates, judgments and assumptions.  We believe that the estimates, judgments and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions are made.  These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented.  Our unaudited condensed consolidated financial statements would be affected to the extent there are material differences between these estimates and actual results.  In many cases, the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application.  There are also areas in which management’s judgment in selecting any available alternative would not produce a materially different result.  The following discussion should be read in conjunction with our financial statements and notes thereto appearing elsewhere in this report.
+ 
+Overview
+ 
+The Company reported net income of $1,701,587 for the nine months ended December 31, 2019 and sales of $11,951,765 as compared to a net loss of $298,030 and sales of $8,012,891 for the same nine month period in the prior fiscal year. This turnaround is the result of the increased shipments of our CRAFT products, especially for Lockheed Martin for the Joint Strike Fighter (“JSF”) program, increased international business for our Mode 5 test sets, including our T-47/M5, which has received AIMS (Air Traffic Control Radar Beacon System, Identification Friend or Foe, Mark XII/Mark XIIA, Systems) approval, the T-4530i and the TS-4530A. As previously reported, the Company has received a $4.3 million order for Mode 5 test sets from the U.S. military. In August 2018, we also reported that the German government had notified our U.K. distributor of its intent to award a multi-year, multi-million dollar contract. In February 2019, the Company received an initial purchase order totaling $520,000 from its European Distributor, Muirhead Avionics (“Muirhead”) for Mode 5 test sets from the contract awarded by the German military. In August 2019, we reported the receipt of a follow-on purchase order totaling $1.48 million from Muirhead for Mode 5 test sets from the contract awarded by the German military. This order is part of a seven-year procurement contract with anticipated orders estimated at $3.5 million. In July 2019, the Company shipped $450,000 of Mode 5 test sets to the German government. During the current quarter we shipped approximately $1.2 million of our T-4530i to the German military through our European distributor.
+ 
+The units for Lockheed Martin will be used for the Joint Strike Fighter (“JSF”) program, and we believe this program will generate significant CRAFT orders as this program ramps up limited rate production. The Company had already received orders from Lockheed Martin for the AN/USM-708 units, for the JSF Program, totaling over $5 million. Sikorsky has also indicated that it will be ordering CRAFT test sets for its new helicopters. The Company also received orders from other customers for this product.
+ 
+The Company continues to pursue opportunities in the international market for our Mode 5 test sets with good success. We continue to emphasize the importance of capturing the majority share of the large Identification Friend or Foe (“IFF”) international market. The Company is also in discussions with other major international customers that have evaluated our Mode 5 test sets and we are excited about the opportunities overseas, as evidenced by the order from Germany, but no guarantees can be made about these opportunities. We received and shipped our Mode 5 test sets to Japan, and have subsequently received an additional order from Japan for approximately $616,000, which was partially shipped in the third quarter with the balance to be shipped in the fourth quarter. As noted above, our U.K. distributor and the Company have been successful in securing a major contract from the German military. In January 2020, we also reported the receipt of a $1.87 million T-47/M5 Mode 5 test set order for the United Kingdom. These test sets will be sold through our European distributor, Muirhead Avionics, to Leonardo MW Ltd., which is handling the Mode 5 upgrade effort for the United Kingdom Ministry of Defense. Many other countries have expressed significant interest in our Mode 5 test sets.
+ 
+
+24
+
+Table of Contents
+
+ 
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued).
+ 
+Overview (continued)
+ 
+The Company has built a solid position in the Mode 5 IFF flight line test equipment market, and our products are very competitive in the overseas markets. We believe that we are well-positioned as our CRAFT and TS-4530A flight-line test sets have been endorsed by the U.S. military and we have already delivered test sets into 18 international markets.
+ 
+The new T-47/M5 Mode 5 IFF test set is expected to be a cost-effective upgrade option for our large installed base of Mode 4 test sets and we have seen substantial interest and orders for this test set from a number of countries.  All allied countries have a drop-dead date of July 1, 2020, which was extended from January 1, 2020, for Mode 5 capability so we expect this international business will begin to accelerate this year and it should remain strong for at least the next three years, based on our current projections. Our expectation is that we will continue to improve both our revenues and gross margins, but the timing of these new orders is largely out of our hands. Nonetheless, we are encouraged by the increasing activity we are seeing for both our commercial and military products.
+ 
+The commercial avionics industry is undergoing a great deal of change and we believe our new lightweight, hand-held product (the “SDR/OMNI”) that we are planning to introduce in the near term will generate increased market share at very attractive gross margin levels. The technology for the hand-held product will provide a platform for future products. We are also working closely with our other military customers on new potential market opportunities that will be needed to maintain our sales and profitability growth.
+ 
+This new technology could provide us with the opportunity to expand out of our relatively narrow avionics test market niche and enter the much larger secure communications radio test market. We believe that our new hardware platform provides unmatched capabilities in a market leading form factor. The world’s first “All-in-One” Avionics Test Set utilizes true software-designed radio technology that enables it to test all common avionics functions in one 4.5 pound test set.
+ 
+The SDR/OMNI has very wide frequency to accommodate new commercial and military waveforms in an industry leading 4.5-pound package. This is half the weight of competitive test sets. It utilizes the latest touch screen technology and has the capability to replace all TIC commercial test sets and military flight-line test sets with one handheld product. The initial product will be a commercial avionics air traffic control test set which adds ADS-B UAT test capability for the large general aviation test market that is subject to the January 1, 2020 requirement for ADS-B out capability. This will compete with the Aeroflex IFR 6000 test set and will replace the TIC TR-220 product. This release is initially targeted at the civil aviation market that is subject to the January 1, 2020 requirement for ADS-B out capability. Future software releases will incorporate Nav/Comm test functions which can be purchased as APP’s (applications) by our customers. We continue to evaluate other attractive potential market opportunities.
+ 
+As a result of the potential new military applications for our new 4.5 pound SDR/OMNI hand-held test set, we are currently implementing a hardware CPU change to further improve high speed processing capabilities. This change will likely move the initial product introduction for the commercial avionics market into the middle of the next calendar year, but will better position the Company for high dollar military contracts which will be critical to our long-term growth in revenues and profitability. The goal of this new test set is to expand out of our relatively narrow avionics test market niche and enter the much larger secure communications radio test market.
+ 
+The Aeroflex litigation (see Note 13 to the unaudited condensed consolidated financial statements) did not result in a favorable outcome for the Company, despite our belief that we committed no wrong doing. These unaudited condensed consolidated financial statements have been prepared in conformity with GAAP, which contemplates continuation of the Company as a going concern.  As reflected in the accompanying unaudited condensed consolidated balance sheet as of December 31, 2019, the Company has recorded estimated damages to date of $5.6 million, including interest, as a result of a jury verdict associated with the Aeroflex litigation. The Company has filed for an appeal (see Note 13). As of December 31, 2019, the Company has cash balances of $3.7 million, including $2 million of restricted cash as well as $2.8 million in accounts receivable. Our goal is to have sufficient cash by the end of this fiscal year to fully cover the Aeroflex damages amount.
+ 
+The jury found no misappropriation of Aeroflex trade secrets but it did rule that the Company tortiously interfered with a prospective business opportunity and awarded damages. The jury also ruled that Tel tortiously interfered with Aeroflex’s non-disclosure agreements with two former Aeroflex employees. The jury also found that the former Aeroflex employees breached their non-disclosure agreements with Aeroflex. The Court conducted further hearings on the Company’s post-trial motions which sought to reduce the damages award of $2.8 million, as well as the punitive damages claim.  The Court denied the Company’s motions and awarded Aeroflex an additional $2.1 million of punitive damages. The Company has filed motions in January 2018 for the Court to reconsider the amount of damages on the grounds that they are duplicative and not legally supportable. The Court heard these motions and such motions were denied. The Company has filed for the appeal. The Company has posted a $2 million bond for the appeal. This $2 million bond amount will remain in place during the appeal process (See Note 13). The Company believes it has solid grounds to appeal this verdict, and believes it has submitted strong legal arguments to vacate the decision. The appeal process is expected to take at least another year to complete. However, the Company cannot predict the timing or the outcome of the appeal.
+ 
+
+25
+
+Table of Contents
+
+ 
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued).
+ 
+Overview (continued)
+ 
+In June 2019, Bank of America agreed to extend the Company’s line of credit until March 31, 2020 (see Note 8). The Company believes it has sufficient cash and financing in place to fund its plans for the next twelve months, exclusive of any determination that may result from the Aeroflex litigation, due in part to recent large orders it has received that has returned the Company to profitability. We have no commitment from any party to provide additional working capital and there is no assurance that any funding will be available as required, or if available, that its terms will be favorable or acceptable to the Company. This factor raises substantial doubt about the Company’s ability to continue as a going concern within one year of the date that the financial statements are issued. 
+ 
+The Company’s common stock is now quoted on the OTCQB marketplace of the OTC Markets Group Inc. with the symbol “TIKK”. Companies on the OTBQB must meet minimum reporting standards, pass a bid test, and must undergo annual verification.
+ 
+During June 2019, Bank of America agreed to extend the Company’s line of credit until March 31, 2020. The new Loan Modification Agreement (the “Amended Loan Modification Agreement”) with the bank contains the following provisions:
+ 
+
+
+
+1)
+
+
+The Company to make an additional principal payment of $10,000 at closing.
+
+
+
+
+
+
+2)
+
+
+Borrowing base calculation tied to accounts receivable.
+
+
+
+
+
+
+3)
+
+
+The Amended Loan Modification Agreement expires March 31, 2020.
+
+
+
+
+
+
+4)
+
+
+Interest on any outstanding balances is payable monthly at an annual interest rate equal to the LIBOR (London Interbank Offered Rates) Daily Floating plus 3.75 percentage points. The Company’s interest rate was 5.49% at December 31, 2019.
+
+
+
+
+
+
+5)
+
+
+The line is collateralized by substantially all of the assets of the Company. 
+
+
+
+
+
+
+6)
+
+
+The Company will make principal payments of $10,000 per month until March 31, 2020.
+
+
+
+
+7)
+
+
+The covenant for the debt service ratio is deleted.
+
+
+
+ 
+In February 2020, Bank of America agreed to extend the line of credit from March 31, 2020 to January 31, 2021. The new agreement includes open availability up to $689,700. Monthly payments will be interest only.
+ 
+At December 31, 2019, the Company’s backlog of orders was approximately $4.2 million (excluding the $1.87 million international order that was received in the first week of January) as compared to $7.1 million at December 31, 2018. Historically, the Company obtains orders which are required to be filled in less than 12 months, and therefore, these anticipated orders are not reflected in the backlog.
+ 
+Results of Operations
+ 
+Sales
+ 
+For the three months and nine months ended December 31, 2019, net sales increased $757,399 (19.1%) and $3,938,874 (49.2%) to $4,733,135 and $11,951,765, respectively, as compared to $3,975,736 and $8,012,891 for the three and nine months ended December 31, 2018, respectively. Avionics government sales increased $435,225 (12.5%) and $3,703,138 (63.2%) to $3,919,605 and $9,564,199 for the three and nine months ended December 31, 2019, respectively, as compared to $3,484,380 and $5,861,061 for the three and nine months ended December 31, 2018, respectively. The increase in sales is mostly attributed to the increase in shipment of our AN/USM-708 test set to Lockheed for the F-35 program, AN/USM-719 and TS-4530A Mode 5 test sets to the U.S. Government, as well as increased sales of our T-47/M5 Dual Crypto test set, mostly to the international market, and shipments to the German military of our T-4530i. Commercial sales increased $322,174 (65.6%) and $235,736 (11.0%) to $813,530 and $2,387,566 for the three and nine months ended December 31, 2019, respectively, as compared to $491,356 and $2,151,830 for the three and nine months ended December 31, 2018, respectively. This increase is attributed to the increase in sales our TR-36 and legacy test sets. The commercial business is steady and changes are mainly the result of the timing of orders and parts availability.  
+ 
+Sales are expected to continue to increase primarily as a result of penetration of the international market, and, in the future, increased commercial sales when we introduce our new lightweight, hand-held product (the “SDR/OMNI”). We will likely move the initial product introduction for the commercial avionics market into the middle of this calendar year, but we expect it will better position the Company for high dollar military contracts which will be critical to our long-term growth in revenues and profitability. The goal of this new test set is to recapture market share in the commercial avionics test set business and expand into the much larger secure communications radio test market.
+ 
+
+26
+
+Table of Contents
+
+ 
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued).
+ 
+Results of Operations
+ 
+Gross Margin
+ 
+For the three and nine months ended December 31, 2019, total gross margin increased $242,878 (12.3%) and $2,217,589 (64.3%) to $2,212,482 and $5,667,719, respectively, as compared to $1,969,604 and $3,450,130 for the three and nine months ended December 31, 2018, respectively, primarily as a result of the increase in volume as well as the reduction in manufacturing overhead and an increase in manufacturing efficiencies. The gross margin percentage for the three months ended December 31, 2019 was 46.7% as compared to 49.5% for the three months ended December 31, 2018. The lower gross margin percentage was impacted by the increase in international business, which are mostly sold through our international distributor network at a discount. The gross margin percentage for the nine months ended December 31, 2019 was 47.4% as compared to 43.1 % for the nine months ended December 31, 2018. The higher gross margin percentage is attributable to an improved product mix as well as the reduction in manufacturing overhead as well as manufacturing efficiencies.
+ 
+Operating Expenses
+ 
+Selling, general and administrative expenses increased $79,214 (14.9%) and $194,912 (11.8%) to $609,394 and $1,847,028 for the three and nine months ended December 31, 2019, respectively, as compared to $530,180 and $1,652,116 for the three and nine months ended December 31, 2018, respectively. This increase is primarily attributed to the increase in accrued profit sharing expense and outside commissions offset partially by lower professional fees.
+ 
+Litigation costs decreased $42,850 and $15,909 to $16,830 and $118,890 for the three and nine months ended December 31, 2019 as compared to $59,680 and $134,799 for the three and nine months ended December 31, 2018. This decrease reflects decreased activity related to the litigation (see Notes 5 and 13 to Notes to the unaudited condensed consolidated financial statements). With respect to the Aeroflex litigation, the Company has appealed the $4.9 million judgement and has set aside $2 million in cash to support an appeal bond. The appeal submissions are now complete. We continue to believe that the trial judge erred in his legal ruling on standing and other issues during the trial and that we have strong grounds for the award to be vacated or reduced. Our attorneys estimate that it will take over a year from now for this appeal to work its way through the Kansas court system.
+ 
+Engineering, research and development expenses decreased $41,565 (6.7%) and $11,426 (0.7%) to $580,517 and $1,631,359 for the three and nine months ended December 31, 2019 as compared to $622,082 and $1,642,785 for the three and nine months ended December 31, 2018. The Company continues to invest in the development of the Company’s hand-held product line utilizing CRAFT and TS-4530A technology, the enhanced remote client, and the incorporation of other product enhancements in existing designs.
+ 
+Income (Loss) from Operations
+ 
+As a result of the above, the Company recorded income from operations of $1,005,741 and $2,070,442 for the three and nine months ended December 31, 2019 as compared to income from operations of $757,662 and $20,430 for the three and nine months ended December 31, 2018.
+ 
+Other Income (Expense), Net
+ 
+For the three months ended December 31, 2019, total other expense was $98,164, as compared to other expense of $118,209 for the three months ended December 31, 2018 primarily the result of the lower loss on the change in fair value of the common stock warrants and lower interest for the line of credit and the letter of credit offset partially by higher interest related to the judgement. For the nine months ended December 31, 2019, total other expense was $368,855, as compared to other expense of $318,460 for the nine months ended December 31, 2018 primarily the result of the loss on the change in fair value of the common stock warrants and higher interest related to the judgement offset partially by lower interest for the line of credit and the letter of credit.
+ 
+Income (Loss) before Income Taxes
+ 
+As a result of the above, the Company recorded income before taxes of $907,577 and $1,701,587 for the three and nine months ended December 31, 2019 as compared to income before taxes of $639,453 for the three months ended December 31, 2018 and a loss before taxes of $298,030 for the nine months ended December 31, 2018. 
+ 
+Income Taxes
+ 
+For the three and nine months ended December 31, 2019 and December 31, 2018, the Company recorded no income tax benefit as such amounts were offset by a valuation allowance. Currently, the Company is utilizing existing fully-reserved NOL’s to offset taxable income, thereby resulting in no income tax provision.
+ 
+
+27
+
+Table of Contents
+
+ 
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued).
+ 
+Net Income (Loss)
+ 
+As a result of the above, the Company recorded net income of $907,577 and $1,701,587 for the three and nine months ended December 31, 2019 as compared to net income before taxes of $639,453 for the three months ended December 31, 2018 and a net loss of $298,030 for the nine months ended December 31, 2018. 
+ 
+Liquidity and Capital Resources
+ 
+At December 31, 2019, the Company had net working capital of $1,409,808, including accrued legal damages related to the Aeroflex litigation of $5,570,846, as compared to negative working capital of $152,993 at March 31, 2019. This change is primarily the result of the increase in cash and accounts receivable and decrease in accounts payable and accrued expenses.
+ 
+These unaudited condensed consolidated financial statements have been prepared in conformity with GAAP, which contemplates continuation of the Company as a going concern.  As reflected in the accompanying balance sheet at December 31, 2019, the Company has recorded estimated damages to date of $5.6 million, including interest, as a result of a jury verdict associated with the Aeroflex litigation. The Company has filed for an appeal (see Note 13 to the unaudited condensed consolidated financial statements). In June 2019, Bank of America agreed to extend the Company’s line of credit until March 31, 2020 (see Note 8). While the Company’s operations and profitability have significantly improved, and the Company believes it has sufficient cash and financing in place to fund its plans for the next twelve months, exclusive of any determination that may result from the Aeroflex litigation, due in part to recent large orders it has received that has returned the Company to profitability, the Company may not have sufficient resources to satisfy the judgment if we are not successful in our appeal. We have no commitment from any party to provide additional working capital and there is no assurance that any funding will be available as required, or if available, that its terms will be favorable or acceptable to the Company. This factor raises substantial doubt about the Company’s ability to continue as a going concern within one year of the date that the financial statements are issued.
+ 
+The Aeroflex litigation did not result in a favorable outcome for the Company, despite our belief that we committed no wrong doing. The jury found no misappropriation of Aeroflex trade secrets, but it did find that the Company tortiously interfered with a prospective business opportunity and awarded damages. The jury also ruled that Tel tortiously interfered with Aeroflex’s non-disclosure agreements with two former Aeroflex employees. The jury also found that the former Aeroflex employees breached their non-disclosure agreements with Aeroflex. The Court conducted further hearings on the Company’s post-trial motions which sought to reduce the damages award of $2.8 million, as well as the punitive damages claim.  The Court denied the Company’s motions and awarded Aeroflex an additional $2.1 million of punitive damages. The Company has filed motions in January 2018 for the Court to reconsider the amount of damages on the grounds that they are duplicative and not legally supportable. The Court heard these motions and such motions were denied. The Company has filed for the appeal. The Company has posted a $2 million bond for the appeal. This $2 million bond amount will remain in place during the appeal process (See Note 13). The Company believes it has solid grounds to appeal this verdict. The appeal process is expected to take at least another year to complete. However, the Company cannot predict the timing or the outcome of the appeal.
+ 
+The unaudited condensed consolidated financial statements have been prepared on a going concern basis, which contemplates the realization of assets and satisfaction of liabilities and commitments in the normal course of business. The accompanying unaudited condensed consolidated financial statements do not include any adjustments that might be necessary if the Company is unable to continue as a going concern.
+ 
+During the nine months ended December 31, 2019, the Company’s cash balance (including the $2 million in restricted cash for the appeal) increased by $1,084,183 to $3,674,910.  The Company’s principal sources and uses of funds were as follows:
+ 
+Cash provided by operating activities. For the nine months ended December 31, 2019, the Company provided $1,397,974 in cash for operations as compared to using $1,087,850 in cash for operations for the nine months ended December 31, 2018.  This increase in cash used for operations is attributed to the improvement in operating income.
+ 
+Cash used in investing activities.  For the nine months ended December 31, 2019, the Company used $102,341 of its cash for investment activities, as compared to $-0- for the nine months ended December 31, 2018 as a result of an increase in the purchase of capital equipment.
+ 
+Cash used in financing activities. For the nine months ended December 31, 2019, the Company used $211,450 in financing activities as compared to providing $944,806 for the nine months ended December 31, 2018. The Company paid the warrant liability in the amount of $116,500 in the current fiscal year. For the nine months ended December 31, 2018, the Company received net proceeds the from the issuance of preferred stock in the amount of $987,825 as well proceeds short-swing profits from an investor of $143,382, which did not occur in the current fiscal year which was offset by repayments of the line of credit.
+ 
+
+28
+
+Table of Contents
+
+ 
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations (continued).
+ 
+Liquidity and Capital Resources (continued)
+ 
+During June 2019, Bank of America agreed to extend the Company’s line of credit until March 31, 2020. The new Loan Modification Agreement (the “Amended Loan Modification Agreement”) with the bank contains the following provisions:
+ 
+
+
+
+1)
+
+
+The Company to make an additional principal payment of $10,000 at closing.
+
+
+
+
+
+
+2)
+
+
+Borrowing base calculation tied to accounts receivable.
+
+
+
+
+
+
+3)
+
+
+The Amended Loan Modification Agreement expires March 31, 2020.
+
+
+
+
+
+
+4)
+
+
+Interest on any outstanding balances is payable monthly at an annual interest rate equal to the LIBOR (London Interbank Offered Rates) Daily Floating plus 3.75 percentage points. The Company’s interest rate was 5.49% at December 31, 2019.
+
+
+
+
+
+
+5)
+
+
+The line is collateralized by substantially all of the assets of the Company. 
+
+
+
+
+
+
+6)
+
+
+The Company will make principal payments of $10,000 per month until March 31, 2020.
+
+
+
+
+7)
+
+
+The covenant for the debt service ratio is deleted.
+
+
+
+ 
+Currently, the Company has no material future capital expenditure requirements.
+ 
+There was no significant impact on the Company’s operations as a result of inflation for the nine months ended December 31, 2019.
+ 
+These unaudited condensed consolidated financial statements should be read in conjunction with the Company’s Annual Report on Form 10-K for the fiscal year ended March 31, 2019, filed with the SEC on July 1, 2019 (the “Annual Report”).
+ 
+Off-Balance Sheet Arrangements
+ 
+As of December 31, 2019, the Company had no off-balance sheet arrangements.
+ 
+Critical Accounting Policies
+ 
+Our critical accounting policies are described in Management’s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report. There have been no changes in our critical accounting policies. Our significant accounting policies are described in our notes to the 2019 consolidated financial statements included in our Annual Report.
+ 
+
+29
+
+Table of Contents
+
+ 
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk.
+ 
+We do not hold any derivative instruments and do not engage in any hedging activities.
+ 
+Item 4.  Controls and Procedures.
+ 
+(a)          Evaluation of Disclosure Controls and Procedures
+ 
+The Company, including its principal executive officer and principal financial officer, conducted an evaluation of the effectiveness of the design and operation of its disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”) as of the end of the period covered by this report (the “Evaluation Date”). Based upon the evaluation, our principal executive officer and principal financial officer concluded as of the Evaluation Date that our disclosure controls and procedures were effective. Disclosure controls are controls and procedures designed to reasonably ensure that information required to be disclosed in our reports filed under the Exchange Act, such as this report, is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls include controls and procedures designed to reasonably ensure that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate to allow timely decisions regarding required disclosure.
+ 
+(b)          Changes in Internal Control over Financial Reporting
+ 
+The Company, including its principal executive officer and principal financial officer, reviewed the Company’s internal control over financial reporting, pursuant to Rule 13(a)-15(e) under the Exchange Act and concluded that there was no change in the Company’s internal control over financial reporting during the Company’s most recently completed fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+ 
+ 
+ 
+
+30
+
+Table of Contents
+
+ 
+PART II – OTHER INFORMATION
+ 
+Item 1.  Legal Proceedings.
+ 
+The Aeroflex litigation (see Note 13 to the unaudited condensed consolidated financial statements) did not result in a favorable outcome for the Company, despite our belief that we committed no wrong doing. The jury found no misappropriation of Aeroflex trade secrets, but it did find that the Company tortiously interfered with a prospective business opportunity and awarded damages. The jury also ruled that Tel tortiously interfered with Aeroflex’s non-disclosure agreements with two former Aeroflex employees. The jury also found that the former Aeroflex employees breached their non-disclosure agreements with Aeroflex. The Court conducted further hearings on the Company’s post-trial motions which sought to reduce the damages award of $2.8 million, as well as the punitive damages claim.  The Court denied the Company’s motions and awarded Aeroflex an additional $2.1 million of punitive damages. The Company has filed motions in January 2018 for the Court to reconsider the amount of damages on the grounds that they are duplicative and not legally supportable. The Court heard these motions and such motions were denied. The Company has filed for the appeal. The Company has posted a $2 million bond for the appeal. This $2 million bond amount will remain in place during the appeal process (See Note 13). The Company believes it has solid grounds to appeal this verdict, and believes it has submitted strong legal arguments to vacate the decision. The appeal process is expected to take at least one year to complete. However, the Company cannot predict the timing or the outcome of the appeal.
+ 
+Other than the matters outlined above, we are currently not involved in any litigation that we believe could have a material adverse effect on our financial condition or results of operations. There is no action, suit, proceeding, inquiry or investigation before any court, public board, government agency, self-regulatory organization or body pending or, to the knowledge of executive officers of our Company, threatened against or affecting our Company, or our common stock in which an adverse decision could have a material effect.
+ 
+Item 1A.  Risk Factors.
+ 
+We believe there are no changes that constitute material changes from the risk factors previously disclosed in the Company’s Annual Report on Form 10-K for the fiscal year ended March 31, 2019, filed with the SEC on July 1, 2019.
+ 
+Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds.
+ 
+There were no unregistered sales of the Company’s equity securities during the quarter ended December 31, 2019.
+ 
+Item 3.   Defaults upon Senior Securities.
+ 
+There has been no default in the payment of principal, interest, sinking or purchase fund installment, or any other material default, with respect to any indebtedness of the Company.
+ 
+Item 4.   Mine Safety Disclosures.
+ 
+Not applicable.  
+ 
+Item 5.  Other Information.
+ 
+There is no other information required to be disclosed under this item which was not previously disclosed.
+ 
+
+31
+
+Table of Contents
+
+ 
+Item 6.  Exhibits.
+ 
+
+ 
+* Filed herewith
+ 
+
+32
+
+Table of Contents
+
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+
+ 
+
+
+ 
+
+
+TEL-INSTRUMENT ELECTRONICS CORP.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Date: February 13, 2020
+
+
+ 
+
+
+By:
+
+
+ /s/ Jeffrey C. O’Hara
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Name: Jeffrey C. O’Hara
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Title:   Chief Executive Officer
+            Principal Executive Officer
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+Date: February 13, 2020
+
+
+ 
+
+
+By:
+
+
+ /s/ Joseph P. Macaluso
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Name: Joseph P. Macaluso
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Title:   Principal Financial Officer
+            Principal Accounting Officer
+
+
+ 
+
+
+
+ 
+ 
+
+33
+ 
+
+ 
+ 
+ 
+
+

@@ -1,0 +1,2109 @@
+
+10-Q
+1
+form10-q.htm
+
+
+ 
+
+ 
+ 
+
+UNITED
+STATES
+SECURITIES
+AND EXCHANGE COMMISSION
+WASHINGTON,
+D.C. 20549
+ 
+FORM
+10-Q
+ 
+(Mark
+One)
+ 
+
+ 
+Or
+ 
+
+
+[  ]
+TRANSITION
+    REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+ 
+
+ 
+For
+    the transition period from _______________________ to ___________________
+
+ 
+Commission
+File Number 000-30202
+ 
+mPHASE
+TECHNOLOGIES, INC.
+(Exact
+name of registrant as specified in its charter)
+ 
+
+
+New
+    Jersey
+ 
+22-2287503
+
+(State
+    of incorporation)
+ 
+(I.R.S.
+    Employer Identification No.)
+
+ 
+ 
+ 
+
+9841
+                                         Washingtonian Blvd #390
+Gaithersburg,
+                                         MD
+ 
+20878
+
+(Address
+    of principal executive offices)
+ 
+(Zip
+    Code)
+
+ 
+Registrant’s
+telephone number, including area code: (301) 329-2700
+ 
+Securities
+registered pursuant to Section 12(b) of the Act: None.
+ 
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange
+Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to the filing requirements for the past 90 days.
+[X]
+Yes [  ] No
+ 
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant
+to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that
+the registrant was required to submit such files).
+[X]
+Yes [  ] No
+ 
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,”
+“smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large
+    accelerated filer [  ]
+Accelerated
+    filer [  ]
+
+Non-accelerated
+    filer [  ]
+Smaller
+    reporting company [X]
+
+Emerging
+    growth company [  ]
+ 
+
+ 
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [  ]
+ 
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act) [  ] Yes [X]
+No
+ 
+As
+of February 18, 2020 there were 13,244,221 shares of the issuer’s
+common stock, $0.01 par value per share, issued and outstanding.
+ 
+
+ 
+ 
+
+ 
+   
+
+
+ 
+mPhase
+Technologies, Inc.
+Form
+10-Q
+ 
+Table
+of Contents
+ 
+
+
+ 
+
+
+1
+ 
+
+ 
+Cautionary
+Note Regarding Forward-Looking Statements
+ 
+This
+Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933,
+as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange
+Act”). All statements other than statements of historical fact could be deemed forward-looking statements. Statements that
+include words such as “may,” “will,” “might,” “projects,” “expects,”
+“plans,” “believes,” “anticipates,” “targets,” “intends,” “hopes,”
+“aims,” “can,” “should,” “could,” “would,” “goal,” “potential,”
+“approximately,” “estimate,” “pro forma,” “continue” or “pursue” or
+the negative of these words or other words or expressions of similar meaning may identify forward-looking statements. For example,
+forward-looking statements include any statements of the plans, strategies and objectives of management for future operations;
+any statements concerning proposed new products, services or developments; any statements regarding future economic conditions
+or performance; statements of belief and any statement of assumptions underlying any of the foregoing.
+ 
+These
+forward-looking statements are found at various places throughout this Quarterly Report on Form 10-Q and the other documents referred
+to and relate to a variety of matters, including, but not limited to, other statements that are not purely statements of historical
+fact. These forward-looking statements are made on the basis of the current beliefs, expectations and assumptions of management,
+are not guarantees of performance and are subject to significant risks and uncertainty. These forward-looking statements should
+not be relied upon as predictions of future events and mPhase Technologies, Inc. (the “Company”) cannot assure you
+that the events or circumstances discussed or reflected in these statements will be achieved or will occur. Furthermore, if such
+forward-looking statements prove to be inaccurate, the inaccuracy may be material. In light of the significant uncertainties in
+these forward-looking statements, you should not regard these statements as a representation or warranty by the Company or any
+other person that the Company will achieve its objectives and plans in any specified timeframe, or at all.
+ 
+These
+forward-looking statements should, therefore, be considered in light of various important factors, including those set forth in
+“Item 1A. Risk Factors” in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019, filed with the
+SEC on October 15, 2019 and elsewhere in this Quarterly Report on Form 10-Q. You are cautioned not to place undue reliance on
+these forward-looking statements, which speak only as of the date of this Quarterly Report on Form 10-Q. The Company disclaims
+any obligation to publicly update or release any revisions to these forward-looking statements, whether as a result of new information,
+future events or otherwise, after the date of this Quarterly Report on Form 10-Q or to reflect the occurrence of unanticipated
+events, except as required by law.
+ 
+
+2
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+ 
+CONDENSED
+CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+ 
+FOR
+THE THREE AND SIX MONTH PERIOD ENDED DECEMBER 31, 2019
+ 
+TABLE
+OF CONTENTS
+ 
+
+
+ 
+PAGE
+
+ 
+ 
+
+Condensed
+    Consolidated Unaudited Financial Statements:
+ 
+
+ 
+ 
+
+Consolidated
+    Unaudited Balance Sheets
+4
+
+ 
+ 
+
+Consolidated
+    Unaudited Statements of Operations
+5
+
+ 
+ 
+
+Consolidated
+    Unaudited Statement of Changes in Stockholders’ Deficit
+6
+
+ 
+ 
+
+Consolidated
+    Unaudited Statements of Cash Flows
+7
+
+ 
+ 
+
+Condensed
+    Notes to Consolidated Unaudited Financial Statements
+9
+
+ 
+
+3
+ 
+
+ 
+PART
+I – FINANCIAL INFORMATION
+ 
+ITEM
+1. CONDENSED COSOLIDATED UNAUDITED FINANCIAL STATEMENTS
+ 
+mPhase
+Technologies, Inc.
+Condensed
+Consolidated Balance Sheets
+ 
+
+ 
+The
+accompanying condensed notes are an integral part of these unaudited consolidated financial statements.
+ 
+
+4
+ 
+
+ 
+mPhase
+Technologies, Inc.
+Condensed
+Consolidated Statements of Operations
+(Unaudited)
+ 
+
+ 
+The
+accompanying condensed notes are an integral part of these unaudited consolidated financial statements.
+ 
+
+5
+ 
+
+ 
+mPhase
+Technologies, Inc.
+Condensed
+Consolidated Statements of Stockholders’ Equity (Deficit)
+For
+the Six Months Ended December 31, 2019 and 2018
+(Unaudited)
+ 
+
+ 
+
+ 
+The
+accompanying condensed notes are an integral part of these unaudited consolidated financial statements.
+ 
+
+6
+ 
+
+ 
+mPhase
+Technologies, Inc.
+Condensed
+Consolidated Statements of Cash Flows
+(Unaudited)
+ 
+
+ 
+The
+accompanying condensed notes are an integral part of these unaudited consolidated financial statements.
+ 
+
+7
+ 
+
+ 
+
+ 
+The
+accompanying condensed notes are an integral part of these unaudited consolidated financial statements.
+ 
+
+8
+ 
+
+ 
+
+mPHASE
+TECHNOLOGIES, INC.
+
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+1: NATURE OF BUSINESS AND BASIS OF PRESENTATION
+ 
+Organization
+and Nature of Business
+ 
+mPhase
+Technologies, Inc., including its wholly-owned subsidiaries, are collectively referred to herein as “mPhase,” “XDSL”,
+“Company,” “us,” or “we.”
+ 
+The
+Company was incorporated in the state of New Jersey in 1979 under the name Tecma Laboratory, Inc. and has subsequently operated
+under Tecma Laboratories, Inc., and Lightpaths TP Technologies, Inc., until June 2, 1997 when the Company changed its name to
+mPhase Technologies, Inc.
+ 
+On
+January 11, 2019, the Company underwent a major change in management and control. The new management of the Company is positioning
+the Company to be a technology leader in artificial intelligence and machine learning while enabling a more rapid commercial development
+of its patent portfolio and other intellectual property. The Company’s goal is to generate significant revenue from its
+artificial intelligence and machine learning technologies.
+ 
+On
+February 15, 2019, the Company acquired Travel Buddhi, a software platform to enhance travel via ultra-customization tools that
+tailor a planned trip experience in ways not previously available.
+ 
+On
+June 30, 2019, the Company acquired 99% of the outstanding common shares of Alpha Predictions LLP (“Alpha Predictions”).
+Alpha Predictions is an India-based technology company that has developed a suite of commercial data analysis products for use
+across multiple industries. The Company expects the acquisition to result in synergies with its other operating divisions, which
+will drive revenue growth and innovation.
+ 
+Basis
+of Presentation
+ 
+The
+condensed consolidated unaudited financial information furnished herein reflects all adjustments, consisting only of normal recurring
+items, which in the opinion of management, are necessary to fairly state the Company’s financial position, results of operations
+and cash flows for the dates and periods presented and to make such information not misleading. Certain information and footnote
+disclosures normally included in annual financial statements prepared in accordance with accounting principles generally accepted
+in the United States of America (“US GAAP”) have been omitted pursuant to rules and regulations of the Securities
+and Exchange Commission (the “SEC”); nevertheless, management of the Company believes that the disclosures herein
+are adequate to make the information presented not misleading.
+ 
+The
+condensed consolidated unaudited financial statements for the six months ended December 31, 2019 and 2018 include the operations
+of mPhase and its wholly-owned subsidiaries, mPower Technologies, Inc., Medds, Inc., mPhase Technologies India Private Limited
+effective March 19, 2019, and Alpha Predictions LLP effective June 30, 2019. All significant intercompany accounts and transactions
+have been eliminated in the consolidation.
+ 
+These
+condensed consolidated unaudited financial statements should be read in conjunction with the Company’s audited consolidated
+financial statements for the year ended June 30, 2019, contained in the Company’s Annual Report on Form 10-K filed with
+the SEC on October 15, 2019. The results of operations for the six months ended December 31, 2019, are not necessarily indicative
+of results to be expected for any other interim period or the fiscal year ending June 30, 2020.
+ 
+
+9
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+2: GOING CONCERN
+ 
+The
+accompanying unaudited consolidated financial statements have been prepared on a going concern basis, which contemplates the realization
+of assets and the satisfaction of liabilities in the normal course of business.
+ 
+The
+Company has incurred negative cash flows from operations of $660,849 for the six months ended December 31, 2019. At December 31,
+2019, the Company had a working capital deficit of $1,546,818, and an accumulated deficit of $229,874,128. It is management’s
+opinion that these facts raise substantial doubt about the Company’s ability to continue as a going concern for a period
+of twelve months from the date of this report, without additional debt or equity financing. The unaudited consolidated financial
+statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts nor to the
+amounts and classification of liabilities that might be necessary should the Company be unable to continue as a going concern.
+ 
+In
+order to meet its working capital needs through the next twelve months from the date of this report and to fund the growth of
+our nanotechnology, artificial intelligence, and machine learning technologies, the Company may consider plans to raise additional
+funds through the issuance of equity or debt. Although the Company intends to obtain additional financing to meet its cash needs,
+the Company may be unable to secure any additional financing on terms that are favorable or acceptable to it, if at all.
+ 
+NOTE
+3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+Foreign
+Currency Translation and Transactions
+ 
+The
+functional currency of our operations in India is the Indian Rupee. Foreign currency denominated assets and liabilities are translated
+into U.S. dollars at the exchange rates in effect at the balance sheet date, and income and expense items are translated at the
+average exchange rates in effect during the applicable period. Translation adjustments arising from the use of different exchange
+rates from period to period are included as a component of stockholders’ equity as “Accumulated other comprehensive
+income (loss).” Gains and losses resulting from foreign currency transactions are included in the consolidated statements
+of comprehensive income (loss), as other comprehensive income (loss). There have been no significant fluctuations in the exchange
+rate for the conversion of Indian Rupee to U.S. dollars after the balance sheet date.
+ 
+Use
+of Estimates
+ 
+The
+preparation of condensed consolidated unaudited financial statements in conformity with US GAAP requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of the unaudited consolidated financial statements and reported amounts of revenues and expenses during the reporting
+period. Actual results could differ from those estimates. If actual results significantly differ from the Company’s estimates,
+the Company’s financial condition and results of operations could be materially impacted. Significant estimates include
+the collectability of accounts receivable, valuation of intangible assets, accrued expenses, valuation of derivative liabilities,
+stock-based compensation, and the deferred tax asset valuation allowance.
+ 
+Concentrations
+of Credit Risk
+ 
+Credit
+Risk
+ 
+Financial
+instruments which potentially subject the Company to concentrations of credit risk consist principally of cash and cash equivalents
+and accounts receivable. The Company maintains cash and cash equivalents with three financial institutions. Deposits held with
+the financial institutions may exceed the amount of insurance provided by the Federal Deposit Insurance Corporation on such deposits,
+but may be redeemed upon demand. The Company performs periodic evaluations of the relative credit standing of the financial institutions.
+With respect to accounts receivable, the Company monitors the credit quality of its customers as well as maintain an allowance
+for doubtful accounts for estimated losses resulting from the inability of customers to make required payments.
+ 
+Revenue
+Risk
+ 
+Agreements
+which potentially subject the Company to concentrations of revenue risk consist principally of one customer agreement. For the
+six months ended December 31, 2019 and 2018, this one customer accounted for 99% and 0% of our total revenue, respectively. At
+December 31, 2019 and June 30, 2019, this one customer accounted for 96% and 99% of our total accounts receivable, respectively.
+ 
+Cash
+and Cash Equivalents
+ 
+For
+purposes of balance sheet presentation and reporting of cash flows, the Company considers all unrestricted demand deposits, money
+market funds and highly liquid debt instruments with an original maturity of less than 90 days to be cash and cash equivalents.
+There were no cash equivalents at December 31, 2019 and June 30, 2019.
+ 
+
+10
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+ 
+Accounts
+Receivable
+ 
+The
+Company regularly reviews outstanding receivables and provides for estimated losses through an allowance for doubtful accounts.
+In evaluating the level of established loss reserves, the Company makes judgments regarding its customers’ ability to make
+required payments, economic events and other factors. As the financial condition of these parties change, circumstances develop
+or additional information becomes available, adjustments to the allowance for doubtful accounts may be required. The Company maintains
+reserves for potential credit losses and such losses traditionally have been within its expectations. At December 31, 2019 and
+June 30, 2019, the Company determined there was no requirement for an allowance for doubtful accounts.
+ 
+Goodwill
+and Intangible Assets
+ 
+Goodwill
+is recorded when the purchase price paid for an acquisition exceeds the fair value of the net identified tangible and intangible
+assets acquired. The Company evaluates goodwill for impairment annually or more frequently when an event occurs or circumstances
+change that indicate that the carrying value may not be recoverable. The Company tests goodwill for impairment by first comparing
+the fair value of the reporting unit to its carrying value. If the fair value is determined to be less than the carrying value,
+a second step is performed to measure the amount of impairment loss. On June 30, 2020, we will perform our annual evaluation of
+goodwill impairment to determine if the estimated fair value of the reporting unit exceeds its carrying value.
+ 
+Patents
+and licenses are capitalized when the Company determines there will be a future benefit derived from such assets and are stated
+at cost. Amortization is computed using the straight-line method over the estimated useful life of the asset, generally five years.
+As of December 31, 2019, and June 30, 2019, the book value of patents and licenses of $214,383, has been fully amortized and no
+amortization expense was recorded for the six months ended December 31, 2019 and 2018.
+ 
+Capitalized
+Software Development Costs
+ 
+The
+Company follows the provisions of ASC 350-40, “Internal Use Software.” ASC 350-40 provides guidance for determining
+whether computer software is internal-use software, and on accounting for the proceeds of computer software originally developed
+or obtained for internal use and then subsequently sold to the public. It also provides guidance on capitalization of the costs
+incurred for computer software developed or obtained for internal use. The Company expenses all costs incurred during the preliminary
+project stage of its development, and capitalizes the costs incurred during the application development stage. Costs incurred
+relating to upgrades and enhancements to the software are capitalized if it is determined that these upgrades or enhancements
+add additional functionality to the software. Costs incurred to improve and support products after they become available are charged
+to expense as incurred.
+ 
+Capitalized
+software development costs are amortized on a straight-line basis over the estimated useful lives, currently three years. Management
+evaluates the useful lives of these assets on an annual basis and tests for impairment whenever events or changes in circumstances
+occur that could impact the recoverability of these assets.
+ 
+At
+December 31, 2019, the book value of purchased and developed technology of $2,925,827, included two technology platforms, a machine
+learning platform and an artificial intelligence platform. For the six months ended December 31, 2019 and 2018, amortization expense
+which is included in general and administration expenses within the consolidated statements of operations, was $484,278
+and $0, respectively.
+ 
+Fair
+Value of Financial Instruments
+ 
+The
+Company accounts for the fair value of financial instruments in accordance with ASC topic 820, “Fair Value Measurements
+and Disclosures” (ASC 820), formerly SFAS No. 157 “Fair Value Measurements”. ASC 820 defines “fair value”
+as the price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous
+market for the asset or liability in an orderly transaction between market participants on the measurement date.
+ 
+ASC
+820 also describes three levels of inputs that may be used to measure fair value:
+ 
+Level
+1: Observable inputs that reflect unadjusted quoted prices for identical assets or liabilities traded in active markets.
+ 
+Level
+2: Inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or
+indirectly.
+ 
+Level
+3: Inputs that are generally unobservable. These inputs may be used with internally developed methodologies that result in management’s
+best estimate of fair value.
+ 
+Financial
+instruments consist principally of cash, accounts receivable, prepaid expenses, due from affiliates, accounts payable, accrued
+liabilities, due to related parties, and other current liabilities. The carrying amounts of such financial instruments in the
+accompanying balance sheets approximate their fair values due to their relatively short-term nature. The fair value of short and
+long-term debt is based on current rates at which the Company could borrow funds with similar remaining maturities. The carrying
+amounts approximate fair value. It is management’s opinion that the Company is not exposed to any significant currency or
+credit risks arising from these financial instruments.
+ 
+
+11
+ 
+
+ 
+
+
+mPHASE
+TECHNOLOGIES, INC.
+
+
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+ 
+Revenue
+Recognition
+ 
+Revenue
+is derived from the sale of artificial intelligence and machine learning focused technology products. The Company recognizes revenue
+when performance obligations under the terms of a contract with the customer are satisfied. Product sales occur once control is
+transferred upon delivery to the customer. Revenue is measured as the amount of consideration the Company expects to receive in
+exchange for transferring products. The amount of consideration the Company receives and revenue the Company recognizes varies
+with changes in customer incentives the Company offers to its customers and their customers. In the event any discounts, sales
+incentives, or similar arrangements are agreed to with a customer, such amounts are estimated at time of sale and deducted from
+revenue. Sales taxes and other similar taxes are excluded from revenue (see Note 6).
+ 
+Share-Based
+Compensation
+ 
+The
+Company computes share based payments in accordance with ASC 718-10, Compensation (“ASC 718-10”) and Staff Accounting
+Bulletin (“SAB”) No. 107, Share-Based Payment No. 107 (“SAB 107”). The Company has applied the provisions
+of SAB 107 in its adoption of ASC 718-10. The Company accounts for non-employee share-based awards in accordance with ASC Topic
+505-50, Equity Based Payments to Non-Employees. The Company estimates the fair value of stock options and warrants by using the
+Black-Scholes option pricing model.
+ 
+Derivative
+Instruments
+ 
+The
+Company enters into financing arrangements that consist of freestanding derivative instruments or are hybrid instruments that
+contain embedded derivative features. The Company accounts for these arrangements in accordance with ASC topic 815, Accounting
+for Derivative Instruments and Hedging Activities as well as related interpretations of this standard. In accordance with this
+standard, derivative instruments are recognized as either assets or liabilities in the balance sheet and are measured at fair
+values with gains or losses recognized in earnings. Embedded derivatives that are not clearly and closely related to the host
+contract are bifurcated and are recognized at fair value with changes in fair value recognized as either a gain or loss in earnings.
+The Company determines the fair value of derivative instruments and hybrid instruments based on available market data using appropriate
+valuation models, considering all of the rights and obligations of each instrument.
+ 
+The
+Company estimates fair values of derivative financial instruments using various techniques (and combinations thereof) that are
+considered consistent with the objective measuring fair values. In selecting the appropriate technique, the Company considers,
+among other factors, the nature of the instrument, the market risks that it embodies and the expected means of settlement. Estimating
+fair values of derivative financial instruments requires the development of significant and subjective estimates that may, and
+are likely to, change over the duration of the instrument with related changes in internal and external market factors. In addition,
+option-based techniques (such as Black-Scholes model) are highly volatile and sensitive to changes in the trading market price
+of the Company’s common stock. Since derivative financial instruments are initially and subsequently carried at fair values,
+our income (expense) going forward will reflect the volatility in these estimates and assumption changes.
+ 
+Convertible
+Debt Instruments
+ 
+The
+Company records debt net of debt discount for beneficial conversion features and warrants, on a relative fair value basis. Beneficial
+conversion features are recorded pursuant to the Beneficial Conversion and Debt Topics of the Financial Accounting Standards Board
+(“FASB”) ASC. The amounts allocated to warrants and beneficial conversion rights are recorded as debt discount and
+as additional paid-in-capital. Debt discount is amortized to interest expense over the life of the debt.
+ 
+
+12
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+ 
+Income
+Taxes
+ 
+The
+Company accounts for income taxes in accordance with Accounting for Income Taxes, as clarified by ASC 740-10, Accounting for
+Uncertainty in Income Taxes (“ASC 740”). Under this method, deferred income taxes are determined based on the
+estimated future tax effects of differences between the financial statement and tax basis of assets and liabilities and net operating
+loss and tax credit carryforwards given the provisions of enacted tax laws. Deferred income tax provisions and benefits are based
+on changes to the assets or liabilities from year-to-year. In providing for deferred taxes, the Company considers tax regulations
+of the jurisdictions in which the Company operates, estimates of future taxable income, and available tax planning strategies.
+If tax regulations, operating results or the ability to implement tax-planning strategies vary, adjustments to the carrying value
+of deferred tax assets and liabilities may be required. Valuation allowances are recorded related to deferred tax assets based
+on the “more likely than not” criteria of ASC 740.
+ 
+ASC
+740 requires that the Company recognize the financial statement benefit of a tax position only after determining that the relevant
+tax authority would more likely than not sustain the position following an audit. For tax positions meeting the “more-likely-than-not”
+threshold, the amount recognized in the consolidated financial statements is the largest benefit that has a greater than 50 percent
+likelihood of being realized upon ultimate settlement with the relevant tax authority. The Company’s tax returns for its
+June 30, 2019, 2018, 2017, and 2016 tax years may be selected for examination by the taxing authorities as the statute of limitations
+remains open.
+ 
+The
+Company recognizes expenses for tax penalties and interest assessed by the Internal Revenue Service and other taxing authorities
+upon receiving valid notice of assessments. The Company has received no such notices for the tax years ended June 30, 2019 and
+2018.
+ 
+Earnings
+Per Share
+ 
+In
+accordance with the provisions of FASB ASC Topic 260, Earnings per Share, basic earnings per share (“EPS”)
+is computed by dividing earnings available to common shareholders by the weighted average number of shares of common stock outstanding
+during the period. Other potentially dilutive common shares, and the related impact to earnings, are considered when calculating
+EPS on a diluted basis.
+ 
+In
+computing diluted EPS, only potential common shares that are dilutive, those that reduce EPS or increase loss per share, are included.
+The effect of contingently issuable shares are not included if the result would be anti-dilutive, such as when a net loss is reported.
+Therefore, basic and diluted EPS are computed using the same number of weighted average shares for the three and six months ended
+December 31, 2019 and 2018, respectively, as we incurred a net loss for those periods. At December 31, 2019, there were outstanding
+warrants to purchase up to approximately 37,000,000 shares of the Company’s common stock, approximately 703,726 shares
+of the Company’s common stock to be issued, and notes payable held by third parties with convertible features that if converted,
+would total approximately 1,400,000 shares of the Company’s common stock, which may dilute future EPS. At December 31, 2018,
+there were notes payable held by third parties and officers and directors, with convertible features that if converted, would
+total approximately 200,000 shares of the Company’s common stock, which may dilute future EPS.
+ 
+
+13
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+3: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+ 
+Recently
+Adopted Accounting Standards
+ 
+Effective
+July 1, 2019, the Company adopted Accounting Standards Update (“ASU”) 2016-02, Leases (“ASU 2016-02”).
+The standard amends the existing accounting standards for lease accounting, including requiring lessees to recognize most leases
+on their balance sheets and making targeted changes to lessor accounting. The new leases standard requires a modified retrospective
+transition approach for all leases existing at, or entered into after, the date of initial application, with an option to use
+certain transition relief. In September 2017, the FASB issued ASU 2017-13, Revenue Recognition (Topic 605), Revenue from Contracts
+with Customers (Topic 606), Leases (Topic 840), and Leases (Topic 842, which amends certain aspects of the new lease standard.
+The Company determined the adoption of ASU 2016-02 did not have a material impact on its consolidated financial statements.
+ 
+Effective
+July 1, 2019, the Company adopted Accounting Standards Update (“ASU”) 2017-11, Update to Earnings Per Share (Topic
+260); Distinguishing Liabilities from Equity (Topic 480); Derivatives and Hedging (Topic 815): (Part I) Accounting for Certain
+Financial Instruments with Down Round Features, (Part II) Replacement of the Indefinite Deferral for Mandatorily Redeemable Financial
+Instruments of Certain Nonpublic Entities and Certain Mandatorily Redeemable Noncontrolling Interests with a Scope Exception.
+The ASU makes limited changes to the guidance on classifying certain financial instruments as either liabilities or equity. The
+ASU is intended to improve (1) the accounting for instruments with “down-round” provisions and (2) the readability
+of the guidance in ASC 480 on distinguishing liabilities from equity by replacing the indefinite deferral of certain pending content
+with scope exceptions. The Company determined the adoption of ASU 2017-11 did not have a material impact on its consolidated financial
+statements.
+ 
+Recently
+Issued Accounting Standards Not Yet Adopted
+ 
+In
+August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820): Disclosure Framework – Changes to the Disclosure
+Requirements for Fair Value Measurement, to modify the disclosure requirements on fair value measurements in Topic 820, Fair Value
+Measurement, based on the concepts in the Concept Statement, including the consideration of costs and benefits. The standard is
+effective for the Company as of July 1, 2020, with early adoption permitted. The Company does not expect the adoption of this
+guidance to have a material impact on its consolidated financial statements.
+ 
+In
+August 2018, the FASB issued ASU 2018-13, to modify the disclosure requirements on fair value measurements in Topic 820, Fair
+Value Measurement, based on the concepts in the Concept Statement, including the consideration of costs and benefits. The standard
+is effective for the Company as of July 1, 2020, with early adoption permitted. The Company does not expect the adoption of this
+guidance to have a material impact on its consolidated financial statements.
+ 
+Management
+does not believe that any other recently issued, but not yet effective accounting pronouncements, if adopted, would have a material
+impact on the accompanying consolidated financial statements.
+ 
+
+14
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+4: BUSINESS ACQUISITION
+ 
+On
+June 30, 2019, the Company acquired 99% of the outstanding common shares of Alpha Predictions LLP (“Alpha Predictions”).
+Alpha Predictions is an India-based technology company that has developed a suite of commercial data analysis products for use
+across multiple industries. The Company expects the acquisition to result in synergies with its other operating divisions, which
+will drive revenue growth and innovation.
+ 
+The
+goodwill of $6,020 arising from the acquisition consists largely of the synergies expected from combining the operations of the
+Company and Alpha Predictions.
+ 
+The
+following table summarizes the consideration paid for Alpha Predictions and the fair values of the assets acquired and liabilities
+assumed recognized at the acquisition date.
+ 
+
+ 
+The
+Company is currently evaluating the fair values of the assets acquired and liabilities assumed. The preliminary estimates and
+measurements are, therefore, subject to change during the measurement period. The acquired intangible asset – purchased
+software was recognized at fair value as of the acquisition date. It is provisionally subject to a useful life of 3 years, pending
+further evaluation of the underlying software.
+ 
+The
+fair value of the one-percent noncontrolling interest in Alpha Predictions was determined to be immaterial, based on extrapolation
+of the price paid by the Company for its controlling interest and consideration of any potential control premiums.
+ 
+
+15
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+5: INTANGIBLE ASSET – PURCHASED SOFTWARE, NET
+ 
+Intangible
+asset – Purchased Software, net, is comprised of the following at:
+ 
+
+ 
+Intangible
+asset – Purchased Software consists of the following two software technologies:
+ 
+
+ 
+The
+Alpha Predictions purchased software was acquired as further described in Note 4. The Travel Buddhi purchased software was acquired
+on February 15, 2019, for $115,281 and included all rights, software, and code of the technology platform. During the fiscal year
+ended June 30, 2019, $55,000 of the Travel Buddhi purchase price was paid and $60,281 remained outstanding. At December 31, 2019,
+the Travel Buddhi technology platform has not been placed in service, but is expected to be during fiscal year 2020.
+ 
+Purchased
+software costs are amortized on a straight-line basis over three years. Amortization of purchased software costs is included
+in general and administration expenses within the consolidated statements of operations.
+ 
+For
+the three and six months ended December 31, 2019, amortization expense was $242,139 and $484,278, respectively. There was no amortization
+expense related to purchased software for the three and six months ended December 31, 2018.
+ 
+Future
+amortization expense related to the existing net carrying amount of purchased software at December 31, 2019 is expected to be
+as follows:
+ 
+
+ 
+
+16
+ 
+
+ 
+
+mPHASE
+TECHNOLOGIES, INC.
+
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+6: REVENUE FROM CONTRACTS WITH CUSTOMERS
+ 
+The
+following table presents our revenue disaggregated by category within our single reporting segment:
+ 
+
+ 
+For
+the three and six months ended December 31, 2019, the Company was subject to revenue concentration risk as one customer accounted
+for 99% of our total revenue for both periods.
+ 
+Subscription
+and Application Development and Implementation Revenue
+ 
+The
+Company recognizes revenue when, or as, it satisfies a performance obligation to a customer. The Company primarily has one performance
+obligation, which includes the combined promise to develop, implement, and license customized software. Payment terms for the
+software include one-time application development and implementation fees, which are generally billed on a time-and-materials
+basis over the development and implementation period, plus fixed license subscription fees, which may either be billed in full
+upfront or in monthly installments over the license period, which is generally three years. All of these fees are allocated to
+the single performance obligation of providing software to the customer.
+ 
+The
+performance obligation is fully satisfied at the point in time when the customer has taken control of the completed software,
+which is when physical possession of the software has transferred to the customer, the customer is able to use and benefit from
+the software, and the contractual license period has begun. Since the Company has no further obligation to the customer once control
+of the software has transferred, the Company recognizes revenue in full for all of the development and implementation fees at
+that point in time. Subscription fees are also recognized when control of the software has transferred to the customer but only
+to the extent such fees are contractually guaranteed to the Company. Any future monthly subscription fees that the Company would
+not have a contractually guaranteed right to collect in the event of early termination of the contract are instead recognized
+as revenue on a straight-line basis over the license period.
+ 
+Service
+and Support Revenue
+ 
+Certain
+contracts also contain a second performance obligation for service and support. This performance obligation includes the promise
+to provide future updates, upgrades, and enhancements to the software over the license period, if and when they occur. Service
+and support fees are fixed as a percentage of total contract value and billed in monthly installments over the license period.
+The Company recognizes service and support fee revenue over time, on a straight-line basis over the license period, as the customer
+receives such services on a generally uniform basis throughout the license period.
+ 
+Allocation
+of the Transaction Price
+ 
+Prices
+allocated to each performance obligation generally correspond with the contractually stated prices, since they equal standalone
+selling price. In some cases, services may be discounted, which requires the company to allocate the transaction price based on
+relative standalone selling price. The Company estimates standalone selling price based on comparable industry practices and the
+costs and margins involved in providing services to its customers.
+ 
+Contract
+Liabilities
+ 
+Contract
+liabilities include amounts billed to the customer in excess of revenue recognized and are presented as contract liabilities on
+the condensed consolidated balance sheets. At December 31, 2019 and June 30, 2019 contract liabilities totaled $115,166 and
+$0, respectively.
+ 
+Practical
+Expedient
+ 
+The
+Company has elected a practical expedient to omit certain disclosures about the transaction price allocated to remaining performance
+obligations for contracts with terms of one year or less.
+ 
+NOTE
+7: SHORT TERM NOTES PAYABLE
+ 
+Short
+term notes payable is comprised of the following:
+ 
+
+ 
+[1]
+effective December 10, 2018, the Company entered into a “Judgment Settlement Agreement” to satisfy in full the
+Forbearance Agreement with Fife that was previously in effect. As a result, under the Judgment Settlement Agreement, no shares
+of the Company’s common stock are issuable or eligible to be converted into. Under the terms of the Judgment Settlement
+Agreement, the Company is required to pay $15,000 per month from January 15, 2019 through and including February 15, 2020, with
+a final payment of $195,000 due and payable in March of 2020. The Company has made all payments required as of the date hereof.
+Failure to make any of the payments, when due, will result in the remaining liability balance of $559,313 (at December 31, 2019),
+to be immediately due and payable by the Company.
+ 
+
+17
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+8: Convertible Debt Arrangements
+ 
+JMJ
+Financial
+ 
+At
+December 31, 2019 and June 30, 2019, the amount recorded in current liabilities for this one convertible note and accrued interest
+thereon due to JMJ Financial was $201,148 and $193,287, respectively. During the six months ended December 31, 2019 and 2018 the
+Company recorded $7,861 and $7,212, respectively of interest for the outstanding convertible note.
+ 
+As
+of December 31, 2019 and June 30, 2019, the aggregate remaining amount of convertible securities held by JMJ could be converted
+into 10,057 and 9,664 shares, respectively, with a conversion price of $20.
+ 
+Accredited
+Investors
+ 
+On
+June 19, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”) and
+issued an 8% convertible promissory note in the principal amount of $78,000 to the Lender with a maturity date of June 19, 2020.
+The Company received net proceeds in the amount of $45,800, with $25,000 refinancing a prior convertible promissory note due to
+the Lender that had been in default, $3,000 being paid to reimburse the Lender for legal and due diligence fees incurred with
+respect to this Securities Purchase Agreement and Convertible Promissory Note and $4,200 being paid to the Company’s Transfer
+Agent to satisfy an outstanding balance. This convertible debenture converts at 62% of the lowest trading price during the 20
+days prior to conversion. Due to the variable conversion provisions contained in the convertible promissory note, the Company
+accounted for this conversion feature as a derivative liability. In connection herewith, the Company recorded a derivative liability
+of $103,161, deferred financing costs of $3,000 and debt discount of $75,000. The deferred financing costs and debt discount are
+being amortized over the term of the note. During December 2019, the Company paid-off the aggregate balance of the convertible
+promissory note, including accrued interest and prepayment penalty.
+ 
+On
+July 30, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”) and
+issued an 8% Convertible Promissory Note in the principal amount of $53,000 to the Lender with a maturity date of July 30, 2020.
+The Company received net proceeds in the amount of $50,000 as a result of $3,000 being paid to reimburse the Lender for legal
+and due diligence fees incurred with respect to this Securities Purchase Agreement and Convertible Promissory Note. This convertible
+debenture converts at 62% of the lowest trading price during the 20 days prior to conversion. Due to the variable conversion provisions
+contained in the convertible promissory note, the Company accounted for this conversion feature as a derivative liability. In
+connection herewith, the Company recorded a derivative liability of $114,380, deferred financing costs of $3,000 and debt discount
+of $50,000. The deferred financing costs and debt discount are being amortized over the term of the note. The aggregate balance
+of the convertible promissory note and accrued interest was $53,000 and $1,789, respectively, at December 31, 2019. The aggregate
+balance of the convertible promissory note, net of deferred financing costs and debt discount at December 31, 2019 was $22,362.
+ 
+On
+September 5, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”)
+and issued an 8% Convertible Promissory Note in the principal amount of $53,000 to the Lender with a maturity date of September
+5, 2020. On September 9, 2019, the Company received net proceeds in the amount of $46,800 as a result of $3,000 being paid to
+reimburse the Lender for legal and due diligence fees incurred with respect to this Securities Purchase Agreement and Convertible
+Promissory Note and $3,200 being paid to the Company’s Transfer Agent to satisfy an outstanding balance. This convertible
+debenture converts at 62% of the lowest trading price during the 20 days prior to conversion. Due to the variable conversion provisions
+contained in the convertible promissory note, the Company accounted for this conversion feature as a derivative liability. In
+connection herewith, the Company recorded a derivative liability of $104,860, deferred financing costs of $3,000 and debt discount
+of $50,000. The deferred financing costs and debt discount are being amortized over the term of the note. The aggregate balance
+of the convertible promissory note and accrued interest was $53,000 and $1,359, respectively, at December 31, 2019. The aggregate
+balance of the convertible promissory note, net of deferred financing costs and debt discount at December 31, 2019 was $16,989.
+ 
+
+18
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+8: Convertible Debt Arrangements (continued)
+ 
+On
+September 24, 2019, the Company entered into a Securities Purchase Agreement with accredited investors (“Lenders”)
+and issued 8% Convertible Promissory Notes in the principal amount of $124,200 (including an aggregate of $9,200 in original issue
+discounts) to the Lenders with maturity dates of September 24, 2020. On September 27, 2019, the Company received net proceeds
+in the amount of $112,000 as a result of $3,000 being paid to reimburse the Lender for legal and due diligence fees incurred with
+respect to this Securities Purchase Agreement and Convertible Promissory Notes. This convertible debenture converts at 62% of
+the lowest trading price during the 20 days prior to conversion. Due to the variable conversion provisions contained in the convertible
+promissory note, the Company accounted for this conversion feature as a derivative liability. In connection herewith, the Company
+recorded a derivative liability of $208,335, original issue discount of $9,200, deferred financing costs of $3,000 and debt discount
+of $112,000. The original issue discount, deferred financing costs and debt discount are being amortized over the term of the
+note. The aggregate balance of the convertible promissory note and accrued interest was $124,200 and $2,668, respectively, at
+December 31, 2019. The aggregate balance of the convertible promissory note, net of original issue discount, deferred financing
+costs and debt discount at December 31, 2019 was $33,347.
+ 
+On
+December 2, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”)
+and issued an 8% Convertible Promissory Note in the principal amount of $200,000 (including a $7,500 original issue discount)
+to the Lender with a maturity date of December 2, 2020. On December 2, 2019, the Company received net proceeds in the amount of
+$182,500 as a result of $10,000 being paid to reimburse the Lender for legal and due diligence fees incurred with respect to this
+Securities Purchase Agreement and Convertible Promissory Note. This convertible debenture converts at the greater of (i) $0.50
+per share or (ii) 60% of the lowest trading price during the 20 days prior to conversion. Due to the variable conversion provisions
+contained in the convertible promissory note, the Company accounted for this conversion feature as a derivative liability. In
+connection herewith, the Company recorded a derivative liability of $200,000, original issue discount of $7,500, deferred financing
+costs of $10,000 and debt discount of $182,500. The original issue discount, deferred financing costs and debt discount are being
+amortized over the term of the note. The aggregate balance of the convertible promissory note and accrued interest was $200,000
+and $1,271, respectively, at December 31, 2019. The aggregate balance of the convertible promissory note, net of original issue
+discount, deferred financing costs and debt discount at December 31, 2019 was $15,890.
+ 
+On
+December 2, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”)
+and issued an 8% Convertible Promissory Note in the principal amount of $78,000 to the Lender with a maturity date of December
+2, 2020. On December 4, 2019, the Company received net proceeds in the amount of $75,000 as a result of $3,000 being paid to reimburse
+the Lender for legal and due diligence fees incurred with respect to this Securities Purchase Agreement and Convertible Promissory
+Note. This convertible debenture converts at 62% of the lowest trading price during the 20 days prior to conversion. Due to the
+variable conversion provisions contained in the convertible promissory note, the Company accounted for this conversion feature
+as a derivative liability. In connection herewith, the Company recorded a derivative liability of $78,629, deferred financing
+costs of $3,000 and debt discount of $75,000. The deferred financing costs and debt discount are being amortized over the term
+of the note. The aggregate balance of the convertible promissory note and accrued interest was $78,000 and $496, respectively,
+at December 31, 2019. The aggregate balance of the convertible promissory note, net of deferred financing costs and debt discount
+at December 31, 2019 was $6,197.
+ 
+On
+December 2, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”)
+and issued an 8% Convertible Promissory Note in the principal amount of $135,000 (including a $6,750 original issue discount)
+to the Lender with a maturity date of December 2, 2020. On December 3, 2019, the Company received net proceeds in the amount of
+$122,000 as a result of $6,250 being paid to reimburse the Lender for legal and due diligence fees incurred with respect to this
+Securities Purchase Agreement and Convertible Promissory Note. This convertible debenture converts at the greater of (i) $0.50
+per share or (ii) 60% of the lowest trading price during the 20 days prior to conversion. Due to the variable conversion provisions
+contained in the convertible promissory note, the Company accounted for this conversion feature as a derivative liability. In
+connection herewith, the Company recorded a derivative liability of $135,000, original issue discount of $6,750, deferred financing
+costs of $6,250 and debt discount of $122,000. The original issue discount, deferred financing costs and debt discount are being
+amortized over the term of the note. The aggregate balance of the convertible promissory note and accrued interest was $135,000
+and $858, respectively, at December 31, 2019. The aggregate balance of the convertible promissory note, net of original issue
+discount, deferred financing costs and debt discount at December 31, 2019 was $10,726.
+ 
+
+19
+ 
+
+
+
+
+
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+8: Convertible Debt Arrangements (continued)
+ 
+On
+December 17, 2019, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”)
+and issued an 8% Convertible Promissory Note in the principal amount of $81,000 (including a $6,000 original issue discount) to
+the Lender with a maturity date of December 17, 2020. On December 17, 2019, the Company received net proceeds in the amount of
+$73,500 as a result of $1,500 being paid to reimburse the Lender for legal and due diligence fees incurred with respect to this
+Securities Purchase Agreement and Convertible Promissory Note. This convertible debenture converts at 62% of the lowest trading
+price during the 20 days prior to conversion. Due to the variable conversion provisions contained in the convertible promissory
+note, the Company accounted for this conversion feature as a derivative liability. In connection herewith, the Company recorded
+a derivative liability of $81,599, original issue discount of $6,000, deferred financing costs of $1,500 and debt discount of
+$73,500. The original issue discount, deferred financing costs and debt discount are being amortized over the term of the note.
+The aggregate balance of the convertible promissory note and accrued interest was $81,000 and $249, respectively, at December
+31, 2019. The aggregate balance of the convertible promissory note, net of original issue discount, deferred financing costs and
+debt discount at December 31, 2019 was $3,107.
+ 
+At
+December 31, 2019 and June 30, 2019, there was $724,200 and $78,000 of convertible notes payable outstanding, net of discounts
+of $615,582 and $75,649, respectively.
+ 
+During
+the six months ended December 31, 2019 and 2018, amortization of original issue discount, deferred financing costs, and debt discount
+amounted to $184,266 and $0, respectively.
+ 
+At
+December 31, 2019, the Company was in compliance with the terms of the Accredited Investors convertible promissory notes.
+ 
+NOTE
+9: DERIVATIVE LIABILITY
+ 
+The
+Company evaluates its convertible instruments, options, warrants or other contracts to determine if those contracts or embedded
+components of those contracts qualify as derivatives to be separately accounted for under ASC Topic 815, “Derivatives and
+Hedging.” The result of this accounting treatment is that the fair value of the derivative is marked-to-market each balance
+sheet date and recorded as a liability. In the event that the fair value is recorded as a liability, the change in fair value
+is recorded in the statement of operation as other income (expense). Upon conversion or exercise of a derivative instrument, the
+instrument is marked to fair value at the conversion date then that fair value is reclassified to equity. Equity instruments that
+are initially classified as equity that become subject to reclassification under ASC Topic 815 are reclassified to liabilities
+at the fair value of the instrument on the reclassification date.
+ 
+The
+following table presents a reconciliation of the derivative liability measured at fair value on a recurring basis using significant
+unobservable inputs (Level 3) from June 30, 2018 to December 31, 2019:
+ 
+
+ 
+
+20
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+9: DERIVATIVE LIABILITY (continued)
+ 
+Total
+derivative liability at December 31, 2019 and June 30, 2019 amounted to $586,073 and $133,669, respectively. The change in fair
+value included in earnings of $470,400 is due in part to the quoted market price of the Company’s common stock increasing
+from $0.85 at June 30, 2019 to $0.91 at December 31, 2019, coupled with slightly increased conversion prices due to the effect
+of “ratchet” provisions incorporated within the convertible notes payable.
+ 
+The
+Company used the following assumptions for determining the fair value of the convertible instruments granted under the binomial
+pricing model with binomial simulations at December 31, 2019:
+ 
+
+
+ 
+NOTE
+10: STOCKHOLDERS’ EQUITY
+ 
+The
+total number of shares of all classes of stock that the Company shall have the authority to issue is 100,001,000 shares consisting
+of 100,000,000 shares of common stock, $0.01 par value per share, of which 12,667,367 are issued and outstanding and 564,900 are
+to be issued at December 31, 2019 and 1,000 shares of preferred stock, par value $0.01 per share of which 1,000 shares have been
+designated as Series A Super Voting Preferred of which 1,000 are issued and outstanding at December 31, 2019.
+ 
+Common
+Stock
+ 
+Private
+Placements
+ 
+During
+the six months ended December 31, 2019, the Company received $197,000 of net proceeds from the sale of 788,000 shares of
+common stock in private placements with accredited investors, incurring no finder’s fees, of which 530,000 shares
+of common stock were issued subsequent to December 31, 2019.
+ 
+During
+the six months ended December 31, 2018, the Company received $30,000 of net proceeds from the issuance of 120,000 shares of common
+stock in private placements with accredited investors, incurring no finder’s fees.
+ 
+Stock
+Award Payable
+ 
+During
+the six months ended December 31, 2019, the Company did not issue any shares of common stock to former officers, outside directors,
+or strategic consultants.
+ 
+During
+the six months ended December 31, 2018, three former officers of the Company, Mr. Biderman as an outside director, and certain
+strategic consultants, who provided services to the Company, received a total of 1,150,000 shares of common stock, which were
+valued at $0.50 or $575,000, based on the closing price of the Company’s common stock on September 24, 2018, and was included
+in accrued expenses at June 30, 2018.
+ 
+Stock
+Based Compensation
+ 
+During
+the six months ended December 31, 2019, the Company issued 231,635 restricted shares of its common stock to Mr. Cutchens, the
+Company’s Chief Financial Officer, which were granted on June 1, 2019 (the “Grant Date”), pursuant to
+the terms of an employment agreement with the Company. The restricted shares of common stock vest 25% on the six-month, 1 year,
+2 year, and 3 year anniversaries of the Grant Date. During the six months ended December 31, 2019, the Company recorded $90,193
+of stock-based compensation expense related to the vested portion of this award.
+ 
+During
+the six months ended December 31, 2018, the Company did not issue any common stock to employees or officers or record any stock-based
+compensation expense.
+ 
+
+21
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+10: STOCKHOLDERS’ EQUITY (continued)
+ 
+Conversion
+of Service Fees
+ 
+During
+the six months ended December 31, 2019, the Company issued 62,000 shares of common stock to a former officer who provided services
+to the Company.
+ 
+During
+the six months ended December 31, 2018, former officers converted $671,787 accrued wages into 1,609,594 shares and $702,105 of
+notes payable and accrued interest into 1,404,210 shares and a director converted $186,000 of accrued fees into 372,000 shares
+and $126,364 of a note and accrued interest into 252,728 shares, of the Company’s common stock. Also, accounts payable to
+strategic vendors totaling $114,800 were converted into 260,200 shares of common stock.
+ 
+Reserved
+Shares
+ 
+The
+convertible promissory notes entered into with the accredited investors require the Company to reserve 28,226,605 shares of its
+Common Stock for potential future conversions under such instruments.
+ 
+At
+December 31, 2019, 7,202 shares of the Company’s Common Stock remain subject to be returned to the Company’s treasury
+for cancellation. Such shares were not sold as part of 8,000 shares of the Company’s Common Stock that was advanced during
+fiscal year 2014 under an Equity Line of Credit.
+ 
+Common
+Stock Warrants
+ 
+Warrant
+Agreement – Earned Warrants
+ 
+Mr.
+Bhatnagar, the Company’s President and CEO, is entitled to receive warrants to acquire 4% of the outstanding fully diluted
+common stock of the Company (the “Earned Warrants”) each time the Company’s revenue increases by $1,000,000.
+The exercise price of the Earned Warrants is equal to $0.50 per share, and he may not receive Earned Warrants to the extent that
+the number of Signing Shares (as defined in the Warrant Agreement) and Earned Warrants exceed 80% of the fully diluted
+common stock of the Company (“Warrant Cap”).
+ 
+Warrant
+Agreement – Accelerated Warrants
+ 
+Mr.
+Bhatnagar, the Company’s President and CEO, shall immediately receive the remaining amount of warrants necessary to acquire
+up to 80% of the outstanding fully diluted common stock of the Company (“Accelerated Warrants”) when either of the
+following occur:
+ 
+
+
+ 
+a)
+the
+    Company completes a stock or asset purchase of Scepter Commodities, LLC; or
+
+ 
+ 
+ 
+
+ 
+b)
+the
+    Company completes a stock or asset purchase of any other entity, either of which, in the aggregate, together with prior revenue
+    increases achieved by the Company, results in the consolidated revenues of the Company being not less than $15,000,000; or
+
+ 
+ 
+ 
+
+ 
+c)
+the
+    Company grows a similar business organically within mPhase to include contracts generating revenues in excess of $15,000,000;
+    or
+
+ 
+ 
+ 
+
+ 
+d)
+the
+    Company meets the listing requirements of either the NYSE or NASDAQ
+
+ 
+For
+the six months ended December 31, 2019, since the Company’s revenue was $15,131,579, Mr. Bhatnagar earned warrants to acquire
+32,405,058 shares of the Company’s common stock under the provisions of the Warrant Agreement. At December 31, 2019, under
+the current Warrant Cap, there remains no additional shares of the Company’s common stock that Mr. Bhatnagar can
+earn.
+ 
+
+22
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+10: STOCKHOLDERS’ EQUITY (continued)
+ 
+For
+the six months ended December 31, 2019, the Company recognized $16,202,529 of stock-based compensation expense related to the
+earned warrants, based upon a value of $0.50 per warrant. At December 31, 2019, there remains no additional stock-based
+compensation expense related to the Warrant Agreement that the Company expects to recognize over the next six months.
+ 
+The
+Company estimates the fair value of each option award on the date of grant using a black-scholes option valuation model that uses
+the assumptions noted in the table below. Because black-scholes option valuation models incorporate ranges of assumptions for
+inputs, those ranges are disclosed. Expected volatilities are based on the historical volatility of the Company’s stock.
+The Company uses historical data to estimate option exercise and employee termination within the valuation model; separate groups
+of employees that have similar historical exercise behavior are considered separately for valuation purposes. The expected term
+of options granted is derived from the output of the option valuation model and represents the period of time that options granted
+are expected to be outstanding; the range given below results from certain groups of employees exhibiting different behavior.
+The risk-free rate for periods within the contractual life of the option is based on the U.S. Treasury yield curve in effect at
+the time of grant. The following assumptions were utilized during the six months ended December 31, 2019:
+ 
+
+ 
+The
+following table sets forth common stock purchase warrants outstanding at December 31, 2019:
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+23
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+10: STOCKHOLDERS’ EQUITY (continued)
+ 
+Settlement
+and New Funding Share Reserves
+ 
+The
+Company agreed to reserve a total of 3,000,000 shares of its common stock of which 532,040 shares of common stock were reserved
+for and issued concurrently for the conversion of 75% of outstanding accounts payables to officers’ and a director (discussed
+below), 1,967,960 shares of common stock were reserved to reduce liabilities outstanding December 31, 2018 (“Settlement
+Reserve”), and 500,000 shares of common stock were reserved to fund continuing operations (“Funding Reserve”).
+At December 31, 2019, 315,949 shares of common stock remained available from the initial Settlement Reserve to settle prior liabilities
+and 185,063, shares of common stock remained available from the Funding Reserve to fund continuing operations.
+ 
+
+ 
+Prior
+Liabilities – Settlement Reserve
+ 
+1,967,960
+shares of the Company’s common stock have been reserved to settle the debts of the Company that were outstanding at December
+31, 2018, in the following priority; the Judgement Settlement Agreement (formerly Fife forbearance Agreement), JMJ Financial,
+Inc., MH Investment Trust, Power Up Lending Ltd, as well as other liabilities satisfactory to the CEO of the Company and the Company
+(as per Section 2(a) of the Reserve Agreement concurrent with “Change in Control Agreements”, dated January 11, 2019).
+At December 31, 2019, 315,949 shares of common stock remain available under this reserve category.
+ 
+Officer’s
+and Director’s – Conversion Share Reserve
+ 
+532,040
+shares of the Company’s common stock were reserved for the conversion of 75% of payables to officers’ and a director
+that were outstanding December 31, 2018, (as per Section 2(a) of the Reserve Agreement concurrent with “Change in Control
+Agreements”, dated January 11, 2019). All these shares were issued effective December 31, 2018 and no shares remain available
+under this reserve category.
+ 
+Continuing
+Operations Share Reserve
+ 
+500,000
+shares of the Company’s common stock were reserved as per Section 2(c) to be sold at a price, not less than $0.25 per share
+in periodic Private Placements, (as per Section 2(a) of the Reserve Agreement concurrent with “Change in Control Agreements”,
+dated January 11, 2019). At December 31, 2019, 185,063 shares of common stock remain available under this reserve category.
+ 
+Final
+Adjustment for Liabilities Eliminated by Settlement Reserve
+ 
+On
+October 9, 2019, the Company and its CEO entered into Amendment No. 1 to the original Reserve Agreement dated January 11, 2019,
+to extend the date whereby the Company is able to eliminate the above-mentioned liabilities from July 11, 2019 to March 31, 2020.
+In the event the Company is not able to eliminate the above-mentioned liabilities, or the cost to do so requires more than the
+funding provided by the Warrant Cap pertaining to Warrants to be issued to Mr. Bhatnagar, the Settlement Reserve shares shall
+be increased by that number of shares at $0.25, which equals the amount of the remaining liabilities.
+ 
+Series
+A Preferred Stock
+ 
+On
+January 11, 2019, the Company issued 1,000 shares of Series A Preferred Stock to Mr. Bhatnagar as the Company’s new President
+and CEO, to effectuate voting control of the Company pursuant to the terms of the Transition Agreement. The Series A Preferred
+shares were recorded at par value, are not tradeable, and have a nominal liquidation value.
+ 
+
+24
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+11: RELATED PARTY TRANSACTIONS
+ 
+Microphase
+Corporation
+ 
+At
+December 31, 2019, the Company owed $32,545 to Microphase for previously leased office space at its Norwalk location and for certain
+research and development services and shared administrative personnel from time to time, all through December 31, 2015.
+ 
+Former
+Director
+ 
+On
+September 24, 2018, a former outside director converted $126,364 of his note payable into 252,728 shares of common stock.
+ 
+During
+the six months ended December 31, 2019 and 2018, the Company recorded $0 and $1,915 of accrued interest.
+ 
+Transactions
+With Officers
+ 
+At
+various points during past fiscal years certain officers and former officers of the Company provided bridge loans to the Company
+evidenced by individual promissory notes and deferred compensation so as to provide working capital to the Company. All of these
+notes accrue interest at the rate of 6% per annum, and are payable on demand. During the six months ended December 31, 2019 and
+2018, the officers and former officers advanced $48,052 and $42,880 to provide working capital to the Company and $1,447 and $2,294
+has been charged for interest on loans from officers and former officers.
+ 
+At
+December 31, 2019 and June 30, 2019, these outstanding notes including accrued interest totaled $76,419 and $58,165, respectively.
+At December 31, 2019, these promissory notes are not convertible into shares of the Company’s common stock.
+ 
+During
+the six months ended December 31, 2018, three former officers of the Company, Mr. Biderman as a former outside director, and certain
+strategic consultants, who provided services to the Company, received a total of 1,150,000 shares of common stock, which were
+valued at $0.50 or $575,000, based on the closing price of the Company’s common stock on September 24, 2018, and was included
+in accrued expenses at June 30, 2018.
+ 
+During
+the six months ended December 31, 2019, the Company incurred $15,500 of expense related to legal and consulting services provided
+by Mr. Smiley, the Company’s former CFO and legal counsel. During October 2019, the entire balance of $15,500 was converted
+into 62,000 shares of common stock.
+ 
+Office
+Lease
+ 
+Effective
+May 1, 2019, the Company relocated its corporate office to 9841 Washingtonian Blvd., Suite 390, Gaithersburg, MD 20878, and incurs
+rent expense of $1,350 per month, which is payable to a related party. The lease term with the related party is a month-to-month
+arrangement.
+ 
+
+25
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+12: COMMITMENTS AND CONTINGENCIES
+ 
+Commitments
+ 
+Effective
+May 1, 2019, the Company relocated its corporate office to 9841 Washingtonian Blvd., Suite 390, Gaithersburg, MD 20878, and incurs
+rent expense of $1,350 per month, which is payable to a related party. The lease term with the related party is a month-to-month
+arrangement.
+ 
+Contracts
+and Commitments Executed Pursuant to the Transition Agreement
+ 
+In
+the transaction whereby, Mr. Bhatnagar acquired control of the Company on January 11, 2019, the Company entered into material
+commitments including an employment agreement and a warrant agreement (see Note 10).
+ 
+Contingencies
+ 
+Judgment
+Settlement Agreement
+ 
+Effective
+December 10, 2018, the Company entered into a “Judgment Settlement Agreement” to satisfy in full the Forbearance Agreement
+with Fife that was previously in effect. As a result, under the Judgment Settlement Agreement, no shares of the Company’s
+common stock are issuable or eligible to be converted into. Under the terms of the Judgment Settlement Agreement, the Company
+is required to pay $15,000 per month from January 15, 2019 through and including February 15, 2020, with a final payment of $195,000
+due and payable in March of 2020. The Company has made all payments required as of the date hereof. Failure to make any of the
+payments, when due, will result in the remaining liability balance of $559,313 (at December 31, 2019), to be immediately due and
+payable by the Company (see Note 7).
+ 
+Should
+the Company satisfy the liability as described within the Judgement Settlement Agreement above, the Company would realize a gain
+on such settlement of approximately $560,000.
+ 
+Amounts
+Contingent upon Certain Terms of Change in Control Agreements Effective January 11, 2019
+ 
+To
+the extent Company does not eliminate the certain liabilities within six months of the effective date, the Warrant Cap for warrants
+issued to Mr. Bhatnagar shall increase by such number of shares at a price of $0.25 per share to equal the amount of the remaining
+liability.
+ 
+The
+Change in Control Agreements, effective January 11, 2019, also have certain provisions that may accelerate the warrant “earn
+out” formula contained in the Transition Agreement.
+ 
+
+26
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+13: DISCONTINUED OPERATIONS
+ 
+The
+Company has classified the operating results and associated assets and liabilities from its Jump line of products, which ceased
+generating material revenue during the first quarter of fiscal year 2017, as discontinued operations in the consolidated financial
+statements for the six months ended December 31, 2019 and 2018.
+ 
+The
+assets and liabilities associated with discontinued operations included in our consolidated balance sheets were as follows:
+ 
+
+ 
+
+27
+ 
+
+ 
+mPHASE
+TECHNOLOGIES, INC.
+NOTES
+TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+FOR
+THE SIX MONTHS ENDED DECEMBER 31, 2019 AND 2018
+(UNAUDITED)
+ 
+NOTE
+13: DISCONTINUED OPERATIONS (continued)
+ 
+For
+the three and six months ended December 31, 2019, there were no revenue or expenses associated with discontinued operations included
+in our consolidated statements of operations. For the three and six months ended December 31, 2018, the revenue and expenses associated
+with discontinued operations included in our consolidated statements of operations were as follows:
+ 
+
+ 
+
+ 
+NOTE
+14: SUBSEQUENT EVENTS
+ 
+Subsequent
+to December 31, 2019, the Company issued 530,000 shares of common stock to accredited investors who invested an aggregate of $132,500
+through private placements during December 2019.
+ 
+From
+January 1, 2020 through February 18, 2020, the Company received $150,000 of net proceeds from the issuance of 220,580 shares
+of common stock to accredited investors.
+ 
+On
+January 9, 2020, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”) and
+issued an 8% Convertible Promissory Note in the principal amount of $110,000 (including a $5,000 original issue discount) to the
+Lender with a maturity date of January 9, 2021. On January 13, 2020, the Company received net proceeds in the amount of $100,000
+as a result of $5,000 being paid to reimburse the Lender for legal and due diligence fees incurred with respect to this Securities
+Purchase Agreement and Convertible Promissory Note. This convertible debenture converts at a fixed price of $0.50 per share, subject
+to adjustment.
+ 
+On
+January 21, 2020, the Company entered into a Securities Purchase Agreement with an accredited investor (“Lender”)
+and issued an 8% Convertible Promissory Note in the principal amount of $68,000 to the Lender with a maturity date of January
+21, 2021. On January 23, 2020, the Company received net proceeds in the amount of $65,000 as a result of $3,000 being paid to
+reimburse the Lender for legal and due diligence fees incurred with respect to this Securities Purchase Agreement and Convertible
+Promissory Note. This convertible debenture converts at 62% of the lowest trading price during the 20 days prior to conversion.
+ 
+
+28
+ 
+
+ 
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ 
+The
+following discussion should be read in conjunction with the attached unaudited consolidated financial statements and notes thereto,
+and our audited consolidated financial statements and related notes for our fiscal year ended June 30, 2019 found in our Annual
+Report on Form 10-K filed with the Securities and Exchange Commission (“SEC”) on October 15, 2019.
+ 
+Overview
+ 
+mPhase
+Technologies, Inc., was incorporated in the state of New Jersey in 1979 under the name Tecma Laboratory, Inc. and has subsequently
+operated under Tecma Laboratories, Inc., and Lightpaths TP Technologies, Inc., until June 2, 1997 when the Company changed its
+name to mPhase Technologies, Inc.
+ 
+On
+January 11, 2019, the Company underwent a major change in management and control. The new management of the Company is positioning
+the Company to be a technology leader in artificial intelligence and machine learning while enabling a more rapid commercial development
+of its patent portfolio and other intellectual property. The Company’s goal is to generate significant revenue from its
+artificial intelligence and machine learning technologies.
+ 
+On
+February 15, 2019, the Company acquired Travel Buddhi, a software platform to enhance travel via ultra-customization tools that
+tailor a planned trip experience in ways not previously available.
+ 
+On
+June 30, 2019, the Company acquired 99% of the outstanding common shares of Alpha Predictions LLP (“Alpha Predictions”).
+Alpha Predictions is an India-based technology company that has developed a suite of commercial data analysis products for use
+across multiple industries. The Company expects the acquisition to result in synergies with its other operating divisions, which
+will drive revenue growth and innovation.
+ 
+Critical
+Accounting Policies and Estimates
+ 
+The
+discussion and analysis of the Company’s financial condition and results of operations are based upon its unaudited consolidated
+financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States
+of America (“US GAAP”). The preparation of these unaudited consolidated financial statements requires management to
+make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure
+of contingent liabilities. On an on-going basis, management evaluates past judgments and estimates, including those related to
+bad debts, potential impairment of intangible assets, accrued liabilities and contingencies. Management bases its estimates on
+historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results
+of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent
+from other sources. Actual results may differ from these estimates under different assumptions or conditions. The accounting policies
+and related risks described in Note 3 above and the Company’s Annual Report on Form 10-K as filed with the SEC on October
+15, 2019 are those that depend most heavily on these judgments and estimates. As of December 31, 2019, there had been no material
+changes to any of the critical accounting policies contained therein.
+ 
+Results
+of Operations
+ 
+Three
+months ended December 31, 2019 compared to three months ended December 31, 2018
+ 
+Continuing
+Operations
+ 
+Revenue
+ 
+Our
+revenue increased to $7,561,967 for the three months ended December 31, 2019, compared to $0 for the three months ended December
+31, 2018. The increase is the result of expanding upon a new customer agreement entered into during the fourth quarter of fiscal
+year 2019. Such new customer agreement accounted for 99% of our total revenue during the three months ended December 31, 2019,
+resulting in a significant risk of customer concentration.
+ 
+
+29
+ 
+
+ 
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+ 
+Cost
+of Revenue
+ 
+Cost
+of revenue totaled $5,623,930 for the three months ended December 31, 2019, compared to $0 for the three months ended December
+31, 2018. The increase is the result of generating the increased revenue.
+ 
+Operating
+Expenses
+ 
+Our
+operating expenses, which include software development costs, salaries and benefits, stock-based compensation, legal and professional
+fees, and general and administrative expenses increased to $8,028,452 for the three months ended December 31, 2019, compared to
+$54,754 for the three months ended December 31, 2018, an increase of $7,973,698. The increase is primarily due to stock-based
+compensation expense related to the Company’s Chief Executive Officer and Chief Financial Officer, an increase in general
+and administrative expenses related to salaries of the new Chief Executive Officer and Chief Financial Officer, coupled with increased
+operating expenses to support the increased operations of the business, partially offset by lower expenses from prior officers
+for services rendered.
+ 
+On
+a comparative, proforma basis, excluding non-cash stock-based compensation expense related to the Company’s Chief Executive
+Officer and Chief Financial Officer, our operating expenses increased to $1,665,549 for the three months ended December 31, 2019,
+compared to $54,754 for the three months ended December 31, 2018, an increase of $1,610,795. The increase is primarily due to
+increased operating expenses to support the increased operations of the business, partially offset by lower expenses from prior
+officers for services rendered.
+ 
+Other
+(Expense) Income
+ 
+Our
+other expense decreased by $164,049, or 133%, for the three months ended December 31, 2019. The decrease is primarily the result
+of a gain on the change in fair value of derivative liability associated with the convertible promissory notes, partially offset
+by increases in expenses and amortization related to the convertible promissory notes and interest expense.
+ 
+Net
+Loss from Continuing Operations
+ 
+We
+had a net loss from continuing operations of $5,934,763 for the three months ended December 31, 2019, compared to a net loss of
+$63,151 for the three months ended December 31, 2018, an increase of $5,871,612. The increase in net loss is primarily driven
+by the increase in operating expenses, partially offset by the increase in gross profit and decrease in other expense, as disclosed
+above.
+ 
+On
+a comparative, proforma basis, excluding non-cash stock-based compensation expense related to the Company’s Chief Executive
+Officer and Chief Financial Officer, we generated net income from continuing operations of $428,140 for the three months ended
+December 31, 2019, an increase of $491,291. The increase in proforma net income is primarily driven by the increase in gross profit
+and decrease in other expense, partially offset by the increase in operating expenses.
+ 
+Discontinued
+Operations
+ 
+For
+the three months ended December 31, 2019 and 2018, there are no revenue, cost of revenue, operating expenses, other income (expense),
+or net income from discontinued operations comparatives. For the three months ended December 31, 2018, income from discontinued
+operations was $6,902.
+ 
+Six
+months ended December 31, 2019 compared to six months ended December 31, 2018
+ 
+Continuing
+Operations
+ 
+Revenue
+ 
+Our
+revenue increased to $15,131,579 for the six months ended December 31, 2019, compared to $0 for the six months ended December
+31, 2018. The increase is the result of expanding upon a new customer agreement entered into during the fourth quarter of fiscal
+year 2019. Such new customer agreement accounted for 99% of our total revenue during the six months ended December 31, 2019,
+resulting in a significant risk of customer concentration.
+ 
+
+30
+ 
+
+ 
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+ 
+Cost
+of Revenue
+ 
+Cost
+of revenue totaled $11,330,444 for the six months ended December 31, 2019, compared to $0 for the six months ended December 31,
+2018. The increase is the result of generating the increased revenue.
+ 
+Operating
+Expenses
+ 
+Our
+operating expenses, which include software development costs, salaries and benefits, stock-based compensation, legal and professional
+fees, and general and administrative expenses increased to $19,974,088 for the six months ended December 31, 2019, compared to
+$119,223 for the six months ended December 31, 2018, an increase of $19,854,865. The increase is primarily due to stock-based
+compensation expense related to the Company’s Chief Executive Officer and Chief Financial Officer, an increase in general
+and administrative expenses related to salaries of the new Chief Executive Officer and Chief Financial Officer, coupled with increased
+operating expenses to support the increased operations of the business, partially offset by lower expenses from prior officers
+for services rendered.
+ 
+On
+a comparative, proforma basis, excluding non-cash stock-based compensation expense related to the Company’s Chief Executive
+Officer and Chief Financial Officer, our operating expenses increased to $3,446,430 for the six months ended December 31, 2019,
+compared to $119,223 for the six months ended December 31, 2018, an increase of $3,327,207. The increase is primarily due to increased
+operating expenses to support the increased operations of the business, partially offset by lower expenses from prior officers
+for services rendered.
+ 
+Other
+(Expense) Income
+ 
+Our
+other expense decreased by $56,441, or 46%, for the six months ended December 31, 2019. The decrease is primarily the result of
+increases in expenses and amortization related to the convertible promissory notes and interest expense, partially offset by a
+gain on the change in fair value of derivative liability associated with the convertible promissory notes.
+ 
+Net
+Loss from Continuing Operations
+ 
+We
+had a net loss from continuing operations of $16,240,275 for the six months ended December 31, 2019, compared to a net loss of
+$242,986 for the six months ended December 31, 2018, an increase of $15,997,289. The increase in net loss is primarily driven
+by the increase in operating expenses and other expense, partially offset by the increase in gross profit, as disclosed above.
+ 
+On
+a comparative, proforma basis, excluding non-cash stock-based compensation expense related to the Company’s Chief Executive
+Officer and Chief Financial Officer, we generated net income from continuing operations of $287,383 for the six months ended December
+31, 2019, an increase of $530,369. The increase in proforma net income is primarily driven by the increase in gross profit, partially
+offset by increases in operating expenses and other expense.
+ 
+Discontinued
+Operations
+ 
+For
+the six months ended December 31, 2019 and 2018, there are no revenue, cost of revenue, operating expenses, other income (expense),
+or net income from discontinued operations comparatives. For the six months ended December 31, 2018, loss from discontinued operations
+was $10,908.
+ 
+Liquidity
+and Capital Resources
+ 
+At
+December 31, 2019, we had $106,079 of cash and a working capital deficit of $1,546,818 as compared to cash of $33,996 and a working
+capital deficit of $2,440,289 at June 30, 2019.
+ 
+Net
+cash used in operating activities of continuing operations was $660,849 for the six months ended December 31, 2019 as compared
+to net cash provided by operating activities of continuing operations of $71,050 for the six months ended December 31, 2018.
+ 
+
+31
+ 
+
+ 
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS (continued)
+ 
+We
+have financed our operations since inception primarily through proceeds from equity and debt financings. During the six months
+ended December 31, 2019, net cash provided by financing activities of continuing operations was $699,800, as compared to $104,131
+during the six months ended December 31, 2018. Our continued operations primarily depend upon our ability to raise additional
+capital from various sources including equity and debt financings, as well as our revenue derived from operations. We can give
+no assurances that any additional capital that we are able to obtain will be sufficient to meet our needs or will be on favorable
+terms. Based on our current plans, we believe that our cash provided from the above sources may not be sufficient to enable us
+to meet our planned operating needs for the next twelve months.
+ 
+We
+believe that private placements of our common stock and convertible debt to be issued from time to time will fund our short-term
+capital needs. At December 31, 2019, we had 100,000,000 authorized shares of common stock of which 12,667,367 shares were outstanding
+and 564,900 shares were to be issued.
+ 
+The
+Company expects to continue generating revenues during the fiscal year beginning July 1, 2019 from its artificial intelligence
+and machine learning software platforms. The Company does not expect to derive any material revenue from its nanotechnology product
+development until after a deployment and custom tailoring of its Smart Nanobattery.
+ 
+We
+have based our estimate on assumptions that may prove to be wrong. We may need to obtain additional funds sooner or in greater
+amounts than we currently anticipate. Potential sources of financing include strategic relationships, public or private sales
+of our securities, debt or other sources. We may seek to access the public or private equity markets when conditions are favorable
+due to our long-term capital requirements. We do not have any committed sources of financing at this time, and it is uncertain
+whether additional funding will be available when we need it on terms that will be acceptable to us, or at all. If we raise funds
+by selling additional shares of common stock or other securities convertible into common stock, the ownership interest of our
+existing stockholders will be diluted. If we are not able to obtain financing when needed, we may be unable to carry out our business
+plan. As a result, we may have to significantly limit our operations and our business, financial condition and results of operations
+would be materially harmed.
+ 
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+ 
+As
+a smaller reporting company we are not required to provide information required by this item.
+ 
+ITEM
+4. CONTROLS AND PROCEDURES
+ 
+Evaluation
+of Disclosure Controls and Procedures
+ 
+Under
+the supervision and with the participation of our management, including our principal executive officer and principal financial
+officer, we conducted an evaluation of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) as of December 31, 2019 to determine whether the Company’s disclosure controls and procedures are effective to
+provide reasonable assurance that the information required to be disclosed in our reports under the Exchange Act, and the rules
+and regulations thereunder, is recorded, processed, summarized and reported within the time periods specified in the SEC’s
+rules and forms, and that such information is accumulated and communicated to our management, including our principal executive
+officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. In designing
+and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well
+designed and operated, cannot provide absolute assurance that the objectives of the controls system are met, and no evaluation
+of controls can provide absolute assurance that all control issues and instances of fraud, if any, within a company have been
+detected.
+ 
+Based
+on this evaluation, management concluded that our disclosure controls and procedures were effective as of December 31, 2019.
+ 
+Changes
+in Internal Control Over Financial Reporting
+ 
+There
+were no changes in our internal control over financial reporting that occurred during our most recently completed fiscal quarter
+that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+ 
+
+32
+ 
+
+ 
+PART
+II – OTHER INFORMATION
+ 
+Item
+1. Legal Proceedings
+ 
+None.
+ 
+Item
+1A. Risk Factors.
+ 
+As
+a smaller reporting company we are not required to provide information required by this item.
+ 
+Item
+2. Unregistered Sales of Equity Securities and Use of Proceeds
+ 
+All
+proceeds received from the following financings were used by the Company for working capital needs.
+ 
+During
+the six months ended December 31, 2019, the Company issued 798,000 shares of its common stock in connection with private placements
+pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended, raising gross proceeds of $199,500.
+ 
+Item
+3. Defaults Upon Senior Securities
+ 
+None.
+ 
+Item
+5. Other Information
+ 
+None.
+ 
+Item
+6. Exhibits.
+ 
+
+ 
+*Filed
+herewith.
+ 
+
+33
+ 
+
+ 
+SIGNATURES
+ 
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.
+ 
+
+
+ 
+mPhase
+    Technologies, Inc.
+
+ 
+ 
+
+ 
+/s/
+    Anshu Bhatnagar
+
+ 
+Anshu
+    Bhatnagar
+
+ 
+Chief
+    Executive Officer (Principal Executive Officer)
+
+ 
+February
+    19, 2020
+
+ 
+ 
+
+ 
+/s/
+    Christopher Cutchens
+
+ 
+Christopher
+    Cutchens
+
+ 
+Chief
+    Financial Officer (Principal Financial and Accounting Officer)
+
+ 
+February
+    19, 2020
+
+ 
+
+34
+
+
+
+

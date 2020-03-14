@@ -1,0 +1,1566 @@
+
+10-Q
+1
+f10q1219_misonixinc.htm
+QUARTERLY REPORT
+
+
+
+ 
+ 
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+ 
+FORM 10-Q
+ 
+(Mark One) ☒ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended December 31, 2019
+ 
+OR
+ 
+☐ TRANSITION REPORT PURSUANT TO SECTION
+13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ________ to ________.
+ 
+Commission File Number: 1-10986
+ 
+
+ 
+MISONIX, INC.
+(Exact name of registrant as specified
+in its charter)
+ 
+
+
+Delaware
+ 
+84-1856018
+
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(IRS Employer
+Identification No.)
+
+ 
+ 
+ 
+
+1938 New Highway
+    Farmingdale, New York
+ 
+11735
+
+(Address of principal executive offices)
+ 
+(Zip code)
+
+ 
+(631) 694-9555
+(Registrant’s telephone number, including area code)
+ 
+Indicate by check mark whether the registrant:
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. ☒ Yes ☐ No
+ 
+Indicate by check mark whether the
+registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of
+Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such
+files). ☒ Yes ☐ No
+ 
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth
+company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting
+company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+ 
+
+
+Large
+    accelerated filer ☐
+Accelerated
+    filer ☒
+Non-accelerated
+    filer ☐
+Smaller
+    reporting company ☒
+
+Emerging growth company
+    ☐
+ 
+ 
+ 
+
+ 
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes ☒ No
+ 
+
+
+Title
+    of each class
+ 
+Trading
+    Symbol(s)
+ 
+Name
+    of each exchange on which
+    registered
+
+Common Stock, $.0001 par value
+ 
+MSON
+ 
+Nasdaq Global Market
+
+ 
+Indicate the number of shares outstanding
+of the issuer’s common stock as of the latest practicable date: As of February 5, 2020, there were 17,360,310 shares of the
+registrant’s common stock, $.0001 par value, outstanding.
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+MISONIX,
+INC.
+ 
+
+ 
+
+i
+ 
+
+ 
+PART
+I – FINANCIAL INFORMATION
+ 
+Item 1. Financial Statements
+ 
+Misonix, Inc. and Subsidiaries
+Condensed Consolidated
+Balance Sheets
+  
+
+ 
+See Accompanying Notes to Condensed
+Consolidated Financial Statements.
+ 
+
+1
+ 
+
+ 
+Misonix, Inc. and Subsidiaries
+Condensed Consolidated
+Statements of Operations
+(Unaudited)
+  
+
+ 
+See Accompanying Notes to Condensed
+Consolidated Financial Statements.
+ 
+
+2
+ 
+
+ 
+Misonix, Inc. and Subsidiaries
+Condensed Consolidated
+Statement of Shareholders’ Equity
+(Unaudited)
+ 
+
+ 
+See Accompanying Notes to Condensed
+Consolidated Financial Statements.
+ 
+
+3
+ 
+
+ 
+Misonix, Inc. and Subsidiaries
+Condensed Consolidated
+Statements of Cash Flows
+(Unaudited)
+  
+
+ 
+See Accompanying Notes to Condensed
+Consolidated Financial Statements.
+ 
+
+4
+ 
+
+ 
+Misonix, Inc. and Subsidiaries
+Notes to Condensed
+Consolidated Financial Statements
+For the Three and Six Months Ended December 31, 2019 and 2018 (unaudited)
+ 
+
+1.Basis of Presentation, Organization and Business and Summary of Significant Accounting Policies
+ 
+Basis of Presentation
+ 
+These condensed consolidated
+financial statements of Misonix, Inc. (“Misonix” or the “Company”) include the accounts of Misonix and
+its subsidiaries, each of which is 100% owned. All significant intercompany balances and transactions have been eliminated.
+ 
+The accompanying unaudited
+condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the
+United States of America (“U.S. GAAP”) for interim financial information and with the instructions to Form 10-Q and
+Article 10 of Regulation S-X. Accordingly, these financial statements do not include all the information and footnotes required
+by U.S. GAAP for complete financial statements. As such, they should be read with reference to the Company’s Annual Report
+on Form 10-K for the fiscal year ended June 30, 2019 (the “2019 Form 10-K”), which provides a more complete explanation
+of the Company’s accounting policies, financial position, operating results, business properties and other matters. In the
+opinion of management, these financial statements reflect all adjustments considered necessary for a fair statement of interim
+results.
+ 
+Organization and Business
+ 
+Misonix designs, manufactures
+and markets minimally invasive surgical ultrasonic medical devices and markets, sells and distributes TheraSkin® (“TheraSkin”),
+a biologically active human skin allograft used to support healing of wounds which complements Misonix’s ultrasonic medical
+devices. Misonix’s ultrasonic products are used for precise bone sculpting, removal of soft and hard tumors and tissue debridement,
+primarily in the areas of neurosurgery, orthopedic surgery, plastic surgery, wound care and maxillo-facial surgery.
+ 
+The Company
+strives to help proprietary procedural solutions become the standard of care and enhance patient outcomes throughout the
+world. Misonix intends to accomplish this, in part, by utilizing its best in class surgical ultrasonic technology to change
+patient outcomes in the areas of spinal surgery, neurosurgery and wound care. Misonix is currently developing proprietary
+procedural solutions around its recently U.S. Food and Drug Administration (“FDA”) cleared Nexus ultrasonic
+generator (“Nexus”), which combines the capabilities of the Company’s three existing products, namely
+BoneScalpel® Surgical System (“BoneScalpel”), SonaStar® Surgical Aspirator (“SonaStar”) and
+SonicOne® Wound Cleansing and Debridement System (“SonicOne”), into a single system that can be used to
+perform soft and hard tissue resections. The Nexus platform is driven by
+Misonix’s proprietary ultrasonic digital algorithm and additionally integrates the delivery of radio frequency energy
+for use in general surgical procedures. In addition, through its acquisition of Solsys Medical, LLC (“Solsys”),
+Misonix completed its first procedural expansion of its ultrasonic surgical technology in September 2019, adding the
+TheraSkin product, a leading cellular skin substitute indicated for all wounds, to its product portfolio.
+ 
+BoneScalpel is a state
+of the art, ultrasonic bone cutting and sculpting system capable of making precise cuts with minimal necrosis, minimal burn artifact,
+minimal inflammation and minimal bone loss. The device is also capable of preserving surrounding soft tissue structures because
+of its unique ability to differentiate soft tissue from rigid bone. This device can make precise linear or curved cuts, on any
+plane, with precision not normally associated with powered instrumentation. BoneScalpel offers the speed and convenience of a powered
+instrument without the dangers associated with conventional rotary devices. The effect on surrounding soft tissue is minimal due
+to the elastic and flexible structure of healthy tissue. This is a significant advantage in anatomical regions like the spine where
+patient safety is of primary concern. In addition, the linear motion of the blunt, tissue-impacting tips avoids accidental ‘trapping’
+of soft tissue while largely eliminating the high-speed spinning and tearing associated with rotary power instruments. BoneScalpel
+allows surgeons to improve on existing surgical techniques by creating new approaches to bone cutting and sculpting and removal,
+leading to substantial time savings and increased operation efficiencies. BoneScalpel is now recognized by many surgeons globally
+as a critical surgical tool enabling improved patient outcomes in the spinal arena.
+ 
+
+
+5
+ 
+
+ 
+SonicOne is an innovative,
+tissue specific approach for the effective removal of devitalized or necrotic tissue and fibrin deposits while sparing viable,
+surrounding cellular structures. The tissue specific capability is, in part, due to the fact that healthy and viable tissue structures
+have a higher elasticity and flexibility than necrotic tissue and are more resistant to destruction from the impact effects of
+ultrasound. The ultrasonic debridement process separates devitalized tissue from viable tissue layers, allowing for a more defined
+treatment and, usually, a reduced pain sensation. The Company believes SonicOne establishes a new standard in wound and burn bed
+preparation, the essential first step in the healing process, while contributing to a faster patient healing.
+ 
+SonaStar is used to
+emulsify and remove soft and hard tumors. Specifically, SonaStar provides powerful precise aspiration following the ultrasonic
+ablation of hard or soft tissue. SonaStar has been used for a wide variety of surgical procedures applying both open and minimally
+invasive approaches, including neurosurgery and general surgery.
+ 
+Nexus is a next-generation
+integrated ultrasonic surgical platform that combines all the features of BoneScalpel, SonicOne and SonaStar into a single fully
+integrated platform that will also serve to power future solutions. The Nexus platform is driven by a new proprietary digital algorithm
+that results in more power, efficiency and control. Nexus uniquely integrates radio frequency capabilities, allowing for use in
+general surgery procedures. Nexus’ increased power improves tissue resection rates for both soft and hard tissue removal
+making it a unique surgical platform for a variety of different surgical specialties. In addition, Nexus’ easy setup and
+use enables physicians to fully leverage Nexus’ impressive set of capabilities via its digital touchscreen display and smart
+system technology. Because BoneScalpel, SonaStar and SonicOne all work on the Nexus generator, hospitals have access to all of
+the Company’s product offerings on the all in one Nexus platform. Nexus received FDA 510(k) clearance in June 2019 and received
+its CE mark approval in July 2019 for sale in Europe.
+ 
+In the United States,
+the Company sells its products through its direct sales force, in addition to a network of commissioned agents assisted by Misonix
+personnel. Outside of the United States, the Company generally sells to distributors who then resell the products to hospitals.
+The Company’s sales force operates as two groups, Surgical (neurosurgery and spinal surgery applications) and Wound Care.
+The Company operates with one business segment.
+ 
+Acquisition of Solsys Medical, LLC
+ 
+On September 27, 2019,
+the Company completed the acquisition (the “Solsys Acquisition”) of Solsys Medical, LLC (“Solsys”), a privately
+held regenerative medical company, in an all-stock transaction valued at approximately $109 million. Solsys is the exclusive marketer
+and distributor of TheraSkin in the United States, through an agreement with LifeNet Health (“LifeNet”). Solsys owns
+the TheraSkin® brand name, which was commercially launched in January 2010. TheraSkin is a biologically active human skin allograft
+which has all of the relevant characteristics of human skin, including living cells, growth factors, and a collagen matrix, needed
+to heal wounds. TheraSkin is derived from human skin tissue from consenting and highly screened donors and is manufactured by LifeNet
+Health. As a result of the Solsys Acquisition, the Company became the parent public-reporting company of the combined company;
+Misonix, Inc., a New York corporation, now known as Misonix Opco, Inc., and Solsys became direct, wholly owned subsidiaries of
+the Company. The acquisition of Solsys is expected to broaden the Company’s addressable market through wound care solutions
+that are complementary to its existing products. After the completion of the Solsys Acquisition, the Company’s shareholders
+immediately prior to the closing owned 64% of the combined entity, and Solsys unitholders immediately prior to the closing owned
+36%. The Company issued 5,703,082 shares in connection with this transaction. Transaction fees were approximately $4.5 million,
+of which $1.4 million were capitalized as additional paid in capital in connection with the registration of these shares. The Solsys
+assets, liabilities and results of operations are included in the Company’s financial statements from the acquisition date.
+ 
+The Company’s
+common stock was created with a par value per share of $.0001, whereas the par value of Misonix Opco, Inc. is $.01. Accordingly,
+the Company recorded a reclassification of $151,997 between common stock and additional paid in capital during the three months
+ended September 30, 2019 to account for this change.
+ 
+
+
+6
+ 
+
+ 
+High Intensity Focused Ultrasound Technology
+ 
+The Company sold its
+rights to its former the high intensity focused ultrasound technology to SonaCare Medical, LLC (“SonaCare”) in May
+2010. The Company may receive up to approximately $5.8 million in payment for the sale. SonaCare is required to pay the Company
+7% of the gross revenues received from its sales of the (i) prostate product in Europe and (ii) kidney and liver products worldwide,
+until the Company has received payments of $3 million, and thereafter 5% of the gross revenues, up to an aggregate payment of $5.8
+million, all subject to a minimum annual royalty of $250,000. Cumulative payments through December 31, 2019 were approximately
+$2.5 million. Currently, SonaCare is in default of its royalty payment due March 31, 2019. Although the Company is in discussions
+with SonaCare regarding this default, there can be no assurance that the payments will be received on a timely basis or at all.
+Due to this default, the Company has not recorded any income relating to this payment.
+ 
+Major Customers and Concentration
+of Credit Risk
+ 
+For the six months ended
+December 31, 2019 and 2018, the Company did not have any customers exceeding 10% of total revenue.
+ 
+Earnings Per Share
+ 
+Earnings per share (“EPS”)
+is calculated using the two-class method, which allocates earnings among common stock and participating securities to calculate
+EPS when an entity’s capital structure includes either two or more classes of common stock or common stock and participating
+securities. Unvested share-based payment awards that contain non-forfeitable rights to dividends or dividend equivalents (whether
+paid or unpaid) are participating securities. As such, unvested restricted stock awards of the Company are considered participating
+securities. The dilutive effect of options and their equivalents (including non-vested stock issued under stock-based compensation
+plans), is computed using the “treasury” method.
+ 
+Basic income per common
+share is based on the weighted average number of common shares outstanding during the period. Diluted income per common share includes
+the dilutive effect of potential common shares outstanding. The following table sets forth the reconciliation of the Company’s
+basic and diluted earnings per share calculation:
+ 
+
+ 
+Diluted EPS for the
+three months and six months ended December 31, 2019 and 2018 as presented is the same as basic EPS as the inclusion of the effect
+of common share equivalents then outstanding would be anti-dilutive. Accordingly, excluded from the calculation of diluted EPS
+are the dilutive effect of options to purchase 408,926 and 530,978 shares of common stock for the three months ended December 31,
+2019 and 2018, respectively, and the dilutive effect of options to purchase 466,412 and 544,143 shares of common stock for the
+six months ended December 31, 2019 and 2018, respectively. Also excluded from the calculation of earnings per share for the three
+and six months ended December 31, 2019 and 2018 are the unvested restricted stock awards that were issued in December 2016.
+ 
+Recent Accounting Pronouncements
+ 
+In June 2016, the
+Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2016-13,
+Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instrument (“ASU
+2016-13”). ASU 2016-13 replaces the incurred loss impairment methodology in current U.S. GAAP with a methodology that
+reflects expected credit losses and requires consideration of a broader range of reasonable and supportable information to
+inform credit loss estimates. ASU 2016-13 is effective for SEC small business filers for fiscal years beginning after
+December 15, 2022. Management is currently assessing the impact ASU 2016-13 will have on the Company.
+ 
+
+7
+ 
+
+ 
+There are no other recently
+issued accounting pronouncements that are expected to have a material effect on the Company’s financial position, results
+of operations or cash flows.
+ 
+Recently Adopted Accounting Pronouncements
+ 
+In February 2016, the
+FASB issued ASU 2016-02, Leases (Topic 842), and has since issued amendments thereto, related to the accounting for leases (collectively
+referred to as “ASC 842”). ASC 842 establishes a right-of-use (“ROU”) model that requires a lessee to record
+a ROU asset and a lease liability on the balance sheet for all leases with terms longer than 12 months. Leases will be classified
+as either finance or operating, with classification affecting the pattern of expense recognition in the income statement. The Company
+adopted ASC 842 on July 1, 2019. A modified retrospective transition approach is required for lessees for capital and operating
+leases existing at, or entered into after, the beginning of the earliest comparative period presented in the financial statements,
+with certain practical expedients available. Entities have the option to continue to apply historical accounting under Topic 840,
+including its disclosure requirements, in comparative periods presented in the year of adoption. An entity that elects this option
+recognizes a cumulative effect adjustment to the opening balance of retained earnings in the period of adoption instead of the
+earliest period presented. The Company adopted the optional ASC 842 transition provisions beginning on July 1, 2019. Accordingly,
+the Company will continue to apply Topic 840 prior to July 1, 2019, including Topic 840 disclosure requirements, in the comparative
+periods presented. The Company elected the package of practical expedients for all its leases that commenced before July 1, 2019.
+The Company has evaluated its real estate lease, its copier leases and its generator rental agreements. The adoption of ASC 842
+did not materially impact the Company’s balance sheet and had an immaterial impact on its results of operations. Based on
+the Company’s current agreements, upon the adoption of ASC 842 on July 1, 2019, the Company recorded an operating lease liability
+of approximately $436,000 and corresponding ROU assets based on the present value of the remaining minimum rental payments associated
+with the Company’s leases. As the Company’s leases do not provide an implicit rate, nor is one readily available, the
+Company used its incremental borrowing rate based on information available at July 1, 2019 to determine the present value of its
+future minimum rental payments.
+ 
+Critical Accounting Policies and Use
+of Estimates
+ 
+Use of Estimates
+ 
+The preparation of financial
+statements in conformity with accounting principles generally accepted in the United States requires management to make estimates
+and judgments that affect the reported amount of assets and liabilities and disclosure of contingent assets and liabilities at
+the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Significant
+estimates and assumptions are used for but not limited to establishing the allowance for doubtful accounts, valuation of inventory,
+depreciation, valuation of assets acquired and liabilities assumed in business combinations, asset impairment evaluations and establishing
+deferred tax assets and related valuation allowances, and stock-based compensation. Actual results could differ from those estimates.
+ 
+
+2.Revenue Recognition
+ 
+On July 1, 2018 the
+Company adopted Accounting Standards Codification (“ASC”) Topic 606 “Revenue from Contracts with Customers, as
+amended” (“ASC Topic 606”), using the modified retrospective method applied to those contracts that had not been
+completed as of the adoption date. The Company’s reported results for the year ended June 30, 2019 reflect the application
+of ASC Topic 606 guidance while the Company’s reported results for fiscal year 2018 were prepared under the guidance of ASC
+Topic 605, “Revenue Recognition”. The Company’s adoption of ASC Topic 606 resulted in a cumulative prior period
+adjustment in the amount of $960,000 related to the Company’s license and manufacturing agreement dated October 19, 2017,
+under which the Company licensed to its Chinese partner certain manufacturing and distribution rights to its SonaStar product line
+in China, Hong Kong and Macau (the “License and Exclusive Manufacturing Agreement”), but the remainder of the adoption
+did not have a material impact on the timing or amount of revenue recognized.
+ 
+
+
+8
+ 
+
+ 
+The Company has made
+the following accounting policy elections and elected to use certain practical expedients, as permitted by the FASB, in applying
+ASC Topic 606: 1) the Company accounts for amounts collected from customers for sales and other taxes net of related amounts remitted
+to tax authorities; 2) the Company expenses costs to obtain a contract as they are incurred if the expected period of benefit,
+and therefore the amortization period, is one year or less; 3) the Company accounts for shipping and handling activities that occur
+after control transfers to the customer as a fulfillment cost rather than an additional promised service and these fulfillment
+costs fall within selling, general and administrative expenses; 4) the Company does not assess whether promised goods or services
+are performance obligations if they are immaterial in the context of the contract with the customer; 5) the Company will utilize
+the right-to-invoice practical expedient with regard to the recognition of revenue upon the purchase of consumable goods in connection
+with a product placement/consignment arrangement.
+ 
+Recognition of Revenue
+ 
+The Company generates
+revenue from the sale and leasing of medical equipment, from the sale of consumable products used with medical equipment in surgical
+procedures, from the sale of TheraSkin, a regenerative skin product, and from product licensing arrangements. In the United States,
+the Company’s products are marketed primarily through a hybrid sales approach that includes direct sales representatives,
+managed by regional sales managers, along with independent distributors. Outside the United States, the Company sells BoneScalpel
+and SonaStar to specialty distributors who purchase products to resell to their clinical customer bases. The Company sells to all
+major markets in the Americas, Europe, Middle East, Asia Pacific, and Africa. Revenue is disaggregated from contracts between products
+under ship and bill arrangements and licensing agreements, and by geography, which the Company believes best depicts how the nature,
+amount, timing and uncertainty of revenues and cash flows are affected by economic factors. The Company also provides an immaterial
+amount of service revenue that is recognized over time, but not stated separately because the amounts are immaterial.
+ 
+The Company satisfies
+performance obligations either over time, or at a point in time, upon which control of a product shipped transfers to the customer.
+ 
+Revenue derived by the
+Company from the shipping and billing of product is recorded upon shipment, when transfer of control occurs for products shipped
+freight on board (“F.O.B.”) shipping point. Products shipped F.O.B. destination point are recorded as revenue when
+received at the point of destination when the transfer of control is completed. Shipments under agreements with distributors are
+not subject to return, and payment for these shipments is not contingent on sales by the distributor. Accordingly, the Company
+recognizes revenue on shipments to distributors in the same manner as with other customers under the ship and bill process.
+ 
+Revenue derived from
+the rental of equipment is recorded on a monthly basis over the term of the lease. Shipments of consumable products to these rental
+customers is recorded as orders are received and shipments are made F.O.B. destination or F.O.B. shipping point.
+ 
+Revenue derived from
+consignment agreements is earned as consumables product orders are fulfilled. Therefore, revenue is recognized as shipments are
+made F.O.B. shipping point or F.O.B destination.
+ 
+Revenue derived from
+service and maintenance contracts is recognized evenly over the life of the service agreement as the services are performed.
+ 
+
+
+9
+ 
+
+ 
+The following table
+disaggregates the Company’s product revenue by classification and geographic location:
+ 
+
+ 
+Beginning with the fiscal
+first quarter of 2020, Misonix adopted certain changes in its quarterly financial results related to the presentation of its sales
+performance supplemental data to more accurately reflect the Company’s two separate sales channels - its Surgical and Wound
+product divisions. The Surgical division includes the Company’s Nexus, BoneScalpel and SonaStar product lines, and the Wound
+division includes the Company’s SonicOne and TheraSkin product lines. As a result, the Company presents total, domestic and
+international sales performance supplemental data for its Surgical and Wound divisions and no longer presents total, domestic and
+international sales performance supplemental data based on its consumables and equipment products.
+ 
+Contract Assets
+ 
+The timing of revenue
+recognition, customer invoicing, and collections produces accounts receivable and contract assets on the Company’s consolidated
+balance sheet. Contract liabilities are not material to the operations of the Company as of December 31, 2019. The Company invoices
+in accordance with contract payment terms. Invoices to customers represent an unconditional right of the Company to receive consideration.
+When revenue is recognized in advance of customer invoicing a contract asset is recorded. Unpaid customer invoices are reflected
+as accounts receivable.
+ 
+Upon the adoption of
+ASC Topic 606 on July 1, 2018, the Company recorded a contract asset for $960,000 relating to royalties to be received from its
+Chinese partner relating to its License and Exclusive Manufacturing Agreement. This resulted in a cumulative prior period adjustment
+in the amount of $960,000 which was charged to accumulated deficit. When this contract asset was established, the value of such
+asset was determined based upon the Company’s assessment of the most likely variable consideration to be received by the
+Company as a result of the royalty provisions in the contract. As of December 31, 2019, the Company’s Chinese partner has
+defaulted on its initial royalty payment obligations. Management has determined that collection of this contract is unlikely, and
+accordingly, has recorded a full $960,000 reserve against such asset, and has charged this reserve to bad debt expense, classified
+as general and administrative expenses.
+ 
+
+3.Fair Value of Financial Instruments
+ 
+The Company follows
+a three-level fair value hierarchy that prioritizes the inputs to measure the fair value of the Company’s financial instruments.
+This hierarchy requires entities to maximize the use of “observable inputs” and minimize the use of “unobservable
+inputs.” The three levels of inputs that the Company uses to measure fair value are as follows:
+ 
+Level 1: Quoted prices
+(unadjusted) for identical assets or liabilities in active markets as of the measurement date.
+  
+
+
+10
+ 
+
+ 
+Level 2: Significant
+other observable inputs other than Level 1 prices such as quoted prices for similar assets or liabilities; quoted prices in markets
+that are not active; or other inputs that are observable or can be corroborated by observable market data.
+ 
+Level 3: Significant
+unobservable inputs that reflect assumptions that market participants would use in pricing an asset or liability.
+  
+At December 31, 2019
+and June 30, 2019, all of the Company’s cash and cash equivalents, trade accounts receivable and trade accounts payable were
+short term in nature, and their carrying amounts approximate fair value.
+ 
+
+4.Inventories
+ 
+Inventories are summarized
+as follows:
+ 
+
+ 
+
+5.Property, Plant and Equipment
+ 
+Depreciation and amortization
+of property, plant and equipment was $977,000 and $698,000 for the six months ended December 31, 2019 and 2018, respectively. Inventory
+items used for demonstration purposes, subject to a rental agreement or provided on consignment are included in property, plant
+and equipment and are depreciated using the straight-line method over estimated useful lives of 3 to 5 years. Depreciation of generators
+that are consigned to customers is expensed over a 5-year period, and depreciation is charged to selling expenses.
+ 
+
+6.Goodwill
+ 
+Under accounting guidelines,
+goodwill is not amortized, but must be tested for impairment annually, or more frequently if an event occurs or circumstances change
+that would more likely than not reduce the fair value of the reporting unit below the carrying amount. The Company reviews goodwill
+for impairment annually and whenever events or changes indicate that the carrying value of an asset may not be recoverable. These
+events or circumstances could include a significant change in the business climate, legal factors, operating performance indicators,
+competition, or sale or disposition of significant assets or products. Application of these impairment tests requires significant
+judgments, including estimation of cash flows, which is dependent on internal forecasts, estimation of the long-term rate of growth
+for the Company’s business, the useful lives over which cash flows will occur and determination of the Company’s weighted
+average cost of capital. The Company primarily utilizes the Company’s market capitalization and a discounted cash flow model
+in determining the fair value, which consists of Level 3 inputs. Changes in the projected cash flows and discount rate estimates
+and assumptions underlying the valuation of goodwill could materially affect the determination of fair value at acquisition or
+during subsequent periods when tested for impairment. The Company completed its annual goodwill impairment tests for fiscal 2019
+and 2018 as of March 31 of each year. There were no triggering events identified during the quarter ended December 31, 2019 that
+would result in an impairment of goodwill. Goodwill decreased by $253,517 during the three months ended December 31, 2019 as a
+result of refinements relating to the purchase price valuation of Solsys.
+ 
+
+
+11
+ 
+
+  
+
+7.Patents
+ 
+The costs of acquiring
+or processing patents are capitalized at cost. These amounts are being amortized using the straight-line method over the estimated
+useful lives of the underlying assets, which is approximately 17 years. Patents, net of accumulated amortization, totaled $787,605
+and $779,100 at December 31, 2019 and June 30, 2019, respectively. Amortization expense for the six months ended December 31, 2019
+and 2018 was $63,000 and $70,000, respectively. The following is a schedule of estimated future patent amortization expenses by
+fiscal year as of December 31, 2019:
+ 
+
+ 
+
+8.Intangible Assets
+ 
+In connection with the
+Solsys Acquisition, the Company acquired intangible assets primarily consisting of customer relationships, trade names and non-competition
+agreements. The table below summarizes the intangible assets acquired:
+ 
+
+ 
+The following is a schedule
+of estimated future intangible asset amortization expense by fiscal year as of December 31, 2019:
+ 
+
+ 
+
+
+12
+ 
+
+ 
+
+9.Accrued
+Expenses and Other Current Liabilities
+
+ 
+The
+following summarizes accrued expenses and other current liabilities:
+ 
+
+ 
+
+10.Stock-Based
+Compensation Plans
+
+ 
+Stock
+Option Awards
+ 
+For
+the three and six months ended December 31, 2019 and 2018, the compensation cost relating to stock option awards that has been
+charged against income for the Company’s stock option plans, excluding the compensation cost for restricted stock, was $281,023
+and $502,358, and $500,087 and $844,601, respectively. As of December 31, 2019, there was approximately $3.9 million of total
+unrecognized compensation cost related to non-vested share-based compensation arrangements to be recognized over a weighted-average
+period of 3.1 years.
+ 
+Stock
+options typically expire 10 years from the date of grant and vest over service periods, which typically are 4 years. All options
+are granted at fair market value, as defined in the applicable plans. 
+ 
+The
+fair value of each option award was estimated on the date of grant using the Black-Scholes option valuation model that uses the
+assumptions noted in the following table. The expected volatility represents the historical price changes of the Company’s
+stock over a period equal to that of the expected term of the option. The Company uses the simplified method for determining the
+option term. The risk-free rate was based on the U.S. Treasury yield curve in effect at the time of grant. The expected dividend
+yield is based upon historical and projected dividends. The Company has historically not paid dividends, and it does not expect
+to do so in the near term.
+ 
+There
+were options to purchase 185,500 and 182,000 shares granted during the six months ended December 31, 2019 and 2018, respectively. The
+fair value was estimated based on the weighted average assumptions of:
+ 
+
+    
+
+13
+ 
+
+ 
+A
+summary of option activity under the Company’s equity plans as of December 31, 2019, and changes during the six months ended
+December 31, 2019 is presented below:
+ 
+
+  
+The
+total fair value of stock options vested during the six months ended December 31, 2019 was $863,924. The number and weighted-average
+grant-date fair value of non-vested stock options at December 31, 2019 was 496,127 and $8.93, respectively. The number and weighted-average
+grant-date fair value of stock options which vested during the six months ended December 31, 2019 was 148,999 and $5.80, respectively.
+ 
+Restricted
+Stock Awards
+ 
+On
+December 15, 2016, the Company issued 400,000 shares of restricted stock to its Chief Executive Officer. These awards vest over
+a period of up to five years, subject to meeting certain service, performance and market conditions. These awards were valued
+at approximately $3.6 million. Compensation expense recorded in the three and six months ended December 31, 2019 and 2018 related
+to these awards was $123,629 and $144,953, and $247,378 and $871,329, respectively. As of December 31, 2019, there was approximately
+$886,365 of total unrecognized compensation cost related to non-vested restricted stock awards to be recognized over a weighted-average
+period of 1.82 years. The awards contain a combination of vesting terms that include time vesting, performance vesting relating
+to revenue achievement, and market vesting related to obtaining certain levels of Company stock prices. At December 31, 2019,
+the Company has estimated that it is probable that the performance conditions will be met. The awards were valued using a Monte
+Carlo valuation model using a stock price at the date of grant of $9.60, a term of 3 to 5 years, a risk-free interest rate of
+1.6% to 2.1% and a volatility factor of 66.5%. As of December 31, 2019, 186,600 shares from this set of awards have vested.
+ 
+
+11.Commitments
+and Contingencies
+
+ 
+Leases
+ 
+The
+Company has entered into operating leases primarily for real estate and office copiers. These leases generally have terms that
+range from 1 year to 6 years. These operating leases are included in “Prepaid expenses and other current assets” and “Lease right of use and other assets” on the Company’s December 31, 2019 consolidated balance sheet and represent the Company’s right to use
+the underlying asset for the lease term. The Company’s obligation to make lease payments are included in “Current portion of lease liabilities” and “Lease right of use liabilities” on the Company’s December 31, 2019
+consolidated balance sheet. Based on the present value of the lease payments for the remaining lease term of the Company’s
+existing leases, the Company recognized right-of-use assets of approximately $0.5 million and lease liabilities for operating
+leases of approximately $0.5 million on July 1, 2019. Operating lease right-of-use assets and liabilities commencing after January
+1, 2019 are recognized at their commencement date based on the present value of lease payments over the lease term. As of December
+31, 2019, total right-of-use assets and operating lease liabilities were approximately $1.2 million and $1.2 million, respectively.
+The Company has entered into various short-term operating leases with an initial term of twelve months or less. These leases are
+not recorded on the Company’s balance sheet. All operating lease expense is recognized on a straight-line basis over the
+lease term. During the six months ended December 31, 2019, the Company recognized approximately $153,000 in total lease costs,
+which was composed operating lease costs for right-of-use assets.
+  
+
+14
+ 
+
+ 
+Because
+the rate implicit in each lease is not readily determinable, the Company uses its incremental borrowing rate to determine the
+present value of the lease payments.
+ 
+Information
+related to the Company’s right-of-use assets and related lease liabilities were as follows:
+ 
+
+ 
+
+
+  
+As of 
+
+  
+December 31,
+ 2019 
+
+  
+  
+
+Weighted-average remaining lease term 
+ 4.0 years 
+
+Weighted-average discount rate 
+ 10.5%
+
+  
+Maturities
+of lease liabilities as of December 31, 2019 were as follows:
+ 
+
+ 
+Former
+Chinese Distributor - Litigation
+ 
+On
+March 23, 2017, the Company’s former distributor in China, Cicel (Beijing) Science & Technology Co., Ltd., filed a
+lawsuit against the Company and certain of its officers and directors in the United States District Court for the Eastern
+District of New York, alleging that the Company improperly terminated its contract with the former distributor.  The
+complaint sought various remedies, including compensatory and punitive damages, specific performance and preliminary and post
+judgment injunctive relief, and asserted various causes of action, including breach of contract, unfair competition, tortious
+interference with contract, fraudulent inducement, and conversion.  On October 7, 2017, the court granted the
+Company’s motion to dismiss each of the tort claims asserted against us, and also granted the individual
+defendants’ motion to dismiss all claims asserted against them.  On January 23, 2020, the Court granted
+Cicel’s motion to amend its complaint, to include claims for alleged defamation and theft of trade secrets in addition
+to the breach of contract claim.  The Company believes that it has various legal and factual defenses to the allegations
+in the complaint and intends to defend the action vigorously.  Fact discovery in the case is ongoing, and there is no
+trial date currently set.
+ 
+
+15
+ 
+
+ 
+
+12.Financing
+Arrangements
+
+ 
+Note
+payable consists of the following as of June 30, 2019 and December 31, 2019:
+ 
+
+ 
+Following
+are the scheduled maturities of the notes payable for the twelve-month period ending June 30:
+ 
+
+ 
+Revolving
+Credit Facility
+ 
+Through
+the Solsys acquisition, the Company became party to a $5 million revolving line of credit loan agreement with Silicon Valley Bank,
+originally effective January 22, 2019 (as amended and supplemented, the “Prior Solsys Credit Agreement”). The line
+of credit had an original maturity date of January 22, 2021.
+ 
+On
+December 26, 2019 (the “Effective Date”), the Company entered into a Loan and Security Agreement (the “New Loan
+and Security Agreement”) among the Company, Misonix OpCo, Inc. and Solsys, as borrowers, and Silicon Valley Bank. The New
+Loan and Security Agreement provides for a revolving credit facility (the “New Credit Facility”) in an aggregate principal
+amount of $20 million, including borrowings and letters of credit. The New Loan and Security Agreement replaces the $5 million
+Prior Solsys Credit Agreement, dated as of January 22, 2019, among Solsys, as borrower, and Silicon Valley Bank. The Company did
+not incur any early termination penalties in connection with the termination of the Prior Solsys Credit Agreement.
+ 
+Borrowings
+of $8,750,000 under the New Credit Facility were used in part to repay the amount of $3,750,000 outstanding under the Prior
+Solsys Credit Agreement, and the balance may be used by the Company for general corporate purposes and working capital. The
+New Credit Facility matures on December 26, 2022. Interest on outstanding indebtedness under the New Credit Facility accrues
+at a rate equal to the greater of the “Prime Rate” and 5.25%. In addition, on each year anniversary of the
+Effective Date, the Company is required to pay an anniversary fee of $100,000.
+ 
+The
+New Loan and Security Agreement contains representations and warranties and covenants that the Company believes are customary
+for agreements of this type, including covenants applicable to the Company and its subsidiaries limiting indebtedness, liens,
+substantial asset sales and mergers as well as financial maintenance covenants and other provisions. The New Loan and Security
+Agreement contains customary events of default. Upon the occurrence of an event of default, the lender may accelerate the indebtedness
+under the New Credit Facility, provided, that in the case of certain bankruptcy or insolvency events of default, the indebtedness
+under the New Credit Facility will automatically accelerate. If the New Credit Facility or the New Loan and Security Agreement
+terminates before the maturity date of December 26, 2022, then the Company must pay the then-owing amounts, in addition to a termination
+fee equal to 1% of the New Credit Facility at that time. The termination fee would not apply if the New Credit Facility or the
+New Loan and Security Agreement terminates before the maturity date for either of the following reasons: (1) the New Credit Facility
+is replaced with another new credit facility from Silicon Valley Bank or (2) Silicon Valley Bank sells, transfers, assigns or
+negotiates its obligations, rights and benefits under the New Loan and Security Agreement and related loan documentation to another
+person or entity that is not an affiliate of Silicon Valley Bank and the Company terminates the New Loan and Security Agreement
+or the New Credit Facility within sixty days thereof (unless the Company consented to that sale, transfer, assignment or negotiation).
+  
+
+16
+ 
+
+ 
+Notes
+Payable
+ 
+On
+September 27, 2019, the Company entered into an amended and restated credit agreement (“SWK Credit Agreement”) with
+SWK Holdings Corporation (“SWK”) pursuant to a commitment letter whereby SWK (a) consented to the transactions contemplated
+by the Solsys merger agreement and (b) agreed to provide financing to the Company. Through the Solsys acquisition, the Company became party to a $20.2 million note payable to SWK. The SWK credit facility originally provided
+an additional $5 million in financing, totaling approximately $25.1 million and a maturity date of June 30, 2023. Prior to the Amendment Date (as defined below),
+the interest rate applicable to the loans made under the SWK Credit Agreement varied between LIBOR plus 7.00% and LIBOR plus 10.25%,
+depending on the Company’s consolidated EBITDA or market capitalization. On December 23, 2019 (the “Amendment Date”)
+the parties amended the SWK Credit Agreement (as so amended, the “Amended SWK Credit Agreement”) to, among other things,
+provide an additional $5 million of term loans, for total aggregate borrowings of up to approximately $30.1 million, to modify
+the interest payable thereunder, which now varies between LIBOR plus 7.50% and LIBOR plus 10.25%, depending on the Company’s
+consolidated EBITDA or market capitalization, and to amend the financial covenants thereunder. The maturity date of the Amended
+SWK Credit Agreement remains June 30, 2023. As of December 31, 2019, the outstanding principal balance of the term loans under
+the Amended SWK Credit Agreement is approximately $30.1 million.
+ 
+Under
+the Amended SWK Credit Agreement, the Company and Solsys are required to make quarterly aggregate principal payments beginning
+in March 2021 of $1.25 million. The Company and Solsys are also obligated to begin making cash payments of accrued interest in
+March 2021.
+ 
+The
+Company may not prepay the loans under the SWK Credit Agreement until September 27, 2020. On and after September 27, 2020, the
+Company may prepay the loans subject to a prepayment fee of (a) $800,000 if such prepayment is made prior to September 27, 2021,
+(b) 1.00% of the amount prepaid if such prepayment is on or after September 27, 2021 and prior to September 27, 2022 and (c) $0
+if such prepayment is made on or after September 27, 2022.
+ 
+Under
+the terms of the Amended SWK Credit Agreement, the Company is required to meet certain additional financial covenants requiring,
+among other things, (a) a minimum amount of unencumbered liquid assets that will vary based on the Company’s market capitalization,
+(b) minimum aggregate revenue of specified amounts for the nine month period ending March 31, 2020, and for the twelve month period
+ending on the last day of the subsequent fiscal quarters and (c) minimum EBITDA at levels that will vary based on the Company’s
+market capitalization. The Company’s obligations under the Amended SWK Credit Agreement are (i) guaranteed by Misonix OpCo,
+Inc., and (ii) secured by a first lien on substantially all assets of the Company, Solsys and Misonix OpCo, Inc. and a second
+lien position on accounts receivable and inventory of the same entities.
+ 
+
+13.Related
+Party Transactions
+
+ 
+Minoan
+Medical (Pty) Ltd. (“Minoan”) (formerly Applied BioSurgical) is an independent distributor for the Company in South
+Africa. The chief executive officer of Minoan is also the brother of Stavros G. Vizirgianakis, the Company’s Chief Executive
+Officer.
+ 
+Set
+forth below is a table showing the Company’s net revenues for the six months ended December 31, 2019 and 2018 and accounts
+receivable at December 31, 2019 and 2018 with Minoan:
+ 
+
+  
+
+17
+ 
+
+ 
+
+14.Income
+Taxes
+
+ 
+For
+the three and six months ended December 31, 2019 and 2018, the Company recorded an income tax expense (benefit), as follows:
+ 
+
+ 
+For
+the six months ended December 31, 2019 and 2018, the Company recorded an income tax expense (benefit) of $4.1 million and $0,
+respectively. For the six months ended December 31, 2019 and 2018, the effective rate of 55% and 0% varied from the U.S. federal
+statutory rate primarily due to the recording of a full valuation allowance on the deferred tax assets, and the business combination
+related to the Solsys Acquisition.
+ 
+The
+acquisition of Solsys resulted in the recognition of deferred tax liabilities of approximately $4.1 million, related primarily
+to intangible assets. Prior to the business combination, the Company had a full valuation allowance on its deferred tax assets.
+The deferred tax liabilities generated from the business combination is netted against the Company’s pre-existing deferred
+tax assets. Consequently, this resulted in a release of $4.1 million of the pre-existing valuation allowance against the deferred
+tax assets and corresponding deferred tax benefit.
+ 
+Valuation
+Allowance on Deferred Tax Assets
+ 
+Deferred
+tax assets refer to assets that are attributable to differences between the financial statement carrying amounts of existing assets
+and liabilities and their respective tax bases. Deferred tax assets in essence represent future savings of taxes that would otherwise
+be paid in cash. The realization of the deferred tax assets is dependent upon the generation of sufficient future taxable income,
+including capital gains. If it is determined that the deferred tax assets cannot be realized, a valuation allowance must be established,
+with a corresponding charge to net income.
+ 
+In
+accordance with ASC Topic 740, the Company establishes valuation allowances for deferred tax assets that, in its judgment are
+not more likely-than-not realizable. The guidance requires entities to evaluate all available positive and negative evidence,
+including cumulative results in recent periods, weighted based on its objectivity, in determining whether its deferred tax assets
+are more likely than not realizable.
+ 
+The
+Company regularly assesses its ability to realize its deferred tax assets. The Company is in a three-year cumulative loss position
+at June 30, 2019, and it expects to be in a cumulative pretax loss position as of June 30, 2020. Management evaluated available
+positive evidence, including the continued growth of the Company’s revenues and gross profit margins, the completion of
+the development of its next generation Nexus product, its SonaStar technology license to its Chinese partner and the reduction
+in investigative and professional fees, along with available negative evidence, including the Company’s continuing investment
+in building a direct sales force and payment of transaction fees for the Company’s Solsys Acquisition. After weighing both
+the positive and negative evidence, management concluded that the Company’s deferred tax assets are not more likely-than-not
+realizable. Accordingly, the Company recorded an increase in the valuation allowance for the three months ended December 31, 2019
+of approximately $1.3 million against its remaining deferred tax assets at December 31, 2019. As a result of the Solsys Acquisition,
+the Company recorded a valuation allowance release of approximately $4.1 million. The remaining cumulative valuation allowance
+at December 31, 2019 is approximately $3.1 million. The Company will continue to assess its ability to utilize its net operating
+loss carryforwards, and will reverse this valuation allowance when sufficient evidence is achieved to allow the realizability
+of such deferred tax assets.
+ 
+As
+of December 31, 2019 and June 30, 2019, the Company had no material unrecognized tax benefits or accrued interest and penalties.
+  
+
+18
+ 
+
+ 
+
+15.Segment
+Reporting
+
+ 
+Operating
+segments are defined as components of an enterprise about which separate financial information is available that is evaluated
+on a regular basis by the chief operating decision-maker (“CODM”) in deciding how to allocate resources to an
+individual segment and in assessing performance of the segment. The Company has concluded that its Chief Executive Officer is
+the CODM as he is the ultimate decision maker for key operating decisions, determining the allocation of resources and
+assessing the financial performance of the Company. These decisions, allocations and assessments are performed by the CODM
+using consolidated financial information. Consolidated financial information is utilized by the CODM as the Company’s
+current product offering primarily consists of minimally invasive therapeutic ultrasonic medical devices and wound care
+products. The Company’s products are relatively consistent and manufacturing is centralized and consistent across
+product offerings. However, based on the Solsys Acquisition, the Company is currently evaluating its business to conclude as
+to whether it operates in more than one segment.
+ 
+Worldwide
+revenue for the Company’s product revenue is categorized as follows:
+ 
+
+  
+Substantially
+all of the Company’s long-lived assets are located in the United States.
+ 
+
+16.Acquisitions
+
+ 
+Solsys
+Medical, LLC
+ 
+On
+September 27, 2019, the Company completed the Solsys Acquisition. The purchase price was approximately $108.6 million, based on
+the Company’s issuance of 5,703,082 shares of Misonix common stock as acquisition consideration, valued at $19.05 per share.
+In addition, business transaction costs incurred in connection with the acquisition were $4.5 million, of which $1.8 million and
+were incurred in the six months ended December 31, 2019. These fees were charged to general and administrative expenses on the
+Statement of Operations. In addition, approximately $1.4 million of the transaction costs were capitalized to additional paid
+in capital, in connection with the registration of the underlying stock issued in the transaction.
+ 
+The
+transaction was accounted for using the acquisition method of accounting in accordance with FASB ASC Topic 805. U.S. GAAP requires
+that one of the companies in the transactions be designated as the acquirer for accounting purposes based on the evidence available.
+Misonix was treated as the acquiring entity for accounting purposes.
+  
+
+19
+ 
+
+ 
+The
+preliminary Solsys purchase price allocation as of September 27, 2019, is shown in the following table:
+ 
+
+  
+The
+fair values of the Solsys assets and liabilities are provisional and were determined based on preliminary estimates and assumptions
+that management believes are reasonable. The preliminary purchase price allocation is subject to further refinement and may require
+significant adjustments to arrive at the final purchase price allocation. These adjustments will primarily relate to certain short-term
+assets, intangible assets, and certain liabilities. The final determination of the fair value of certain assets and liabilities
+will be completed as soon as the necessary information is available, including the completion of a valuation of the tangible and
+intangible assets, but no later than one year from the acquisition date.
+ 
+The
+goodwill from the acquisition of Solsys, which is fully deductible for tax purposes, consists largely of synergies and economies
+of scale expected from combining the operations of Solsys and the Company’s existing business.
+ 
+The
+estimate of fair value of the Solsys identifiable intangible assets was determined primarily using the “income approach,”
+which requires a forecast of all of the expected future cash flows either through the use of the multi-period excess earnings
+method or the relief-from-royalty method. Some of the more significant assumptions inherent in the development of intangible asset
+values include: the amount and timing of projected future cash flows, the discount rate selected to measure the risks inherent
+in the future cash flows, the assessment of the intangible asset’s life cycle, as well as other factors. The following table
+summarizes key information underlying intangible assets related to the Solsys Acquisition:
+ 
+
+   
+Solsys’
+operations were consolidated with those of the Company for the period September 27, 2019 through December 31, 2019. Had the acquisition
+occurred as of the beginning of fiscal 2018, revenue and net loss, on a pro forma basis excluding transaction fees and the one
+time tax benefit, for the combined company would have been as follows:
+ 
+
+ 
+17.
+Subsequent Events
+ 
+On
+January 27, 2020, the Company completed an offering of its equity securities, resulting in net proceeds to the Company of $32.5
+million. The Company issued 1,868,750 shares of its common stock at a price of $18.50 per share.
+  
+
+20
+ 
+
+ 
+Item
+2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+ 
+This
+Management’s Discussion and Analysis of Financial Condition and Results of Operations of Misonix and its subsidiaries, which
+we refer to as the “Company”, “Misonix”, “we”, “our” and “us”, should
+be read in conjunction with the accompanying unaudited financial statements included in Part I - Item 1 “Financial Statements”
+of this Report and Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”
+in our Annual Report on Form 10-K, filed with the Securities and Exchange Commission (the “SEC”) on September 5, 2019,
+for the fiscal year ended June 30, 2019 (“2019 Form 10-K”). Item 7 of the 2019 Form 10-K describes the application
+of our critical accounting policies, for which there have been no significant changes during the three months ended December 31,
+2019.
+ 
+Forward
+Looking Statements
+ 
+With
+the exception of historical information contained in this Form 10-Q, content herein may contain “forward-looking statements”
+that are made pursuant to the Safe Harbor Provisions of the Private Securities Litigation Reform Act of 1995. These statements
+are based on management’s current expectations and are subject to uncertainty and changes in circumstances. We cannot guarantee
+that any forward-looking statements will be accurate, although we believe that we have been reasonable in our expectations and
+assumptions. Investors should realize that if underlying assumptions prove inaccurate or unknown risks or uncertainties materialize,
+actual results could vary materially from our expectations and projections. These factors include general economic conditions,
+delays and risks associated with the performance of contracts, risks associated with international sales and currency fluctuations,
+uncertainties as a result of research and development, acceptable results from clinical studies, including publication of results
+and patient/procedure data with varying levels of statistical relevance, risks involved in introducing and marketing new products,
+regulatory compliance, potential acquisitions, consumer and industry acceptance, litigation and/or contemplated 510(k) filings,
+the ability to achieve and maintain profitability in our business lines, and other factors discussed in the 2019 Form 10-K, subsequent
+Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. We disclaim any obligation to update any forward-looking statements,
+except as we are required by law to do so.
+ 
+Equity
+Financing 
+ 
+On
+January 27, 2020, the Company completed an offering of its equity securities, resulting in net proceeds to the Company of
+$32.5 million. The Company issued 1,868,750 shares of its common stock at a price of $18.50 per share.
+ 
+Acquisition
+of Solsys Medical, LLC
+ 
+On
+September 27, 2019, we completed our acquisition of Solsys, a medical technology company focused on the regeneration and healing
+of soft-tissue associated with chronic wounds and surgical procedures. Solsys’ primary product is TheraSkin, a living cell
+wound therapy indicated to treat all external wounds from head-to-toe. The purchase was approximately $109 million, representing
+5,703,082 shares of Misonix common stock, valued at $19.05 per share. In addition, business transaction costs incurred in connection
+with the acquisition of $4.5 million, of which $1.8 million were incurred in the six months ended December 31, 2019. These fees
+were charged to general and administrative expenses on the Statement of Operations. In addition, approximately $1.4 million of
+the transaction costs were capitalized to additional paid in capital, in connection with the registration of the underlying stock
+issued in the transaction. The results of operations of Solsys are included in our consolidated statement of operations.
+  
+
+21
+ 
+
+ 
+Overview
+ 
+We
+design, manufacture and market minimally invasive surgical ultrasonic medical devices. These products are used for precise bone
+sculpting, removal of soft and hard tumors, and tissue debridement, primarily in the areas of neurosurgery, orthopedic surgery,
+plastic surgery, wound care and maxillo-facial surgery. We also market, sell and distribute TheraSkin in the United States, through
+an agreement with LifeNet. TheraSkin is a biologically active human skin allograft that has all of the relevant characteristics
+of human skin, including living cells, growth factors, and a collagen matrix, needed to heal wounds which complements our ultrasonic
+medical devices. TheraSkin is derived from human skin tissue from consenting and highly screened donors and is manufactured by
+LifeNet.
+ 
+We
+strive to help proprietary procedural solutions become the standard of care and enhance patient outcomes throughout the world.
+We intend to accomplish this, in part, by utilizing our best in class surgical ultrasonic technology to change patient outcomes
+in spinal surgery, neurosurgery and wound care. We are currently developing proprietary procedural solutions around our recently
+FDA cleared Nexus ultrasonic generator. In addition, through the acquisition of Solsys, we completed our first procedural expansion
+of our ultrasonic offering, adding the TheraSkin product, a leading cellular skin substitute indicated for all wounds, to our
+product portfolio.
+ 
+In
+the United States, we sell our products through our direct sales force, in addition to a network of commissioned agents assisted
+by Misonix personnel. Outside of the United States, we generally sell to distributors who then resell the products to hospitals.
+Our sales force operates as two groups, Surgical (neurosurgery and spinal surgery) and Wound Care. We operate with one business
+segment.
+ 
+Results
+of Operations
+ 
+The
+following discussion and analysis provides information that our management believes is relevant to an assessment and understanding
+of our results of operations and financial condition. This discussion should be read in conjunction with the consolidated financial
+statements and notes thereto appearing elsewhere herein.
+ 
+Three
+months ended December 31, 2019 and 2018
+ 
+Our
+revenues by category for the three months ended December 31, 2019 and 2018 are as follows:
+ 
+
+  
+
+22
+ 
+
+ 
+Revenues
+ 
+Total
+revenue increased 93.8% or $9.5 million to $19.7 million in the second quarter of fiscal 2020, from $10.2 million in the second
+quarter of fiscal 2019.
+ 
+The
+revenue increase is principally attributable to the addition of $8.6 million of domestic wound product sales of TheraSkin resulting
+from the Solsys Acquisition, with no TheraSkin revenue in the prior year quarter. Domestic surgical revenue increased by 20.1%
+based on continued demand for the Company’s BoneScalpel product line. International surgical sales grew by 10.6%.
+ 
+We
+did not receive any license revenue during the second quarter of fiscal 2020 or fiscal 2019.
+ 
+Gross
+profit
+ 
+Gross
+profit from product revenue in the second quarter of fiscal 2020 was 69.9% of revenue, approximately the same as the 70.0% gross
+profit margin recorded in the second quarter of fiscal 2019. The gross profit margin on TheraSkin sales is about the same as the
+Company’s legacy products.
+ 
+Selling
+expenses
+ 
+Selling
+expenses increased by $7.0 million, or 146% to $11.8 million in the second quarter of fiscal 2020 from $4.8 million in the prior
+year period. The increase is primarily due to the acquisition of Solsys on September 27, 2019, which added $6.3 million of expenses
+for the period. The remaining increase of $0.7 million is principally related to higher compensation costs, trade show and travel
+related expenses resulting from the continued buildout of our direct sales force and increased freight expense on higher sales,
+offset by lower commissions to distributors resulting from the transition of accounts from distributors to the direct sales force.
+ 
+General
+and administrative expenses
+ 
+General
+and administrative expenses increased by $2.8 million, or 119% to $5.1 million in the second quarter of fiscal 2020 from $2.3
+million in the prior year period. The increase is primarily due to the acquisition of Solsys on September 27, 2019, which added
+$1.7 million of expenses for the period. In addition, the Company recorded a $960,000 non-cash reserve relating to the contract
+asset on its balance sheet. This asset relates to future royalty payments from our Chinese distributor of SonaStar, which we believe
+will be uncollectible.
+ 
+Research
+and development expenses
+ 
+Research
+and development expenses increased by $0.3 million or 29.6% to $1.1 million in the second quarter of fiscal 2020 from $0.8 million
+in the prior year period. The increase is primarily due to the acquisition of Solsys on September 27, 2019, which added $0.4 million
+of expenses for the period.
+ 
+Income
+taxes
+ 
+For
+the three months ended December 31, 2019 and 2018, we recorded an income tax expense of $0 and $0, respectively. For the three
+months ended December 31, 2019 and 2018, the effective rate of 0% and 0%, respectively, varied from the U.S. federal statutory
+rate primarily due to our recording of a full valuation allowance on our deferred tax assets.
+  
+
+23
+ 
+
+ 
+Income
+tax expense for the quarter ended December 31, 2019 includes a $1.3 million valuation allowance against the our deferred tax assets
+recorded in the quarter. In accordance with the guidance of ASC Topic 740, management concluded that in its judgment, our deferred
+tax assets at December 31, 2019 are not more likely-than-not realizable. The components of the tax provision are as follows:
+ 
+
+ 
+Six
+months ended December 31, 2019 and 2018
+ 
+Our
+revenues by category for the six months ended December 31, 2019 and 2018 are as follows:
+ 
+
+ 
+Revenues
+ 
+Total
+revenue increased 58.0% or $11.3 million to $30.9 million in the first half of fiscal 2020, from $19.5 million in the corresponding
+period of fiscal 2019.
+ 
+The
+revenue increase is principally attributable to the addition of $8.9 million of domestic wound product sales of TheraSkin resulting
+from the Solsys Acquisition, with no TheraSkin revenue in the prior year quarter. Domestic surgical revenue increased by 20.3%
+based on continued demand for the Company’s BoneScalpel product line. International surgical sales grew by 13.0%.
+ 
+We
+did not receive any license revenue during the second quarter of fiscal 2020 or fiscal 2019.
+ 
+Gross
+profit
+ 
+Gross
+profit from product revenue in the first half of fiscal 2020 was 70.3% of revenue, compared with 70.3% in the first half of fiscal
+2019.
+ 
+Selling
+expenses
+ 
+Selling
+expenses increased by $7.5 million, or 78.3% to $17.0 million in the first half of fiscal 2020 from $9.5 million in the prior
+year period. The increase is primarily due to the acquisition of Solsys on September 27, 2019, which added $6.5 million of expenses
+for the period. The remaining increase of $1.0 million is principally related to higher compensation costs, consulting, Nexus product launch costs, and travel
+related expenses resulting from the continued buildout of our direct sales force and increased freight expense on higher sales,
+offset by lower commissions to distributors resulting from the transition of accounts from distributors to the direct sales force.
+  
+
+24
+ 
+
+ 
+General
+and administrative expenses
+ 
+General
+and administrative expenses increased by $3.8 million, or 69.2% to $9.4 million in the first half of fiscal 2020 from $5.5 million
+in the prior year period. The increase is primarily due to the acquisition of Solsys on September 27, 2019, which added $1.8 million
+of expenses for the period. In addition, the Company recorded a $960,000 non-cash reserve relating to the contract asset on its
+balance sheet. This asset relates to future royalty payments from our Chinese distributor of SonaStar, which we believe will be
+uncollectible.
+ 
+Research
+and development expenses
+ 
+Research
+and development expenses decreased by 13.3% or $0.3 million to $1.9 million in the first half of fiscal 2020 from $2.1 million
+in the prior year period. The decrease is primarily related to the completion of the Company’s Nexus product development,
+offset by a $0.4 million increase resulting from the acquisition of Solsys on September 27, 2019.
+ 
+Income
+taxes
+ 
+For
+the six months ended December 31, 2019 and 2018, we recorded an income tax expense of $4.1 million and $0, respectively. For the
+six months ended December 31, 2019, the effective tax rate of 55% varied from the U.S. federal statutory rate primarily due to
+our business combination related to the Solsys Acquisition, which resulted in a recognition of deferred tax liabilities. For the
+six months ended December 31, 2018, the effective tax rate of 0% varied from the U.S. federal statutory rate primarily due our
+recording a full valuation allowance on our deferred tax assets.
+ 
+The
+acquisition of Solsys resulted in the recognition of deferred tax liabilities of approximately $4.1 million, related primarily
+to intangible assets. Prior to the business combination, we had a full valuation allowance on our deferred tax assets. Upon completion
+of the business combination, we netted the deferred tax liabilities generated from the business combination against our pre-existing
+deferred tax assets which resulted in a release of $4.1 million of the pre-existing valuation allowance against our deferred tax
+assets and corresponding deferred tax benefit.
+ 
+Income
+tax expense (benefit) for the quarter ended December 31, 2019 includes a $1.8 million valuation allowance against our remaining
+deferred tax assets recorded in the quarter. In accordance with the guidance of ASC Topic 740, management concluded that in its
+judgment, our deferred tax assets at December 31, 2019 are not more likely-than-not realizable. The components of the tax provision
+are as follows:
+ 
+
+  
+
+25
+ 
+
+ 
+Liquidity
+and Capital Resources
+ 
+On
+January 27, 2020, the Company completed an equity offering of its securities, netting proceeds to the Company of approximately
+$32.5 million.
+ 
+Working
+capital at December 31, 2019 was $28.7 million. For the six months ended December 31, 2019, cash used in operations was $13.4
+million, mainly due to an increase in inventory of $5.7 million, and an increase in accounts receivable of $2.1 million and from
+the Company’s loss from operations for the period.
+ 
+Cash
+provided by investing activities was $5.3 million, principally from the $5.5 million of cash acquired in the Solsys Acquisition.
+ 
+Cash
+provided by financing activities was $14.7 million, principally from additional borrowings on the Company’s term loan and
+revolving credit facility.
+ 
+We
+have no debt principal payments prior to December 31, 2020. We estimate that we will make approximately $3.1 million in debt interest
+payments from December 31, 2019 through December 31, 2020.
+ 
+As
+of December 31, 2019, we had cash and cash equivalents of approximately $14.4 million. Although our cash flows from operations
+are subject to a number of risks and uncertainties, we anticipate that our cash on hand, the proceeds of our equity offering,
+and future cash expected to be generated from operations will be sufficient to fund any debt service obligations and estimated
+capital expenditures. Any future potential equity or debt financing would depend upon, among other things, the costs and availability
+of such financing at the appropriate time.
+ 
+Off-Balance
+Sheet Arrangements
+ 
+We
+have no off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial
+condition, changes in financial condition, revenues or expenses, results of operations, liquidity, capital expenditures or capital
+resources that are material to us.
+ 
+Other
+ 
+In
+the opinion of management, inflation has not had a material effect on our operations.
+ 
+Recent
+Accounting Pronouncements
+ 
+See
+Note 1 to our consolidated financial statements included herein.
+ 
+Critical
+Accounting Policies
+ 
+The
+preparation of financial statements in conformity with U.S. GAAP requires management to make judgments and estimations that affect
+the amounts reported in the financial statements and accompanying notes. Actual results could differ from those estimates. We
+consider our accounting policies relating to goodwill, intangible assets and income taxes to be critical policies that require
+judgments or estimations in their application where variances in those judgments or estimations could make a significant difference
+to future reported results. These critical accounting policies and estimates are more fully discussed in our 2019 Form 10-K.
+ 
+Item
+3. Quantitative and Qualitative Disclosures About Market Risk
+ 
+Market
+Risk:
+ 
+The
+principal market risks (i.e., the risk of loss arising from adverse changes in market rates and prices) to which we are exposed
+are interest rates on cash and cash equivalents.
+ 
+Interest
+Rate Risk:
+ 
+We
+earn interest on cash balances and pay interest on any debt incurred. In light of our existing cash, results of operations and
+projected borrowing requirements, we do not believe that a 10% change in interest rates would have a significant impact on our
+consolidated financial position.
+  
+
+26
+ 
+
+ 
+Item
+4. Controls and Procedures
+ 
+Evaluation
+of Disclosure Controls and Procedures
+ 
+We
+maintain disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed
+to provide reasonable assurance that information required to be disclosed in reports we file or submit under the Exchange Act
+is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the SEC and that such
+information is accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer,
+as appropriate, to allow timely decisions regarding required disclosures.
+ 
+All
+internal control systems, no matter how well designed and tested, have inherent limitations, including, among other things, the
+possibility of human error, circumvention or disregard. Therefore, even those systems of internal control that have been determined
+to be effective can provide only reasonable assurance that the objectives of the control system are met and may not prevent or
+detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls
+may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+ 
+We
+carried out an evaluation, under the supervision and with the participation of management, of the effectiveness of the design
+and operation of our disclosure controls and procedures as of December 31, 2019. Based on that evaluation, and having concluded
+that the material weakness in our internal control over financial reporting initially reported in our Annual Report on Form 10-K
+for the fiscal year ended June 30, 2019 and in our subsequent Quarterly Report on Form 10-Q for the quarter ended September 30,
+2019, has been remediated (as described below), our Chief Executive Officer and Chief Financial Officer have concluded that our
+disclosure controls and procedures were effective as of December 31, 2019.
+ 
+Remediation
+of Previous Material Weaknesses in Internal Control Over Financial Reporting
+ 
+Our
+Annual Report on Form 10-K for the fiscal year ended June 30, 2019 and subsequent Quarterly Report on Form 10-Q for the fiscal
+quarter ended September 30, 2019 (collectively, the “Prior Reports”) disclosed and described in detail material weaknesses
+in internal control identifying errors in entering invoices in an incorrect accounting period. As a result, the foregoing Prior
+Reports contained conclusions by our Chief Executive Officer and Chief Financial Officer that our disclosure controls and procedures
+and internal control over financial reporting were not effective, as of the respective dates of such Prior Reports. As further
+described in the Prior Reports, we have implemented a series of remedial actions to address these control deficiencies. We have
+since successfully completed the testing of these remediated controls and our conclusions with respect to disclosure controls
+and procedures and internal control at December 31, 2019 are provided above.
+ 
+Changes
+in Internal Control over Financial Reporting
+ 
+There
+were no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under
+the Exchange Act) during the quarter ended December 31, 2019 that materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting, other than the changes discussed previously to remediate the material weakness.
+  
+
+27
+ 
+
+ 
+PART
+II - OTHER INFORMATION
+ 
+Item
+1. Legal Proceedings
+ 
+Former
+Chinese Distributor - Litigation
+ 
+On
+March 23, 2017, our former distributor in China, Cicel (Beijing) Science & Technology Co., Ltd., filed a lawsuit against us
+and certain of our officers and directors in the United States District Court for the Eastern District of New York, alleging that
+we improperly terminated our contract with the former distributor.  The complaint sought various remedies, including compensatory
+and punitive damages, specific performance and preliminary and post judgment injunctive relief, and asserted various causes of
+action, including breach of contract, unfair competition, tortious interference with contract, fraudulent inducement, and conversion. 
+On October 7, 2017, the court granted our motion to dismiss all of the tort claims asserted against us, and also granted the individual
+defendants’ motion to dismiss all claims asserted against them.  On January 23, 2020, the Court granted Cicel’s
+motion to amend its complaint, to include claims for alleged defamation and theft of trade secrets in addition to the breach of
+contract claim.  We believe that we have various legal and factual defenses to the allegations in the complaint, and intend
+to defend the action vigorously.  Fact discovery in the case is ongoing, and there is no trial date currently set.
+ 
+Item
+1A. Risk Factors.
+ 
+
+
+Please refer to the information
+set out under the heading “Risk Factors” in Amendment No. 2 to our Current Report on Form 8-K12B filed with the SEC
+on January 22, 2019, for a description of risk factors that we determined to be most material to our financial condition and results
+of operations. We do not believe there have been any material changes in these risk factors. Additional risks not currently known
+to us or that we do not currently consider material may also materially adversely affect our financial condition and results of
+operations in the future. 
+ 
+Item
+6. Exhibits
+ 
+
+ 
+
+
+
+28
+ 
+
+ 
+SIGNATURES
+ 
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned thereunto duly authorized.
+ 
+
+
+ 
+
+MISONIX,
+    INC.
+
+ 
+ 
+ 
+
+Dated:  February
+    5, 2020
+By:
+/s/
+    Stavros G. Vizirgianakis
+
+ 
+ 
+Stavros
+    G. Vizirgianakis
+
+ 
+ 
+Chief
+    Executive Officer
+
+ 
+ 
+ 
+
+ 
+By:
+/s/
+    Joseph P. Dwyer
+
+ 
+ 
+Joseph
+        P. Dwyer
+Chief
+        Financial Officer
+
+ 
+ 
+29
+ 
+
+
+
