@@ -4,7 +4,10 @@
 d860132d10q.htm
 10-Q
 
+
 10-Q
+
+
 Table of Contents
 
  
@@ -49,7 +52,7 @@ Identification No.)
  1868 TUCKER INDUSTRIAL ROAD, TUCKER, GEORGIA 30084 
 (Address of principal executive offices) 
 770-938-2080 
-(Registrants telephone number including area code) 
+(Registrant’s telephone number including area code) 
    
 Securities registered pursuant to Section 12(b) of the Act: 
  
@@ -79,8 +82,8 @@ OTCMKTS
 days.    Yes  ☒    No  ☐  Indicate by check mark whether the
 registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was
 required to submit such files).    Yes  ☒    No  ☐  Indicate by
-check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated
-filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.   
+check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated
+filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.   
 
 
 
@@ -146,7 +149,7 @@ INFORMATION   
 
 Table of Contents
 
-ITEM 1  FINANCIAL STATEMENTS 
+ITEM 1 – FINANCIAL STATEMENTS 
 Video Display Corporation and Subsidiaries 
 Interim Condensed Consolidated Balance Sheets (unaudited) 
 (in thousands)   
@@ -178,7 +181,7 @@ Interim Condensed Consolidated Statements of Operations (unaudited)
 Table of Contents
 
 Video Display Corporation and Subsidiaries 
-Interim Condensed Consolidated Statement of Shareholders Equity 
+Interim Condensed Consolidated Statement of Shareholders’ Equity 
 (in thousands)   
  The accompanying notes are an integral part of these interim condensed consolidated statements. 
   6 
@@ -198,23 +201,23 @@ Interim Condensed Consolidated Statements of Cash Flows (unaudited)
 Table of Contents
 
 Video Display Corporation and Subsidiaries 
-November 30, 2019  Note 1. 
+November 30, 2019  Note 1. –
 Summary of Significant Accounting Policies  The accompanying interim condensed consolidated financial statements include the accounts
-of Video Display Corporation, Inc. and its subsidiaries (Video Display, the Company, we, or us). All significant intercompany accounts and transactions have been eliminated in consolidation. The
+of Video Display Corporation, Inc. and its subsidiaries (“Video Display,” the “Company,” “we,” or “us”). All significant intercompany accounts and transactions have been eliminated in consolidation. The
 accompanying condensed consolidated balance sheet as of February 28, 2019 has been derived from audited financial statements. The accompanying unaudited condensed consolidated financial statements as of, and for the three and nine months ended,
 November 30, 2019 and 2018 have been prepared in accordance with (i) accounting principles generally accepted in the U.S. for interim financial information and (ii) the instructions to Form 10-Q
-and Rule 10-01 of Regulation S-X of the U.S. Securities and Exchange Commission (SEC). Accordingly, such statements do not include all of the information and
+and Rule 10-01 of Regulation S-X of the U.S. Securities and Exchange Commission (“SEC”). Accordingly, such statements do not include all of the information and
 disclosures required by accounting principles generally accepted in the U.S. for a complete presentation of financial statements. In the opinion of management, all adjustments (including those of a normal, recurring nature) considered necessary for
 a fair presentation have been included. Operating results for the three and nine months ended November 30, 2019 are not necessarily indicative of the results that may be expected for the year ending February 29, 2020. These condensed
-consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in Video Displays Annual Report on Form 10-K for the year ended
-February 28, 2019 filed with the SEC on May 29, 2019.  Note 2.  Banking & Liquidity 
+consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto included in Video Display’s Annual Report on Form 10-K for the year ended
+February 28, 2019 filed with the SEC on May 29, 2019.  Note 2. – Banking & Liquidity 
 The accompanying interim condensed consolidated financial statements were prepared on a going concern basis, which contemplates the realization
 of assets and the satisfaction of liabilities in the normal course of business. The Company reported a net loss for the period ending November 30, 2019 and a decrease in liquid assets for the comparable nine month fiscal 2020 period. Working
 capital decreased due to the adoption of Topic 842 (see discussion in Note 3) whereby lease liabilities were recognized for lease obligations. While the liabilities are reflected in both current and
 non-current liabilities, the corresponding lease right-of-use assets are solely reflected in
 non-current assets. The current lease liability recognized as of November 30, 2019 was approximately $557 thousand. The Company has sustained losses for the last three of four fiscal years and has
 seen overall a decline in working capital and liquid assets during this four year period. Annual losses over this time are due to a combination of decreasing revenues across certain divisions without a commensurate reduction of expenses. The
-Companys working capital and liquid asset position are presented below (in thousands) as of November 30, 2019 and February 28, 2019:   
+Company’s working capital and liquid asset position are presented below (in thousands) as of November 30, 2019 and February 28, 2019:   
  Management has implemented a plan to improve the liquidity of the Company. The Company has been fulfilling a
 plan to increase revenues at all the divisions, the Company has expanded its cyber security business by adding a second testing chamber for testing tempest products allowing it to increase the business in cyber testing services to supplement the
 product side of the business. The Company received its first order for these services in its second quarter of fiscal 2020 and expects this business to grow as the year progresses. The Company is also now involved in ruggedized displays. Each
@@ -231,20 +234,20 @@ Table of Contents
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
 The ability of the Company to continue as a going concern is dependent upon the success of
-managements plans to improve revenues, the operational effectiveness of continuing operations, the procurement of suitable financing, or a combination of these. The uncertainty regarding the potential success of managements plan create
-substantial doubt about the ability of the Company to continue as a going concern.  Note 3.  Recent Accounting Pronouncements 
-Effective March 1, 2019, we adopted Accounting Standards Update (ASU)
-No. 2016-02, Leases (Topic 842), as amended by ASU 2018-01, Leases (Topic 842)  Land Easement Practical Expedient for Transition to Topic 842,
-ASU 2018-10, Codification Improvements to Topic 842, ASU 2018-11, Leases (Topic 842)  Targeted Improvements, ASU
-2018-20, Leases (Topic 842)  Narrow-Scope Improvements for Lessors, and ASU 2019-01, Leases (Topic 842)  Codification Improvements,
-(collectively, the new leases standard or Topic 842). The new standard established a right-of-use (ROU) model that required lessees to record ROU assets and
+management’s plans to improve revenues, the operational effectiveness of continuing operations, the procurement of suitable financing, or a combination of these. The uncertainty regarding the potential success of management’s plan create
+substantial doubt about the ability of the Company to continue as a going concern.  Note 3. – Recent Accounting Pronouncements 
+Effective March 1, 2019, we adopted Accounting Standards Update (“ASU”)
+No. 2016-02, Leases (Topic 842), as amended by ASU 2018-01, Leases (Topic 842) – Land Easement Practical Expedient for Transition to Topic 842,
+ASU 2018-10, Codification Improvements to Topic 842, ASU 2018-11, Leases (Topic 842) – Targeted Improvements, ASU
+2018-20, Leases (Topic 842) – Narrow-Scope Improvements for Lessors, and ASU 2019-01, Leases (Topic 842) – Codification Improvements,
+(collectively, the new leases standard or Topic 842). The new standard established a right-of-use (“ROU”) model that required lessees to record ROU assets and
 lease obligations on the balance sheet for all leases with terms longer than 12 months.  We adopted Topic 842 in first quarter fiscal 2020
 using the modified retrospective method and utilized the optional transition method under which we continue to apply the legacy guidance in ASC 840, Leases, including its disclosure requirements, in the comparative period presented.
-Therefore, the adjustment to recognize the Companys leases on the balance sheet related to the adoption of the new standard was recorded as of the adoption date and prior periods were not restated. 
+Therefore, the adjustment to recognize the Company’s leases on the balance sheet related to the adoption of the new standard was recorded as of the adoption date and prior periods were not restated. 
 As part of the adoption of Topic 842, we elected to adopt certain of the optional practical expedients, including the package of practical
 expedients, which, among other things, gives us the option to not reassess: 1) whether expired or existing contracts are or contain leases; 2) the lease classification for expired or existing leases; and 3) initial direct costs for existing leases.
 We also elected the practical expedient to not separate lease and non-lease components, which allows us to account for lease and non-lease components as a single lease
-component. We did not elect the hindsight practical expedient in our determination of the lease term for existing leases; therefore, the original lease terms, as determined under ASC 840, were used in the calculation of the Companys initial
+component. We did not elect the hindsight practical expedient in our determination of the lease term for existing leases; therefore, the original lease terms, as determined under ASC 840, were used in the calculation of the Company’s initial
 Topic 842 lease liabilities.  Adoption of the new standard resulted in the recognition of operating lease assets and operating lease
 liabilities of approximately $2.1 million as of March 1, 2019. The adoption of this standard did not have an impact on retained earnings, the consolidated statements of operations or the consolidated statements of cash flows. 
   9 
@@ -255,15 +258,15 @@ Table of Contents
 
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
-Note 4.  Inventories 
+Note 4. – Inventories 
 Inventories are stated at the lower of cost (first in, first out) or market and consisted of the following (in thousands): 
  
- Note 5.  Line of Credit and Long-Term Debt 
+ Note 5. – Line of Credit and Long-Term Debt 
 The Company had a $0.2 million line of credit with the Brand Banking Company with $0.1 million balance outstanding on the line at
 November 30, 2019. The line matured on December 25, 2019, is personally guaranteed by the Chief Executive Officer and has an interest rate of LIBOR plus 3.75%. The Company is in negotiations to have the line extended while more permanent
 financing is secured. The loan has no financial covenants.  Long-term debt consisted of the following (in thousands): 
  
- Note 6.  Leases 
+ Note 6. – Leases 
 The Company leases its office space and manufacturing facilities under operating lease agreements. The base lease terms expire at various dates
 from 2022 to 2025. While each of the leases include renewal options, the Company has only included the base lease term in its calculation of lease assets and liabilities. The Company does not have any finance leases. 
   10 
@@ -276,12 +279,12 @@ Video Display Corporation and Subsidiaries
 November 30, 2019   
 Balance sheet information related to operating leases is as follows (in thousands): 
  
- Operating lease costs are included in Cost of goods sold in the Companys condensed consolidated
+ Operating lease costs are included in Cost of goods sold in the Company’s condensed consolidated
 statements of operations and totaled approximately $147 thousand for the three months ended November 30, 2019 and $440 thousand for the nine months ended November 30, 2019. The Company did not have any variable lease costs or
 short term lease costs for the three and nine months ended November 30, 2019. Operating lease cost were $146 thousand for the three months ended November 30, 2018 and $475 thousand for the nine months ended November 30,
 2018.  Cash paid for amounts included in the measurement of operating lease liabilities was approximately $143 thousand during the
 three months ended November 30, 2019 and $429 thousand for the nine months ended November 30, 2019. The Company did not modify any existing leases or execute any new leases during the nine months ended November 30, 2019. 
-Weighted average information associated with the measurement of the Companys remaining operating lease obligations is as follows: 
+Weighted average information associated with the measurement of the Company’s remaining operating lease obligations is as follows: 
  
 
 
@@ -307,13 +310,13 @@ November 30,2019
  
 6
 % 
- The following table summarizes the maturity of the Companys operating lease liabilities as
+ The following table summarizes the maturity of the Company’s operating lease liabilities as
 of November 30, 2019 (in thousands):   
  Included above are leases for manufacturing and warehouse facilities leased from Southeast Metro Savings, LLC
 and Honeyhill Properties, LLC (entities which are controlled by our chief executive officer) under operating leases expiring at various dates through 2025. Lease costs under these leases totaled approximately $97 thousand for the three months
 ended November 30, 2019 and $292 thousand for the nine months ended November 30, 2019 (which is included in the total lease costs noted above). 
 The Company subleases certain of its warehousing space and also leases a building that it owns in Pennsylvania. Sublease income and lease
-income are included in Other income, net in the Companys condensed consolidated statements of operations and totaled approximately $90,000 for the three months ended November 30, 2019 and $270,000 for the nine months ended
+income are included in Other income, net in the Company’s condensed consolidated statements of operations and totaled approximately $90,000 for the three months ended November 30, 2019 and $270,000 for the nine months ended
 November 30, 2019. Future lease payments expected to be received as of November 30, 2019 are as follows (in thousands): 
   11 
 
@@ -323,7 +326,7 @@ Table of Contents
 
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
- Note 7.  Related Party Transactions 
+ Note 7. – Related Party Transactions 
 On March 30, 2016, the Company entered into an assignment with recourse of the note receivable from
 Z-Axis Inc. (Z-Axis) with Ronald D. Ordway, CEO, and Jonathan R. Ordway, related parties, for the sum of $912 thousand. The note receivable is collateralized by a
 security interest in the shares of Z-Axis as well as a personal guaranty of its majority shareholder. Z-Axis is current on all scheduled payments regarding this note.
@@ -334,7 +337,7 @@ current as of February 28, 2019, respectively.  For the nine months ending Nove
 to Ronald D. Ordway, the CEO of the Company for funds borrowed during the current fiscal year. This is a non-interest bearing loan as repayment is expected in the short-term. See Note 6 for a discussion of
 leases with related parties.  On July 3, 2017, the Company and Ordway Properties, LLC purchased Honeyhill Properties, LLC which is
 the owner of the building at 510 Henry Clay Blvd. in Lexington, KY for $1,500,000. Video Display Corporation invested $500,000 towards the purchase price and accounted for the investment under the cost method since Ordway Properties, LLC was the
-majority owner. During the period ending November 30, 2017 the Company reduced its share in the LLC by $125,000, selling to Ordway Properties, LLC. In addition, during the period ending November 30, 2018, the Companys sold its
+majority owner. During the period ending November 30, 2017 the Company reduced its share in the LLC by $125,000, selling to Ordway Properties, LLC. In addition, during the period ending November 30, 2018, the Company’s sold its
 remaining $375,000 ownership interest to Ordway Properties, LLC receiving $166,457 in cash and $208,543 in forgiveness of rent that was accrued and owed. There was no gain or loss on the sale. 
   12 
 
@@ -344,9 +347,9 @@ Table of Contents
 
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
-Note 8.  Supplemental Cash Flow Information 
+Note 8. – Supplemental Cash Flow Information 
 Supplemental cash flow information is as follows (in thousands):   
- Note 9.  Shareholders Equity 
+ Note 9. – Shareholder’s Equity 
 Earnings (Loss) Per Share  Basic earnings
 (loss) per share is computed by dividing income or loss available to common shareholders by the weighted average number of common shares outstanding during each period. Shares issued during the period are weighted for the portion of the period that
 they were outstanding. Diluted earnings (loss) per share is calculated in a manner consistent with that of basic earnings (loss) per share while giving effect to all potentially dilutive common shares that were outstanding during the period. 
@@ -361,18 +364,18 @@ Table of Contents
 
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
- Stock options convertible into 200,000 shares of the Companys common stock were anti-dilutive and,
+ Stock options convertible into 200,000 shares of the Company’s common stock were anti-dilutive and,
 therefore, were excluded from the three and nine months ended November 30, 2019.  Stock-Based Compensation Plans 
 For the nine-month period ended November 30, 2019 and 2018, the Company recognized general and administrative expenses of $5 thousand
 and $13 thousand, respectively, related to share-based compensation. As of November 30, 2019, and November 30, 2018, total unrecognized compensation costs related to stock options granted was $2 thousand and $12 thousand,
 respectively. The unrecognized stock option compensation cost is expected to be recognized by February, 2020.  The Company estimates the
 fair value of stock options granted using the Black-Scholes option-pricing model, which requires the Company to estimate the expected term of the stock option grants and expected future stock price volatility over the term. The term represents the
-expected period of time the Company believes the options will remain outstanding based on historical information. Estimates of expected future stock price volatility are based on the historic volatility of the Companys common stock, which
+expected period of time the Company believes the options will remain outstanding based on historical information. Estimates of expected future stock price volatility are based on the historic volatility of the Company’s common stock, which
 represents the standard deviation of the differences in the weekly stock closing price, adjusted for dividends and stock splits.  No
 options were granted for the nine month period ending November 30, 2019 or for the nine month period ended November 30, 2018.  Stock
 Repurchase Program  The Company has a stock repurchase program, pursuant to which it had been authorized to repurchase up to 2,632,500
-shares of the Companys common stock in the open market. On January 20, 2014, the Board of Directors of the Company approved a one-time continuation of the stock repurchase program, and authorized
-the Company to repurchase up to 1,500,000 additional shares of the Companys common stock in the open market. There is no minimum number of shares required to be repurchased under the program. 
+shares of the Company’s common stock in the open market. On January 20, 2014, the Board of Directors of the Company approved a one-time continuation of the stock repurchase program, and authorized
+the Company to repurchase up to 1,500,000 additional shares of the Company’s common stock in the open market. There is no minimum number of shares required to be repurchased under the program. 
   14 
 
 
@@ -382,11 +385,11 @@ Table of Contents
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
 For the nine months ending November 30, 2019, the Company did not purchase any shares of
-the Video Display Corporation stock. The Company repurchased 8,858 shares at an average cost of $1.12 per share for the nine months ending November 30, 2018. Under the Companys stock repurchase program, an additional 490,186 shares remain
-authorized to be repurchased by the Company at November 30, 2019.  Note 10.  Income Taxes 
-Due to the Companys overall and historical net loss position, no income tax expense was reported for the nine month period ending
+the Video Display Corporation stock. The Company repurchased 8,858 shares at an average cost of $1.12 per share for the nine months ending November 30, 2018. Under the Company’s stock repurchase program, an additional 490,186 shares remain
+authorized to be repurchased by the Company at November 30, 2019.  Note 10. – Income Taxes 
+Due to the Company’s overall and historical net loss position, no income tax expense was reported for the nine month period ending
 November 30, 2019 and November 30, 2018. Due to continued losses reported by the Company, a full valuation allowance was allocated to the deferred tax asset created by these losses. 
-Note 11.  Legal Proceedings  The
+Note 11. – Legal Proceedings  The
 Company is involved in various legal proceedings related to claims arising in the ordinary course of business. The Company is not currently a party to any legal proceedings the result of which management believes is likely to have a material adverse
 impact on its business, financial position, results of operation or cash flows. 
   15 
@@ -397,50 +400,50 @@ Table of Contents
 
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
-ITEM 2. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
 RESULTS OF OPERATIONS  The following discussion should be read in conjunction with the attached interim condensed consolidated
-financial statements and with the Companys 2019 Annual Report to Shareholders, which included audited condensed consolidated financial statements and notes thereto as of and for the fiscal year ended February 28, 2019, as well as
-Managements Discussion and Analysis of Financial Condition and Results of Operations.  Overview 
+financial statements and with the Company’s 2019 Annual Report to Shareholders, which included audited condensed consolidated financial statements and notes thereto as of and for the fiscal year ended February 28, 2019, as well as
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.  Overview 
 The Company manufactures and distributes a wide range of display devices, encompassing, among others, industrial, military, medical, and
-simulation display solutions. The Company is comprised of one segmentthe manufacturing and distribution of displays and display components. The Company is organized into five interrelated operations aggregated into one reportable segment. 
+simulation display solutions. The Company is comprised of one segment—the manufacturing and distribution of displays and display components. The Company is organized into five interrelated operations aggregated into one reportable segment. 
  
 
 
  
-
- Simulation and Training Products  offers a wide range of projection display systems for use in
+•
+ Simulation and Training Products – offers a wide range of projection display systems for use in
 training and simulation, military, medical, entertainment and industrial applications.   
 
 
  
-
- Cyber Secure Products  offers advanced TEMPEST technology, and (EMSEC) products. This business
+•
+ Cyber Secure Products – offers advanced TEMPEST technology, and (EMSEC) products. This business
 also provides various contract services including the design and testing solutions for defense and niche commercial uses worldwide.   
 
 
  
-
- Data Display CRTs offers a wide range of CRTs for use in data display screens, including
+•
+ Data Display CRTs– offers a wide range of CRTs for use in data display screens, including
 computer terminal monitors and medical monitoring equipment.   
 
 
  
-
- Broadcast and Control Center Products  offers high-end
+•
+ Broadcast and Control Center Products – offers high-end
 visual display products for use in video walls and command and control centers.   
 
 
  
-
- Other Computer Products  offers a variety of keyboard products. 
+•
+ Other Computer Products – offers a variety of keyboard products. 
 During fiscal 2020, management of the Company is focusing key resources on strategic efforts to grow its business through internal sales of
-the Companys more profitable product lines and reduce expenses in all areas of the business to bring its cost structure in line with the current size of the business. Challenges facing the Company during these efforts include: 
+the Company’s more profitable product lines and reduce expenses in all areas of the business to bring its cost structure in line with the current size of the business. Challenges facing the Company during these efforts include: 
 Liquidity- The accompanying interim condensed consolidated financial statements were prepared on a going concern basis, which
 contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company reported a net loss for the period ending November 30, 2019 and a decrease in liquid assets for the comparable nine month
 fiscal 2020 period. Working capital decreased due to the adoption of Topic 842 (see discussion in Note 3) whereby lease liabilities were recognized for lease obligations. While the liabilities are reflected in both current and non-current liabilities, the corresponding lease right-of-use assets are solely reflected in
 non-current assets. The current lease liability recognized as of November 30, 2019 was approximately $557 thousand. The Company has sustained losses for the last three of four fiscal years and has
 seen overall a decline in working capital and liquid assets during this four year period. Annual losses over this time are due to a combination of decreasing revenues across certain divisions without a commensurate reduction of expenses. The
-Companys working capital and liquid asset position are presented below (in thousands) as of November 30, 2019 and February 28, 2019:   
+Company’s working capital and liquid asset position are presented below (in thousands) as of November 30, 2019 and February 28, 2019:   
 
   16 
 
@@ -457,9 +460,9 @@ displays. Each division is exploring opportunities structured to their particula
 other expenses at the divisions, as well as at the corporate location with the expectation that further decreases can be achieved. The Company has completed the merger of the two Florida businesses into one facility and the relocation of Lexel
 Imaging into a new facility. These changes are projected to realize annual savings through reduced expenses. Management continues to explore options to monetize certain long-term assets of the business. If additional and more permanent capital is
 required to fund the operations of the Company, no assurance can be given that the Company will be able to obtain the capital on terms favorable to the Company, if at all. 
-The ability of the Company to continue as a going concern is dependent upon the success of managements plans to improve revenues, the
-operational effectiveness of continuing operations, the procurement of suitable financing, or a combination of these. The uncertainty regarding the potential success of managements plan create substantial doubt about the ability of the Company
-to continue as a going concern.  Inventory management  The Companys business units utilize different inventory
+The ability of the Company to continue as a going concern is dependent upon the success of management’s plans to improve revenues, the
+operational effectiveness of continuing operations, the procurement of suitable financing, or a combination of these. The uncertainty regarding the potential success of management’s plan create substantial doubt about the ability of the Company
+to continue as a going concern.  Inventory management – The Company’s business units utilize different inventory
 components than the divisions had in the past. The Company has a monthly reserve at each of its divisions to offset any obsolescence although most purchases are for current orders, which should reduce the amount of obsolescence in the future. The
 Company still has CRT inventory in stock and component parts for legacy products, although it believes the inventory will be sold in the future, will continue to reserve for any additional obsolescence. Management believes its inventory reserves at
 November 30, 2019 and February 28, 2019 are adequate.  Results of Operations 
@@ -476,16 +479,16 @@ Video Display Corporation and Subsidiaries
 November 30, 2019   
 Net sales 
 Consolidated net sales decreased 35.7% for the nine months ended November 30, 2019 and 64.8% for the three months ended November 30,
-2019 compared to the nine months and three months ended November 30, 2018. The Companys AYON Cyber Security (ACS) division is down 65.0% for the nine months ending November 30, 2019 compared to the nine months last year. ACS had a
+2019 compared to the nine months and three months ended November 30, 2018. The Company’s AYON Cyber Security (ACS) division is down 65.0% for the nine months ending November 30, 2019 compared to the nine months last year. ACS had a
 record year with its top customer, which continues to do well, but not at the level of last year. ACS is down $1.3 million with that customer. ACS was completing a large order for the Department of State last year and is down $0.9 million
-with the State Department this year. ACS has been awarded a new contract with the State Department which will make up this shortfall and is expected to ship in the Companys fourth quarter. For the three months ending November 30, 2019,
+with the State Department this year. ACS has been awarded a new contract with the State Department which will make up this shortfall and is expected to ship in the Company’s fourth quarter. For the three months ending November 30, 2019,
 ACS was down 77.1% because of our customers waiting for funding to be approved before they could place orders with us. The Display Systems division was down 24.0% for the nine months ended November 30, 2019 compared to the comparable period
-last year. The divisions business is down $1.1 million with its largest customer due to a rebidding situation which has slowed the orders from this customer until resolved. For the three months ended November 30, 2019, the Display
+last year. The division’s business is down $1.1 million with its largest customer due to a rebidding situation which has slowed the orders from this customer until resolved. For the three months ended November 30, 2019, the Display
 System division was down 78.8% compared to the same three months last year. Last year the Company was completing a simulation project for the Air Force during the quarter. Business has been slow for this division, but they have received
-approximately $2.0 million in new orders. The Company is focused on the video wall business with a recent order for a video wall for a major companys executive conference room. The Company is also focused on the ruggedized displays
+approximately $2.0 million in new orders. The Company is focused on the video wall business with a recent order for a video wall for a major company’s executive conference room. The Company is also focused on the ruggedized displays
 (displays specifically designed to operate reliably in harsh usage environments and conditions) and the simulation sectors of the business, having recently received a good order for simulation and pursuing opportunities in both the ruggedized
 displays and simulation business. The Data Display division showed an increase of 12.2% for the nine months ended November 30, 2019 due to increases in the sales of a specialty product know as a DVST (Direct view storage tube), with a majority
-of their sales in this product year to date. The Data Display division is also doing well with a long time customer, supplying them with CRTs (Cathode Ray Tubes) for their simulators. The Companys keyboard division was down 22.7% for the nine
+of their sales in this product year to date. The Data Display division is also doing well with a long time customer, supplying them with CRTs (Cathode Ray Tubes) for their simulators. The Company’s keyboard division was down 22.7% for the nine
 months ended November 30, 2019 and 34.1% for three months ended November 30, 2019 respectively compared to the same periods last year. The Company acquired this company in October of 2017. This division is expected to continue at this
 level of sales each quarter.  Gross margins 
 Consolidated gross margins decreased both as a percentage to sales (16.1% to 25.8%) and actual dollars ($1,188 thousand to $2,971
@@ -507,18 +510,18 @@ dollars were $507 thousand compared to $485 thousand for the nine months ended
 November 30, 2019 and November 30, 2018. VDC Display Systems gross margins improved for the year due to lower labor costs as approximately 50% of the revenue was from two video wall installations. This was partially offset by higher
 material costs. Gross margins for the quarter were negative as there was not enough revenue to offset the fixed costs. The recent orders received should improve gross margins in the fourth quarter. 
 The keyboard division, Unicomp, had $286 thousand of gross margin dollars or 34.7% to sales for the nine months ending November 30,
-2019 compared to $467 thousand or 43.7% for the nine months ending November 30, 2018. Their gross margin percentage improved to 38.8% for the three months ended November 30, 2019, but not up to last years three months ended
+2019 compared to $467 thousand or 43.7% for the nine months ending November 30, 2018. Their gross margin percentage improved to 38.8% for the three months ended November 30, 2019, but not up to last year’s three months ended
 November 30, 2018 at 40.1%. Actual gross margin dollars were $99 thousand compared to $155 thousand last year for the comparable quarter ended November 30, 2019. The Data Display division had a negative gross margin of
 $42 thousand or a negative 2.5% for nine months ending November 30, 2019. The Lexel Imaging facility, which manufactures the cathode ray tubes had gross margin dollars of $228 thousand and a gross margin percentage of 13.5% for the
 nine months ended November 30, 2019 compared to a negative $68 thousand for the nine months ended November 30, 2018. Lexel Imaging had a strong quarter in gross margins with $264 thousand or 52.7% for the three months ended
 November 30, 2019 compared to $107 thousand or 18.8% for the comparable three months ended November 30, 2018.  Operating expenses
  Operating expenses decreased $122 thousand for the nine months ended November 30, 2019 compared to the nine months ended
-November 30, 2018. The decrease was due primarily to the reduction of corporate salaries and benefits by the layoff of two accounting personnel. This was facilitated by the move of the corporate accounting functions to the Companys Cocoa,
+November 30, 2018. The decrease was due primarily to the reduction of corporate salaries and benefits by the layoff of two accounting personnel. This was facilitated by the move of the corporate accounting functions to the Company’s Cocoa,
 Florida location. Operating expenses decreased $65 for the three months ended November 30, 2019 compared to the three months ended November 30, 2018. The decrease is attributed to the reduction of corporate expenses and sales commissions.
  Interest expense, net  Interest
 expense was $1 thousand for the nine months ending November 30, 2019. The interest expense was negligible for the three months ending November 30, 2019. There was $18 thousand for the nine months ending November 30, 2018 and
-$4 for the three months ending November 30, 2018. The interest expense is related to the line of credit at the Companys bank and the interest on the margin balance in the Companys investment account, which is a 3.75% rate. Last
-years interest included interest on a mortgage on a building the Company owns in Pennsylvania. The mortgage is paid, thus no related interest this year. 
+$4 for the three months ending November 30, 2018. The interest expense is related to the line of credit at the Company’s bank and the interest on the margin balance in the Company’s investment account, which is a 3.75% rate. Last
+year’s interest included interest on a mortgage on a building the Company owns in Pennsylvania. The mortgage is paid, thus no related interest this year. 
 Other income, net  For the nine months
 ended November 30, 2019, the Company earned $191 thousand in royalty income, $270 thousand in rental income, $27 thousand in scrap sales, and $12 thousand investment income. For the three months ended November 30, 2019,
 the Company earned $90 thousand in rental income, $9 thousand in scrap income and $11 thousand in investment income. For the nine months ended November 30, 2018, the Company had $129 thousand in royalty income,
@@ -533,7 +536,7 @@ Table of Contents
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
 Income taxes 
-Due to the Companys overall and historical net loss position, no income tax expense was reported for the nine month period ending
+Due to the Company’s overall and historical net loss position, no income tax expense was reported for the nine month period ending
 November 30, 2019 and November 30, 2018. Due to continued losses reported by the Company, a full valuation allowance was allocated to the deferred tax asset created by these losses. 
 Liquidity and Capital Resources  The
 accompanying interim condensed consolidated financial statements were prepared on a going concern basis, which contemplates the realization of assets and the satisfaction of liabilities in the normal course of business. The Company reported a net
@@ -541,7 +544,7 @@ loss for the period ending November 30, 2019 and a decrease in liquid assets fo
 recognized for lease obligations. While the liabilities are reflected in both current and non-current liabilities, the corresponding lease
 right-of-use assets are solely reflected in non-current assets. The current lease liability recognized as of November 30,
 2019 was approximately $557 thousand. The Company has sustained losses for the last three of four fiscal years and has seen overall a decline in working capital and liquid assets during this four year period. Annual losses over this time are
-due to a combination of decreasing revenues across certain divisions without a commensurate reduction of expenses. The Companys working capital and liquid asset position are presented below (in thousands) as of November 30, 2019 and
+due to a combination of decreasing revenues across certain divisions without a commensurate reduction of expenses. The Company’s working capital and liquid asset position are presented below (in thousands) as of November 30, 2019 and
 February 28, 2019:   
  Management has implemented a plan to improve the liquidity of the Company. The Company has been fulfilling a
 plan to increase revenues at all the divisions, the Company has expanded its cyber security business by adding a second testing chamber for testing tempest products allowing it to increase the business in cyber testing services to supplement the
@@ -550,8 +553,8 @@ division is exploring opportunities structured to their particular division whic
 at the divisions, as well as at the corporate location with the expectation that further decreases can be achieved. The Company has completed the merger of the two Florida businesses into one facility and the relocation of Lexel Imaging into a new
 facility. These changes are projected to realize annual savings through reduced expenses. Management continues to explore options to monetize certain long-term assets of the business. If additional and more permanent capital is required to fund the
 operations of the Company, no assurance can be given that the Company will be able to obtain the capital on terms favorable to the Company, if at all. 
-The ability of the Company to continue as a going concern is dependent upon the success of managements plans to improve revenues, the
-operational effectiveness of continuing operations, the procurement of suitable financing, or a combination of these. The uncertainty regarding the potential success of managements plan create substantial doubt about the ability of the Company
+The ability of the Company to continue as a going concern is dependent upon the success of management’s plans to improve revenues, the
+operational effectiveness of continuing operations, the procurement of suitable financing, or a combination of these. The uncertainty regarding the potential success of management’s plan create substantial doubt about the ability of the Company
 to continue as a going concern.  Cash used by operations for the nine months ended November 30, 2019 was $0.3 million. The net
 loss from operations was $1.4 million. Adjustments to reconcile net loss to net cash were $0.2, primarily depreciation. Changes in working capital provided $0.9 million, primarily due to a decrease in accounts receivable of
 $1.3 million, an increase in accounts payable and accrued liabilities of $0.6 million and a decrease in prepaid expenses and other assets of $0.3 million, offset by an increase in inventory of $0.4 million and a decrease in
@@ -567,13 +570,13 @@ November 30, 2019   
 Investing activities used $0.1 million for the nine months ended November 30, 2019
 relating primarily to capital expenditures. Investing activities provided $0.5 million for the nine months ended November 30, 2018 primarily resulting from net cash proceeds received from the sale of investments and investment in real
 estate partnership.  Financing activities provided $0.1 million for the nine months ended November 30, 2019. This was primarily
-from the net borrowing from the line of credit at the Companys bank of $0.1 million. Financing activities provided $0.2 million for the nine months ended November 30, 2018. Loans, net of repayment, from the Companys CEO
+from the net borrowing from the line of credit at the Company’s bank of $0.1 million. Financing activities provided $0.2 million for the nine months ended November 30, 2018. Loans, net of repayment, from the Company’s CEO
 provided $0.2 million and net borrowings from the line of credit provided $0.2 million. These were offset by repayment of margin borrowings of $0.1 million and repayment of other debt. 
 The Company has a stock repurchase program, pursuant to which it has been authorized to repurchase up to 2,632,500 shares of the
-Companys common stock in the open market. On January 20, 2014, the Board of Directors of the Company approved a one-time continuation of the stock repurchase program, and authorized the Company to
-repurchase up to 1,500,000 additional shares of the Companys common stock on the open market, depending on the market price of the shares. There is no minimum number of shares required to be repurchased under the program. 
+Company’s common stock in the open market. On January 20, 2014, the Board of Directors of the Company approved a one-time continuation of the stock repurchase program, and authorized the Company to
+repurchase up to 1,500,000 additional shares of the Company’s common stock on the open market, depending on the market price of the shares. There is no minimum number of shares required to be repurchased under the program. 
 For the nine months ending November 30, 2019, the Company did not purchase any shares of the Video Display Corporation stock. The Company
-repurchased 8,858 shares at an average cost of $1.12 per share for the nine months ending November 30, 2018. Under the Companys stock repurchase program, an additional 490,186 shares remain authorized to be repurchased by the Company at
+repurchased 8,858 shares at an average cost of $1.12 per share for the nine months ending November 30, 2018. Under the Company’s stock repurchase program, an additional 490,186 shares remain authorized to be repurchased by the Company at
 November 30, 2019. 
   21 
 
@@ -584,14 +587,14 @@ Table of Contents
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
 Critical Accounting Estimates 
-Managements Discussion and Analysis of Financial Condition and Results of Operations are based upon the Companys interim condensed
+Management’s Discussion and Analysis of Financial Condition and Results of Operations are based upon the Company’s interim condensed
 consolidated financial statements. These interim condensed consolidated financial statements have been prepared in accordance with U.S. GAAP. These principles require the use of estimates and assumptions that affect amounts reported and disclosed in
 the interim condensed consolidated financial statements and related notes. The accounting policies that may involve a higher degree of judgments, estimates, and complexity include reserves on inventories, revenue recognition, and the sufficiency of
 the valuation reserve related to deferred tax assets. The Company uses the following methods and assumptions in determining its estimates:  Reserves on
 Inventories  Reserves on inventories result in a charge to operations when the estimated net realizable value declines below cost.
-Management regularly reviews the Companys investment in inventories for declines in value and establishes reserves when it is apparent that the expected net realizable value of the inventory falls below its carrying amount. Management reviews
+Management regularly reviews the Company’s investment in inventories for declines in value and establishes reserves when it is apparent that the expected net realizable value of the inventory falls below its carrying amount. Management reviews
 inventory levels on a quarterly basis. Such reviews include observations of product development trends of the original equipment manufacturers, new products being marketed, and technological advances relative to the product capabilities of the
-Companys existing inventories. Management believes its inventory reserves at November 30, 2019 and February 28, 2019 are adequate. 
+Company’s existing inventories. Management believes its inventory reserves at November 30, 2019 and February 28, 2019 are adequate. 
 Revenue Recognition  We recognize revenue
 when we transfer control of the promised products or services to our customers, in an amount that reflects the consideration we expect to be entitled to in exchange for those products or services. We derive our revenue primarily from sales of
 simulation and video wall systems, cyber secure products, data displays, and keyboards. We exclude sales and usage-based taxes from revenue. 
@@ -618,14 +621,14 @@ Income Taxes
 Deferred income taxes are provided to reflect the tax consequences in future years of differences between the tax bases of assets and
 liabilities and their financial reporting amounts based on enacted tax laws and statutory tax rates applicable to the periods in which the differences are expected to affect taxable income. Valuation allowances are established when necessary to
 reduce deferred tax assets to the amount expected to be realized. As of November 30, 2019 and February 28, 2019, the Company has established a valuation allowance of $6.1 million and $5.8 million, respectively, on the
-Companys current and non-current deferred tax assets.  The Company accounts for uncertain
+Company’s current and non-current deferred tax assets.  The Company accounts for uncertain
 tax positions under the provisions of ASC 740, which contains a two-step approach to recognizing and measuring uncertain tax positions. The first step is to evaluate the tax position for recognition by
 determining if the weight of available evidence indicates it is more likely than not, that the position will be sustained on audit, including resolution of related appeals or litigation processes, if any. The second step is to measure the tax
-benefit as the largest amount, which is more than 50% likely of being realized upon ultimate settlement. The Company considers many factors when evaluating and estimating the Companys tax positions and tax benefits, which may require periodic
+benefit as the largest amount, which is more than 50% likely of being realized upon ultimate settlement. The Company considers many factors when evaluating and estimating the Company’s tax positions and tax benefits, which may require periodic
 adjustments. At November 30, 2019, the Company did not record any liabilities for uncertain tax positions.  Forward-Looking Information and Risk
-Factors  This report contains forward-looking statements and information that is based on managements beliefs, as well as
-assumptions made by, and information currently available to management. When used in this document, the words anticipate, believe, estimate, intends, will, and expect and
-similar expressions are intended to identify forward-looking statements. Such statements involve a number of risks and uncertainties. These risks and uncertainties, which are included under Part I, Item 1A. Risk Factors in the Companys Annual
+Factors  This report contains forward-looking statements and information that is based on management’s beliefs, as well as
+assumptions made by, and information currently available to management. When used in this document, the words “anticipate,” “believe,” “estimate,” “intends,” “will,” and “expect” and
+similar expressions are intended to identify forward-looking statements. Such statements involve a number of risks and uncertainties. These risks and uncertainties, which are included under Part I, Item 1A. Risk Factors in the Company’s Annual
 Report on Form 10-K for the year ended February 28, 2019 could cause actual results to differ materially. 
   23 
 
@@ -636,7 +639,7 @@ Table of Contents
 Video Display Corporation and Subsidiaries 
 November 30, 2019   
 ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK 
-The Companys primary market risks include changes in technology. The Company operates in an industry which is continuously changing.
+The Company’s primary market risks include changes in technology. The Company operates in an industry which is continuously changing.
 Failure to adapt to the changes could have a detrimental effect on the Company.  ITEM 4. CONTROLS AND PROCEDURES 
 Our disclosure controls and procedures (as defined in Exchange Act Rule 13a-15(e)) are designed to
 provide reasonable assurance that information required to be disclosed in our reports filed or submitted under the Securities Exchange Act of 1934, such as this quarterly report on Form 10-Q, is recorded,
@@ -746,6 +749,7 @@ Gregory L. Osborn
 Chief Financial Officer
   
   26 
+
 
 
 

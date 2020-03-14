@@ -5,7 +5,11 @@ jewettcameronq12020_10q.htm
 JEWETT CAMERON 10-Q FOR THE PERIOD ENDED NOVEMBER 30, 2019
 
 
+
+
 Jewett Cameron Form 10-Q
+
+
 
 
 
@@ -54,7 +58,7 @@ BRITISH COLUMBIA
 
 (503) 647-0110
 
-(Registrants Telephone Number, Including Area Code)
+(Registrant’s Telephone Number, Including Area Code)
 
 
 
@@ -89,7 +93,7 @@ Yes  ¨     No  x
 
 APPLICABLE ONLY TO CORPORATE ISSUERS:
 
-Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date. Common Stock, no par value  3,481,162 common shares as of January 14, 2020.
+Indicate the number of shares outstanding of each of the issuer's classes of common stock, as of the latest practicable date. Common Stock, no par value – 3,481,162 common shares as of January 14, 2020.
 
 
  
@@ -113,7 +117,7 @@ Index to Form 10-Q
 
 
 
-PART 1  FINANCIAL INFORMATION
+PART 1 – FINANCIAL INFORMATION
 
 Item 1. 
 Financial Statements
@@ -125,7 +129,7 @@ JEWETT-CAMERON TRADING COMPANY LTD.
 
 CONSOLIDATED FINANCIAL STATEMENTS
 (Expressed in U.S. Dollars)
-(Unaudited  Prepared by Management)
+(Unaudited – Prepared by Management)
 
 
 NOVEMBER 30, 2019
@@ -146,7 +150,7 @@ CONSOLIDATED BALANCE SHEETS
 
 
 
-- Continued 
+- Continued –
 
 The accompanying notes are an integral part of these consolidated financial statements.
 
@@ -235,11 +239,11 @@ November 30, 2019
 1.
 NATURE OF OPERATIONS 
 
-Jewett-Cameron Trading Company Ltd. was incorporated in British Columbia on July 8, 1987 as a holding company for Jewett-Cameron Lumber Corporation (JCLC), incorporated September 1953. Jewett-Cameron Trading Company, Ltd. acquired all the shares of JCLC through a stock-for-stock exchange on July 13, 1987, and at that time JCLC became a wholly owned subsidiary. Effective September 1, 2013, the Company reorganized certain of its subsidiaries. JCLCs name was changed to JC USA Inc. (JC USA), and a new subsidiary, Jewett-Cameron Company (JCC), was incorporated.  
+Jewett-Cameron Trading Company Ltd. was incorporated in British Columbia on July 8, 1987 as a holding company for Jewett-Cameron Lumber Corporation (“JCLC”), incorporated September 1953. Jewett-Cameron Trading Company, Ltd. acquired all the shares of JCLC through a stock-for-stock exchange on July 13, 1987, and at that time JCLC became a wholly owned subsidiary. Effective September 1, 2013, the Company reorganized certain of its subsidiaries. JCLC’s name was changed to JC USA Inc. (“JC USA”), and a new subsidiary, Jewett-Cameron Company (“JCC”), was incorporated.  
 
-JC USA has the following wholly owned subsidiaries: MSI-PRO Co. (MSI), incorporated April 1996, Jewett-Cameron Seed Company, (JCSC), incorporated October 2000, Greenwood Products, Inc. (Greenwood), incorporated February 2002, and Jewett-Cameron Company, incorporated September 2013. Jewett-Cameron Trading Company Ltd. and its subsidiaries (the Company) have no significant assets in Canada.
+JC USA has the following wholly owned subsidiaries: MSI-PRO Co. (“MSI”), incorporated April 1996, Jewett-Cameron Seed Company, (“JCSC”), incorporated October 2000, Greenwood Products, Inc. (“Greenwood”), incorporated February 2002, and Jewett-Cameron Company, incorporated September 2013. Jewett-Cameron Trading Company Ltd. and its subsidiaries (the “Company”) have no significant assets in Canada.
 
-The Company, through its subsidiaries, operates out of facilities located in North Plains, Oregon. JCCs business consists of the manufacturing and distribution of specialty metal products and wholesale distribution of wood products to home centers and other retailers located primarily in the United States. Greenwood is a processor and distributor of industrial wood and other specialty building products principally to customers in the marine and transportation industries in the United States. MSI is an importer and distributor of pneumatic air tools and industrial clamps in the United States. JCSC is a processor and distributor of agricultural seeds in the United States. JC USA provides professional and administrative services, including accounting and credit services, to its subsidiary companies.
+The Company, through its subsidiaries, operates out of facilities located in North Plains, Oregon. JCC’s business consists of the manufacturing and distribution of specialty metal products and wholesale distribution of wood products to home centers and other retailers located primarily in the United States. Greenwood is a processor and distributor of industrial wood and other specialty building products principally to customers in the marine and transportation industries in the United States. MSI is an importer and distributor of pneumatic air tools and industrial clamps in the United States. JCSC is a processor and distributor of agricultural seeds in the United States. JC USA provides professional and administrative services, including accounting and credit services, to its subsidiary companies.
 
 Effective September 1, 2019, the Company decided to permanently close the MSI division and exit the industrial tools business.
 
@@ -258,7 +262,7 @@ All inter-company balances and transactions have been eliminated upon consolidat
 
 Estimates
 
-The preparation of consolidated financial statements in conformity with generally accepted accounting principles in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period.  Significant estimates incorporated into the Companys consolidated financial statements include the estimated useful lives for depreciable and amortizable assets, the estimated allowances for doubtful accounts receivable and inventory obsolescence, possible product liability and possible product returns, and litigation contingencies and claims. Actual results could differ from those estimates.
+The preparation of consolidated financial statements in conformity with generally accepted accounting principles in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period.  Significant estimates incorporated into the Company’s consolidated financial statements include the estimated useful lives for depreciable and amortizable assets, the estimated allowances for doubtful accounts receivable and inventory obsolescence, possible product liability and possible product returns, and litigation contingencies and claims. Actual results could differ from those estimates.
 
 
 - 9 -
@@ -274,7 +278,7 @@ November 30, 2019
 (Unaudited)
 
 2.
-SIGNIFICANT ACCOUNTING POLICIES (contd)
+SIGNIFICANT ACCOUNTING POLICIES (cont’d…)
 
 Cash and cash equivalents
 
@@ -308,7 +312,7 @@ Property, plant and equipment are recorded at cost less accumulated depreciation
 
 Intangibles
 
-The Companys intangible assets have a finite life and are recorded at cost. Amortization is calculated using the straight-line method over the remaining life of the asset. The intangible assets are reviewed annually for impairment.
+The Company’s intangible assets have a finite life and are recorded at cost. Amortization is calculated using the straight-line method over the remaining life of the asset. The intangible assets are reviewed annually for impairment.
 
 Asset retirement obligations
 
@@ -328,7 +332,7 @@ November 30, 2019
 (Unaudited)
 
 2.
-SIGNIFICANT ACCOUNTING POLICIES (contd)
+SIGNIFICANT ACCOUNTING POLICIES (cont’d…)
 
 Impairment of long-lived assets and long-lived assets to be disposed of
 
@@ -365,7 +369,7 @@ November 30, 2019
 (Unaudited)
 
 2.
-SIGNIFICANT ACCOUNTING POLICIES (contd)
+SIGNIFICANT ACCOUNTING POLICIES (cont’d…)
 
 Stock-based compensation
 
@@ -407,7 +411,7 @@ November 30, 2019
 (Unaudited)
 
 2.
-SIGNIFICANT ACCOUNTING POLICIES (contd)
+SIGNIFICANT ACCOUNTING POLICIES (cont’d…)
 
 Income taxes
 
@@ -427,7 +431,7 @@ Recent Accounting Pronouncements
 
 In May 2014, the FASB issued ASU No. 2014-09, Revenue from Contracts with Customers. The new standard provides a five-step approach to be applied to all contracts with customers and also requires expanded disclosures about revenue recognition. The ASU is effective for annual reporting periods beginning after December 15, 2017, including interim periods and is to be retrospectively applied. Early application is permitted only as of annual reporting periods beginning after December 15, 2016, including interim reporting periods within that reporting period. The Company adopted this ASU effective September 1, 2018, using the full retrospective approach, prospectively.  The adoption had no material impact on its financial statements on adoption as the sale of goods by the Company is performed on a standalone basis and revenue is recognized when the customer obtains control of the goods and in an amount that considers the impact of estimated returns, discounts and after allowances that are variable in nature.
 
-In February 2016, Topic 842, Leases was issued to replace the leases requirements in Topic 840, Leases.  The main difference between previous GAAP and Topic 842 is the recognition of lease assets and lease liabilities by lessees for those leases classified as operating leases under previous GAAP. A lessee should recognize in the balance sheet a liability to make lease payments (the lease liability) and a right-of-use asset representing its right to use the underlying asset for the lease term. For leases with a term of 12 months or less, a lessee is permitted to make an accounting policy election by class of underlying asset not to recognize lease assets and lease liabilities. If a lessee makes this election, it should recognize lease expense for such leases generally on a straight-line basis over the lease term.  The accounting applied by a lessor is largely unchanged from that applied under previous GAAP.  Topic 842 will be effective for annual reporting periods beginning after December 15, 2018, including interim periods within those annual periods and is to be retrospectively applied.  Earlier application is permitted.  The adoption of this new guidance is not expected to have a material impact on the Companys consolidated financial statements.
+In February 2016, Topic 842, Leases was issued to replace the leases requirements in Topic 840, Leases.  The main difference between previous GAAP and Topic 842 is the recognition of lease assets and lease liabilities by lessees for those leases classified as operating leases under previous GAAP. A lessee should recognize in the balance sheet a liability to make lease payments (the lease liability) and a right-of-use asset representing its right to use the underlying asset for the lease term. For leases with a term of 12 months or less, a lessee is permitted to make an accounting policy election by class of underlying asset not to recognize lease assets and lease liabilities. If a lessee makes this election, it should recognize lease expense for such leases generally on a straight-line basis over the lease term.  The accounting applied by a lessor is largely unchanged from that applied under previous GAAP.  Topic 842 will be effective for annual reporting periods beginning after December 15, 2018, including interim periods within those annual periods and is to be retrospectively applied.  Earlier application is permitted.  The adoption of this new guidance is not expected to have a material impact on the Company’s consolidated financial statements.
 
 
 - 13 -
@@ -443,13 +447,13 @@ November 30, 2019
 (Unaudited)
 
 2.
-SIGNIFICANT ACCOUNTING POLICIES (contd)
+SIGNIFICANT ACCOUNTING POLICIES (cont’d…)
 
-Recent Accounting Pronouncements (contd)
+Recent Accounting Pronouncements (cont’d…)
 
-In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments  Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. The accounting standard changes the methodology for measuring credit losses on financial instruments and the timing when such losses are recorded. ASU No. 2016-14 is effective for fiscal years, and interim periods within those years, beginning after December 31, 2019. The Company is currently evaluating the impact of ASU No. 2016-13 on its financial position, results of operations and liquidity.
+In June 2016, the FASB issued ASU No. 2016-13, Financial Instruments – Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments. The accounting standard changes the methodology for measuring credit losses on financial instruments and the timing when such losses are recorded. ASU No. 2016-14 is effective for fiscal years, and interim periods within those years, beginning after December 31, 2019. The Company is currently evaluating the impact of ASU No. 2016-13 on its financial position, results of operations and liquidity.
 
-In November 2016, the FASB issued ASU No. 2016-18, Statement of Cash Flows: Restricted Cash (Topic 230): a consensus of the FASBs Emerging Issues Task Force (the Task Force). The new standard requires that the statement of cash flows explain the change during the period in the total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents. Entities will also be required to reconcile such total to amounts on the balance sheet and disclose the nature of the restrictions. Topic 230 will be effective for annual reporting periods beginning after December 15, 2017, including interim periods within those annual periods. The Company adopted this ASU on September 1, 2018, prospectively. There was no material impact on the Companys financial statements on adoption. 
+In November 2016, the FASB issued ASU No. 2016-18, Statement of Cash Flows: Restricted Cash (Topic 230): a consensus of the FASB’s Emerging Issues Task Force (the “Task Force”). The new standard requires that the statement of cash flows explain the change during the period in the total of cash, cash equivalents, and amounts generally described as restricted cash or restricted cash equivalents. Entities will also be required to reconcile such total to amounts on the balance sheet and disclose the nature of the restrictions. Topic 230 will be effective for annual reporting periods beginning after December 15, 2017, including interim periods within those annual periods. The Company adopted this ASU on September 1, 2018, prospectively. There was no material impact on the Company’s financial statements on adoption. 
 
 3.
 INVENTORY
@@ -495,7 +499,7 @@ Deferred income tax liability as of November 30, 2019 of $47,103 (August 31, 201
 7.
 BANK INDEBTEDNESS
 
-There was no bank indebtedness under the Companys line-of-credit as of November 30, 2019 or August 31, 2019.  At November 30, 2019, the line of credit borrowing limit was $3,000,000.
+There was no bank indebtedness under the Company’s line-of-credit as of November 30, 2019 or August 31, 2019.  At November 30, 2019, the line of credit borrowing limit was $3,000,000.
 
 Bank indebtedness, when it exists, is secured by an assignment of accounts receivable and inventory.  Interest is calculated solely on the one month LIBOR rate plus 175 basis points.
 
@@ -560,11 +564,11 @@ The Company had no stock options outstanding as of November 30, 2019 and August 
 
 Restricted Share Plan
 
-The Company has a Restricted Share Plan (the Plan) as approved by shareholders on February 8, 2019. The Plan allows the Company to grant, from time to time, restricted shares as compensation to directors, officers, employees and consultants of the Company. The Restricted Shares are subject to restrictions, including the period under which the shares will be restricted (the Restricted Period) and subject to forfeiture which is determined by the Board at the time of the grant. The recipient of Restricted Shares is entitled to all of the rights of a shareholder, including the right to vote such shares and the right to receive any dividends, except that the shares granted under the Plan are nontransferable during the Restricted Period.
+The Company has a Restricted Share Plan (the “Plan”) as approved by shareholders on February 8, 2019. The Plan allows the Company to grant, from time to time, restricted shares as compensation to directors, officers, employees and consultants of the Company. The Restricted Shares are subject to restrictions, including the period under which the shares will be restricted (the “Restricted Period”) and subject to forfeiture which is determined by the Board at the time of the grant. The recipient of Restricted Shares is entitled to all of the rights of a shareholder, including the right to vote such shares and the right to receive any dividends, except that the shares granted under the Plan are nontransferable during the Restricted Period.
 
 The maximum number of Common Shares reserved for issuance under the Plan will not exceed 1% of the then issued and outstanding number of Common Shares at the time of the grant. As of August 31, 2019, the maximum number of shares available to be issued under the Plan was 39,712.
 
-During the year ended August 31, 2019, the Company issued 2,294 common shares under the Plan to the Companys CEO as a portion of his earned fiscal 2018 bonus as approved by the Board. The value of this award was $18,444, with the number of shares issued determined by the closing price of the stock on the day of the grant.
+During the year ended August 31, 2019, the Company issued 2,294 common shares under the Plan to the Company’s CEO as a portion of his earned fiscal 2018 bonus as approved by the Board. The value of this award was $18,444, with the number of shares issued determined by the closing price of the stock on the day of the grant.
 
 11.
 PENSION AND PROFIT-SHARING PLANS
@@ -614,7 +618,7 @@ November 30, 2019
 (Unaudited)
 
 13.
-SEGMENT INFORMATION (contd)
+SEGMENT INFORMATION (cont’d…)
 
 
   2019
@@ -667,7 +671,7 @@ The Company conducts business primarily in the United States, but also has limit
 
 
 
-All of the Companys significant identifiable assets were located in the United States as of November 30, 2019 and 2018.
+All of the Company’s significant identifiable assets were located in the United States as of November 30, 2019 and 2018.
 
 14.
 CONCENTRATIONS
@@ -690,7 +694,7 @@ November 30, 2019
 (Unaudited)
 
 14.
-CONCENTRATIONS (contd)
+CONCENTRATIONS (cont’d…)
 
 Volume of business
 
@@ -727,7 +731,7 @@ There were no non-cash investing or financing activities during the periods pres
 16.
 CONTINGENCY
 
-The Company is a named party in a Civil Action in Pennsylvania. The matter is an action seeking compensation for personal injuries and is based on theories of product liability as to Jewett-Cameron. The matter arises out of a dog allegedly escaping from a Jewett-Cameron kennel product and causing personal injuries to three individuals. Jewett-Cameron is currently one of three named Defendants.  As of this date, no formal responses have been made and no dates have been established governing the litigation proceedings. This matter is in its early stages making it speculative to predict as to its outcome. It is the Companys intention to vigorously defend the lawsuit. Jewett- Camerons applicable liability insurer is providing a defense covering Jewett-Camerons legal fees and costs.
+The Company is a named party in a Civil Action in Pennsylvania. The matter is an action seeking compensation for personal injuries and is based on theories of product liability as to Jewett-Cameron. The matter arises out of a dog allegedly escaping from a Jewett-Cameron kennel product and causing personal injuries to three individuals. Jewett-Cameron is currently one of three named Defendants.  As of this date, no formal responses have been made and no dates have been established governing the litigation proceedings. This matter is in its early stages making it speculative to predict as to its outcome. It is the Company’s intention to vigorously defend the lawsuit. Jewett- Cameron’s applicable liability insurer is providing a defense covering Jewett-Cameron’s legal fees and costs.
 
 17.
 SUBSEQUENT EVENTS
@@ -738,7 +742,7 @@ Subsequent to the fiscal period ended November 30, 2019, the Company repurchased
 
 Termination of Stock Option Plan
 
-Subsequent to the period ended November 30, 2019, the Companys Board of Directors approved the termination of the Stock Option Program. No Stock Options have been granted or are outstanding as of January 14, 2020.
+Subsequent to the period ended November 30, 2019, the Company’s Board of Directors approved the termination of the Stock Option Program. No Stock Options have been granted or are outstanding as of January 14, 2020.
 
 
 - 20 -
@@ -748,11 +752,11 @@ Subsequent to the period ended November 30, 2019, the Companys Board of Direct
 
 
 Item 2.  
-Managements Discussion and Analysis of Financial Condition and Results of Operations.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations.
 
 These unaudited financial statements are those of the Company and its wholly owned subsidiaries. In the opinion of management, the accompanying consolidated financial statements of Jewett-Cameron Trading Company Ltd., contain all adjustments, consisting only of normal recurring adjustments, necessary to fairly state its financial position as of November 30, 2019 and August 31, 2019 and its results of operations and cash flows for the three month periods ended November 30, 2019 and November 30, 2018 in accordance with U.S. GAAP.  Operating results for the three month period ended November 30, 2019 are not necessarily indicative of the results that may be experienced for the fiscal year ending August 31, 2020. Overall, the operating results of JCC are seasonal with the first two quarters of the fiscal year historically being slower than the final two quarters of the fiscal year.
 
-The Companys operations are classified into three reportable operating segments, one discontinued segment (Industrial Tools) and the parent corporate and administrative segment, which were determined based on the nature of the products offered along with the markets being served.  The segments are as follows:
+The Company’s operations are classified into three reportable operating segments, one discontinued segment (Industrial Tools) and the parent corporate and administrative segment, which were determined based on the nature of the products offered along with the markets being served.  The segments are as follows:
 ·
 Industrial wood products
 ·
@@ -766,17 +770,17 @@ Corporate and administration
 
 The industrial wood products segment reflects the business conducted by Greenwood Products, Inc. (Greenwood).  Greenwood is a processor and distributor of industrial wood products.  A major product category is treated plywood that is sold primarily to the transportation industry.
 
-The lawn, garden, pet and other segment reflects the business of Jewett-Cameron Company (JCC), which is a wholesaler of wood products and a manufacturer and distributor of specialty metal products.  Wood products are primarily fencing, while metal products include pet enclosures and kennels, proprietary gate support systems, perimeter fencing, greenhouses, canopies and umbrellas. Examples of the Companys brands include Lucky Dog, Animal House and AKC (used under license from the American Kennel Club) for pet enclosures and kennels; Adjust-A-Gate, Fit-Right, LIFETIME POST and Perimeter Patrol for gates and fencing; Early Start, Spring Gardner, and Weatherguard for greenhouses; and TrueShade for patio umbrellas, furniture covers and canopies.  JCC uses contract manufacturers to make the specialty metal products.  Some of the products that JCC distributes flow through the Companys facility in North Plains, Oregon, and some are shipped direct to the customer from the manufacturer.  Primary customers are home centers, eCommerce and other retailers.  
+The lawn, garden, pet and other segment reflects the business of Jewett-Cameron Company (JCC), which is a wholesaler of wood products and a manufacturer and distributor of specialty metal products.  Wood products are primarily fencing, while metal products include pet enclosures and kennels, proprietary gate support systems, perimeter fencing, greenhouses, canopies and umbrellas. Examples of the Company’s brands include Lucky Dog, Animal House and AKC (used under license from the American Kennel Club) for pet enclosures and kennels; Adjust-A-Gate, Fit-Right, LIFETIME POST™ and Perimeter Patrol for gates and fencing; Early Start, Spring Gardner, and Weatherguard for greenhouses; and TrueShade for patio umbrellas, furniture covers and canopies.  JCC uses contract manufacturers to make the specialty metal products.  Some of the products that JCC distributes flow through the Company’s facility in North Plains, Oregon, and some are shipped direct to the customer from the manufacturer.  Primary customers are home centers, eCommerce and other retailers.  
 
-The seed processing and sales segment reflects the business of Jewett-Cameron Seed Company (JCSC).  JCSC processes and distributes agricultural seed.  Most of this segments sales come from selling seed to distributors with a lesser amount of sales derived from cleaning seed.
+The seed processing and sales segment reflects the business of Jewett-Cameron Seed Company (JCSC).  JCSC processes and distributes agricultural seed.  Most of this segment’s sales come from selling seed to distributors with a lesser amount of sales derived from cleaning seed.
 
 The industrial tools segment reflects the business of MSI-PRO (MSI). MSI imports and distributes products including pneumatic air tools, industrial clamps, saw blades, digital calipers, and laser guides.  MSI brands include MSI-Pro, Avenger, and ProMax. Effective September 1, 2019, the Company decided to exit this segment and the remaining inventory is being liquidated.
 
-JC USA Inc. (JC USA) is the parent company for the four wholly-owned subsidiaries as described above.  JC USA provides professional and administrative services, including warehousing, accounting and credit services, to its subsidiary companies.
+JC USA Inc. (“JC USA”) is the parent company for the four wholly-owned subsidiaries as described above.  JC USA provides professional and administrative services, including warehousing, accounting and credit services, to its subsidiary companies.
 
 Tariffs
 
-The Companys metal products are manufactured in China and are imported into the United States. The Office of the United States Trade Representative (USTR) instituted new tariffs on the importation of a number of products into the United States from China effective September 24, 2018. These new tariffs are a response to what the USTR considers to be certain unfair trade practices by China. The tariffs began at 10%, and subsequently were increased to 25% as of May 10, 2019. A number of the Companys products manufactured in China have been subject to duties of 25% when imported into the United States. 
+The Company’s metal products are manufactured in China and are imported into the United States. The Office of the United States Trade Representative (“USTR”) instituted new tariffs on the importation of a number of products into the United States from China effective September 24, 2018. These new tariffs are a response to what the USTR considers to be certain unfair trade practices by China. The tariffs began at 10%, and subsequently were increased to 25% as of May 10, 2019. A number of the Company’s products manufactured in China have been subject to duties of 25% when imported into the United States. 
 
 The company was notified in September 2019 that certain products that it had imported would be excepted from tariff treatment moving forward. This exception applies to many of the products the company imports from China.
 
@@ -789,15 +793,15 @@ The company was notified in September 2019 that certain products that it had imp
 
 RESULTS OF OPERATIONS
 
-During the period ended November 30, 2019, the Company experienced slower than normal sales for the first quarter, which included several major accounts postponing their expected purchases until later in the first quarter and into the second quarter. The delay may be related to the timing of reduced tariffs on many of the Companys products, as the Company received notice during the period that due to one of the Companys suppliers appealing the classification of certain products to the US Customs Service, a number of the Companys metal products imported from China have now been reclassified.  As a result, the reclassified metal products are no longer be subject to the 25% tariffs on imported Chinese goods, although some of the Companys imported products remain under tariff. This reclassification will help the Company to remain competitive in both the retail and eCommerce sectors going forward.
+During the period ended November 30, 2019, the Company experienced slower than normal sales for the first quarter, which included several major accounts postponing their expected purchases until later in the first quarter and into the second quarter. The delay may be related to the timing of reduced tariffs on many of the Company’s products, as the Company received notice during the period that due to one of the Company’s suppliers appealing the classification of certain products to the US Customs Service, a number of the Company’s metal products imported from China have now been reclassified.  As a result, the reclassified metal products are no longer be subject to the 25% tariffs on imported Chinese goods, although some of the Company’s imported products remain under tariff. This reclassification will help the Company to remain competitive in both the retail and eCommerce sectors going forward.
 
-Management continued to add to the Companys infrastructure during the quarter. The Company is now focusing on the promotion of the Jewett-Cameron brand for both its individual brands in each segment and the Companys name overall. The intent is to make the consumer more aware of Jewett-Cameron and drive more cross-over business to each segment and product line. This focus involve social media, other online communications, and omnichannel branding. The Company also intends to broaden its product presence in more channels, including retailers and e-commerce, both in the US and internationally. The addition of new personnel and its new Enterprise Resource Planning (ERP) software system will support these marketing and sales initiatives. A new Chief Revenue Officer has been added to focus on integrating marketing strategy and sales, including the introduction of new products, and opening and expanding sales channels. The new position of VP Business Development was filled in October 2019. This key role will focus on tangible ways to leverage current business assets and entities, such as Greenwoods specialty lumber sales and lumber trading, and products and product lines. 
+Management continued to add to the Company’s infrastructure during the quarter. The Company is now focusing on the promotion of the Jewett-Cameron brand for both its individual brands in each segment and the Company’s name overall. The intent is to make the consumer more aware of Jewett-Cameron and drive more cross-over business to each segment and product line. This focus involve social media, other online communications, and omnichannel branding. The Company also intends to broaden its product presence in more channels, including retailers and e-commerce, both in the US and internationally. The addition of new personnel and its new Enterprise Resource Planning (ERP) software system will support these marketing and sales initiatives. A new Chief Revenue Officer has been added to focus on integrating marketing strategy and sales, including the introduction of new products, and opening and expanding sales channels. The new position of VP Business Development was filled in October 2019. This key role will focus on tangible ways to leverage current business assets and entities, such as Greenwood’s specialty lumber sales and lumber trading, and products and product lines. 
 
-The new patented steel fence post, LIFETIME POST continues to position the company firmly in the fencing market. The product was specifically designed to complement Jewett Camerons already long running, successful Adjust-A-Gate products, thus building a stronger branding in this market segment. The Company has other products in development, primarily in the fencing and pet segments. Management intends to continue to add new products through its internal development process, but may also seek to acquire products that will provide complementary benefits to its existing products and product lines.
+The new patented steel fence post, LIFETIME POST™ continues to position the company firmly in the fencing market. The product was specifically designed to complement Jewett Cameron’s already long running, successful Adjust-A-Gate™ products, thus building a stronger branding in this market segment. The Company has other products in development, primarily in the fencing and pet segments. Management intends to continue to add new products through its internal development process, but may also seek to acquire products that will provide complementary benefits to its existing products and product lines.
 
-As a result of a strategic review of the Companys secondary business operations and assets initiated in fiscal 2019, management and the Board of Directors decided to exit the industrial tools segment and close the MSI division. MSI has recently been a very minor contributor to the Companys overall sales and has been posting operating losses, Management believes there are greater opportunities for growth in the three remaining operating segments, including the seed division, where the Company will continue to focus on improving and adding to its market share in sales and service.  During the first quarter, the Company began to liquidate the remaining MSI inventory. The Company recorded an additional write-down of the remaining MSI inventory in the first quarter, and now expects additional costs related to the liquidation and closure to be incurred in the second quarter of fiscal 2020.
+As a result of a strategic review of the Company’s secondary business operations and assets initiated in fiscal 2019, management and the Board of Directors decided to exit the industrial tools segment and close the MSI division. MSI has recently been a very minor contributor to the Company’s overall sales and has been posting operating losses, Management believes there are greater opportunities for growth in the three remaining operating segments, including the seed division, where the Company will continue to focus on improving and adding to its market share in sales and service.  During the first quarter, the Company began to liquidate the remaining MSI inventory. The Company recorded an additional write-down of the remaining MSI inventory in the first quarter, and now expects additional costs related to the liquidation and closure to be incurred in the second quarter of fiscal 2020.
 
-The Company has also continued to use its excess cash to repurchase and cancel common shares. Subsequent to the end of the fiscal period, the Company repurchased for cancelation a total of 490,120 common shares from two large shareholders. 300,000 common shares were repurchased from Michael Nasser, the Companys Co-Founder and current Corporate Secretary and Director, and 190,120 shares were repurchased from the Donald Boone Irrev Trust (Boone Trust), a trust established by Companys other Co-Founder, and former CEO and Chairman, Donald Boone. The Boone Trust received Mr. Boones Jewett-Cameron common shares upon his death in May 2019. Mr. Nasser sold his shares for estate planning purposes, while the Boone Trust sold its shares to provide distributions to the Trusts beneficiaries as required by Mr. Boones will. By repurchasing such a large number of shares privately instead of through the public marketplace, the Company and the sellers were able to complete the transactions quickly at a fixed price, which may have been difficult to complete in the public market due to the prevailing low trading volume of the Companys shares on NASDAQ. The shares were repurchased by the Company at a price of $7.89 per share, calculated as the Volume Weighted Average Price (VWAP) of all the shares traded on NASDAQ during the first quarter of fiscal 2020.  The total cost of the share repurchases was $3,867,047.
+The Company has also continued to use its excess cash to repurchase and cancel common shares. Subsequent to the end of the fiscal period, the Company repurchased for cancelation a total of 490,120 common shares from two large shareholders. 300,000 common shares were repurchased from Michael Nasser, the Company’s Co-Founder and current Corporate Secretary and Director, and 190,120 shares were repurchased from the Donald Boone Irrev Trust (“Boone Trust”), a trust established by Company’s other Co-Founder, and former CEO and Chairman, Donald Boone. The Boone Trust received Mr. Boone’s Jewett-Cameron common shares upon his death in May 2019. Mr. Nasser sold his shares for estate planning purposes, while the Boone Trust sold its shares to provide distributions to the Trust’s beneficiaries as required by Mr. Boone’s will. By repurchasing such a large number of shares privately instead of through the public marketplace, the Company and the sellers were able to complete the transactions quickly at a fixed price, which may have been difficult to complete in the public market due to the prevailing low trading volume of the Company’s shares on NASDAQ. The shares were repurchased by the Company at a price of $7.89 per share, calculated as the Volume Weighted Average Price (VWAP) of all the shares traded on NASDAQ during the first quarter of fiscal 2020.  The total cost of the share repurchases was $3,867,047.
 
 Three Months Ended November 30, 2019 and 2018
 
@@ -810,11 +814,11 @@ For the three months ended November 30, 2019, sales decreased by $2,010,922, or 
  
 
 
-Sales at JCC were $5,577,494 for the three months ended November 30, 2019 compared to sales of $6,993,428 for the three months ended November 30, 2018, which was a decrease of $1,415,934, or 20%. Several of the Companys largest customers delayed their usual Q1 orders into later into the quarter or into the second quarter. The delay may be related to the status of tariffs on the Companys metal products, as during the period the Company was notified that many of its metal products made in China have been reclassified and are no longer subject to the new tariffs. Operating loss for JCC was ($77,696) for the quarter ended November 30, 2019 compared to net income of $173,821 in the quarter ended November 30, 2018. Overall, the operating results of JCC are seasonal with the first two quarters of the fiscal year historically being slower than the final two quarters of the fiscal year.
+Sales at JCC were $5,577,494 for the three months ended November 30, 2019 compared to sales of $6,993,428 for the three months ended November 30, 2018, which was a decrease of $1,415,934, or 20%. Several of the Company’s largest customers delayed their usual Q1 orders into later into the quarter or into the second quarter. The delay may be related to the status of tariffs on the Company’s metal products, as during the period the Company was notified that many of its metal products made in China have been reclassified and are no longer subject to the new tariffs. Operating loss for JCC was ($77,696) for the quarter ended November 30, 2019 compared to net income of $173,821 in the quarter ended November 30, 2018. Overall, the operating results of JCC are seasonal with the first two quarters of the fiscal year historically being slower than the final two quarters of the fiscal year.
 
 Sales at Greenwood were $784,868 for the three months ended November 30, 2019 compared to sales of $1,111,687 for the three months ended November 30, 2018, which was a decrease of $326,819, or 29%. Management has worked to refine the product mix by focusing on the most in demand products and redirecting sales directly to end users. For the quarter, Greenwood had an operating loss of ($15,618) compared to a profit of $33,596 in the three months ended November 30, 2018.
 
-Sales at JCSC were $524,595 for the three months ended November 30, 2019 compared to sales of $756,910 for the three months ended November 30, 2018. This represents a decrease of $232,315, or 31%. A poor 2019 planting season across much of the United States has reduced the demand for the Companys clover seed as a cover crop during the fall and winter. Operating income for JCSC for the quarter was $49,703 compared to income of $10,433 for the quarter ended November 30, 2018. 
+Sales at JCSC were $524,595 for the three months ended November 30, 2019 compared to sales of $756,910 for the three months ended November 30, 2018. This represents a decrease of $232,315, or 31%. A poor 2019 planting season across much of the United States has reduced the demand for the Company’s clover seed as a cover crop during the fall and winter. Operating income for JCSC for the quarter was $49,703 compared to income of $10,433 for the quarter ended November 30, 2018. 
 
 Sales at MSI were $168,221 for the quarter ended November 30, 2019 compared to sales of $204,075 for the quarter ended November 30, 2018. Effective September 1, 2019, the Company decided to close the MSI division and exit the Industrial Tools segment. During the quarter, the Company wrote-down a portion of the carrying value of the remaining inventory and began liquidation sales, which significantly reduced revenue. The operating loss for the quarter was ($107,217) compared to an operating loss of ($3,737) for the three months ended November 30, 2018.
 
@@ -845,11 +849,11 @@ External sources of liquidity include a line of credit from U.S. Bank of $3,000,
 
 The Company has been utilizing its cash position by repurchasing common shares in order to increase shareholder value. No common shares were repurchased in the quarter ended November 30, 2019. Subsequent to the end of the period, the Company privately repurchased for cancelation a total of 490,120 common shares from two large shareholders, including a current officer and director of Jewett-Cameron. The shares were repurchased by the Company at a price of $7.89 per share, calculated as the Volume Weighted Average Price (VWAP) of all the shares traded on NASDAQ during the first quarter of fiscal 2020.  The total cost of the share repurchases was $3,867,047.
 
-Based on the Companys current working capital position, its policy of retaining earnings, and the line of credit available, the Company has adequate working capital to meet its needs for the coming fiscal year.
+Based on the Company’s current working capital position, its policy of retaining earnings, and the line of credit available, the Company has adequate working capital to meet its needs for the coming fiscal year.
 
 Business Risks
 
-This quarterly report includes forwardlooking statements as that term is defined in Section 21E of the Securities Exchange Act of 1934. Forward-looking statements can be identified by the use of forward-looking terminology such as believes, expects, may, will, should, seeks, approximately, intends, plans, estimates, anticipates, or hopeful, or the negative of those terms or other comparable terminology, or by discussions of strategy, plans or intentions. For example, this section contains numerous forward-looking statements.  All forward-looking statements in this report are made based on managements current expectations and estimates, which involve risks and uncertainties, including those described in the following paragraphs.
+This quarterly report includes “forward–looking statements” as that term is defined in Section 21E of the Securities Exchange Act of 1934. Forward-looking statements can be identified by the use of forward-looking terminology such as “believes,” “expects,” “may,” “will,” “should,” “seeks,” “approximately,” “intends,” “plans,” “estimates,” “anticipates,” or “hopeful,” or the negative of those terms or other comparable terminology, or by discussions of strategy, plans or intentions. For example, this section contains numerous forward-looking statements.  All forward-looking statements in this report are made based on management’s current expectations and estimates, which involve risks and uncertainties, including those described in the following paragraphs.
 
 Risks Related to Our Common Stock
 
@@ -859,11 +863,11 @@ Our Articles of Incorporation give our Board of Directors the right to enter int
 
 Future stock distributions could be structured in such a way as to be 1) diluting to our current shareholders or 2) could cause a change in control to new investors.
 
-If we raise additional funds by selling more of our stock, the new stock may have rights, preferences or privileges senior to those of the rights of our existing stock.  If common stock is issued in return for additional funds, the price per share could be lower than that paid by our current stockholders.  The result of this would be a lessening of each present stockholders relative percentage interest in our company. 
+If we raise additional funds by selling more of our stock, the new stock may have rights, preferences or privileges senior to those of the rights of our existing stock.  If common stock is issued in return for additional funds, the price per share could be lower than that paid by our current stockholders.  The result of this would be a lessening of each present stockholder’s relative percentage interest in our company. 
 
 Our shareholders could experience significant dilution if we issue our authorized 10,000,000 preferred shares.
 
-The Companys common shares currently trade within the NASDAQ Capital Market in the United States. The average daily trading volume of our common stock on NASDAQ was 1,570 shares for the three months ended November 30, 2019. With this limited trading volume, investors could find it difficult to purchase or sell our common stock.
+The Company’s common shares currently trade within the NASDAQ Capital Market in the United States. The average daily trading volume of our common stock on NASDAQ was 1,570 shares for the three months ended November 30, 2019. With this limited trading volume, investors could find it difficult to purchase or sell our common stock.
 
 
 - 24 -
@@ -916,29 +920,29 @@ Interest Rate Risk
 
 The Company does not have any derivative financial instruments as of November 30, 2019. However, the Company is exposed to interest rate risk. 
 
-The Companys interest income and expense are most sensitive to changes in the general level of U.S. interest rates.  In this regard, changes in U.S. interest rates affect the interest earned on the Companys cash.
+The Company’s interest income and expense are most sensitive to changes in the general level of U.S. interest rates.  In this regard, changes in U.S. interest rates affect the interest earned on the Company’s cash.
 
-The Company has a line of credit whose interest rate may fluctuate over time based on economic changes in the environment.  The Company is subject to interest rate risk and could be subject to increased interest payments if market interest rates fluctuate.  The Company does not expect any change in the interest rates to have a material adverse effect on the Companys results from operations. 
+The Company has a line of credit whose interest rate may fluctuate over time based on economic changes in the environment.  The Company is subject to interest rate risk and could be subject to increased interest payments if market interest rates fluctuate.  The Company does not expect any change in the interest rates to have a material adverse effect on the Company’s results from operations. 
 
 Foreign Currency Risk
 
-The Company operates primarily in the United States.  However, a relatively small amount of business is currently conducted in currencies other than U.S. dollars, and the Company may experience an increase in foreign exchange risk as they expand their international sales.  Also, to the extent that the Company uses contract manufacturers in China, currency exchange rates can influence the Companys purchasing costs.
+The Company operates primarily in the United States.  However, a relatively small amount of business is currently conducted in currencies other than U.S. dollars, and the Company may experience an increase in foreign exchange risk as they expand their international sales.  Also, to the extent that the Company uses contract manufacturers in China, currency exchange rates can influence the Company’s purchasing costs.
 
 Item 4. 
 Controls and Procedures
 
 Disclosure Controls and Procedures
-Management of the Company, including the Companys Principal Executive and Financial Officer, have evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report as defined in Rule 13a-15(e) or Rule 15d-15(e) under the Securities Exchange Act of 1934 (the Exchange Act). Based on that evaluation, our Principal Executive and Financial Officer has concluded that, as of the end of the period covered by this report, our disclosure controls and procedures are effective in ensuring that information required to be disclosed in our Exchange Act reports is (1) recorded, processed, summarized and reported in a timely manner, and (2) accumulated and communicated to our management, including our Chief Executive Officer and our Principal Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+Management of the Company, including the Company’s Principal Executive and Financial Officer, have evaluated the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report as defined in Rule 13a-15(e) or Rule 15d-15(e) under the Securities Exchange Act of 1934 (the “Exchange Act”). Based on that evaluation, our Principal Executive and Financial Officer has concluded that, as of the end of the period covered by this report, our disclosure controls and procedures are effective in ensuring that information required to be disclosed in our Exchange Act reports is (1) recorded, processed, summarized and reported in a timely manner, and (2) accumulated and communicated to our management, including our Chief Executive Officer and our Principal Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
 
 Changes in Internal Control Over Financial Reporting 
-There were no changes in the Companys internal control over financial reporting that occurred during the Companys most recently completed fiscal quarter that have materially affected, or are reasonably likely to materially affect, the Companys internal control over financial reporting. 
+There were no changes in the Company’s internal control over financial reporting that occurred during the Company’s most recently completed fiscal quarter that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting. 
 
-Part II  OTHER INFORMATION
+Part II – OTHER INFORMATION
 
 Item 1.
 Legal Proceedings
 
-The Company is a named party in a Civil Action in Pennsylvania. The matter is an action seeking compensation for personal injuries and is based on theories of product liability as to Jewett-Cameron. The matter arises out of a dog allegedly escaping from a Jewett-Cameron kennel product and causing personal injuries to three individuals. Jewett-Cameron is currently one of three named Defendants.  As of this date, no formal responses have been made and no dates have been established governing the litigation proceedings. This matter is in its early stages making it speculative to predict as to its outcome. It is the Companys intention to vigorously defend the lawsuit. Jewett Camerons applicable liability insurer is providing a defense covering Jewett-Camerons legal fees and costs.
+The Company is a named party in a Civil Action in Pennsylvania. The matter is an action seeking compensation for personal injuries and is based on theories of product liability as to Jewett-Cameron. The matter arises out of a dog allegedly escaping from a Jewett-Cameron kennel product and causing personal injuries to three individuals. Jewett-Cameron is currently one of three named Defendants.  As of this date, no formal responses have been made and no dates have been established governing the litigation proceedings. This matter is in its early stages making it speculative to predict as to its outcome. It is the Company’s intention to vigorously defend the lawsuit. Jewett Cameron’s applicable liability insurer is providing a defense covering Jewett-Cameron’s legal fees and costs.
 
 The Company does not know of any other material, active or pending legal proceedings against them; nor is the Company involved as a plaintiff in any other material proceeding or pending litigation.  The Company knows of no other active or pending proceedings against anyone that might materially adversely affect an interest of the Company.
 
@@ -966,6 +970,26 @@ Other Information
 
 Item 6.
 Exhibits
+
+
+3.1
+Amended and Restated Articles of Incorporation of Jewett-Cameron Lumber Corporation 
+-= Filed as an exhibit to the 10-Q Quarterly Report filed on January 13, 2014 =-
+
+3.2
+Articles of Incorporation Jewett Cameron Company 
+-= Filed as an exhibit to the 10-Q Quarterly Report filed on January 13, 2014 =-
+
+31.1
+
+Certification of Chief Executive Officer and Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act, Charles Hopewell 
+
+32.1
+
+
+Certification of Chief Executive Officer and Principal Financial Officer pursuant to 18 U.S.C., 1350 (Section 906 of the Sarbanes-Oxley Act), Charles Hopewell
+
+
 
 
 
@@ -998,7 +1022,7 @@ Jewett-Cameron Trading Company Ltd.
 
 
 Date:  January 14, 2020
- /s/  Charles Hopewell
+ /s/  “Charles Hopewell”
 
   Charles Hopewell,
 President/CEO/CFO
@@ -1010,6 +1034,8 @@ President/CEO/CFO
 
  
  
+
+
 
 
 

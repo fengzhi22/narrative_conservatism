@@ -4,7 +4,10 @@
 d874511d10q.htm
 10-Q
 
+
 10-Q
+
+
 Table of Contents
 
  
@@ -56,7 +59,7 @@ Elgin, Illinois
  
 (Zip Code)
  (847) 289-1800 
-(Registrants Telephone Number, Including Area Code) 
+(Registrant’s Telephone Number, Including Area Code) 
    
 Securities registered pursuant to Section 12(b) of the Act: 
  
@@ -87,8 +90,8 @@ of 1934 during the preceding 12 months (or for such shorter period that the regi
 days.    ☒  Yes    ☐  No  Indicate by check mark whether the registrant has
 submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required
 to submit such files).    ☒  Yes    ☐  No  Indicate by check mark whether the
-registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer
-and smaller reporting company in Rule 12b-2 of the Exchange Act. (Check One)   
+registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer”
+and “smaller reporting company” in Rule 12b-2 of the Exchange Act. (Check One)   
 
 
 
@@ -136,7 +139,7 @@ Emerging growth company
 for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐ 
 Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange
 Act).    ☐  Yes    ☒  No  As of January 23, 2020, 8,821,490 shares of the
-Registrants Common Stock, $0.01 par value per share and 2,597,426 shares of the Registrants Class A Common Stock, $0.01 par value per share, were outstanding. 
+Registrant’s Common Stock, $0.01 par value per share and 2,597,426 shares of the Registrant’s Class A Common Stock, $0.01 par value per share, were outstanding. 
    
  
 
@@ -155,7 +158,7 @@ INDEX   
 
 Table of Contents
 
-PART IFINANCIAL INFORMATION 
+PART I—FINANCIAL INFORMATION 
 Item 1. Financial Statements 
 JOHN B. SANFILIPPO & SON, INC. 
 CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
@@ -193,7 +196,7 @@ except share and per share amounts)   
 Table of Contents
 
 JOHN B. SANFILIPPO & SON, INC. 
-CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY 
 (Unaudited)  (Dollars in thousands,
 except share and per share amounts)   
   
@@ -201,7 +204,7 @@ except share and per share amounts)   
 
 
 (a) 
- See Note 15  Recent Accounting Pronouncements for additional information.
+ See Note 15 – “Recent Accounting Pronouncements” for additional information.
  The accompanying unaudited notes are an integral part of these consolidated financial statements. 
   6 
 
@@ -223,8 +226,8 @@ Table of Contents
 JOHN B. SANFILIPPO & SON, INC. 
 NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
 (Unaudited)  (Dollars in thousands,
-except where noted and per share data)  Note 1  Basis of Presentation and Description of Business 
-As used herein, unless the context otherwise indicates, the terms we, us, our or Company collectively refer to
+except where noted and per share data)  Note 1 – Basis of Presentation and Description of Business 
+As used herein, unless the context otherwise indicates, the terms “we”, “us”, “our” or “Company” collectively refer to
 John B. Sanfilippo & Son, Inc. and our wholly-owned subsidiary, JBSS Ventures, LLC. Our fiscal year ends on the final Thursday of June each year, and typically consists of fifty-two weeks (four
 thirteen-week quarters). Additional information on the comparability of the periods presented is as follows:   
   
@@ -235,17 +238,17 @@ under a variety of private brands and under the Fisher, Orchard Valley Harvest, 
 diverse product line of food and snack products, including peanut butter, almond butter, cashew butter, candy and confections, snacks and trail mixes, snack bites, sunflower kernels, dried fruit, corn snacks, chickpea snacks, sesame sticks and other
 sesame snack products under private brands and brand names. Our products are sold through three primary distribution channels to significant buyers of nuts, including food retailers in the consumer channel, commercial ingredient users and contract
 packaging customers.  The accompanying unaudited financial statements fairly present the consolidated statements of comprehensive income, consolidated
-balance sheets, consolidated statements of stockholders equity and consolidated statements of cash flows, and reflect all adjustments, consisting only of normal recurring adjustments which are necessary for the fair statement of the results of
+balance sheets, consolidated statements of stockholders’ equity and consolidated statements of cash flows, and reflect all adjustments, consisting only of normal recurring adjustments which are necessary for the fair statement of the results of
 the interim periods. Preparing financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues and expenses. 
 The interim results of operations are not necessarily indicative of the results to be expected for a full year. The balance sheet data as of June 27,
-2019 was derived from audited financial statements but does not include all disclosures required by accounting principles generally accepted in the United States of America (GAAP). Accordingly, these unaudited financial statements and
+2019 was derived from audited financial statements but does not include all disclosures required by accounting principles generally accepted in the United States of America (“GAAP”). Accordingly, these unaudited financial statements and
 related notes should be read in conjunction with the audited consolidated financial statements and notes thereto included in our 2019 Annual Report on Form 10-K for the fiscal year ended June 27, 2019.
- Note 2  Revenue Recognition  We recognize
+ Note 2 – Revenue Recognition  We recognize
 revenue to depict the transfer of promised goods or services to customers in an amount that reflects the consideration to which we expect to be entitled in exchange for those goods or services. For each customer contract, a five-step process is
 followed in which we identify the contract, identify performance obligations, determine the transaction price, allocate the contract transaction price to the performance obligations, and recognize the revenue when (or as) the performance obligation
 is transferred to the customer.  When Performance Obligations Are Satisfied 
 A performance obligation is a promise in a contract to transfer a distinct good or service to the customer and is the unit of account for revenue recognition.
-A contracts transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The Companys performance obligations are primarily for the delivery of raw
+A contract’s transaction price is allocated to each distinct performance obligation and recognized as revenue when, or as, the performance obligation is satisfied. The Company’s performance obligations are primarily for the delivery of raw
 and processed recipe and snack nuts, nut butters and trail mixes. 
   8 
 
@@ -254,7 +257,7 @@ and processed recipe and snack nuts, nut butters and trail mixes.
 Table of Contents
 
 Our customer contracts do not include more than one performance obligation. If a contract were to contain
-more than one performance obligation, we are required to allocate the contracts transaction price to each performance obligation based on its relative standalone selling price. The standalone selling price for each distinct good is generally
+more than one performance obligation, we are required to allocate the contract’s transaction price to each performance obligation based on its relative standalone selling price. The standalone selling price for each distinct good is generally
 determined by directly observable data.  Revenue recognition is generally completed at a point in time when product control is transferred to the
 customer. For approximately 99% of our revenues, control transfers to the customer when the product is shipped or delivered to the customer based upon applicable shipping terms, as the customer can then direct the use and obtain substantially all of
 the remaining benefits from the asset at that point in time. Therefore, for 99% of our revenues, the timing of revenue recognition requires little judgment. 
@@ -267,11 +270,11 @@ customers and consumers. A provision for estimated trade promotions is recorded 
 deductions which are provided for based upon past experiences. Evaluating these estimates requires management judgment.  We generally use the most likely
 amount method to determine the variable consideration. We believe there will not be significant changes to our estimates of variable consideration when any related uncertainties are resolved with our customers. The Company reviews and updates its
 estimates and related accruals of variable consideration and trade promotions at least quarterly based on the terms of the agreements and historical experience. Any uncertainties in the ultimate resolution of variable consideration due to factors
-outside of the Companys influence are typically resolved within a short timeframe, therefore, no additional constraint on the variable consideration is required. 
+outside of the Company’s influence are typically resolved within a short timeframe, therefore, no additional constraint on the variable consideration is required. 
 Contract Balances  Contract assets or liabilities result
 from transactions with revenue recorded over time. If the measure of remaining rights exceeds the measure of the remaining performance obligations the Company records a contract asset. Conversely, if the measure of the remaining performance
 obligations exceeds the measure of the remaining rights, the Company records a contract liability. There was no contract asset balance at December 26, 2019. Contract asset balances at June 27, 2019 and December 27, 2018 were $117 and
-$65, respectively, and are recorded in the caption Prepaid expenses and other current assets on the Consolidated Balance Sheets. The Company generally does not have material deferred revenue or contract liability balances arising from
+$65, respectively, and are recorded in the caption “Prepaid expenses and other current assets” on the Consolidated Balance Sheets. The Company generally does not have material deferred revenue or contract liability balances arising from
 transactions with customers.  Disaggregation of Revenue 
 Revenue disaggregated by sales channel is as follows:   
 
@@ -281,11 +284,11 @@ Revenue disaggregated by sales channel is as follows:   
 
 Table of Contents
 
-Note 3  Leases 
-On June 28, 2019 we adopted ASU No. 2016-02, Leases (Topic 842) using the alternative
+Note 3 – Leases 
+On June 28, 2019 we adopted ASU No. 2016-02, Leases (“Topic 842”) using the alternative
 transition method under ASU No. 2018-11, which permitted application of the new guidance at the beginning of the period of adoption, with comparative periods continuing to be reported under the previous
 lease accounting guidance in Topic 840. In addition, we elected the package of practical expedients permitted under the transition guidance within the new standard, which among other things, allowed us to carry forward the historical lease
-classification. We did not elect the practical expedients regarding hindsight or land easements. See Note 15  Recent Accounting Pronouncements for additional information. 
+classification. We did not elect the practical expedients regarding hindsight or land easements. See Note 15 – “Recent Accounting Pronouncements” for additional information. 
 Upon adoption of the new standard, we recognized operating lease right-of-use
 assets and liabilities on our Consolidated Balance Sheet of $5,361 and $5,320 respectively. We utilized a portfolio approach to establish discount rates for leases that are similar. Discount rates ranging from 4.2% to 5.8% were used when determining
 the present value of future lease payments. All of our lessee arrangements that were classified as operating leases under Topic 840 continue to be classified as operating leases since the adoption of Topic 842, and the pattern of lease expense
@@ -307,7 +310,7 @@ term of 12 months or less. We have elected to use this policy, and as such, leas
 
 Table of Contents
 
-The following tables summarize the Companys total lease costs and other information arising from
+The following tables summarize the Company’s total lease costs and other information arising from
 operating lease transactions:   
   
 
@@ -341,9 +344,9 @@ components such as recurring utility and storage fees. Leases between related pa
  
  The future minimum, undiscounted cash flows under non-cancelable tenant operating
 leases for each of the next five years and thereafter is presented below and is materially consistent with our previous accounting under Topic 840.   
- Note 4  Inventories 
+ Note 4 – Inventories 
 Inventories consist of the following:   
- Note 5  Goodwill and Intangible Assets 
+ Note 5 – Goodwill and Intangible Assets 
 Identifiable intangible assets that are subject to amortization consist of the following: 
  
 
@@ -357,17 +360,17 @@ Customer relationships are being amortized on an accelerated basis. The brand na
 amortized consist of the Squirrel Brand and Southern Style Nuts brand names.  Total amortization expense related to intangible assets, which
 is a component of Administrative expense, was $672 and $1,344 for the quarter and twenty-six weeks ended December 26, 2019, respectively. Amortization expense for the remainder of fiscal 2020 is expected
 to be approximately $1,157 and expected amortization expense the next five fiscal years is as follows:   
- Our net goodwill of $9,650 relates entirely to the Squirrel Brand acquisition (the Acquisition) completed in the
+ Our net goodwill of $9,650 relates entirely to the Squirrel Brand acquisition (the “Acquisition”) completed in the
 second quarter of fiscal 2018. There was no change in the carrying amount of goodwill during the twenty-six weeks ended December 26, 2019. 
-Note 6  Credit Facility  On February 7, 2008,
-we entered into a Credit Agreement with a bank group providing a $117,500 revolving loan commitment and letter of credit subfacility (the Credit Facility). The Credit Facility is secured by substantially all our assets other than real
+Note 6 – Credit Facility  On February 7, 2008,
+we entered into a Credit Agreement with a bank group providing a $117,500 revolving loan commitment and letter of credit subfacility (the “Credit Facility”). The Credit Facility is secured by substantially all our assets other than real
 property and fixtures.  At December 26, 2019, we had $100,830 of available credit under the Credit Facility which reflects borrowings of $13,495 and
 reduced availability as a result of $3,175 in outstanding letters of credit. As of December 26, 2019, we were in compliance with all financial covenants under the Credit Facility and Mortgage Facility. 
-Note 7  Earnings Per Common Share  The following
+Note 7 – Earnings Per Common Share  The following
 table presents the reconciliation of the weighted average shares outstanding used in computing basic and diluted earnings per share:   
  There were no anti-dilutive awards excluded from the computation of diluted earnings per share for any periods presented. 
-Note 8  Stock-Based Compensation Plans  During the
-second quarter of fiscal 2020, there were 38,572 restricted stock units (RSUs) awarded to employees and non-employee members of the Board of Directors. The vesting period is generally three years
+Note 8 – Stock-Based Compensation Plans  During the
+second quarter of fiscal 2020, there were 38,572 restricted stock units (“RSUs”) awarded to employees and non-employee members of the Board of Directors. The vesting period is generally three years
 for awards to employees and one year for awards to non-employee directors.  There was no stock option activity
 during the first half of fiscal 2020. 
   13 
@@ -387,19 +390,19 @@ withholding requirements.  At December 26, 2019, there were 58,541 RSUs outstan
 The following table summarizes compensation expense charged to earnings for all equity compensation plans for the periods presented: 
  
  As of December 26, 2019, there was $5,255 of total unrecognized compensation expense related to non-vested RSUs granted under our stock-based compensation plans. We expect to recognize that cost over a weighted average period of 1.7 years. 
-Note 9  Retirement Plan  The Supplemental Employee
+Note 9 – Retirement Plan  The Supplemental Employee
 Retirement Plan is an unfunded, non-qualified deferred compensation plan that will provide eligible participants with monthly benefits upon retirement, disability or death, subject to certain conditions. The
-monthly benefit is based upon each participants earnings and his or her number of years of service. The components of net periodic benefit cost are as follows:   
- The components of net periodic benefit cost other than the service cost component are included in the line item Other
-expense in the Consolidated Statements of Comprehensive Income. 
+monthly benefit is based upon each participant’s earnings and his or her number of years of service. The components of net periodic benefit cost are as follows:   
+ The components of net periodic benefit cost other than the service cost component are included in the line item “Other
+expense” in the Consolidated Statements of Comprehensive Income. 
   14 
 
 
 
 Table of Contents
 
-Note 10  Accumulated Other Comprehensive Loss 
-The table below sets forth the changes to accumulated other comprehensive loss (AOCL) for the twenty-six
+Note 10 – Accumulated Other Comprehensive Loss 
+The table below sets forth the changes to accumulated other comprehensive loss (“AOCL”) for the twenty-six
 weeks ended December 26, 2019 and December 27, 2018. These changes are all related to our defined benefit pension plan. 
  
   
@@ -410,17 +413,17 @@ weeks ended December 26, 2019 and December 27, 2018. These changes are all rel
 
 
 (b)
- See Note 15  Recent Accounting Pronouncements for additional information.
+ See Note 15 – “Recent Accounting Pronouncements” for additional information.
  The reclassifications out of AOCL for the quarter and twenty-six weeks ended December 26,
 2019 and December 27, 2018 were as follows:   
   
 
 
 (c) 
- Amounts in parenthesis indicate debits to expense. See Note 9  Retirement Plan above for
-additional details.  Note 11  Commitments and Contingent Liabilities 
+ Amounts in parenthesis indicate debits to expense. See Note 9 – “Retirement Plan” above for
+additional details.  Note 11 – Commitments and Contingent Liabilities 
 We are currently a party to various legal proceedings in the ordinary course of business. While management presently believes that the ultimate outcomes of
-these proceedings, individually and in the aggregate, will not materially affect our Companys financial position, results of operations or cash flows, legal proceedings are subject to inherent uncertainties, and unfavorable outcomes could
+these proceedings, individually and in the aggregate, will not materially affect our Company’s financial position, results of operations or cash flows, legal proceedings are subject to inherent uncertainties, and unfavorable outcomes could
 occur. Unfavorable outcomes could include substantial monetary damages in excess of any accruals that management has established. Were such unfavorable final outcomes to occur, there exists the possibility of a material adverse effect on our
 financial position, results of operations and cash flows. 
   15 
@@ -429,8 +432,8 @@ financial position, results of operations and cash flows.
 
 Table of Contents
 
-Note 12  Fair Value of Financial Instruments 
-Authoritative guidance issued by the Financial Accounting Standards Board (FASB) defines fair value as the price that would be received for an
+Note 12 – Fair Value of Financial Instruments 
+Authoritative guidance issued by the Financial Accounting Standards Board (“FASB”) defines fair value as the price that would be received for an
 asset or paid to transfer a liability in an orderly transaction between market participants on the measurement date. The guidance establishes a fair value hierarchy that prioritizes observable and unobservable inputs used to measure fair value into
 three broad levels:   
 
@@ -443,7 +446,7 @@ three broad levels:   
 
 Level 1
   
-
+–
   
 Quoted prices in active markets that are accessible at the measurement date for identical assets and liabilities.
 
@@ -453,7 +456,7 @@ Quoted prices in active markets that are accessible at the measurement date for 
 
 Level 2
   
-
+–
   
 Observable inputs other than quoted prices in active markets. For example, quoted prices for similar assets or liabilities in active markets or quoted prices for identical assets or liabilities in inactive markets.
 
@@ -463,7 +466,7 @@ Observable inputs other than quoted prices in active markets. For example, quote
 
 Level 3
   
-
+–
   
 Unobservable inputs for which there is little or no market data available.
  The carrying values of cash, trade accounts receivable and accounts payable approximate their fair values at each balance
@@ -473,8 +476,8 @@ inherent credit risk.  The following table summarizes the carrying value and fai
 debt issuance costs:   
  The estimated fair value of our long-term debt was determined using a market approach based upon Level 2 observable
 inputs, which estimates fair value based on interest rates currently offered on loans with similar terms to borrowers of similar credit quality or broker quotes. In addition, there have been no significant changes in the underlying assets securing
-our long-term debt.  Note 13  Related Party Transaction 
-In connection with the Acquisition in the second quarter of fiscal 2018, we incurred $11,500 of unsecured debt (the Promissory Note) to the
+our long-term debt.  Note 13 – Related Party Transaction 
+In connection with the Acquisition in the second quarter of fiscal 2018, we incurred $11,500 of unsecured debt (the “Promissory Note”) to the
 principal owner and seller of the Squirrel Brand business, who was subsequently appointed as an executive officer of the Company and was considered a related party. Late in the second quarter of fiscal 2020, the employment of this executive officer
 with the Company ceased. He is no longer considered a related party, and therefore the outstanding balance on the Promissory Note is not reflected as related party debt on our Consolidated Balance Sheet as of December 26, 2019. Interest paid on
 the Promissory Note for the quarter and twenty-six weeks ended December 26, 2019 while the executive officer was still a related party was $57 and $127, respectively, and is reflected as related party
@@ -485,7 +488,7 @@ interest on our Consolidated Statements of Comprehensive Income.
 
 Table of Contents
 
-Note 14  Garysburg, North Carolina Facility 
+Note 14 – Garysburg, North Carolina Facility 
 On October 7, 2019 we experienced a fire at our peanut processing facility located in Garysburg, North Carolina. No personnel were injured, and there was
 no damage to our peanut shelling and inventory storage areas. The fire occurred in our roasting room where all of the roasting equipment was destroyed. The fire also damaged some equipment in our packaging room and a portion of the roof. We have
 contracted with a third party to roast and salt our inshell peanuts to meet our current production requirements. We do not expect any negative impact on our customer service levels or a material adverse impact on our operating or financial results
@@ -494,22 +497,22 @@ for this facility and currently plans to permanently cease all operations at the
 roasting operations in the current second quarter, which resulted in a partial reduction in the workforce at this facility, and recognized an immaterial amount of separation costs in the second quarter of fiscal 2020. 
 We have adequate property damage and business interruption insurance, subject to applicable deductibles. To date, approximately $1,500 in clean-up costs and damage to capital assets has been incurred. Insurance claims have been filed under our property damage and business interruption policies, and an advance payment of $1,500 was received from the
 insurance carrier in our current second quarter. Insurance proceeds received for damage to capital equipment were recorded as investing activities on the Consolidated Statements of Cash Flows. 
-Note 15  Recent Accounting Pronouncements  The
-following recent accounting pronouncements have been adopted in the current fiscal year:  In February 2016, the FASB issued ASU No. 2016-02 Leases (Topic 842). The primary goal of this Update is to require the lessee to recognize all lease commitments, both operating and finance, by initially recording a lease asset
+Note 15 – Recent Accounting Pronouncements  The
+following recent accounting pronouncements have been adopted in the current fiscal year:  In February 2016, the FASB issued ASU No. 2016-02 “Leases (Topic 842)”. The primary goal of this Update is to require the lessee to recognize all lease commitments, both operating and finance, by initially recording a lease asset
 and liability on the balance sheet at the lease commencement date. Additionally, enhanced qualitative and quantitative disclosures are required. ASU No. 2016-02 is effective for public business entities
 for annual periods, including interim periods within those annual periods, beginning after December 15, 2018. This new guidance became effective for the Company beginning in fiscal year 2020. Under ASU
 No. 2016-02 the guidance was to be adopted using a modified retrospective approach, with elective reliefs, with application of the new guidance for all periods presented. In July 2018, the FASB issued ASU
-No. 2018-11 Leases (Topic 842): Targeted Improvements which provides for another transition method by allowing entities to initially apply the new leases standard at the adoption date
+No. 2018-11 “Leases (Topic 842): Targeted Improvements” which provides for another transition method by allowing entities to initially apply the new leases standard at the adoption date
 and recognize a cumulative-effect adjustment to the opening balance of retained earnings in the period of adoption. The amendments in this Update also provide lessors with a practical expedient, by class of underlying asset, to not separate non-lease components from the associated lease component, similar to the expedient provided for lessees. In July 2018, the FASB also issued ASU No. 2018-10
-Codification Improvements to Topic 842, Leases which affects narrow aspects of the guidance issued in ASU No. 2016-02. In December 2018, the FASB issued ASU No. 2018-20 Leases (Topic 842)  Narrow Scope Improvements for Lessors which provides specific guidance for lessors on the issues of sales taxes and other similar taxes collected from
+“Codification Improvements to Topic 842, Leases” which affects narrow aspects of the guidance issued in ASU No. 2016-02. In December 2018, the FASB issued ASU No. 2018-20 “Leases (Topic 842) – Narrow Scope Improvements for Lessors” which provides specific guidance for lessors on the issues of sales taxes and other similar taxes collected from
 lessees, certain lessor costs, and recognition of variable payments for contracts with lease and non-lease components. In March 2019, the FASB issued ASU
-No. 2019-01 Leases (Topic 842)  Codification Improvements which clarifies transition disclosure requirements for annual and interim periods after the date of adoption of ASU No. 2016-02.  We have implemented processes and information technology tools to assist in our compliance with Topic
+No. 2019-01 “Leases (Topic 842) – Codification Improvements” which clarifies transition disclosure requirements for annual and interim periods after the date of adoption of ASU No. 2016-02.  We have implemented processes and information technology tools to assist in our compliance with Topic
 842. We have also updated our accounting policies and internal controls that are impacted by the new guidance. We adopted ASU No. 2016-02 utilizing the modified retrospective transition method and did not
-recast comparative periods in transition to the new standard. In addition, the new standard provides a number of optional practical expedients in transition. We elected the package of practical expedients, which permits us not to
+recast comparative periods in transition to the new standard. In addition, the new standard provides a number of optional practical expedients in transition. We elected the ‘package of practical expedients’, which permits us not to
 reassess under the new standard our prior conclusions about lease identification, lease classification and initial direct costs. We did not elect the use-of-hindsight or
 the practical expedient pertaining to land easements; the latter not being applicable to us. The adoption of this standard resulted in the recognition of operating lease
 right-of-use assets and liabilities on our Consolidated Balance Sheet of $5,361 and $5,320, respectively, during the first quarter of fiscal 2020. The new standard also
-provides practical expedients for an entitys initial and ongoing accounting. We elected the short-term lease recognition exemption for all leases that qualify. We also elected the practical expedient to not separate lease and non-lease components for all of our leases. Refer to Note 3  Leases for additional information regarding the Companys leases. 
+provides practical expedients for an entity’s initial and ongoing accounting. We elected the short-term lease recognition exemption for all leases that qualify. We also elected the practical expedient to not separate lease and non-lease components for all of our leases. Refer to Note 3 – “Leases” for additional information regarding the Company’s leases. 
   17 
 
 
@@ -517,13 +520,13 @@ provides practical expedients for an entitys initial and ongoing accounting. W
 Table of Contents
 
 In February 2018, the FASB issued ASU No. 2018-02
-Income Statement  Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income. The amendments in this Update allow a reclassification from accumulated other
-comprehensive income (loss) (AOCL) to retained earnings for stranded tax effects resulting from the Tax Cuts and Jobs Act of 2017. The amendments in this Update also require certain disclosures about stranded tax effects. The amendments
+“Income Statement – Reporting Comprehensive Income (Topic 220): Reclassification of Certain Tax Effects from Accumulated Other Comprehensive Income”. The amendments in this Update allow a reclassification from accumulated other
+comprehensive income (loss) (“AOCL”) to retained earnings for stranded tax effects resulting from the Tax Cuts and Jobs Act of 2017. The amendments in this Update also require certain disclosures about stranded tax effects. The amendments
 in this Update should be applied either in the period of adoption or retrospectively to each period (or periods) in which the effect of the change in the U.S. federal corporate income tax rate in the Tax Cuts and Jobs Act is recognized. The Company
-adopted ASU No. 2018-02 in the first quarter of fiscal 2020 and reclassified $976 from AOCL to retained earnings. Refer to Note 10  Accumulated Other Comprehensive Loss for additional
+adopted ASU No. 2018-02 in the first quarter of fiscal 2020 and reclassified $976 from AOCL to retained earnings. Refer to Note 10 – “Accumulated Other Comprehensive Loss” for additional
 detail. ASU 2018-02 was not applied retrospectively. No other income tax effects related to the application of the Tax Cuts and Jobs Act were reclassified from AOCL to retained earnings. 
 The following recent accounting pronouncements have not yet been adopted: 
-In December 2019, the FASB issued ASU No. 2019-12 Income Taxes (Topic 740). The amendments in
+In December 2019, the FASB issued ASU No. 2019-12 “Income Taxes (Topic 740)”. The amendments in
 this Update simplify the accounting for income taxes by removing certain exceptions, providing updated requirements and specifications in certain areas and by making minor codification improvements. The amendments in this Update are effective for
 public business entities for fiscal years beginning after December 15, 2020, including interim periods within that fiscal year. Early adoption is permitted. This Update is effective for the Company beginning in fiscal 2022. We do not expect
 this accounting Update to have a material impact on our Consolidated Financial Statements. 
@@ -533,7 +536,7 @@ this accounting Update to have a material impact on our Consolidated Financial S
 
 Table of Contents
 
-Item 2. Managements Discussion and Analysis of
+Item 2. Management’s Discussion and Analysis of
 Financial Condition and Results of Operations  OVERVIEW 
 The following discussion and analysis should be read in conjunction with the unaudited Consolidated Financial Statements and the Notes to Consolidated
 Financial Statements.  Our fiscal year ends on the final Thursday of June each year, and typically consists of
@@ -541,13 +544,13 @@ fifty-two weeks (four thirteen-week quarters). Additional information on the com
   
   
 
-As used herein, unless the context otherwise indicates, the terms we, us, our or Company collectively refer to
-John B. Sanfilippo & Son, Inc. and our wholly-owned subsidiary, JBSS Ventures, LLC. Our Companys Credit Facility and Mortgage Facility, as defined below, are sometimes collectively referred to as our financing
-arrangements.  We are one of the leading processors and distributors of peanuts, pecans, cashews, walnuts, almonds and other nuts in the United
+As used herein, unless the context otherwise indicates, the terms “we”, “us”, “our” or “Company” collectively refer to
+John B. Sanfilippo & Son, Inc. and our wholly-owned subsidiary, JBSS Ventures, LLC. Our Company’s Credit Facility and Mortgage Facility, as defined below, are sometimes collectively referred to as “our financing
+arrangements.”  We are one of the leading processors and distributors of peanuts, pecans, cashews, walnuts, almonds and other nuts in the United
 States. These nuts are sold under a variety of private brands and under the Fisher, Orchard Valley Harvest, Squirrel Brand, Southern Style Nuts and Sunshine Country brand names. We also market and distribute, and in most cases,
 manufacture or process, a diverse product line of food and snack products, including peanut butter, almond butter, cashew butter, candy and confections, snacks and trail mixes, snack bites, sunflower kernels, dried fruit, corn snacks, chickpea
 snacks, sesame sticks and other sesame snack products under private brands and brand names. We distribute our products in the consumer, commercial ingredients and contract packaging distribution channels. 
-The Companys long-term objective to drive profitable growth, as identified in our strategic plan (the Strategic Plan), includes continuing
+The Company’s long-term objective to drive profitable growth, as identified in our strategic plan (the “Strategic Plan”), includes continuing
 to grow Fisher, Orchard Valley Harvest, Squirrel Brand and Southern Style Nuts into leading nut brands by focusing on consumers demanding quality nuts in the snacking, recipe, trail and snack mix and produce
 categories, providing integrated nut solutions to grow non-branded business at existing key customers in each distribution channel and expanding our offerings into alternative distribution channels. We are
 executing on our Strategic Plan by continuing to expand distribution of our Orchard Valley Harvest and Southern Style Nuts products, growing our consumer distribution channel with private brand products and expanding distribution with
@@ -555,10 +558,10 @@ new foodservice customers.  We face a number of challenges in the future which i
 and increasing commodity costs for walnuts, as well as intensified competition on pricing and for market share from both private brand and name brand nut products. Our Fisher recipe nut sales have been negatively impacted recently due to this
 increased competition for market share. We also face changing industry trends resulting in retail consolidation and Internet price competition for nut and nut-related products. 
 We will continue to focus on seeking profitable business opportunities to maximize the utilization of our production capacity at our primary manufacturing,
-processing and distribution facility located in Elgin, Illinois (the Elgin Site) and evaluate facility expansion to meet customer demand. We expect to maintain our current level of promotional and advertising activity for our Orchard
+processing and distribution facility located in Elgin, Illinois (the “Elgin Site”) and evaluate facility expansion to meet customer demand. We expect to maintain our current level of promotional and advertising activity for our Orchard
 Valley Harvest and Fisher snack brands. We continue to see significant domestic sales and volume growth in our Orchard Valley Harvest brand and will continue to focus on this portion of our branded business as well as our
 Squirrel Brand and Southern Style Nuts brands. We will continue to face the ongoing challenges specific to our business, such as food safety and regulatory issues and the maintenance and growth of our customer base for branded and
-private label products. See the information referenced in Part II, Item 1A  Risk Factors of this report for additional information about our risks, challenges and uncertainties. 
+private label products. See the information referenced in Part II, Item 1A — “Risk Factors” of this report for additional information about our risks, challenges and uncertainties. 
   19 
 
 
@@ -669,7 +672,7 @@ $0.7 million for the first twenty-six weeks of fiscal 2020 compared to $0.6 mi
 Other Expense  Other expense consists of pension
 related expenses other than the service cost component and was $0.6 million for the second quarter of fiscal 2020 compared to $0.5 million for the second quarter of fiscal 2019. Other expense was $1.1 million for the first twenty-six weeks of fiscal 2020 compared to $1.0 million for the first twenty-six weeks of fiscal 2019. 
 Income Tax Expense  Income tax expense was
-$5.7 million, or 24.7% of income before income taxes (the Effective Tax Rate), for the second quarter of fiscal 2020 compared to $3.8 million, or 25.3% of income before income taxes, for the second quarter of fiscal 2019. For
+$5.7 million, or 24.7% of income before income taxes (the “Effective Tax Rate”), for the second quarter of fiscal 2020 compared to $3.8 million, or 25.3% of income before income taxes, for the second quarter of fiscal 2019. For
 the first twenty-six weeks of fiscal 2020, income tax expense was $10.4 million, or 25.5% of income before income taxes, compared to $5.6 million, or 23.9% of income before income taxes, for the
 comparable period last year. The Effective Tax Rate in the comparative twenty-six week period was reduced due to a change in the rate that our deferred tax assets are measured due to the impact of Tax Reform.
 This change increased our net deferred tax assets and reduced income tax expense in the comparative twenty-six week period.  Net Income 
@@ -678,7 +681,7 @@ per common share basic and $0.98 per common share diluted, for the second quarte
 share basic and $2.64 per share diluted, for the first twenty-six weeks of fiscal 2020, compared to net income of $17.9 million, or $1.57 per common share basic and $1.56 per share diluted, for the first twenty-six weeks of fiscal 2019.  LIQUIDITY AND CAPITAL RESOURCES 
 General  The primary uses of cash are to fund our
 current operations, fulfill contractual obligations, pursue our Strategic Plan through growing our branded and private label nut programs and repay indebtedness. Also, various uncertainties could result in additional uses of cash. The primary
-sources of cash are results of operations and availability under our Credit Agreement, dated February 7, 2008 and subsequently amended most recently in November 2017 (as amended, the Credit Facility), that provides a revolving loan
+sources of cash are results of operations and availability under our Credit Agreement, dated February 7, 2008 and subsequently amended most recently in November 2017 (as amended, the “Credit Facility”), that provides a revolving loan
 commitment and letter of credit subfacility. We anticipate that expected net cash flow generated from operations and amounts available pursuant to the Credit Facility will be sufficient to fund our operations for the next twelve months. Our
 available credit under our Credit Facility has historically allowed us to promote our products and invest in our brands (especially our Fisher and Orchard Valley Harvest brands), consummate strategic business acquisitions such as the
 2018 acquisition of the Squirrel Brand business, reinvest in the Company through capital expenditures, develop new products, pay cash dividends the past seven years and explore other growth strategies outlined in our Strategic Plan. 
@@ -712,11 +715,11 @@ the consolidation of our Chicago-based facilities into the Elgin Site. The Elgin
 Elgin Site. Until additional tenant(s) are found, we will not receive the benefit of rental income associated with such space. Approximately 63% of the rentable area in the office building is currently vacant, of which approximately 29% has not been
 built-out. There can be no assurance that we will be able to lease the unoccupied space and further capital expenditures will likely be necessary to lease the remaining space. 
 Financing Arrangements  On February 7, 2008,
-we entered into the Credit Facility with a bank group (the Bank Lenders) providing a $117.5 million revolving loan commitment and letter of credit subfacility. Also on February 7, 2008, we entered into a Loan Agreement with an
-insurance company (the Mortgage Lender) providing us with two term loans, one in the amount of $36.0 million (Tranche A) and the other in the amount of $9.0 million (Tranche B), for an aggregate amount
-of $45.0 million (the Mortgage Facility).  On November 29, 2017, we entered into the Consent and Ninth Amendment to our Credit
-Agreement (the Ninth Amendment) which provided lender consent to incur unsecured debt in connection with our acquisition of the assets of the Squirrel Brand business, and for the acquisition of the Squirrel Brand business to constitute a
-Permitted Acquisition under the terms of the Credit Facility. The Ninth Amendment also modified our collateral reporting requirements. 
+we entered into the Credit Facility with a bank group (the “Bank Lenders”) providing a $117.5 million revolving loan commitment and letter of credit subfacility. Also on February 7, 2008, we entered into a Loan Agreement with an
+insurance company (the “Mortgage Lender”) providing us with two term loans, one in the amount of $36.0 million (“Tranche A”) and the other in the amount of $9.0 million (“Tranche B”), for an aggregate amount
+of $45.0 million (the “Mortgage Facility”).  On November 29, 2017, we entered into the Consent and Ninth Amendment to our Credit
+Agreement (the “Ninth Amendment”) which provided lender consent to incur unsecured debt in connection with our acquisition of the assets of the Squirrel Brand business, and for the acquisition of the Squirrel Brand business to constitute a
+“Permitted Acquisition” under the terms of the Credit Facility. The Ninth Amendment also modified our collateral reporting requirements. 
   25 
 
 
@@ -725,10 +728,10 @@ Table of Contents
 
 The Credit Facility, as most recently amended in November 2017, is secured by substantially all of our
 assets other than machinery and equipment, real property, and fixtures and matures on July 7, 2021. The Mortgage Facility is secured by mortgages on essentially all of our owned real property located in Elgin, Illinois, Gustine, California and
-Garysburg, North Carolina (the Encumbered Properties).  Credit Facility 
+Garysburg, North Carolina (the “Encumbered Properties”).  Credit Facility 
 At our election, borrowings under the Credit Facility currently accrue interest at either (i) a rate determined pursuant to the administrative
-agents prime rate plus an applicable margin determined by reference to the amount of loans which may be advanced under the borrowing base calculation, ranging from 0.25% to 0.75% or (ii) a rate based upon the London interbank offered rate
-(LIBOR) plus an applicable margin based upon the borrowing base calculation, ranging from 1.25% to 1.75%.  At December 26, 2019, the
+agent’s prime rate plus an applicable margin determined by reference to the amount of loans which may be advanced under the borrowing base calculation, ranging from 0.25% to 0.75% or (ii) a rate based upon the London interbank offered rate
+(“LIBOR”) plus an applicable margin based upon the borrowing base calculation, ranging from 1.25% to 1.75%.  At December 26, 2019, the
 weighted average interest rate for the Credit Facility was 3.8%. The terms of the Credit Facility contain covenants that, among other things, require us to restrict investments, indebtedness, acquisitions and certain sales of assets and limit annual
 cash dividends or distributions, transactions with affiliates, redemptions of capital stock and prepayment of indebtedness (if such prepayment, among other things, is of a subordinate debt). If loan availability under the borrowing base calculation
 falls below $25.0 million, we will be required to maintain a specified fixed charge coverage ratio, tested on a monthly basis, until loan availability equals or exceeds $25.0 million for three consecutive months. All cash received from
@@ -744,7 +747,7 @@ The terms of the Mortgage Facility contain covenants that require us to maintain
 Properties. The Mortgage Lender is entitled to require immediate repayment of our obligations under the Mortgage Facility in the event we default in the payments required under the Mortgage Facility,
 non-compliance with the covenants or upon the occurrence of certain other defaults by us under the Mortgage Facility. As of December 26, 2019, we were in compliance with all covenants under the Mortgage
 Facility.  Selma Property  In September 2006, we sold
-our Selma, Texas properties (the Selma Properties) to two related party partnerships for $14.3 million and are leasing them back. The selling price was determined by an independent appraiser to be the fair market value which also
+our Selma, Texas properties (the “Selma Properties”) to two related party partnerships for $14.3 million and are leasing them back. The selling price was determined by an independent appraiser to be the fair market value which also
 approximated our carrying value. The lease for the Selma Properties has a ten-year term at a fair market value rent with three five-year renewal options. In September 2015, we exercised two of the five-year
 renewal options which extended the lease term to September 2026. The lease extension also reduced the monthly lease payment on the Selma Properties, beginning in September 2016, to reflect then current market conditions. One five-year renewal option
 remains. Also, we have an option to purchase the Selma Properties from the owner at 95% (100% in certain circumstances) of the then fair market value, but not less than the original $14.3 million purchase price. The provisions of the
@@ -758,14 +761,14 @@ Table of Contents
 
 Squirrel Brand Seller-Financed Note 
 In November 2017 we completed the Acquisition. The Acquisition was financed by a combination of cash (drawn under the Credit Facility) and a three-year
-seller-financed note for $11.5 million (Promissory Note). The principal owner and seller of the Squirrel Brand business was subsequently appointed as an executive officer of the Company and was considered a related party until the
+seller-financed note for $11.5 million (“Promissory Note”). The principal owner and seller of the Squirrel Brand business was subsequently appointed as an executive officer of the Company and was considered a related party until the
 employment of this executive officer with the Company ceased late in the second quarter of fiscal 2020. The Promissory Note is unsecured, bears interest at 5.5% per annum and is payable in equal monthly principal payments of $0.3 million, plus
 interest, which began in January 2018. Upon an event of default, as defined in the Promissory Note, the interest rate increases to 7.5% until such event of default is cured. We can pre-pay the Promissory Note
 at any time during the three-year period without penalty. At December 26, 2019, the principal amount of $3.5 million of the Promissory Note was outstanding. 
 Critical Accounting Policies and Estimates  For
-information regarding our Critical Accounting Policies and Estimates, see the Critical Accounting Policies and Estimates section of Item 7  Managements Discussion and Analysis of Financial Condition and Results of
-Operations in our Form 10-K for the fiscal year ended June 27, 2019.  Recent Accounting
-Pronouncements  Refer to Note 15  Recent Accounting Pronouncements of the Notes to Consolidated Financial Statements, contained
+information regarding our Critical Accounting Policies and Estimates, see the “Critical Accounting Policies and Estimates” section of “Item 7 – Management’s Discussion and Analysis of Financial Condition and Results of
+Operations” in our Form 10-K for the fiscal year ended June 27, 2019.  Recent Accounting
+Pronouncements  Refer to Note 15 – “Recent Accounting Pronouncements” of the Notes to Consolidated Financial Statements, contained
 in Part I, Item 1 of this form 10-Q, for a discussion of recently issued and adopted accounting pronouncements 
   27 
 
@@ -775,21 +778,21 @@ Table of Contents
 
 FORWARD LOOKING STATEMENTS 
 Some of the statements in this report are forward-looking (including statements concerning our expectations regarding market risk and the impact of the
-purchasing decisions of major customers). These forward-looking statements may be generally identified by the use of forward-looking words and phrases such as will, intends, may, believes,
-anticipates, should and expects and are based on the Companys current expectations or beliefs concerning future events and involve risks and uncertainties. Consequently, the Companys actual results
+purchasing decisions of major customers). These forward-looking statements may be generally identified by the use of forward-looking words and phrases such as “will”, “intends”, “may”, “believes”,
+“anticipates”, “should” and “expects” and are based on the Company’s current expectations or beliefs concerning future events and involve risks and uncertainties. Consequently, the Company’s actual results
 could differ materially. The Company undertakes no obligation to update publicly or otherwise revise any forward-looking statements, whether as a result of new information, future events or other factors that affect the subject of these statements,
 except where expressly required to do so by law. Among the factors that could cause results to differ materially from current expectations are: (i) the risks associated with our vertically integrated model with respect to pecans, peanuts and
-walnuts; (ii) sales activity for the Companys products, such as a decline in sales (of branded products, private label products or otherwise) to one or more key customers, a change in product mix to lower price products, a decline in
+walnuts; (ii) sales activity for the Company’s products, such as a decline in sales (of branded products, private label products or otherwise) to one or more key customers, a change in product mix to lower price products, a decline in
 sales of private brand products or changing consumer preferences, including a shift from higher margin products to lower margin products; (iii) changes in the availability and costs of raw materials and the impact of fixed price commitments
 with customers; (iv) the ability to pass on price increases to customers if commodity costs rise and the potential for a negative impact on demand for, and sales of, our products from price increases; (v) the ability to measure and
-estimate bulk inventory, fluctuations in the value and quantity of the Companys nut inventories due to fluctuations in the market prices of nuts and bulk inventory estimation adjustments, respectively; (vi) the Companys ability to
+estimate bulk inventory, fluctuations in the value and quantity of the Company’s nut inventories due to fluctuations in the market prices of nuts and bulk inventory estimation adjustments, respectively; (vi) the Company’s ability to
 appropriately respond to, or lessen the negative impact of, competitive and pricing pressures, including competition in the recipe nut category; (vii) losses associated with product recalls, product contamination, food labeling or other food
-safety issues, or the potential for lost sales or product liability if customers lose confidence in the safety of the Companys products or in nuts or nut products in general, or are harmed as a result of using the Companys products;
+safety issues, or the potential for lost sales or product liability if customers lose confidence in the safety of the Company’s products or in nuts or nut products in general, or are harmed as a result of using the Company’s products;
 (viii) the ability of the Company to control expenses, such as compensation, medical and administrative expense; (ix) the potential negative impact of government regulations and laws and regulations pertaining to food safety, such as the
 Food Safety Modernization Act; (x) uncertainty in economic conditions, including the potential for economic downturn; (xi) the timing and occurrence (or nonoccurrence) of other transactions and events which may be subject to circumstances
-beyond the Companys control; (xii) the adverse effect of labor unrest or disputes, litigation and/or legal settlements, including potential unfavorable outcomes exceeding any amounts accrued; (xiii) losses due to significant
+beyond the Company’s control; (xii) the adverse effect of labor unrest or disputes, litigation and/or legal settlements, including potential unfavorable outcomes exceeding any amounts accrued; (xiii) losses due to significant
 disruptions at any of our production or processing facilities; (xiv) the inability to implement our Strategic Plan, including growing our branded and private brand product sales and expanding into alternative sales channels;
-(xv) technology disruptions or failures; (xvi) the inability to protect the Companys brand value, intellectual property or avoid intellectual property disputes; and (xvii) the Companys ability to manage successfully the
+(xv) technology disruptions or failures; (xvi) the inability to protect the Company’s brand value, intellectual property or avoid intellectual property disputes; and (xvii) the Company’s ability to manage successfully the
 price gap between its private brand products and those of its branded competitors. 
   28 
 
@@ -798,22 +801,22 @@ price gap between its private brand products and those of its branded competitor
 Table of Contents
 
 Item 3. Quantitative and Qualitative Disclosures About Market
-Risk  There has been no material change in our assessment of our sensitivity to market risk since our presentation set forth in Part IItem 7A
-Quantitative and Qualitative Disclosures About Market Risk, in our Annual Report on Form 10-K for the fiscal year ended June 27, 2019. 
+Risk  There has been no material change in our assessment of our sensitivity to market risk since our presentation set forth in Part I—Item 7A
+“Quantitative and Qualitative Disclosures About Market Risk,” in our Annual Report on Form 10-K for the fiscal year ended June 27, 2019. 
 Item 4. Controls and Procedures 
 Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls
 and procedures (as defined in Exchange Act Rule 13a-15(e)) as of December 26, 2019. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of
-December 26, 2019, the Companys disclosure controls and procedures were effective.  In connection with the evaluation by our management,
+December 26, 2019, the Company’s disclosure controls and procedures were effective.  In connection with the evaluation by our management,
 including our Chief Executive Officer and Chief Financial Officer, there were no changes in our internal control over financial reporting (as defined in Exchange Act Rule 13a-15(f)) during the quarter ended
 December 26, 2019 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting. 
-PART IIOTHER INFORMATION 
+PART II—OTHER INFORMATION 
 Item 1. Legal Proceedings 
-For a discussion of legal proceedings, see Note 11  Commitments and Contingent Liabilities in Part I, Item 1 of this Form 10-Q.  Item 1A. Risk Factors 
+For a discussion of legal proceedings, see Note 11 – “Commitments and Contingent Liabilities” in Part I, Item 1 of this Form 10-Q.  Item 1A. Risk Factors 
 In addition to the other information set forth in this report on Form 10-Q, you should also consider the factors,
-risks and uncertainties which could materially affect our Companys business, financial condition or future results as discussed in Part I, Item 1A  Risk Factors of our Annual Report on Form 10-K for the fiscal year ended June 27, 2019. There were no significant changes to the risk factors identified on the Form 10-K for the fiscal year ended June 27,
-2019 during the second quarter of fiscal 2020.  See Part I, Item 2  Managements Discussion and Analysis of Financial Condition and
-Results of Operations  Liquidity and Capital Resources in this Form 10-Q, and see Part II, Item 7  Managements Discussion and Analysis of Financial Condition and Results of
-Operations  Liquidity and Capital Resources in the Companys Annual Report on Form 10-K for the fiscal year ended June 27, 2019. 
+risks and uncertainties which could materially affect our Company’s business, financial condition or future results as discussed in Part I, Item 1A – “Risk Factors” of our Annual Report on Form 10-K for the fiscal year ended June 27, 2019. There were no significant changes to the risk factors identified on the Form 10-K for the fiscal year ended June 27,
+2019 during the second quarter of fiscal 2020.  See Part I, Item 2 — “Management’s Discussion and Analysis of Financial Condition and
+Results of Operations — Liquidity and Capital Resources” in this Form 10-Q, and see Part II, Item 7 — “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations — Liquidity and Capital Resources” in the Company’s Annual Report on Form 10-K for the fiscal year ended June 27, 2019. 
 Item 6. Exhibits 
 The exhibits filed herewith are listed in the exhibit index below. 
   29 
@@ -898,6 +901,7 @@ Michael J. Valentine
 Chief Financial Officer, Group President and Secretary
 
   35 
+
 
 
 

@@ -4,7 +4,10 @@
 d851326d10q.htm
 FORM 10-Q
 
+
 Form 10-Q
+
+
 Table of Contents
 UNITED STATES 
 SECURITIES AND EXCHANGE COMMISSION 
@@ -51,7 +54,7 @@ Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
 mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12
 months (or for such shorter period that the registrant was required to submit such files).      YES  X        NO     
 Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
-non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act.   
+non-accelerated filer, or a smaller reporting company. See the definitions of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.   
 
 
 
@@ -110,7 +113,7 @@ CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME (LOSS)
 
 Table of Contents
 WVS FINANCIAL CORP. AND SUBSIDIARY 
-CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS EQUITY 
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’ EQUITY 
 (UNAUDITED)  (In thousands) 
  
  See accompanying notes to unaudited consolidated financial statements. 
@@ -119,7 +122,7 @@ CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS EQUITY
 
 Table of Contents
 WVS FINANCIAL CORP. AND SUBSIDIARY 
-CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS EQUITY 
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS’ EQUITY 
 (UNAUDITED)  (In thousands) 
  
  See accompanying notes to unaudited consolidated financial statements. 
@@ -161,24 +164,24 @@ December 31, 2019, are not necessarily indicative of the results which may be e
 2.
  RECENT ACCOUNTING PRONOUNCEMENTS 
 In June 2016, the FASB issued ASU 2016-13, Financial Instruments-Credit Losses: Measurement
-of Credit Losses on Financial Instruments (ASU 2016-13), which changes the impairment model for most financial assets. This ASU is intended to improve financial reporting by requiring timelier
+of Credit Losses on Financial Instruments (“ASU 2016-13”), which changes the impairment model for most financial assets. This ASU is intended to improve financial reporting by requiring timelier
 recording of credit losses on loans and other financial instruments held by financial institutions and other organizations. The underlying premise of the ASU is that financial assets measured at amortized cost should be presented at the net amount
-expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis. The allowance for credit losses should reflect managements current estimate of credit losses that are expected to occur over the
+expected to be collected, through an allowance for credit losses that is deducted from the amortized cost basis. The allowance for credit losses should reflect management’s current estimate of credit losses that are expected to occur over the
 remaining life of a financial asset. The income statement will be effected for the measurement of credit losses for newly recognized financial assets, as well as the expected increases or decreases of expected credit losses that have taken place
 during the period. ASU 2016-13 is effective for annual and interim periods beginning after December 15, 2019, and early adoption is permitted for annual and interim periods beginning after
 December 15, 2018. With certain exceptions, transition to the new requirements will be through a cumulative effect adjustment to opening retained earnings as of the beginning of the first reporting period in which the guidance is adopted. In
-November 2019, the FASB issued ASU 2019-10, Financial Instruments  Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). This Update defers the effective date of
+November 2019, the FASB issued ASU 2019-10, Financial Instruments – Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). This Update defers the effective date of
 ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers, and all other companies to fiscal years beginning after December 15,
 2022, including interim periods within those fiscal years. We expect to recognize a one-time cumulative effect adjustment to the allowance for loan losses as of the beginning of the first reporting period in
 which the new standard is effective, but cannot yet determine the magnitude of any such one-time adjustment or the overall impact of the new guidance on the consolidated financial statements. 
-In June 2018, the FASB issued ASU 2018-07, Compensation  Stock Compensation (Topic
+In June 2018, the FASB issued ASU 2018-07, Compensation – Stock Compensation (Topic
 718), which simplified the accounting for nonemployee share-based payment transactions. The amendments in this update expand the scope of Topic 718 to include share-based payment transactions for acquiring goods and services from nonemployees.
 The amendments in this Update improve the following areas of nonemployee share-based payment accounting; (a) the overall measurement objective, (b) the measurement date, (c) awards with performance conditions, (d) classification
 reassessment of certain equity-classified awards, (e) calculated value (nonpublic entities only), and (f) intrinsic value (nonpublic entities only). The amendments in this Update are effective for public business entities for fiscal years
 beginning after December 15, 2018, including interim periods within that fiscal year. For all other entities, the amendments are effective for fiscal years beginning after December 15, 2019, and interim periods within fiscal years
-beginning after December 15, 2020. This Update is not expected to have a significant impact on the Companys financial statements. 
+beginning after December 15, 2020. This Update is not expected to have a significant impact on the Company’s financial statements. 
 In August 2018, the FASB issued ASU 2018-13, Fair Value Measurement (Topic 820): Disclosure
-Framework  Changes the Disclosure Requirements for Fair Value Measurements. The Update removes the requirement to disclose the amount of and reasons for transfers between Level I and Level II of the fair value hierarchy; the policy for
+Framework – Changes the Disclosure Requirements for Fair Value Measurements. The Update removes the requirement to disclose the amount of and reasons for transfers between Level I and Level II of the fair value hierarchy; the policy for
 timing of transfers between levels; and the valuation processes for 
   10 
 
@@ -187,28 +190,28 @@ Table of Contents
 
 Level III fair value measurements. The Update requires disclosure of changes in unrealized gains and losses for the period included in other comprehensive income (loss) for recurring Level III
 fair value measurements held at the end of the reporting period and the range and weighted average of significant unobservable inputs used to develop Level III fair value measurements. This Update is effective for all entities for fiscal years, and
-interim periods within those fiscal years, beginning after December 15, 2019. The Company is currently evaluating the impact the adoption of the standard will have on the Companys financial position or results of operations. 
-In August 2018, the FASB issued ASU 2018-14, Compensation  Retirement Benefits (Topic 715-20). This Update amends ASC 715 to add, remove and clarify disclosure requirements related to defined benefit pension and other postretirement plans. The Update eliminates the requirement to disclose the
+interim periods within those fiscal years, beginning after December 15, 2019. The Company is currently evaluating the impact the adoption of the standard will have on the Company’s financial position or results of operations. 
+In August 2018, the FASB issued ASU 2018-14, Compensation – Retirement Benefits (Topic 715-20). This Update amends ASC 715 to add, remove and clarify disclosure requirements related to defined benefit pension and other postretirement plans. The Update eliminates the requirement to disclose the
 amounts in accumulated other comprehensive income expected to be recognized as part of net periodic benefit cost over the next year. The Update also removes the disclosure requirements for the effects of a
 one-percentage-point change on the assumed health care costs and the effect of this change in rates on service cost, interest cost and the benefit obligation for postretirement health care benefits. This
 Update is effective for public business entities for fiscal years ending after December 15, 2020, and must be applied on a retrospective basis. For all other entities, this Update is effective for fiscal years ending after December 15,
-2021. This standard is not expected to have a significant impact on the Companys financial position or results of operations. 
+2021. This standard is not expected to have a significant impact on the Company’s financial position or results of operations. 
 In November, 2018, the FASB issued ASU 2018-19, Codification Improvements to Topic 326,
-Financial Instruments  Credit Losses, which amended the effective date of ASU 2016-13 for entities other than public business entities (PBEs), by requiring
+Financial Instruments – Credit Losses, which amended the effective date of ASU 2016-13 for entities other than public business entities (PBEs), by requiring
 non-PBEs to adopt the standard for fiscal years beginning after December 15, 2021, including interim periods within those fiscal years. Therefore, the revised effective dates of ASU 2016-13 for PBEs that are SEC filers will be fiscal years beginning after December 15, 2019, including interim periods within those years, PBEs other than SEC filers will be for fiscal years beginning after
 December 15, 2020, including interim periods within those years, and all other entities (non-PBEs) will be for fiscal years beginning after December 15, 2021, including interim periods within those
 years. The ASU also clarifies that receivables arising from operating leases are not within the scope of Subtopic 326-20. Rather, impairment of receivables arising from operating leases should be accounted for
 in accordance with Topic 842, Leases. The effective date and transition requirements for ASU 2018-19 are the same as those in ASU 2016-13, as amended by ASU 2018-19. In November, 2019, the FASB issued ASU 2019-10, Financial Instruments-Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842).
 The Update defers the effective date of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers and all other companies to fiscal
-years beginning after December 15, 2022, including interim periods within those fiscal years. This Update is not expected to have a significant impact on the Companys financial statements. 
+years beginning after December 15, 2022, including interim periods within those fiscal years. This Update is not expected to have a significant impact on the Company’s financial statements. 
 In April 2019, the FASB issued ASU 2019-04, Codification Improvements to Topic 326, Financial
-Instruments  Credit Losses, Topic 815, Derivatives and Hedging, and Topic 825, Financial Instruments, which affects a variety of topics in the Codification and applies to all reporting entities within the scope of the affected accounting
-guidance. Topic 326, Financial Instruments  Credit Losses amendments are effective for SEC registrants for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. For all other public business
+Instruments – Credit Losses, Topic 815, Derivatives and Hedging, and Topic 825, Financial Instruments, which affects a variety of topics in the Codification and applies to all reporting entities within the scope of the affected accounting
+guidance. Topic 326, Financial Instruments – Credit Losses amendments are effective for SEC registrants for fiscal years beginning after December 15, 2019, and interim periods within those fiscal years. For all other public business
 entities, the effective date is for fiscal years beginning after December 15, 2020, and for all other entities, the effective date is for fiscal years beginning after December 15, 2021. Topic 815, Derivatives and Hedging amendments
 are effective for public business entities for fiscal years beginning after December 15, 2018, and interim periods within those fiscal years. For all other entities, the amendments are effective for fiscal years beginning after
 December 15, 2019, and interim periods beginning after December 15, 2020. For entities that have adopted the amendments in Update 2017-12, the effective date is as of the beginning of the first
 annual period beginning after the issuance of this Update. Topic 825, Financial Instruments amendments are effective for fiscal years beginning after December 15, 2019, and interim periods within fiscal years. In November 2019,
-the FASB issued ASU 2019-10, Financial Instruments  Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). This Update defers the effective date of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers and all other companies to fiscal years beginning after December 15, 2022,
+the FASB issued ASU 2019-10, Financial Instruments – Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). This Update defers the effective date of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers and all other companies to fiscal years beginning after December 15, 2022,
 including interim periods within those fiscal years. Furthermore, the ASU provides a one-year deferral of the effective dates of the ASUs on derivatives and hedging for companies that are not public business
 entities. The Company qualifies as a smaller reporting company and does not expect to early adopt these ASUs. 
   11 
@@ -216,32 +219,32 @@ entities. The Company qualifies as a smaller reporting company and does not expe
 
 Table of Contents
 In May 2019, the FASB issued ASU 2019-05,
-Financial Instruments  Credit Losses, Topic 326, which allows entities to irrevocably elect the fair value option for certain financial assets previously measured at amortized cost upon adoption of the new credit losses standard. To be
+Financial Instruments – Credit Losses, Topic 326, which allows entities to irrevocably elect the fair value option for certain financial assets previously measured at amortized cost upon adoption of the new credit losses standard. To be
 eligible for the transition election, the existing financial asset must otherwise be both within the scope of the new credit losses standard and eligible for applying the fair value option in ASC 825-10.3. The
 election must be applied on an instrument-by-instrument basis and is not available for either
 available-for-sale or held-to-maturity debt securities. For entities that elect the fair
 value option, the difference between the carrying amount and the fair value of the financial asset would be recognized through a cumulative-effect adjustment to opening retained earnings as of the date an entity adopted ASU 2016-13. Changes in fair value of that financial asset would subsequently be reported in current earnings. For entities that have not yet adopted ASU 2016-13, the effective
 dates and transition requirements are the same as those in ASU 2016-13. For entities that have adopted ASU 2016-13, ASU 2019-05
 is effective for fiscal years beginning after December 15, 2019, including interim periods within those fiscal years. Early adoption is permitted once ASU 2016-13 has been adopted. In November 2019, the
-FASB issued ASU 2019-10, Financial Instruments  Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). The Update defers the effective date of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers and all other companies to fiscal years beginning after December 15, 2022,
+FASB issued ASU 2019-10, Financial Instruments – Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). The Update defers the effective date of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers and all other companies to fiscal years beginning after December 15, 2022,
 including interim periods within those fiscal years. The Company qualifies as a smaller reporting company and does not expect to early adopt ASU 2016-13. 
 In July 2019, the FASB issued ASU 2019-07, Codification Updates to SEC Sections, Amendments
 to SEC Paragraphs Pursuant to SEC Final Rule Releases No. 33-10532, Disclosure Update and Simplification, and Nos. 33-10231 and 33-10442, Investment Company Reporting Modernization, and Miscellaneous Updates. This ASU amends various SEC paragraphs pursuant to the issuance of SEC Final Rule Releases
 No. 33-10532, Disclosure Update and Simplification, and Nos. 33-10231 and 33-10442, Investment Company Reporting
 Modernization. Other miscellaneous updates to agree to the electronic Code of Federal Regulations also have been incorporated. 
-In November 2019, the FASB issued ASU 2019-08, Compensation  Stock Compensation (Topic
-718) and Revenue from Contracts with Customers (Topic 606), which requires entities to measure and classify share-based payments to a customer, in accordance with the guidance in ASC 718, Compensation  Stock Compensation. The
+In November 2019, the FASB issued ASU 2019-08, Compensation – Stock Compensation (Topic
+718) and Revenue from Contracts with Customers (Topic 606), which requires entities to measure and classify share-based payments to a customer, in accordance with the guidance in ASC 718, Compensation – Stock Compensation. The
 amendments in that Update expanded the scope of Topic 718 to include share-based payment transactions for acquiring goods and services from nonemployees and, in doing so, superseded guidance in Subtopic
-505-50, Equity  Equity-Based Payments to Non-Employees. The amount that would be recorded as a reduction in revenue would be measured based on the grant date fair value of the share-based
-payment, in accordance with Topic 718. The grant date is the date at which a supplier and customer reach a mutual understanding of the awards key terms and conditions. The awards classification and subsequent measurement would be subject
+505-50, Equity – Equity-Based Payments to Non-Employees. The amount that would be recorded as a reduction in revenue would be measured based on the grant date fair value of the share-based
+payment, in accordance with Topic 718. The grant date is the date at which a supplier and customer reach a mutual understanding of the award’s key terms and conditions. The award’s classification and subsequent measurement would be subject
 to ASC 718 unless the award is modified or the grantee is no longer a customer. For entities that have not yet adopted the amendments in Update 2018-07, the amendments in this Update are effective for
 (1) public business entities in fiscal years beginning after December 15, 2019, and interim periods within those fiscal years, and (2) other than public business entities in fiscal years beginning after December 15, 2019, and
 interim periods within fiscal years beginning after December 15, 2020. For entities that have adopted the amendments in Update 2018-07, the amendments in this Update are effective in fiscal years
 beginning after December 15, 2019, and interim periods within those fiscal years. An entity may early adopt the amendments in this Update, but not before it adopts the amendments in Update 2018-07. This
-Update is not expected to have a significant impact on the Companys financial statements.  In November 2019, the FASB issued
-ASU 2019-10, Financial Instruments  Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). The Update defers the effective dates of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers, and all other companies to fiscal years beginning after December 15, 2022,
+Update is not expected to have a significant impact on the Company’s financial statements.  In November 2019, the FASB issued
+ASU 2019-10, Financial Instruments – Credit Losses (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic 842). The Update defers the effective dates of ASU 2016-13 for SEC filers that are eligible to be smaller reporting companies, non-SEC filers, and all other companies to fiscal years beginning after December 15, 2022,
 including interim periods within those fiscal years. This Update also amends the mandatory effective date for the elimination of Step 2 from the goodwill impairment test under ASU No. 2017-04,
-Intangibles  Goodwill and Other  
+Intangibles – Goodwill and Other  
   12 
 
 
@@ -250,10 +253,10 @@ Table of Contents
 (Topic 350): Simplifying the Test for Goodwill Impairment (Goodwill), to align with those used for credit losses. Furthermore, the ASU provides a
 one-year deferral of the effective dates of the ASUs on derivatives and hedging and leases for companies that are not public business entities. The Company qualifies as a smaller reporting company and does not
 expect to early adopt these ASUs.  In November 2019, the FASB issued ASU 2019-11,
-Codification Improvements to Topic 326, Financial InstrumentsCredit Losses, to clarify its new credit impairment guidance in ASC 326, based on implementation issues raised by stakeholders. This Update clarified, among other things, that
+Codification Improvements to Topic 326, Financial Instruments—Credit Losses, to clarify its new credit impairment guidance in ASC 326, based on implementation issues raised by stakeholders. This Update clarified, among other things, that
 expected recoveries are to be included in the allowance for credit losses for these financial assets; an accounting policy election can be made to adjust the effective interest rate for existing troubled debt restructurings based on the prepayment
 assumptions instead of the prepayment assumptions applicable immediately prior to the restructuring event; and extends the practical expedient to exclude accrued interest receivable from all additional relevant disclosures involving amortized cost
-basis. The effective dates in this Update are the same as those applicable for ASU 2019-10. The Company is currently evaluating the impact the adoption of the standard will have on the Companys financial
+basis. The effective dates in this Update are the same as those applicable for ASU 2019-10. The Company is currently evaluating the impact the adoption of the standard will have on the Company’s financial
 position or results of operations.  In December 2019, the FASB issued ASU 2019-12, Income
 Taxes (Topic 740), to simplify the accounting for income taxes, change the accounting for certain tax transactions, and make minor improvements to the codification. This Update provides a policy election to not allocate consolidated income taxes
 when a member of a consolidated tax return is not subject to income tax and provides guidance to evaluate whether a step-up in tax basis of goodwill relates to a business combination in which book goodwill was
@@ -261,7 +264,7 @@ recognized or a separate transaction. The Update also changes current guidance f
 recognized after an investor in a foreign entity transitions to or from the equity method of accounting; accounting for tax law changes and year-to-date losses in
 interim periods; and determining how to apply the income tax guidance to franchise taxes that are partially based on income. For public business entities, the amendments in this Update are effective for fiscal years and interim periods within those
 fiscal years, beginning after December 15, 2020. For all other entities, the amendments are effective for fiscal years beginning after December 15, 2021, and interim periods within fiscal years beginning after December 15, 2022. The
-Company is currently evaluating the impact the adoption of the standard will have on the Companys financial position or results of operations. 
+Company is currently evaluating the impact the adoption of the standard will have on the Company’s financial position or results of operations. 
   13 
 
 
@@ -271,10 +274,10 @@ Table of Contents
 3.
  REVENUE RECOGNITION 
 Effective July 1, 2018, the Company adopted Accounting Standards Update ASU 2014-09,
-Revenue from contracts with Customers  Topic 606, and all subsequent ASUs that modified ASC 606. The Company has elected to apply the standard to all prior periods presented utilizing the full retrospective approach. The implementation
+Revenue from contracts with Customers – Topic 606, and all subsequent ASUs that modified ASC 606. The Company has elected to apply the standard to all prior periods presented utilizing the full retrospective approach. The implementation
 of the new standard had no material impact to the measurement or recognition of revenue of prior periods. Management determined that the primary sources of revenue emanating from interest and dividend income on loans and investments along with
 noninterest revenue resulting from investment security gains, and earnings on bank owned life insurances are not within the scope of ASC 606. As a result, no changes were made during the period related to these sources of revenue. The main types of
-noninterest income within the scope of the standard are as follows: Service Charges on deposit accountsthe Company has contracts with its deposit customers where fees are charged if certain parameters are not met. These agreements can be
+noninterest income within the scope of the standard are as follows: Service Charges on deposit accounts—the Company has contracts with its deposit customers where fees are charged if certain parameters are not met. These agreements can be
 cancelled at any time by either the Company or the deposit customer. Revenue from these transactions is recognized on a monthly basis as the Company has an unconditional right to the fee consideration. The Company also has transaction fees related
 to specific transactions or activities resulting from a customer request or activity that include overdraft fees, online banking fees, interchange fees, ATM fees and other transaction fees. All of these fees are attributable to specific performance
 obligations of the Company where the revenue is recognized at a defined point in time upon the completion of the requested service/transaction.   
@@ -295,9 +298,9 @@ Table of Contents
 
 5.
  STOCK BASED COMPENSATION DISCLOSURE 
-The Company previously maintained 2008 Stock Incentive Plan (the Plan), which was approved by shareholders in October 2008,
+The Company previously maintained 2008 Stock Incentive Plan (the “Plan”), which was approved by shareholders in October 2008,
 permitted the grant of stock options or restricted shares to its directors and employees for up to 152,000 shares (up to 38,000 restricted shares may be issued). Option awards were generally granted with an exercise price equal to the market price
-of the Companys stock at the date of grant; those option awards generally vested over five years of continuous service and have ten-year contractual terms. The Plan expired by its terms in September
+of the Company’s stock at the date of grant; those option awards generally vested over five years of continuous service and have ten-year contractual terms. The Plan expired by its terms in September
 2018.  During the six month periods ended December 31, 2019 and 2018, the Company recorded no compensation expense related to
 our share-based compensation awards. As of December 31, 2019, there was no unrecognized compensation cost related to unvested share-based compensation awards granted in fiscal 2009. 
 There were no stock options exercised or issued during the six months ended December 31, 2019 and 2018. 
@@ -327,7 +330,7 @@ The amortized cost and fair values of debt securities at December 31, 2019, by
 contractual maturity, are shown below. Expected maturities may differ from the contractual maturities because issuers may have the right to call securities prior to their final maturities. 
  
  At December 31, 2019, investment securities with amortized cost of $3.5 million, and fair
-value of $3.6 million were pledged to secure borrowings with the Federal Home Loan Bank (FHLB). 
+value of $3.6 million were pledged to secure borrowings with the Federal Home Loan Bank (“FHLB”). 
   17 
 
 
@@ -336,38 +339,38 @@ Table of Contents
 
 7.
  MORTGAGE-BACKED SECURITIES 
-Mortgage-backed securities (MBS) include mortgage pass-through certificates (PCs) and collateralized mortgage
-obligations (CMOs). With a pass-through security, investors own an undivided interest in the pool of mortgages that collateralize the PCs. Principal and interest is passed through to the investor as it is generated by the mortgages
-underlying the pool. PCs and CMOs may be insured or guaranteed by Freddie Mac (FHLMC), Fannie Mae (FNMA) and the Government National Mortgage Association (GNMA). CMOs may also be privately issued with varying
+Mortgage-backed securities (“MBS”) include mortgage pass-through certificates (“PCs”) and collateralized mortgage
+obligations (“CMOs”). With a pass-through security, investors own an undivided interest in the pool of mortgages that collateralize the PCs. Principal and interest is passed through to the investor as it is generated by the mortgages
+underlying the pool. PCs and CMOs may be insured or guaranteed by Freddie Mac (“FHLMC”), Fannie Mae (“FNMA”) and the Government National Mortgage Association (“GNMA”). CMOs may also be privately issued with varying
 degrees of credit enhancements. A CMO reallocates mortgage pool cash flow to a series of bonds (called tranches) with varying stated maturities, estimated average lives, coupon rates and prepayment characteristics. 
-The Companys CMO portfolio is comprised of two segments: CMOs backed by U.S. Government Agencies (Agency CMOs) and
-CMOs backed by single-family whole loans not guaranteed by a U.S. Government Agency (private-label CMOs).  At
-December 31, 2019, the Companys Agency CMOs totaled $103.2 million as compared to $107.4 million at June 30, 2019. The Companys private-label CMOs totaled $785 thousand at December 31, 2019 as compared to
+The Company’s CMO portfolio is comprised of two segments: CMOs backed by U.S. Government Agencies (“Agency CMOs”) and
+CMOs backed by single-family whole loans not guaranteed by a U.S. Government Agency (“private-label CMOs”).  At
+December 31, 2019, the Company’s Agency CMOs totaled $103.2 million as compared to $107.4 million at June 30, 2019. The Company’s private-label CMOs totaled $785 thousand at December 31, 2019 as compared to
 $883 thousand at June 30, 2019. The $4.4 million decrease in the CMO portfolio was primarily due to repayments on our Agency and private-label CMOs which totaled $4.3 million and $87 thousand, respectively. At
-December 31, 2019 and June 30, 2019, all of the Companys MBS portfolio, including CMOs, were comprised of adjustable or floating rate investments. All of the Companys floating rate MBS adjust monthly based upon changes in the
-one month London Interbank Offered Rate (LIBOR). The Company has no investment in multi-family or commercial real estate based MBS. 
+December 31, 2019 and June 30, 2019, all of the Company’s MBS portfolio, including CMOs, were comprised of adjustable or floating rate investments. All of the Company’s floating rate MBS adjust monthly based upon changes in the
+one month London Interbank Offered Rate (“LIBOR”). The Company has no investment in multi-family or commercial real estate based MBS. 
 Due to prepayments of the underlying loans, and the prepayment characteristics of the CMO tranches, the actual maturities of the
-Companys MBS are expected to be substantially less than the scheduled maturities.  The Company retains an independent third
-party to assist it in the determination of a fair value for its three private-label CMOs. This valuation is meant to be a Level Three valuation as defined by ASC Topic 820, Fair Value Measurements and Disclosures. The valuation
+Company’s MBS are expected to be substantially less than the scheduled maturities.  The Company retains an independent third
+party to assist it in the determination of a fair value for its three private-label CMOs. This valuation is meant to be a “Level Three” valuation as defined by ASC Topic 820, Fair Value Measurements and Disclosures. The valuation
 does not represent the actual terms or prices at which any party could purchase the securities. There is currently no active secondary market for private-label CMOs and there can be no assurance that any secondary market for private-label CMOs will
 develop. The Company recorded an additional credit impairment charge of $16 thousand on its private-label CMO portfolio during the quarter ended December 31, 2019. 
 The Company believes that the data and assumptions used to determine the fair values are reasonable. The fair value calculations reflect
-relevant facts and market conditions. Events and conditions occurring after the valuation date could have a material effect on the private-label CMO segments fair value. 
+relevant facts and market conditions. Events and conditions occurring after the valuation date could have a material effect on the private-label CMO segment’s fair value. 
   18 
 
 
 Table of Contents
-The following table sets forth information with respect to the Companys private-label
+The following table sets forth information with respect to the Company’s private-label
 CMO portfolio as of December 31, 2019. At the time of purchase, all of our private-label CMOs were rated in the highest investment category by at least two ratings agencies. 
  
- The amortized cost and fair values of the Companys mortgage-backed securities are as follows: 
+ The amortized cost and fair values of the Company’s mortgage-backed securities are as follows: 
  
-   2 Fair value estimate provided by the Companys independent third party valuation consultant. 
+   2 Fair value estimate provided by the Company’s independent third party valuation consultant. 
   19 
 
 
 Table of Contents
-The amortized cost and fair value of the Companys mortgage-backed securities at
+The amortized cost and fair value of the Company’s mortgage-backed securities at
 December 31, 2019, by contractual maturity, are shown below. Expected maturities may differ from the contractual maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties. 
  
  At December 31, 2019, mortgage-backed securities with amortized costs of $103.2 million and
@@ -398,14 +401,14 @@ Table of Contents
 
 9.
  UNREALIZED LOSSES ON SECURITIES 
-The following tables show the Companys gross unrealized losses and fair value, aggregated by category and length of time that the
+The following tables show the Company’s gross unrealized losses and fair value, aggregated by category and length of time that the
 individual securities have been in a continuous unrealized loss position, at December 31, 2019 and June 30, 2019.   
  For debt securities, impairment is considered to be other than temporary if an entity (1) intends
-to sell the security, (2) more likely than not will be required to sell the security before recovering its amortized cost basis, or (3) does not expect to recover the securitys entire amortized cost basis (even if the entity does not
+to sell the security, (2) more likely than not will be required to sell the security before recovering its amortized cost basis, or (3) does not expect to recover the security’s entire amortized cost basis (even if the entity does not
 intend to sell the security). In addition, impairment is considered to be other than temporary if the present value of cash flows expected to be collected from the debt security is less than the amortized cost basis of the security (any such
 shortfall is referred to as a credit loss).  The Company evaluates outstanding available-for-sale and held-to-maturity securities in an unrealized loss position (i.e., impaired securities) for
-other-than-temporary impairment (OTTI) on a quarterly basis. In doing so, the Company considers many factors including, but not limited to: the credit ratings assigned to the securities by the Nationally Recognized Statistical Rating
-Organizations (NRSROs); other indicators of the credit quality of the issuer; the strength of the provider of any guarantees; the length of time and extent that fair value has been less than amortized cost; and whether 
+other-than-temporary impairment (“OTTI”) on a quarterly basis. In doing so, the Company considers many factors including, but not limited to: the credit ratings assigned to the securities by the Nationally Recognized Statistical Rating
+Organizations (“NRSROs”); other indicators of the credit quality of the issuer; the strength of the provider of any guarantees; the length of time and extent that fair value has been less than amortized cost; and whether 
    
 3 U.S. dollar denominated investment-grade corporate bonds of large foreign corporate issuers.
 
@@ -438,8 +441,8 @@ Table of Contents
 In conjunction with our adoption of ASC Topic 820, the Company retained an independent
 third party to assist it with assessing its investments within the private-label CMO portfolio. The independent third party utilized certain assumptions for producing the cash flow analyses used in the OTTI assessment. Key assumptions would include
 interest rates, expected market participant spreads and discount rates, housing prices, projected future delinquency levels and assumed loss rates on any liquidated collateral. 
-The Company reviewed the independent third partys assumptions used in the December 31, 2019 OTTI process. Based on the
-results of this review, the Company deemed the independent third partys assumptions to be reasonable and adopted them. However, different assumptions could produce materially different results, which could impact the Companys conclusions
+The Company reviewed the independent third party’s assumptions used in the December 31, 2019 OTTI process. Based on the
+results of this review, the Company deemed the independent third party’s assumptions to be reasonable and adopted them. However, different assumptions could produce materially different results, which could impact the Company’s conclusions
 as to whether an impairment is considered other-than-temporary and the magnitude of the credit loss. The Company had three private-label CMOs with OTTI at December 31, 2019. 
 If the Company intends to sell an impaired debt security, or more likely than not will be required to sell the security before recovery
 of its amortized cost basis, the impairment is other-than-temporary and is recognized currently in earnings in an amount equal to the entire difference between fair value and amortized cost. The Company does not anticipate selling its private-label
@@ -451,7 +454,7 @@ factors is recognized in accumulated other comprehensive loss. The total OTTI is
 intent or requirement to sell a security, if a credit loss does not exist, any impairment is considered to be temporary.  Regardless
 of whether an OTTI is recognized in its entirety in earnings or if the credit portion is recognized in earnings and the noncredit portion is recognized in other comprehensive income (loss), the estimation of fair values has a significant impact on
 the amount(s) of any impairment that is recorded.  The noncredit portion of any OTTI losses on securities classified as available-for-sale is adjusted to fair value with an offsetting adjustment to the carrying value of the security. The fair value adjustment could increase or decrease the
-carrying value of the security. All of the Companys private-label CMOs were originally, and continue to be classified, as held to maturity. 
+carrying value of the security. All of the Company’s private-label CMOs were originally, and continue to be classified, as held to maturity. 
 In periods subsequent to the recognition of an OTTI loss, the other-than-temporarily impaired debt security is accounted for as if it
 had been purchased on the measurement date of the OTTI at an amount equal to the previous amortized cost basis less the credit-related OTTI recognized in earnings. For debt securities for which credit-related OTTI is recognized in earnings, the
 difference between the new cost basis and the cash flows expected to be collected is accreted into interest income over the remaining life of the security in a prospective manner based on the amount and timing of future estimated cash flows. 
@@ -469,15 +472,15 @@ Table of Contents
 The following table summarizes the primary segments of the loan portfolio as of December 31, 2019 and June 30, 2019. 
  
  Impaired loans are loans for which it is probable the Company will not be able to collect all amounts
-due according to the contractual terms of the loan agreement. The Company collectively evaluates for impairment 1  4 family first mortgage loans and all consumer loans. The following loan categories are individually evaluated for impairment:
-first mortgage loans  construction, land acquisition and development, multi-family dwellings, and commercial. The Company evaluates commercial loans not secured by real property individually for impairment. 
-The definition of impaired loans is not the same as the definition of nonaccrual loans, although the two
+due according to the contractual terms of the loan agreement. The Company collectively evaluates for impairment 1 – 4 family first mortgage loans and all consumer loans. The following loan categories are individually evaluated for impairment:
+first mortgage loans – construction, land acquisition and development, multi-family dwellings, and commercial. The Company evaluates commercial loans not secured by real property individually for impairment. 
+The definition of “impaired loans” is not the same as the definition of “nonaccrual loans,” although the two
 categories overlap. The Company may choose to place a loan on nonaccrual status due to payment delinquency or uncertain collectability, while not classifying the loan as impaired if the loan is not a commercial or commercial real estate loan.
 Factors considered by management in determining impairment include payment status and collateral value. The amount of impairment for these types of impaired loans is determined by the difference between the present value of the expected cash flows
 related to the loan, using the original interest rate, and its recorded value, or as a practical expedient in the case of collateralized loans, the difference between the fair value of the collateral and the recorded amount of the loans. When
 foreclosure is probable, impairment is measured based on the fair value of the collateral.  Loans that experience insignificant
 payment delays, which are defined as 90 days or less, generally are not classified as impaired. Management determines the significance of payment delays on a
-case-by-case basis taking into consideration all circumstances surrounding the loan and the borrower, including the length of the delay, the borrowers prior
+case-by-case basis taking into consideration all circumstances surrounding the loan and the borrower, including the length of the delay, the borrower’s prior
 payment record, and the amount of shortfall in relation to the principal and interest owed.  As of December 31, 2019 and
 June 30, 2019 there were no loans considered to be impaired. 
   26 
@@ -487,11 +490,11 @@ Table of Contents
 Total nonaccrual loans as of December 31, 2019 and June 30, 2019 and the related
 interest income recognized for the three and six months ended December 31, 2019 and December 31, 2018 are as follows:   
   
- During the quarter ended September 30, 2019, the Companys one
+ During the quarter ended September 30, 2019, the Company’s one
 non-performing asset consisting of a single-family real estate loan was discharged from bankruptcy and was not delinquent at December 31, 2019. 
-The Companys loan portfolio may also include troubled debt restructurings (TDRs), where economic concessions have been
-granted to borrowers who have experienced or are expected to experience financial difficulties. These concessions typically result from the Companys loss mitigation activities and could include reductions in the interest rate, payment
-extensions, forgiveness of principal, forbearance or other actions. Certain TDRs are classified as nonperforming at the time of restructure and may only be returned to performing status after considering the borrowers sustained repayment
+The Company’s loan portfolio may also include troubled debt restructurings (“TDRs”), where economic concessions have been
+granted to borrowers who have experienced or are expected to experience financial difficulties. These concessions typically result from the Company’s loss mitigation activities and could include reductions in the interest rate, payment
+extensions, forgiveness of principal, forbearance or other actions. Certain TDRs are classified as nonperforming at the time of restructure and may only be returned to performing status after considering the borrower’s sustained repayment
 performance for a reasonable period, generally six months.  During the three and six months ended December 31, 2019, and
 December 31, 2018, there were no TDRs.  When the Company modifies a loan, management evaluates any possible impairment based on
 the present value of expected future cash flows, discounted at the contractual interest rate of the original loan agreement, except when the sole (remaining) source of repayment for the loan is the operation or liquidation of the collateral. In
@@ -503,23 +506,23 @@ Table of Contents
 
 selling costs, instead of discounted cash flows. If management determines that the value of the modified loan is less than the recorded investment in the loan (net of previous charge-offs,
 deferred loan fees or costs and unamortized premium or discount), impairment is recognized by segment or class of loan, as applicable, through an allowance estimate or a charge-off to the allowance. Segment
-and class status is determined by the loans classification at origination.  The allowance for loan losses is established
+and class status is determined by the loan’s classification at origination.  The allowance for loan losses is established
 through provisions for loan losses charged against income. Loans deemed to be uncollectible are charged against the allowance account. Subsequent recoveries, if any, are credited to the allowance. The allowance is maintained at a level believed
-adequate by management to absorb estimated potential loan losses. Managements determination of the adequacy of the allowance is based on periodic evaluations of the loan portfolio considering past experience, current economic conditions,
+adequate by management to absorb estimated potential loan losses. Management’s determination of the adequacy of the allowance is based on periodic evaluations of the loan portfolio considering past experience, current economic conditions,
 composition of the loan portfolio and other relevant factors. This evaluation is inherently subjective, as it requires material estimates that may be susceptible to significant change. 
 Federal regulations require that each insured savings institution classify its assets on a regular basis. In addition, in connection
-with examinations of insured institutions, federal examiners have authority to identify problem assets and, if appropriate, classify them. There are three classifications for problem assets: substandard, doubtful and
-loss. Substandard assets have one or more defined weaknesses and are characterized by the distinct possibility that the insured institution will sustain some loss if the deficiencies are not corrected. Doubtful assets have the weaknesses
+with examinations of insured institutions, federal examiners have authority to identify problem assets and, if appropriate, classify them. There are three classifications for problem assets: “substandard”, “doubtful” and
+“loss”. Substandard assets have one or more defined weaknesses and are characterized by the distinct possibility that the insured institution will sustain some loss if the deficiencies are not corrected. Doubtful assets have the weaknesses
 of those classified as substandard with the added characteristic that the weaknesses make collection or liquidation in full on the basis of currently existing facts, conditions and values questionable, and there is a high possibility of loss. An
-asset classified as loss is considered uncollectible and of such little value that continuance as an asset of the institution is not warranted. Another category designated asset watch is also utilized by the Bank for assets which do not
+asset classified as loss is considered uncollectible and of such little value that continuance as an asset of the institution is not warranted. Another category designated “asset watch” is also utilized by the Bank for assets which do not
 currently expose an insured institution to a sufficient degree of risk to warrant classification as substandard, doubtful or loss. Assets classified as substandard or doubtful require the institution to establish general allowances for loan losses.
 If an asset or portion thereof is classified as loss, the insured institution must either establish specific allowances for loan losses in the amount of 100% of the portion of the asset classified loss, or
-charge-off such amount. General loss allowances established to cover possible losses related to assets classified substandard or doubtful may be included in determining an institutions regulatory
-capital, while specific valuation allowances for loan losses do not qualify as regulatory capital.  The Companys general
+charge-off such amount. General loss allowances established to cover possible losses related to assets classified substandard or doubtful may be included in determining an institution’s regulatory
+capital, while specific valuation allowances for loan losses do not qualify as regulatory capital.  The Company’s general
 policy is to internally classify its assets on a regular basis and establish prudent general valuation allowances that are adequate to absorb losses that have not been identified but that are inherent in the loan portfolio. The Company maintains
-general valuation allowances that it believes are adequate to absorb losses in its loan portfolio that are not clearly attributable to specific loans. The Companys general valuation allowances are within the following general ranges: (1) 0% to
+general valuation allowances that it believes are adequate to absorb losses in its loan portfolio that are not clearly attributable to specific loans. The Company’s general valuation allowances are within the following general ranges: (1) 0% to
 5% of assets subject to special mention; (2) 1.00% to 100% of assets classified substandard; and (3) 50% to 100% of assets classified doubtful. Any loan classified as loss is charged-off. To further monitor
-and assess the risk characteristics of the loan portfolio, loan delinquencies are reviewed to consider any developing problem loans. Based upon the procedures in place, considering the Companys past charge-offs and recoveries and assessing the
+and assess the risk characteristics of the loan portfolio, loan delinquencies are reviewed to consider any developing problem loans. Based upon the procedures in place, considering the Company’s past charge-offs and recoveries and assessing the
 current risk elements in the portfolio, management believes the allowance for loan losses at December 31, 2019, is adequate. 
   28 
 
@@ -534,18 +537,18 @@ categories of performing loans and nonaccrual loans as of December 31, 2019 and
 Table of Contents
 Credit quality information 
 The following tables represent credit exposure by internally assigned grades for the period ended December 31, 2019 and
-June 30, 2019. The grading system analysis estimates the capability of the borrower to repay the contractual obligations of the loan agreements as scheduled or not at all. The Companys internal credit risk grading system is based on
-experiences with similarly graded loans.  The Companys internally assigned grades are as follows: 
-Pass  loans which are protected by the current net worth and paying capacity of the obligor or by the value of the underlying
-collateral.  Special Mention  loans where a potential weakness or risk exists, which could cause a more serious problem if not
-corrected.  Substandard  loans that have a well-defined weakness based on objective evidence and can be characterized by the
-distinct possibility that the Company will sustain some loss if the deficiencies are not corrected.  Doubtful  loans
+June 30, 2019. The grading system analysis estimates the capability of the borrower to repay the contractual obligations of the loan agreements as scheduled or not at all. The Company’s internal credit risk grading system is based on
+experiences with similarly graded loans.  The Company’s internally assigned grades are as follows: 
+Pass – loans which are protected by the current net worth and paying capacity of the obligor or by the value of the underlying
+collateral.  Special Mention – loans where a potential weakness or risk exists, which could cause a more serious problem if not
+corrected.  Substandard – loans that have a well-defined weakness based on objective evidence and can be characterized by the
+distinct possibility that the Company will sustain some loss if the deficiencies are not corrected.  Doubtful – loans
 classified as doubtful have all the weaknesses inherent in a substandard loan. In addition, these weaknesses make collection or liquidation in full highly questionable and improbable, based on existing circumstances. 
-Loss  loans classified as loss are considered uncollectible, or of such value that continuance as a loan is not warranted. 
-The primary credit quality indicator used by management in the 1  4 family and consumer loan portfolios is the performance status
+Loss – loans classified as loss are considered uncollectible, or of such value that continuance as a loan is not warranted. 
+The primary credit quality indicator used by management in the 1 – 4 family and consumer loan portfolios is the performance status
 of the loans. Payment activity is reviewed by Management on a monthly basis to determine how loans are performing. Loans are considered to be non-performing when they become 90 days delinquent, have a history
 of delinquency, or have other inherent characteristics which Management deems to be weaknesses.  The following tables present the
-Companys internally classified construction, land acquisition and development, multi-family residential, commercial real estate and commercial (not secured by real estate) loans at December 31, 2019 and June 30, 2019. 
+Company’s internally classified construction, land acquisition and development, multi-family residential, commercial real estate and commercial (not secured by real estate) loans at December 31, 2019 and June 30, 2019. 
  
 
   30 
@@ -553,35 +556,35 @@ Companys internally classified construction, land acquisition and development,
 
 Table of Contents
  The following table presents performing and non-performing 1
- 4 family residential and consumer loans based on payment activity for the periods ended December 31, 2019 and June 30, 2019.   
+– 4 family residential and consumer loans based on payment activity for the periods ended December 31, 2019 and June 30, 2019.   
  The Company determines its allowance for loan losses in accordance with generally accepted accounting
 principles. The Company uses a systematic methodology as required by Financial Reporting Release No. 28 and the various Federal Financial Institutions Examination Council guidelines. The Company also endeavors to adhere to SEC Staff Accounting
 Bulletin No. 102 in connection with loan loss allowance methodology and documentation issues.  Our methodology used to
-determine the allocated portion of the allowance is as follows. For groups of homogenous loans, we apply a loss rate to the groups aggregate balance. Our group loss rate reflects our historical loss experience. We may adjust these group rates
+determine the allocated portion of the allowance is as follows. For groups of homogenous loans, we apply a loss rate to the groups’ aggregate balance. Our group loss rate reflects our historical loss experience. We may adjust these group rates
 to compensate for changes in environmental factors; but our adjustments have not been frequent due to a relatively stable charge-off experience. The Company also monitors industry loss experience on similar
 loan portfolio segments. We then identify loans for individual evaluation under ASC Topic 310. If the individually identified loans are performing, we apply a segment specific loss rate adjusted for relevant environmental factors, if necessary, for
 those loans reviewed individually and considered individually impaired, we use one of the three methods for measuring impairment mandated by ASC Topic 310. Generally the fair value of collateral is used since our impaired loans are generally real
-estate based. In connection with the fair value of collateral measurement, the Company generally uses an independent appraisal and determines costs to sell. The Companys appraisals for commercial income based loans, such as multi-family and
+estate based. In connection with the fair value of collateral measurement, the Company generally uses an independent appraisal and determines costs to sell. The Company’s appraisals for commercial income based loans, such as multi-family and
 commercial real estate loans, assess value based 
   31 
 
 
 Table of Contents
 
-upon the operating cash flows of the business as opposed to merely as built values. The Company then validates the reasonableness of our calculated allowances by: (1) reviewing
+upon the operating cash flows of the business as opposed to merely “as built” values. The Company then validates the reasonableness of our calculated allowances by: (1) reviewing
 trends in loan volume, delinquencies, restructurings and concentrations; (2) reviewing prior period (historical) charge-offs and recoveries; and (3) presenting the results of this process, quarterly, to the Asset Classification Committee
-and the Savings Banks Board of Directors. We then tabulate, format and summarize the current loan loss allowance balance for financial and regulatory reporting purposes. 
+and the Savings Bank’s Board of Directors. We then tabulate, format and summarize the current loan loss allowance balance for financial and regulatory reporting purposes. 
 The Company had no unallocated loss allowance balance at December 31, 2019. 
 The allowance for loan losses represents the amount which management estimates is adequate to provide for probable losses inherent in
 its loan portfolio. The allowance method is used in providing for loan losses. Accordingly, all loan losses are charged to the allowance, and all recoveries are credited to it. The allowance for loan losses is established through a provision for
-loan losses charged to operations. The provision for loan losses is based on managements periodic evaluation of individual loans, economic factors, past loan loss experience, changes in the composition and volume of the portfolio, and other
+loan losses charged to operations. The provision for loan losses is based on management’s periodic evaluation of individual loans, economic factors, past loan loss experience, changes in the composition and volume of the portfolio, and other
 relevant factors. The estimates used in determining the adequacy of the allowance for loan losses, including the amounts and timing of future cash flows expected on impaired loans, are particularly susceptible to changes in the near term. 
   32 
 
 
 Table of Contents
 The following tables summarize the primary segments of the allowance for loan losses
-(ALLL), segregated into the amount required for loans individually evaluated for impairment and the amount required for loans collectively evaluated for impairment as of December 31, 2019 and 2018. Activity in the allowance is
+(“ALLL”), segregated into the amount required for loans individually evaluated for impairment and the amount required for loans collectively evaluated for impairment as of December 31, 2019 and 2018. Activity in the allowance is
 presented for the three and six months ended December 31, 2019 and 2018.   
   
 
@@ -621,12 +624,12 @@ The following table presents contractual maturities of FHLB long-term advances a
 
 Table of Contents
 The adjustable rate advances are not convertible or callable. The FHLB advances are secured
-by the Companys FHLB stock, mortgage-backed and investment securities, and loans, and are subject to substantial prepayment penalties. 
+by the Company’s FHLB stock, mortgage-backed and investment securities, and loans, and are subject to substantial prepayment penalties. 
 The Company also utilized revolving and short-term FHLB advances. Short-term FHLB advances generally mature within 90 days, while
 revolving FHLB advances may be repaid by the Company without penalty. The following table presents information regarding such advances as of December 31, 2019 and June 30, 2019: 
  
  At December 31, 2019, the Company had remaining borrowing capacity with the FHLB of approximately
-$2.9 million.  The FHLB advances are secured by the Companys FHLB stock, loans, and mortgage-backed and investment
+$2.9 million.  The FHLB advances are secured by the Company’s FHLB stock, loans, and mortgage-backed and investment
 securities held in safekeeping at the FHLB. FHLB advances are subject to substantial prepayment penalties.  The Company also has a
 $5 million unsecured line of credit with a regional bank. Borrowings under this line of credit generally are repayable within seven days. At December 31, 2019, no borrowings were outstanding on this unsecured line. 
  
@@ -663,7 +666,7 @@ observed.
 
 Level III:
   
- Assets and liabilities that have little to no pricing observability as of the reported date. These items do not have two-way markets and are measured using managements best estimate of fair value, where the inputs into the determination of fair value require significant management judgment or estimation.
+ Assets and liabilities that have little to no pricing observability as of the reported date. These items do not have two-way markets and are measured using management’s best estimate of fair value, where the inputs into the determination of fair value require significant management judgment or estimation.
 
   36 
 
@@ -672,7 +675,7 @@ Table of Contents
 Assets Measured at Fair Value on a Recurring Basis 
 Investment Securities Available-for-Sale 
 Fair values for securities available for sale are determined by obtaining quoted prices on nationally recognized securities exchanges or
-matrix pricing, which is a mathematical technique widely used in the industry to value debt securities without relying exclusively on quoted prices for the specific securities, but rather by relying on the securities relationship to other
+matrix pricing, which is a mathematical technique widely used in the industry to value debt securities without relying exclusively on quoted prices for the specific securities, but rather by relying on the securities’ relationship to other
 benchmark quoted securities. The Company has no Level I or Level III investment securities. Level II investment securities were primarily comprised of investment-grade corporate bonds and U.S. dollar-denominated investment-grade corporate bonds of
 large foreign issuers.  The following tables present the assets reported on a recurring basis on the Consolidated Balance Sheet at
 their fair value as of December 31, 2019 and June 30, 2019, by level within the fair value hierarchy. As required by GAAP, financial assets and liabilities are classified in their entirety based on the lowest level of input that is
@@ -697,18 +700,18 @@ The carrying amounts and estimated fair values are as follows:   
 
 Table of Contents
  All financial instruments included in the above tables, with the exception of net loans receivable,
-certificates of deposit liabilities, and FHLB advances  fixed rate, are carried at cost, which approximates the fair value of the instruments. 
+certificates of deposit liabilities, and FHLB advances – fixed rate, are carried at cost, which approximates the fair value of the instruments. 
   39 
 
 
 Table of Contents
 ITEM 2. 
-MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS FOR THE THREE AND SIX MONTHS ENDED DECEMBER 31, 2019 
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS FOR THE THREE AND SIX MONTHS ENDED DECEMBER 31, 2019 
 FORWARD LOOKING STATEMENTS  In the normal
 course of business, we, in an effort to help keep our shareholders and the public informed about our operations, may from time to time issue or make certain statements, either in writing or orally, that are or contain forward-looking statements, as
 that term is defined in the U.S. federal securities laws. Generally, these statements relate to business plans or strategies, projected or anticipated benefits from acquisitions made by or to be made by us, projections involving anticipated
 revenues, earnings, profitability or other aspects of operating results or other future developments in our affairs or the industry in which we conduct business. Forward-looking statements may be identified by reference to a future period or periods
-or by the use of forward-looking terminology such as anticipated, believe, expect, intend, plan, estimate or similar expressions. 
+or by the use of forward-looking terminology such as “anticipated,” “believe,” ”expect,” ”intend,” “plan,” “estimate” or similar expressions. 
 Although we believe that the anticipated results or other expectations reflected in our forward-looking statements are based on
 reasonable assumptions, we can give no assurance that those results or expectations will be attained. Forward-looking statements involve risks, uncertainties and assumptions (some of which are beyond our control), and as a result actual results may
 differ materially from those expressed in forward-looking statements. Factors that could cause actual results to differ from forward-looking statements include, but are not limited to, the following, as well as those discussed elsewhere herein: 
@@ -716,14 +719,14 @@ differ materially from those expressed in forward-looking statements. Factors th
 
 
  
-
+•
  
  our investments in our businesses and in related technology could require additional incremental spending, and might not
 produce expected deposit and loan growth and anticipated contributions to our earnings;   
 
 
  
-
+•
  
  general economic or industry conditions could be less favorable than expected, resulting in a deterioration in credit
 quality, a change in the allowance for loan losses or a reduced demand for credit or fee-based products and services; 
@@ -731,35 +734,35 @@ quality, a change in the allowance for loan losses or a reduced demand for credi
 
 
  
-
+•
  
  changes in the interest rate environment could reduce net interest income and could increase credit losses;
   
 
 
  
-
+•
  
  the conditions of the securities markets could change, which could adversely affect, among other things, the value or
 credit quality of our assets, the availability and terms of funding necessary to meet our liquidity needs and our ability to originate loans and leases;   
 
 
  
-
+•
  
  changes in the extensive laws, regulations and policies governing financial holding companies and their subsidiaries
 could alter our business environment or affect our operations;   
 
 
  
-
+•
  
  the potential need to adapt to industry changes in information technology systems, on which we are highly dependent,
 could present operational issues or require significant capital spending;   
 
 
  
-
+•
  
  competitive pressures could intensify and affect our profitability, including as a result of continued industry
 consolidation, the increased availability of financial services from non-banks, technological developments such as the internet or bank regulatory reform; and 
@@ -767,7 +770,7 @@ consolidation, the increased availability of financial services from non-banks, 
 
 
  
-
+•
  
  acts or threats of terrorism and actions taken by the United States or other governments as a result of such acts or
 threats, including possible military action, could further adversely affect business and economic conditions in the United States generally and in our principal markets, which could have an adverse effect on our financial performance and that of our
@@ -779,25 +782,25 @@ Table of Contents
 You should not put undue reliance on any forward-looking statements. Forward-looking
 statements speak only as of the date they are made, and we undertake no obligation to update them in light of new or future events except to the extent required by federal securities laws. 
 GENERAL  WVS Financial Corp. (the
-Company) is the parent holding company of West View Savings Bank (West View or the Savings Bank). The Company was organized in July 1993 as a Pennsylvania-chartered unitary bank holding company and acquired 100%
+“Company”) is the parent holding company of West View Savings Bank (“West View” or the “Savings Bank”). The Company was organized in July 1993 as a Pennsylvania-chartered unitary bank holding company and acquired 100%
 of the common stock of the Savings Bank in November 1993.  West View Savings Bank is a Pennsylvania-chartered, FDIC-insured stock
 savings bank conducting business from six offices in the North Hills suburbs of Pittsburgh. The Savings Bank converted from the mutual to the stock form of ownership in November 1993. The Savings Bank had no subsidiaries at December 31, 2019.
  The operating results of the Company depend primarily upon its net interest income, which is determined by the difference between
-income on interest-earning assets, principally loans, mortgage-backed securities and investment securities, and interest expense on interest-bearing liabilities, which consist primarily of deposits and borrowings. The Companys net income is
+income on interest-earning assets, principally loans, mortgage-backed securities and investment securities, and interest expense on interest-bearing liabilities, which consist primarily of deposits and borrowings. The Company’s net income is
 also affected by its provision for loan losses, as well as the level of its non-interest income, including loan fees and service charges, and its non-interest expenses,
 such as compensation and employee benefits, income taxes, deposit insurance and occupancy costs.  FINANCIAL CONDITION 
-The Companys assets totaled $355.2 million at December 31, 2019, as compared to $355.8 million at June 30,
+The Company’s assets totaled $355.2 million at December 31, 2019, as compared to $355.8 million at June 30,
 2019. The $570 thousand or 0.2% decrease in total assets was principally due to a $4.4 million decrease in mortgage-backed securities and a $2.3 million decrease in interest-earning demand deposits, partially offset by a
 $5.3 million increase in investment securities available-for-sale and a $752 thousand increase in net loans receivable. The decrease in mortgage-backed
 securities was principally due to repayments of principal totaling $4.4 million and the decrease in interest-earning demand deposits is associated with changing liquidity needs of the Company. The increase in securities available-for-sale was primarily the result of purchases of floating rate investment-grade corporate bonds totaling $17.3 million, partially offset by securities sales of
 $9.1 million and $3.3 million of maturities and calls. The increase in net loans receivable was primarily attributable to an increase in the single-family owner occupied segment of the loan portfolio. 
-The Companys total liabilities decreased $2.0 million or 0.6% to $317.7 million as of December 31, 2019 from
+The Company’s total liabilities decreased $2.0 million or 0.6% to $317.7 million as of December 31, 2019 from
 $319.8 million as of June 30, 2019. The decrease in total liabilities was primarily comprised of a $2.8 million or 4.0% decrease in FHLB short-term advances, which was partially offset by a $700 thousand increase in total
-deposits. Certificates of deposit (CDs) increased by $4.5 million and non-interest bearing demand and savings deposit declined $1.7 million and $1.0 million, respectively, as of
+deposits. Certificates of deposit (“CDs”) increased by $4.5 million and non-interest bearing demand and savings deposit declined $1.7 million and $1.0 million, respectively, as of
 December 31, 2019 from June 30, 2019. Management believes that the decrease in non-interest bearing demand deposits was primarily the result of seasonal fluctuations related to local real estate tax
-collectors deposits. The increase in certificates of deposit was largely due to higher levels of brokered CDs as part of the Companys overall funding strategy. See also Quantitative and Qualitative Disclosures About Market Risk
-Asset and Liability Management.  Total stockholders equity increased $1.5 million or 4.1% to
-$37.5 million as of December 31, 2019, from $36.0 million as of June 30, 2019. The increase in stockholders equity was primarily attributable to net income of $1.5 million, which was partially offset by cash dividends
+collectors’ deposits. The increase in certificates of deposit was largely due to higher levels of brokered CDs as part of the Company’s overall funding strategy. See also Quantitative and Qualitative Disclosures About Market Risk
+“Asset and Liability Management”.  Total stockholders’ equity increased $1.5 million or 4.1% to
+$37.5 million as of December 31, 2019, from $36.0 million as of June 30, 2019. The increase in stockholders’ equity was primarily attributable to net income of $1.5 million, which was partially offset by cash dividends
 totaling $354 thousand. 
   41 
 
@@ -810,16 +813,16 @@ $12 thousand increase in non-interest income, a decrease in non-interest expens
 losses, which were partially offset by a $74 thousand decrease in net interest income, when compared to the same period of 2018. 
 Net income for the six months ended December 31, 2019 totaled $1.5 million or $0.86 per share (diluted and basic) as compared
 to $1.4 million or $0.80 per diluted share for the same period in 2018. The $88 thousand or 6.1% increase in net income during the six months ended December 31, 2019 was primarily attributable to a $138 thousand decrease in non-interest expense and a $51 thousand decrease in the provision for loan losses, partially offset by a $71 thousand decrease in net interest income and a $42 thousand increase in income tax expense,
-when compared to the same period in 2018.  Net Interest Income. The Companys net interest income decreased by
+when compared to the same period in 2018.  Net Interest Income. The Company’s net interest income decreased by
 $74 thousand or 4.3% for the three months ended December 31, 2019, when compared to the same period in 2018. The decrease in net interest income during the three months ended December 31, 2019 was attributable to a $172 thousand
 decrease in interest income, partially offset by a $98 thousand decrease in interest expense for the three months ended December 31, 2019, when compared to the same period in 2018. The decrease in interest income for the three months ended
-December 31, 2019 was primarily attributable to lower market yields earned on the Companys floating rate investment and mortgage-backed securities portfolio and lower average balances of mortgage-backed securities outstanding which were
-partially offset by higher yields on Federal Home Loan Bank (FHLB) stock, and higher average balances of investment securities, loans and certificates of deposit when compared to the same period in 2018. The decrease in interest expense
+December 31, 2019 was primarily attributable to lower market yields earned on the Company’s floating rate investment and mortgage-backed securities portfolio and lower average balances of mortgage-backed securities outstanding which were
+partially offset by higher yields on Federal Home Loan Bank (“FHLB”) stock, and higher average balances of investment securities, loans and certificates of deposit when compared to the same period in 2018. The decrease in interest expense
 for the three months ended December 31, 2019 was primarily attributable to lower rates paid on FHLB short-term and variable rate long-term borrowings and lower average balances of FHLB short-term borrowings, which were partially offset by
 higher average balances of wholesale time deposits and higher rates paid on time deposits when compared to the same period in 2018. 
 For the six months ended December 31, 2019, net interest income decreased $71 thousand or 2.0% when compared to the same
 period in 2018. The decrease in net interest income was primarily attributable to a $16 thousand decrease in interest income and a $55 thousand increase in interest expense for the six months ended December 31, 2019, when compared to
-the same period in 2018. The decrease in interest income was primarily the result of lower average yields on the Companys floating rate investment and mortgage-backed securities, and lower outstanding balances of floating rate mortgage-backed
+the same period in 2018. The decrease in interest income was primarily the result of lower average yields on the Company’s floating rate investment and mortgage-backed securities, and lower outstanding balances of floating rate mortgage-backed
 securities partially offset by higher average outstanding balances of loans and investment securities, and higher yields earned on FHLB stock, when compared to the same period in 2018. The increase in interest expense was primarily attributable to
 higher average balances outstanding of wholesale time deposits and higher yields paid on time deposits which were partially offset by lower yields paid on FHLB advances and lower average balances of FHLB advances outstanding during the six months
 ended December 31, 2019, when compared to the same period of 2018.  Interest Income. Interest income on net loans
@@ -836,7 +839,7 @@ $10 thousand or 0.5% for the three and six months ended December 31, 2019, res
 point decrease in the weighted average yield on investment securities, partially offset by a $7.5 million increase in the average balance of investment securities outstanding, when compared to the same period in 2018. The decrease for the six
 months ended December 31, 2019 was primarily attributable to a decrease in the weighted average yield of 13 basis points, partially offset by a $5.0 million increase in the average balance of investment securities outstanding, when
 compared to the same period in 2018. The increase in the average balance of investments outstanding during both periods is attributable to the redeployment of mortgage-backed securities cash flows into floating rate corporate bonds. The decrease in
-weighted average yields in 2019 was principally attributable to lower three-month dollar London Interbank Offered Rates (LIBOR) when compared to the same periods in 2018. 
+weighted average yields in 2019 was principally attributable to lower three-month dollar London Interbank Offered Rates (“LIBOR”) when compared to the same periods in 2018. 
 Interest income on mortgage-backed securities decreased $170 thousand or 18.3% and $174 thousand or 9.6% for the three and six
 months ended December 31, 2019, respectively, when compared to the same periods in 2018. The decrease for the three months ended December 31, 2019 was primarily attributable to the $5.3 million decrease in the average balance of U.S.
 Government agency mortgage-backed securities and a 47 basis point decrease in the weighted average yield earned on these securities. The decrease for the six months ended December 31, 2019 was also primarily attributable to $5.6 million
@@ -865,13 +868,13 @@ $230 thousand increase in interest expense was primarily due to a 55 basis poin
 same period in 2018. The increases in the average balances of time deposits for both the three and six months ended December 31, 2019, were primarily attributable to higher levels of short-term brokered deposits when compared to the same
 periods of 2018. From time to time the Company uses brokered deposits to fund investment purchases or as an alternative to FHLB borrowings if the cost of such deposits is less than other wholesale funding options. 
 Provision for Loan Losses. A provision for loan losses is charged or accreted to earnings to bring the total allowance to a level
-considered adequate by management to absorb potential losses in the portfolio. Managements determination of the adequacy of the allowance is based on an evaluation of the portfolio considering past experience, current economic conditions,
+considered adequate by management to absorb potential losses in the portfolio. Management’s determination of the adequacy of the allowance is based on an evaluation of the portfolio considering past experience, current economic conditions,
 volume, growth and composition of the loan portfolio, and other relevant factors.  During the three and six months ending
-December 31, 2019, the allowance for loan losses (ALLL) decreased $8 thousand and $18 thousand, respectively. For the three months ended December 31, 2019, the ALLL associated with 1 - 4 family real estate loans
+December 31, 2019, the allowance for loan losses (“ALLL”) decreased $8 thousand and $18 thousand, respectively. For the three months ended December 31, 2019, the ALLL associated with 1 - 4 family real estate loans
 decreased $14 thousand and the ALLL associated with construction loans increased $8 thousand. During the six months ended December 31, 2019, the ALLL associated with 1 - 4 family real estate loans, construction land acquisition and
 development loans decreased by $7 thousand, $9 thousand and $6 thousand, respectively. The primary reason for the changes in the ALLL balances, both in total, and within the identified segments, are changes in applicable loan balances
 and the return of one non-performing loan to performing status.  At December 31, 2019,
-the Companys total allowance for loan losses amounted to $530 thousand or 0.58% of the Companys total loan portfolio, as compared to $548 thousand or 0.60% at June 30, 2019. At December 31, 2019, the Company had no non-performing loans as compared to $225 thousand at June 30, 2019.  Non-Interest Income. Non-interest income increased $12 thousand or 10.9% for the three months ended December 31, 2019, when compared to the same period in 2018.
+the Company’s total allowance for loan losses amounted to $530 thousand or 0.58% of the Company’s total loan portfolio, as compared to $548 thousand or 0.60% at June 30, 2019. At December 31, 2019, the Company had no non-performing loans as compared to $225 thousand at June 30, 2019.  Non-Interest Income. Non-interest income increased $12 thousand or 10.9% for the three months ended December 31, 2019, when compared to the same period in 2018.
 The increase for the three months ended December 31, 2019 was primarily attributable to a $32 thousand gain on the sale of investment securities and a $4 thousand increase in service charges on deposits which were offset by a
 $16 thousand increase in other than temporary impairment losses on private label mortgage-backed securities, a $7 thousand decrease in automated teller machine (ATM) program income and a $1 thousand decrease in earnings on Bank-owned
 life insurance, when compared to the same period in 2018.  For the six months ended December 31, 2019, non-interest income increased $12 thousand or 5.5%, when compared to the same period in 2018. The increase in non-interest income for the six months ended
@@ -898,16 +901,16 @@ December 31, 2019. Primary uses of funds during this period were purchases of i
 $1.3 million. Primary sources of funds during the six months ended December 31, 2019 included proceeds from repayments of investment securities and mortgage-backed securities in the held-to-maturity portfolio totaling $500 thousand and $4.4 million, respectively, proceeds from repayments of investment securities in the available-for-sale portfolio totaling $3.3 million, $9.1 million of proceeds on sales of investment securities available for sale and repayments of loans in excess of originations of
 $5.6 million and $1.6 million of proceeds from maturing certificates of deposit.  Funds used for financing activities
 totaled $2.6 million for the six months ended December 31, 2019. The primary uses were a $2.8 million decrease in FHLB short-term advances, a $3.2 million decrease in transaction and savings accounts, a $618 thousand
-decrease in advance payments by borrowers for taxes and insurance and $354 thousand in cash dividends paid on the Companys common stock, which were partially offset by increases in certificates of deposits totaling $4.5 million.
+decrease in advance payments by borrowers for taxes and insurance and $354 thousand in cash dividends paid on the Company’s common stock, which were partially offset by increases in certificates of deposits totaling $4.5 million.
 Management believes that a significant portion of our local maturing deposits will remain with the Company. Management has determined that it currently is maintaining adequate liquidity and continues to match funding sources with lending and
-investment opportunities.  The Companys primary sources of funds are deposits, amortization, repayments and maturities of
+investment opportunities.  The Company’s primary sources of funds are deposits, amortization, repayments and maturities of
 existing loans, mortgage-backed securities and investment securities, funds from operations, and funds obtained through FHLB advances and other borrowings. Certificates of deposit scheduled to mature in one year or less at December 31, 2019
 totaled $38.7 million including $14.7 million of maturing wholesale time deposits.  Historically, the Company used its
 sources of funds primarily to meet its ongoing commitments to pay maturing savings certificates and savings withdrawals, fund loan commitments and maintain a substantial portfolio of investment securities. At December 31, 2019, total approved
 loan commitments outstanding were $2.6 million. At the same date, commitments under unused lines of credit amounted to $5.1 million and the unadvanced portion of construction loans approximated $3.6 million. The Company has been able
-to generate sufficient cash through the retail deposit market, its traditional funding source, and through FHLB advances, and other wholesale funding sources, to provide the cash utilized in investing activities. The Companys available for
+to generate sufficient cash through the retail deposit market, its traditional funding source, and through FHLB advances, and other wholesale funding sources, to provide the cash utilized in investing activities. The Company’s available for
 sale segment of the investment portfolio totaled $138.1 million at December 31, 2019. In addition the Company had $1.6 million of certificates of deposit at December 31, 2019. Management believes that the Company currently has
-adequate liquidity available to respond to liquidity demands.  On January 27, 2020, the Companys Board of Directors
+adequate liquidity available to respond to liquidity demands.  On January 27, 2020, the Company’s Board of Directors
 declared a quarterly cash dividend of $0.10 per share, payable on February 20, 2020, to shareholders of record at the close of business on February 10, 2020. Dividends are subject to determination and declaration by the Board of Directors,
 which take into 
   45 
@@ -915,14 +918,14 @@ which take into
 
 Table of Contents
 
-account the Companys financial condition, statutory and regulatory restrictions, general economic conditions and other factors. There can be no assurance that dividends will in fact be paid
+account the Company’s financial condition, statutory and regulatory restrictions, general economic conditions and other factors. There can be no assurance that dividends will in fact be paid
 on the Common Stock in future periods or that, if paid, such dividends will not be reduced or eliminated.  As of December 31,
 2019, WVS Financial Corp. maintained Common Equity Tier I Capital, Tier I, and total risk-based capital equal to $37.2 million or 19.1%, $37.2 million or 19.1%, and $37.7 million or 19.4%, respectively, of total risk-weighted assets,
 and Tier I leverage capital of $37.2 million or 10.4% of average quarterly assets.  Nonperforming assets consist of nonaccrual
 loans and real estate owned. A loan is placed on nonaccrual status when, in the judgment of management, the probability of collection of interest is deemed insufficient to warrant further accrual. When a loan is placed on nonaccrual status,
 previously accrued but uncollected interest is deducted from interest income. The Company normally does not accrue interest on loans past due 90 days or more, however, interest may be accrued if management believes that it will collect on the loan.
  The Company had no nonperforming assets at December 31, 2019 compared to $225 thousand or 0.06% of total assets at
-June 30, 2019.  During the quarter ended September 30, 2019, the Companys one nonperforming single-family real
+June 30, 2019.  During the quarter ended September 30, 2019, the Company’s one nonperforming single-family real
 estate loan was discharged from bankruptcy and since that time has been current. 
   46 
 
@@ -934,25 +937,25 @@ ITEM 3.
  
 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
 ASSET AND LIABILITY MANAGEMENT 
-The Companys primary market risk exposure is interest rate risk and, to a lesser extent, liquidity risk. All of the Companys
+The Company’s primary market risk exposure is interest rate risk and, to a lesser extent, liquidity risk. All of the Company’s
 transactions are denominated in US dollars with no specific foreign exchange exposure. The Savings Bank has no agricultural loan assets and therefore would not have a specific exposure to changes in commodity prices. Any impacts that changes in
 foreign exchange rates and commodity prices would have on interest rates are assumed to be exogenous and will be analyzed on an ex post basis. 
-Interest rate risk (IRR) is the exposure of a banking organizations financial condition to adverse movements in
-interest rates. Accepting this risk can be an important source of profitability and shareholder value, however excessive levels of IRR can pose a significant threat to the Companys earnings and capital base. Accordingly, effective risk
-management that maintains IRR at prudent levels is essential to the Companys safety and soundness.  Evaluating a financial
-institutions exposure to changes in interest rates includes assessing both the adequacy of the management process used to control IRR and the organizations quantitative level of exposure. When assessing the IRR management process, the
+Interest rate risk (“IRR”) is the exposure of a banking organization’s financial condition to adverse movements in
+interest rates. Accepting this risk can be an important source of profitability and shareholder value, however excessive levels of IRR can pose a significant threat to the Company’s earnings and capital base. Accordingly, effective risk
+management that maintains IRR at prudent levels is essential to the Company’s safety and soundness.  Evaluating a financial
+institution’s exposure to changes in interest rates includes assessing both the adequacy of the management process used to control IRR and the organization’s quantitative level of exposure. When assessing the IRR management process, the
 Company seeks to ensure that appropriate policies, procedures, management information systems and internal controls are in place to maintain IRR at prudent levels with consistency and continuity. Evaluating the quantitative level of IRR exposure
 requires the Company to assess the existing and potential future effects of changes in interest rates on its consolidated financial condition, including capital adequacy, earnings, liquidity, and, where appropriate, asset quality. 
 Financial institutions derive their income primarily from the excess of interest collected over interest paid. The rates of interest an
 institution earns on its assets and owes on its liabilities generally are established contractually for a period of time. Since market interest rates change over time, an institution is exposed to lower profit margins (or losses) if it cannot adapt
-to interest-rate changes. For example, assume that an institutions assets carry intermediate- or long-term fixed rates and that those assets were funded with short-term liabilities. If market interest rates rise by the time the short-term
-liabilities must be refinanced, the increase in the institutions interest expense on its liabilities may not be sufficiently offset if assets continue to earn at the long-term fixed rates. Accordingly, an institutions profits could
+to interest-rate changes. For example, assume that an institution’s assets carry intermediate- or long-term fixed rates and that those assets were funded with short-term liabilities. If market interest rates rise by the time the short-term
+liabilities must be refinanced, the increase in the institution’s interest expense on its liabilities may not be sufficiently offset if assets continue to earn at the long-term fixed rates. Accordingly, an institution’s profits could
 decrease on existing assets because the institution will either have lower net interest income or, possibly, net interest expense. Similar risks exist when assets are subject to contractual interest-rate ceilings, or rate sensitive assets are funded
 by longer-term, fixed-rate liabilities in a decreasing-rate environment.  During the fiscal years 2014 - 2019 and into fiscal year
 2020, intermediate and long-term market interest rates fluctuated considerably. Many central banks, including the Federal Reserve, continued above normal levels of monetary accommodation including quantitative easing and targeted asset purchase
 programs. The desired outcomes of these programs are to stimulate aggregate demand, reduce high levels of unemployment and to further lower market interest rates. 
-The effect of interest rate changes on a financial institutions assets and liabilities may be analyzed by examining the
-interest rate sensitivity of the assets and liabilities and by monitoring an institutions interest rate sensitivity gap. An asset or liability is said to be interest rate sensitive within a specific time period if it
+The effect of interest rate changes on a financial institution’s assets and liabilities may be analyzed by examining the
+“interest rate sensitivity” of the assets and liabilities and by monitoring an institution’s interest rate sensitivity “gap”. An asset or liability is said to be interest rate sensitive within a specific time period if it
 will mature or reprice within a given time period. A gap is considered positive (negative) when the amount of rate sensitive assets (liabilities) exceeds the amount of rate sensitive liabilities (assets). During a period of falling interest rates, a
 negative gap would tend to result in an increase in net interest income. During a period of rising interest rates, a positive gap would tend to result in an increase in net interest income. 
   47 
@@ -961,20 +964,20 @@ negative gap would tend to result in an increase in net interest income. During 
 Table of Contents
 As part of its asset/liability management strategy, the Company maintained an asset
 sensitive financial position due to unusually low market interest rates. An asset sensitive financial position may benefit earnings during a period of rising interest rates and reduce earnings during a period of declining interest rates. 
-The following table sets forth certain information at the dates indicated relating to the Companys interest-earning assets and
+The following table sets forth certain information at the dates indicated relating to the Company’s interest-earning assets and
 interest-bearing liabilities which are estimated to mature or are scheduled to reprice within one year.   
 
   48 
 
 
 Table of Contents
-The following table illustrates the Companys estimated stressed cumulative repricing
-gap  the difference between the amount of interest-earning assets and interest-bearing liabilities expected to reprice at a given point in time  at December 31, 2019. The table estimates the impact of an upward or downward change in
+The following table illustrates the Company’s estimated stressed cumulative repricing
+gap – the difference between the amount of interest-earning assets and interest-bearing liabilities expected to reprice at a given point in time – at December 31, 2019. The table estimates the impact of an upward or downward change in
 market interest rates of 100 and 200 basis points.  Cumulative Stressed Repricing Gap 
  
  The Company utilizes an income simulation model to measure interest rate risk and to manage interest
 rate sensitivity. The Company believes that income simulation modeling may enable the Company to better estimate the possible effects on net interest income due to changing market interest rates. Other key model parameters include: estimated
-prepayment rates on the Companys loan, mortgage-backed securities and investment portfolios; savings decay rate assumptions; and the repayment terms and embedded options of the Companys borrowings. 
+prepayment rates on the Company’s loan, mortgage-backed securities and investment portfolios; savings decay rate assumptions; and the repayment terms and embedded options of the Company’s borrowings. 
   49 
 
 
@@ -985,7 +988,7 @@ interest-earning assets will average approximately $348 million and $350 milli
 return on average assets. The estimated changes in market value of equity were calculated using balance sheet levels at December 31, 2019. Actual future results could differ materially from our estimates primarily due to unknown future interest
 rate changes and the level of prepayments on our investment and loan portfolios.  Analysis of Sensitivity to Changes in Market Interest Rates
   
- The table below provides information about the Companys anticipated transactions comprised of firm
+ The table below provides information about the Company’s anticipated transactions comprised of firm
 loan commitments and other commitments, including undisbursed letters and lines of credit, at December 31, 2019. The Company used no derivative financial instruments to hedge such anticipated transactions as of December 31, 2019. 
  
 
@@ -1058,28 +1061,28 @@ performance standby letters of credit. Typically, the standby letters of credit 
 December 31, 2019, the Savings Bank had no performance standby letters of credit outstanding. In the event that an obligor is unable to perform its obligations as specified in the applicable letter of credit agreement, the Savings Bank would be
 obligated to disburse funds up to the amount specified in the letter of credit agreement. The Savings Bank maintains adequate collateral that could be liquidated to fund these contingent obligations. 
 ITEM 4. CONTROLS AND PROCEDURES 
-As of December 31, 2019, an evaluation was performed under the supervision and with the participation of the Companys
-management, including the Chief Executive Officer and Chief Accounting Officer, on the effectiveness of the design and operation of the Companys disclosure controls and procedures (as defined in Rules
-13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934). Based on that evaluation, the Companys management, including the Chief Executive Officer and
-Chief Accounting Officer, concluded that the Companys disclosure controls and procedures were effective as of December 31, 2019. 
+As of December 31, 2019, an evaluation was performed under the supervision and with the participation of the Company’s
+management, including the Chief Executive Officer and Chief Accounting Officer, on the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as defined in Rules
+13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934). Based on that evaluation, the Company’s management, including the Chief Executive Officer and
+Chief Accounting Officer, concluded that the Company’s disclosure controls and procedures were effective as of December 31, 2019. 
 Disclosure controls and procedures are the controls and other procedures that are designed to ensure that the information required to be
-disclosed by the Company in its reports filed and submitted under the Securities Exchange Act of 1934, as amended (Exchange Act) is recorded, processed, summarized and reported, within the time periods specified in the Securities and
-Exchange Commissions rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in its reports filed under the Exchange
-Act is accumulated and communicated to the Companys management, including the principal executive officer and principal accounting officer, as appropriate to allow timely decisions regarding required disclosure. 
-During the quarter ended December 31, 2019, no change in the Companys internal controls over financial reporting (as defined
-in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) has occurred that has materially affected, or is reasonably likely to materially affect, the Companys
+disclosed by the Company in its reports filed and submitted under the Securities Exchange Act of 1934, as amended (“Exchange Act”) is recorded, processed, summarized and reported, within the time periods specified in the Securities and
+Exchange Commission’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by the Company in its reports filed under the Exchange
+Act is accumulated and communicated to the Company’s management, including the principal executive officer and principal accounting officer, as appropriate to allow timely decisions regarding required disclosure. 
+During the quarter ended December 31, 2019, no change in the Company’s internal controls over financial reporting (as defined
+in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) has occurred that has materially affected, or is reasonably likely to materially affect, the Company’s
 internal controls over financial reporting. 
   51 
 
 
 Table of Contents
-PART IIOTHER INFORMATION 
+PART II—OTHER INFORMATION 
 ITEM 1. Legal Proceedings 
 (a)The Company is involved with various legal actions arising in the ordinary course of business. Management believes the outcome of
 these matters will have no material effect on the consolidated operations or consolidated financial condition of WVS Financial Corp. 
 (b)Not applicable. 
 ITEM 1A. Risk Factors 
-There are no material changes to the risk factors included in Item 1A of the Companys Annual Report on Form 10-K for the fiscal year ended June 30, 2019.  ITEM 2. Unregistered Sales of Equity
+There are no material changes to the risk factors included in Item 1A of the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2019.  ITEM 2. Unregistered Sales of Equity
 Securities and Use of Proceeds  (a) Not applicable. 
 (b) Not applicable. 
 (c) The following table sets forth information with respect to purchases of common stock of the Company made by WVS Financial Corp.
@@ -1088,7 +1091,7 @@ during the three months ended December 31, 2019.   
 
 
 (1)
- All shares indicated were purchased under the Companys reopened Eleventh Stock Repurchase Program.
+ All shares indicated were purchased under the Company’s reopened Eleventh Stock Repurchase Program.
 
 
 
@@ -1217,5 +1220,6 @@ and Chief Accounting Officer   (Principal Accounting Officer)
 
   
   54 
+
 
 

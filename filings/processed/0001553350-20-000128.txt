@@ -5,7 +5,11 @@ pdex_10q.htm
 QUARTERLY REPORT
 
 
+
+
 Quarterly Report
+
+
 
 
  
@@ -14,7 +18,7 @@ Quarterly Report
 UNITED STATES
 SECURITIES AND EXCHANGE COMMISSION
 Washington, D.C. 20549
-
+———————
 FORM 10-Q
 
 
@@ -23,7 +27,7 @@ Commission file number: 0-14942
 
 PRO-DEX, INC.
 (Exact name of registrant as specified in its charter)
-
+———————
 
 COLORADO
 84-1261240
@@ -41,7 +45,7 @@ Identification No.)
 
 (949) 769-3200
 (Registrant's telephone number, including area code)
-
+———————
 Securities registered pursuant to Section 12(b) of the Act:
 
 
@@ -59,7 +63,7 @@ Indicate by check mark whether the registrant: (1) has filed all reports require
 
 Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes þ  No ¨
 
-Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
 
 
 Large accelerated filer   ¨
@@ -105,7 +109,7 @@ TABLE OF CONTENTS
 
  
 
-PART I  FINANCIAL INFORMATION
+PART I — FINANCIAL INFORMATION
 
 ITEM 1. FINANCIAL STATEMENTS
 
@@ -145,7 +149,7 @@ The accompanying notes are an integral part of these condensed financial stateme
  
 
 PRO-DEX, INC.
-CONDENSED STATEMENTS OF SHAREHOLDERS EQUITY
+CONDENSED STATEMENTS OF SHAREHOLDERS’ EQUITY
 For the Three and Six Months Ended December 31, 2019 and 2018
 (Unaudited)
 (In thousands)
@@ -205,11 +209,11 @@ NOTES TO CONSDENSED FINANCIAL STATEMENTS
 
 NOTE 1. BASIS OF PRESENTATION
 
-The accompanying unaudited condensed financial statements of Pro-Dex, Inc. (we, us, our, Pro-Dex, or the Company) have been prepared in accordance with accounting principles generally accepted in the United States (U.S. GAAP) for interim financial information and with applicable rules of the Securities and Exchange Commission. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. These financial statements should be read in conjunction with the financial statements presented in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019. In the opinion of management, all adjustments considered necessary for a fair presentation have been included. The results of operations for such interim periods are not necessarily indicative of the results that may be expected for the full year. For further information, refer to the financial statements and footnotes thereto included in our Annual Report on Form 10-K for the year ended June 30, 2019. 
+The accompanying unaudited condensed financial statements of Pro-Dex, Inc. (“we,” “us,” “our,” “Pro-Dex,” or the “Company”) have been prepared in accordance with accounting principles generally accepted in the United States (“U.S. GAAP”) for interim financial information and with applicable rules of the Securities and Exchange Commission. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. These financial statements should be read in conjunction with the financial statements presented in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019. In the opinion of management, all adjustments considered necessary for a fair presentation have been included. The results of operations for such interim periods are not necessarily indicative of the results that may be expected for the full year. For further information, refer to the financial statements and footnotes thereto included in our Annual Report on Form 10-K for the year ended June 30, 2019. 
 
 RECENTLY ADOPTED ACCOUNTING STANDARDS
 
-On July 1, 2019, we adopted ASU 2016-02 (Topic 842) Leases, using a modified retrospective approach through a cumulative effect adjustment to retained earnings as of the beginning of fiscal 2020. The objective of this update is to increase transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. The impact of adoption was an increase to long-term assets and total liabilities of approximately $3.3 million as of July 1, 2019.
+On July 1, 2019, we adopted ASU 2016-02 (Topic 842) “Leases,” using a modified retrospective approach through a cumulative effect adjustment to retained earnings as of the beginning of fiscal 2020. The objective of this update is to increase transparency and comparability among organizations by recognizing lease assets and lease liabilities on the balance sheet and disclosing key information about leasing arrangements. The impact of adoption was an increase to long-term assets and total liabilities of approximately $3.3 million as of July 1, 2019.
 
 NOTE 2. DESCRIPTION OF BUSINESS
 
@@ -301,7 +305,7 @@ Deferred income taxes are provided on a liability method whereby deferred tax as
 
 Significant management judgment is required in determining our provision for income taxes and the recoverability of our deferred tax assets. Such determination is based primarily on our historical taxable income, with some consideration given to our estimates of future taxable income by jurisdictions in which we operate and the period over which our deferred tax assets would be recoverable.
 
-As of December 31, 2019, we have accrued $479,000 of unrecognized tax benefits related to federal and state income tax matters. None of this balance is expected to reduce the Companys income tax expense if recognized.
+As of December 31, 2019, we have accrued $479,000 of unrecognized tax benefits related to federal and state income tax matters. None of this balance is expected to reduce the Company’s income tax expense if recognized.
 
 A reconciliation of the beginning and ending amount of unrecognized tax benefits is as follows (in thousands):
 
@@ -313,9 +317,9 @@ We are subject to U.S. federal income tax, as well as income tax of multiple sta
 
 NOTE 7. SHARE-BASED COMPENSATION
 
-Through June 2014, we had two equity compensation plans, the Second Amended and Restated 2004 Stock Option Plan (the Employee Stock Option Plan) and the Amended and Restated 2004 Directors Stock Option Plan (the Directors Stock Option Plan) (collectively, the Former Stock Option Plans). The Employee Stock Option Plan and Directors Stock Option Plan were terminated in June 2014 and December 2014, respectively.
+Through June 2014, we had two equity compensation plans, the Second Amended and Restated 2004 Stock Option Plan (the “Employee Stock Option Plan”) and the Amended and Restated 2004 Directors’ Stock Option Plan (the “Directors’ Stock Option Plan”) (collectively, the “Former Stock Option Plans”). The Employee Stock Option Plan and Director’s Stock Option Plan were terminated in June 2014 and December 2014, respectively.
 
-In September 2016, our Board approved the establishment of the 2016 Equity Incentive Plan, which was approved by our shareholders at the November 29, 2016 Annual Meeting. The 2016 Equity Incentive Plan provides for the award of up to 1,500,000 shares of our common stock in the form of incentive stock options, nonstatutory stock options, stock appreciation rights, restricted shares, restricted stock units, performance awards, and other stock-based awards. As of December 31, 2019, we have granted performance awards under the 2016 Equity Incentive Plan for up to 200,000 shares of our common stock, of which 40,000 shares have vested as further described below under the heading Performance Awards. 
+In September 2016, our Board approved the establishment of the 2016 Equity Incentive Plan, which was approved by our shareholders at the November 29, 2016 Annual Meeting. The 2016 Equity Incentive Plan provides for the award of up to 1,500,000 shares of our common stock in the form of incentive stock options, nonstatutory stock options, stock appreciation rights, restricted shares, restricted stock units, performance awards, and other stock-based awards. As of December 31, 2019, we have granted performance awards under the 2016 Equity Incentive Plan for up to 200,000 shares of our common stock, of which 40,000 shares have vested as further described below under the heading “Performance Awards.” 
 
 Stock Options
 
@@ -343,7 +347,7 @@ On July 1, 2018, it was determined by the Compensation Committee of our Board of
 
 Employee Stock Purchase Plan
 
-In September 2014, our Board approved the establishment of an Employee Stock Purchase Plan (the ESPP), which was approved by our shareholders at the December 3, 2014 Annual Meeting. The ESPP conforms to the provisions of Section 423 of the Internal Revenue Code, has coterminous offering and purchase periods of six months, and bases the pricing to purchase shares of our common stock on a formula so as to result in a per share purchase price that approximates a 15% discount from the market price of a share of our common stock at the end of the purchase period. The Board of Directors also approved the provision that shares formerly reserved for issuance under the Former Stock Option Plans in excess of shares issuable pursuant to outstanding options under those plans, aggregating 704,715 shares, be reserved for issuance pursuant to the ESPP. 
+In September 2014, our Board approved the establishment of an Employee Stock Purchase Plan (the “ESPP”), which was approved by our shareholders at the December 3, 2014 Annual Meeting. The ESPP conforms to the provisions of Section 423 of the Internal Revenue Code, has coterminous offering and purchase periods of six months, and bases the pricing to purchase shares of our common stock on a formula so as to result in a per share purchase price that approximates a 15% discount from the market price of a share of our common stock at the end of the purchase period. The Board of Directors also approved the provision that shares formerly reserved for issuance under the Former Stock Option Plans in excess of shares issuable pursuant to outstanding options under those plans, aggregating 704,715 shares, be reserved for issuance pursuant to the ESPP. 
 
 During the three months ended December 31, 2019 and 2018, we did not record any share-based compensation expense relating to the ESPP, due to the fact that no six-month offering period ended during either quarter. During the six months ended December 31, 2019 and 2018, 1,292 and 1,820 shares of our common stock were purchased under the ESPP, respectively, and allocated to employees based upon their contributions at prices of $11.76 and $5.51, respectively, per share. On a cumulative basis, since the inception of the ESPP, employees have purchased a total of 20,158 shares of our common stock. During the six months ended December 31, 2019 and 2018, we recorded share-based compensation expense in the amount of $3,000 and $2,000, respectively, relating to the ESPP.
 
@@ -385,7 +389,7 @@ NOTE 9. NOTES PAYABLE AND FINANCING TRANSACTIONS
 
 Minnesota Bank & Trust
 
-On September 6, 2018, we entered into a Credit Agreement with Minnesota Bank & Trust, a Minnesota state banking corporation (MBT), providing for a $5,000,000 term loan (the Term Loan) as well as a $2,000,000 revolving loan (the Revolving Loan and together with the Term Loan, collectively the Loans), evidenced by a Term Note A and a Revolving Credit Note made by us in favor of MBT. The Loans are secured by substantially all of our assets pursuant to a Security Agreement entered into on September 6, 2018 between us and MBT. We paid loan origination fees to MBT in the amount of $60,000.
+On September 6, 2018, we entered into a Credit Agreement with Minnesota Bank & Trust, a Minnesota state banking corporation (“MBT”), providing for a $5,000,000 term loan (the “Term Loan”) as well as a $2,000,000 revolving loan (the “Revolving Loan” and together with the Term Loan, collectively the “Loans”), evidenced by a Term Note A and a Revolving Credit Note made by us in favor of MBT. The Loans are secured by substantially all of our assets pursuant to a Security Agreement entered into on September 6, 2018 between us and MBT. We paid loan origination fees to MBT in the amount of $60,000.
 
 The Term Loan matures on October 1, 2025 and bears interest at a fixed rate of 5.53% per annum. An initial payment of interest only in the amount of $18,433 was paid on October 1, 2018. Commencing November 1, 2018 and continuing on the first day of each subsequent month thereafter until the maturity date, we are required to make payments of principal and interest on the Term Loan of approximately $72,000, plus any additional accrued and unpaid interest through the date of payment. The balance owed on the Term Loan at December 31, 2019 is $4.2 million, net of unamortized loan fees. The Revolving Loan had an original maturity date of September 6, 2019 and has since been extended to November 6, 2020 and bears interest at the greater of (a) 4.5% or (b) the difference of the prime rate as published in the Money Rates section of the Wall Street Journal minus 0.50%. Commencing on the first day of each month after we initially borrow against the Revolving Loan, which we have yet to do, and each month thereafter until maturity, we are required to pay all accrued and unpaid interest on the Revolving Loan through the date of payment. Any principal on the Revolving Loan that is not previously prepaid shall be due and payable on the maturity date (or earlier termination of the Revolving Loan). As we have yet to borrow under the Revolving Loan, the balance owed under it at December 31, 2019 was $0.
 
@@ -397,7 +401,7 @@ NOTE 10. COMMON STOCK
 
 Share Repurchase Program
 
-In December 2019, our Board approved a new share repurchase program authorizing us to repurchase up to 1 million shares of our common stock, as the prior repurchase plan authorized by the Board in 2013 was nearing completion. In accordance with, and as part of, these share repurchase programs, our Board approved the adoption of several prearranged share repurchase plans intended to qualify for the safe harbor provided by Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (10b5-1 Plan or Plan). During the three and six months ended December 31, 2019, we repurchased 106,897 and 156,685 shares, respectively, at an aggregate cost, inclusive of fees under the plan, of $1,535,000 and $2,215,000, respectively. During the three and six months ended December 31, 2018, we repurchased 109,366 and 217,454 shares, respectively, at an aggregate cost, inclusive of fees under the plan, of $1,445,000 and $2,560,000, respectively. On a cumulative basis, since implementation of the share repurchase program in 2013, we have repurchased a total of 744,736 shares under the share repurchase program at an aggregate cost of $7.3 million. All repurchases under the 10b5-1 Plans were administered through an independent broker.
+In December 2019, our Board approved a new share repurchase program authorizing us to repurchase up to 1 million shares of our common stock, as the prior repurchase plan authorized by the Board in 2013 was nearing completion. In accordance with, and as part of, these share repurchase programs, our Board approved the adoption of several prearranged share repurchase plans intended to qualify for the safe harbor provided by Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (“10b5-1 Plan” or “Plan”). During the three and six months ended December 31, 2019, we repurchased 106,897 and 156,685 shares, respectively, at an aggregate cost, inclusive of fees under the plan, of $1,535,000 and $2,215,000, respectively. During the three and six months ended December 31, 2018, we repurchased 109,366 and 217,454 shares, respectively, at an aggregate cost, inclusive of fees under the plan, of $1,445,000 and $2,560,000, respectively. On a cumulative basis, since implementation of the share repurchase program in 2013, we have repurchased a total of 744,736 shares under the share repurchase program at an aggregate cost of $7.3 million. All repurchases under the 10b5-1 Plans were administered through an independent broker.
 
 
 
@@ -411,11 +415,11 @@ NOTES TO CONDENSED FINANCIAL STATEMENTS
 
 At The Market Offering Agreement
 
-In February 2017, our Board approved an ATM Agreement with Ascendiant Capital Markets, LLC (Ascendiant). The ATM Agreement allows us to sell shares of our common stock pursuant to specific parameters defined by us as well as those defined by the SEC and the ATM Agreement. During the three and six months ended December 31, 2019 and 2018 we did not issue any shares under the ATM. From the inception of the ATM in February 2017 through December 31, 2017, during periods when we did not make purchases under our share repurchase program, we sold 340,465 shares of common stock for gross proceeds of $2,311,000 net of commissions and fees paid to Ascendiant totaling $72,000. In December 2017, the Board suspended the ATM indefinitely. The Board has the discretion to reactivate the ATM prior to February 16, 2020, the expiration of the ATM Agreement, unless earlier terminated by Ascendiant or us. However, we do not anticipate that the ATM will be reactivated prior to its expiration.
+In February 2017, our Board approved an ATM Agreement with Ascendiant Capital Markets, LLC (“Ascendiant”). The ATM Agreement allows us to sell shares of our common stock pursuant to specific parameters defined by us as well as those defined by the SEC and the ATM Agreement. During the three and six months ended December 31, 2019 and 2018 we did not issue any shares under the ATM. From the inception of the ATM in February 2017 through December 31, 2017, during periods when we did not make purchases under our share repurchase program, we sold 340,465 shares of common stock for gross proceeds of $2,311,000 net of commissions and fees paid to Ascendiant totaling $72,000. In December 2017, the Board suspended the ATM indefinitely. The Board has the discretion to reactivate the ATM prior to February 16, 2020, the expiration of the ATM Agreement, unless earlier terminated by Ascendiant or us. However, we do not anticipate that the ATM will be reactivated prior to its expiration.
 
 NOTE 11. LEASES
 
-Effective July 1, 2019, we adopted the new lease accounting standard using the modified retrospective method of applying the new standard at the adoption date. In addition, we elected the practical expedient which allowed us to carry forward the historical lease classification of our sole operating lease for our corporate office, which includes our manufacturing and research and development facilities. Adoption of this standard resulted in the recording of net operating lease right-of-use (ROU) asset and corresponding operating lease liability of $3.3 million. Our financial position for reporting periods beginning on or after July 1, 2019 is presented under the new guidance, while prior period amounts are not adjusted and continue to be reported in accordance with previous guidance.
+Effective July 1, 2019, we adopted the new lease accounting standard using the modified retrospective method of applying the new standard at the adoption date. In addition, we elected the practical expedient which allowed us to carry forward the historical lease classification of our sole operating lease for our corporate office, which includes our manufacturing and research and development facilities. Adoption of this standard resulted in the recording of net operating lease right-of-use (“ROU”) asset and corresponding operating lease liability of $3.3 million. Our financial position for reporting periods beginning on or after July 1, 2019 is presented under the new guidance, while prior period amounts are not adjusted and continue to be reported in accordance with previous guidance.
 
 Our operating lease ROU asset and long-term liability are presented separately on our Condensed Balance Sheet. The current portion of our operating lease liability as of December 31, 2019, in the amount of $297,000, is presented within accrued expenses on the Condensed Balance Sheet. 
 
@@ -453,19 +457,19 @@ We are from time to time a party to various legal proceedings incidental to our 
 
  
 
-ITEM 2. MANAGEMENTS DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
 
 The following discussion and analysis should be read in conjunction with our unaudited interim condensed financial statements and the related notes and other financial information appearing elsewhere in this report. 
 
 COMPANY OVERVIEW
 
-The following discussion and analysis provides information that management believes is relevant to an assessment and understanding of the results of operations and financial condition of Pro-Dex, Inc. (Company, Pro-Dex, we, our, or us) for the three-month and six-month periods ended December 31, 2019 and 2018. This discussion should be read in conjunction with the condensed financial statements and the notes thereto included elsewhere in this report. This report contains certain forward-looking statements and information. The cautionary statements included herein should be read as being applicable to all related forward-looking statements wherever they may appear. Our actual future results could differ materially from those discussed herein.
+The following discussion and analysis provides information that management believes is relevant to an assessment and understanding of the results of operations and financial condition of Pro-Dex, Inc. (“Company,” “Pro-Dex,” “we,” “our,” or “us”) for the three-month and six-month periods ended December 31, 2019 and 2018. This discussion should be read in conjunction with the condensed financial statements and the notes thereto included elsewhere in this report. This report contains certain forward-looking statements and information. The cautionary statements included herein should be read as being applicable to all related forward-looking statements wherever they may appear. Our actual future results could differ materially from those discussed herein.
 
-Except for the historical information contained herein, the matters discussed in this report, including, but not limited to, discussions of our product development plans, business strategies, strategic opportunities and market factors influencing our results, are forward-looking statements that involve certain risks and uncertainties. Actual results may differ from those anticipated by us as a result of various factors, both foreseen and unforeseen, including, but not limited to, our ability to continue to develop new products and increase sales in markets characterized by rapid technological evolution, consolidation within our target marketplace and among our competitors, competition from larger, better capitalized competitors, and our ability to realize returns on opportunities. Many other economic, competitive, governmental and technological factors could impact our ability to achieve our goals. You are urged to review the risks, uncertainties and other cautionary language described in this report, as well as in our other public disclosures and reports filed with the Securities and Exchange Commission (SEC) from time to time, including, but not limited to, the risks, uncertainties and other cautionary language discussed in our Annual Report on Form 10-K for our fiscal year ended June 30, 2019.
+Except for the historical information contained herein, the matters discussed in this report, including, but not limited to, discussions of our product development plans, business strategies, strategic opportunities and market factors influencing our results, are forward-looking statements that involve certain risks and uncertainties. Actual results may differ from those anticipated by us as a result of various factors, both foreseen and unforeseen, including, but not limited to, our ability to continue to develop new products and increase sales in markets characterized by rapid technological evolution, consolidation within our target marketplace and among our competitors, competition from larger, better capitalized competitors, and our ability to realize returns on opportunities. Many other economic, competitive, governmental and technological factors could impact our ability to achieve our goals. You are urged to review the risks, uncertainties and other cautionary language described in this report, as well as in our other public disclosures and reports filed with the Securities and Exchange Commission (“SEC”) from time to time, including, but not limited to, the risks, uncertainties and other cautionary language discussed in our Annual Report on Form 10-K for our fiscal year ended June 30, 2019.
 
 We specialize in the design, development and manufacture of autoclavable, battery-powered and electric, multi-function surgical drivers and shavers used primarily in the orthopedic and maxocranial facial markets. We have patented adaptive torque-limiting software and proprietary sealing solutions which appeal to our customers, primarily medical device distributors. We also manufacture and sell rotary air motors to a wide range of industries. 
 
-Our principal headquarters are located at 2361 McGaw Avenue, Irvine, California 92614 and our phone number is (949) 769-3200. Our Internet address is www.pro-dex.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, amendments to those reports and other SEC filings are available free of charge through our website as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the SEC. In addition, our Code of Ethics and other corporate governance documents may be found on our website at the Internet address set forth above. Our filings with the SEC may also be read and copied at the SECs Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov and company specific information at www.sec.gov/edgar/searchedgar/companysearch.html.
+Our principal headquarters are located at 2361 McGaw Avenue, Irvine, California 92614 and our phone number is (949) 769-3200. Our Internet address is www.pro-dex.com. Our annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, amendments to those reports and other SEC filings are available free of charge through our website as soon as reasonably practicable after such reports are electronically filed with, or furnished to, the SEC. In addition, our Code of Ethics and other corporate governance documents may be found on our website at the Internet address set forth above. Our filings with the SEC may also be read and copied at the SEC’s Public Reference Room at 100 F Street, N.E., Washington, D.C. 20549. You may obtain information on the operation of the Public Reference Room by calling the SEC at 1-800-SEC-0330. The SEC maintains an Internet site that contains reports, proxy and information statements, and other information regarding issuers that file electronically with the SEC at www.sec.gov and company specific information at www.sec.gov/edgar/searchedgar/companysearch.html.
 
 Basis of Presentation
 
@@ -481,7 +485,7 @@ Our financial statements are prepared in accordance with accounting principles g
 
  
 
-An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used or changes in the accounting estimate that are reasonably likely to occur could materially change the financial statements. Management believes that there have been no significant changes during the three and six months ended December 31, 2019, other than the required adoption of ASU 2016-02 (Topic 842), Leases, to the items that we disclosed as our critical accounting policies in Managements Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019.
+An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, and if different estimates that reasonably could have been used or changes in the accounting estimate that are reasonably likely to occur could materially change the financial statements. Management believes that there have been no significant changes during the three and six months ended December 31, 2019, other than the required adoption of ASU 2016-02 (Topic 842), Leases, to the items that we disclosed as our critical accounting policies in Management’s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the fiscal year ended June 30, 2019.
 
 Business Strategy and Future Plans
 
@@ -548,7 +552,7 @@ Operating Costs and Expenses
 
 Selling expenses consist of salaries and other personnel-related expenses for our business development department, as well as advertising and marketing expenses, and travel and related costs incurred in generating and maintaining our customer relationships. Selling expenses for the three and six months ended December 31, 2019 increased $38,000, or 39%, and $147,000, or 113%, compared to the corresponding periods of fiscal 2019. These increases relate primarily to personnel-related expenses as we filled the previously vacant position of Director of Business Development during the first quarter of fiscal 2019.
 
-General and administrative expenses (G&A) consists of salaries and other personnel-related expenses of our accounting, finance and human resource personnel, as well as costs for outsourced information technology services, professional fees, directors fees, and other costs and expenses attributable to being a public company. G&A increased $31,000 and $130,000, respectively, during the three and six months ended December 31, 2019 when compared to the corresponding periods of the prior fiscal year. The increases relate primarily to increased legal fees related to intellectual property matters, increased personnel-related expenses, a new scholarship program implemented to award college scholarships to children of our employees, as well as higher bad debt expense, and IT related expenses.
+General and administrative expenses (“G&A”) consists of salaries and other personnel-related expenses of our accounting, finance and human resource personnel, as well as costs for outsourced information technology services, professional fees, directors’ fees, and other costs and expenses attributable to being a public company. G&A increased $31,000 and $130,000, respectively, during the three and six months ended December 31, 2019 when compared to the corresponding periods of the prior fiscal year. The increases relate primarily to increased legal fees related to intellectual property matters, increased personnel-related expenses, a new scholarship program implemented to award college scholarships to children of our employees, as well as higher bad debt expense, and IT related expenses.
 
 
 18
@@ -619,7 +623,7 @@ During the six months ended December 31, 2018, we sold one of the stocks in our 
 
 Financing Activities
 
-Net cash used in financing activities for the six months ended December 31, 2019 totaled $2.5 million and related primarily to the $2.2 million repurchase of 156,685 shares of our common stock pursuant to our share repurchase program as well as $314,000 of principal payments on our term loan from Minnesota Bank and Trust (MBT) more fully described in Note 9 to the condensed financial statements contained elsewhere in this report.
+Net cash used in financing activities for the six months ended December 31, 2019 totaled $2.5 million and related primarily to the $2.2 million repurchase of 156,685 shares of our common stock pursuant to our share repurchase program as well as $314,000 of principal payments on our term loan from Minnesota Bank and Trust (“MBT”) more fully described in Note 9 to the condensed financial statements contained elsewhere in this report.
 
 
 
@@ -648,7 +652,7 @@ ITEM 4. CONTROLS AND PROCEDURES
 
 Evaluation of Disclosure Controls and Procedures
 
-Our Chief Executive Officer and Chief Financial Officer (the principal executive officer and principal financial officer, respectively) conducted an evaluation of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (Exchange Act)). The term disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act means controls and other procedures of a company that are designed to ensure that information required to be disclosed by the Company in the reports it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SECs rules and forms. Disclosure controls and procedures also include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the companys management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+Our Chief Executive Officer and Chief Financial Officer (the principal executive officer and principal financial officer, respectively) conducted an evaluation of the design and operation of our “disclosure controls and procedures” (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (“Exchange Act”)). The term “disclosure controls and procedures,” as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act means controls and other procedures of a company that are designed to ensure that information required to be disclosed by the Company in the reports it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures also include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company’s management, including its principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
 
 
 
@@ -657,7 +661,7 @@ Our Chief Executive Officer and Chief Financial Officer (the principal executive
 
  
 
-In accordance with SEC rules, an evaluation was performed under the supervision and with the participation of our Principal Executive Officer and Principal Financial Officer of the effectiveness, as of December 31, 2019, of the Companys disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act). Internal control over financial reporting includes those policies and procedures that:
+In accordance with SEC rules, an evaluation was performed under the supervision and with the participation of our Principal Executive Officer and Principal Financial Officer of the effectiveness, as of December 31, 2019, of the Company’s disclosure controls and procedures (as defined in Rule 13a-15(e) under the Exchange Act). “Internal control over financial reporting” includes those policies and procedures that:
 
 (1)
 pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the issuer;
@@ -666,7 +670,7 @@ pertain to the maintenance of records that in reasonable detail accurately and f
 provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the issuer are being made only in accordance with authorizations of management and directors of the issuer; and
 
 (3)
-provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the issuers assets that could have a material effect on the financial statements.
+provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use or disposition of the issuer’s assets that could have a material effect on the financial statements.
 
 Based on that evaluation as of December 31, 2019, our Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures are effective.
 
@@ -691,7 +695,7 @@ Because of its inherent limitations, internal control over financial reporting m
 
  
 
-PART II  OTHER INFORMATION
+PART II — OTHER INFORMATION
 
 ITEM 1. LEGAL PROCEEDINGS
 
@@ -699,7 +703,7 @@ See Note 12 of Notes to condensed financial statements contained elsewhere in th
 
 ITEM 1A. RISK FACTORS
 
-Our business, future financial condition and results of operations are subject to a number of factors, risks and uncertainties, which are disclosed in Item 1A, entitled Risk Factors in Part I of our Annual Report on Form 10-K for our fiscal year ended June 30, 2019 as well as any amendments thereto or additions and changes thereto contained in this quarterly report on Form 10-Q for the quarter ended December 31, 2019. Additional information regarding some of those risks and uncertainties is contained in the notes to the condensed financial statements included elsewhere in this report and in Item 2, entitled Managements Discussion and Analysis of Financial Condition and Results of Operations in Part I of this report. The risks and uncertainties disclosed in our Form 10-K, our quarterly reports on Form 10-Q and other reports filed with the SEC are not necessarily all of the risks and uncertainties that may affect our business, financial condition and results of operations in the future. 
+Our business, future financial condition and results of operations are subject to a number of factors, risks and uncertainties, which are disclosed in Item 1A, entitled “Risk Factors” in Part I of our Annual Report on Form 10-K for our fiscal year ended June 30, 2019 as well as any amendments thereto or additions and changes thereto contained in this quarterly report on Form 10-Q for the quarter ended December 31, 2019. Additional information regarding some of those risks and uncertainties is contained in the notes to the condensed financial statements included elsewhere in this report and in Item 2, entitled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in Part I of this report. The risks and uncertainties disclosed in our Form 10-K, our quarterly reports on Form 10-Q and other reports filed with the SEC are not necessarily all of the risks and uncertainties that may affect our business, financial condition and results of operations in the future. 
 
 There have been no material changes to the risk factors as disclosed in our annual report on Form 10-K for the fiscal year ended June 30, 2019, except as provided in any amendments thereto. 
 
@@ -774,6 +778,8 @@ EXHIBIT INDEX
 
 
 25
+
+
 
 
 

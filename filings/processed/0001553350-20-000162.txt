@@ -5,7 +5,11 @@ adfk_10q.htm
 QUARTERLY REPORT
 
 
+
+
 Admiral Financial Corp.
+
+
 
 
 UNITED STATES
@@ -47,7 +51,7 @@ Identification No.)
 (Address of principal executive offices, including zip code)
 
 (305) 904-4400
-(Registrants telephone number, including area code)
+(Registrant’s telephone number, including area code)
 
 N/A
 (Former name, former address and former fiscal year, if changed since last report)
@@ -66,7 +70,7 @@ Indicate by check mark whether the registrant (1) has filed all reports required
 
 Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes þ No ¨
 
-Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
 
 
 Large accelerated filer
@@ -86,7 +90,7 @@ Non-accelerated filer
 
 Indicate by check mark whether the registrant is a shell company (defined in Rule 12b-2 of the Exchange Act). Yes þ No ¨
 
-Indicate the number of shares outstanding of each of the issuers classes of common stock, as of the latest practicable date: 
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date: 
 
 Common Stock $.001 Par Value
 Outstanding Shares at December 31, 2019: 10,987,000
@@ -222,7 +226,7 @@ Note 1.
 In the opinion of management, the accompanying consolidated financial statements contain all the adjustments (principally consisting of normal recurring accruals) necessary to present fairly the financial statements of Admiral Financial Corp. ('Admiral') and Subsidiary.
 
 Note 2.
-Where applicable, the net assets of Admirals principal operating subsidiary, Haven Federal Savings and Loan Association ('Haven'), and net liabilities are presented in the balance sheets in the aggregate; and its loss is shown in the aggregate in the Statements of Operations for the three and six month periods ended December 31, 2019 and 2018.
+Where applicable, the net assets of Admiral’s principal operating subsidiary, Haven Federal Savings and Loan Association ('Haven'), and net liabilities are presented in the balance sheets in the aggregate; and its loss is shown in the aggregate in the Statements of Operations for the three and six month periods ended December 31, 2019 and 2018.
 
 
 
@@ -241,9 +245,9 @@ ADMIRAL FINANCIAL CORP. ("ADMIRAL"), an inactive corporation, is currently seeki
 
 Admiral is presently inactive, other than its efforts to seek a merger, exchange of capital stock, asset acquisition, recapitalization, or other similar business combination (a "Recapitalization") with an operating or development stage business which Admiral management considers to have growth potential.  Admiral currently receives no cash flow. Admiral anticipates no capital infusions prior to effectuating a Recapitalization. Until such time as Admiral effectuates a Recapitalization, Admiral currently expects that it will incur minimal future operating costs.
 
-No officer or director of Admiral is paid any type of compensation by Admiral and presently, there are no arrangements or anticipated arrangements to pay any type of compensation to any officer or director in the near future. Admiral expects that it will meet its cash requirements until such time as a Recapitalization occurs. However, in the event Admiral depletes its present cash reserves, or in the event that Admiral Management ceases to perform its duties on a non-compensatory basis, Admiral may cease operations and a Recapitalization may not occur. There are no agreements or understandings of any kind with respect to any loans from officers or directors of Admiral on the Companys behalf.
+No officer or director of Admiral is paid any type of compensation by Admiral and presently, there are no arrangements or anticipated arrangements to pay any type of compensation to any officer or director in the near future. Admiral expects that it will meet its cash requirements until such time as a Recapitalization occurs. However, in the event Admiral depletes its present cash reserves, or in the event that Admiral Management ceases to perform its duties on a non-compensatory basis, Admiral may cease operations and a Recapitalization may not occur. There are no agreements or understandings of any kind with respect to any loans from officers or directors of Admiral on the Company’s behalf.
 
-This discussion may contain statements regarding future financial performance and results.  The realization of outcomes consistent with these forward-looking statements is subject to numerous risks and uncertainties to the Company including, but not limited to, the availability of equity capital and financing sources, the availability of attractive acquisition opportunities once such new equity capital and financing is secured (if at all), the successful integration and profitable management of acquired businesses, improvement of operating efficiencies, the availability of working capital and financing for future acquisitions, the Companys ability to grow internally through expansion of services and customer bases without significant increases in overhead, seasonality, cyclicality, and other risk factors.
+This discussion may contain statements regarding future financial performance and results.  The realization of outcomes consistent with these forward-looking statements is subject to numerous risks and uncertainties to the Company including, but not limited to, the availability of equity capital and financing sources, the availability of attractive acquisition opportunities once such new equity capital and financing is secured (if at all), the successful integration and profitable management of acquired businesses, improvement of operating efficiencies, the availability of working capital and financing for future acquisitions, the Company’s ability to grow internally through expansion of services and customer bases without significant increases in overhead, seasonality, cyclicality, and other risk factors.
 
 Liquidity and Capital Resources
 
@@ -347,6 +351,8 @@ By:    /s/Wm. Lee Popham
 
 
 -7-
+
+
 
 
 
