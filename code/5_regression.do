@@ -5,23 +5,24 @@
 global fin_controls "SIZE MTB LEV"
 gen RET_NEG = RET*NEG
 
-**** Main regressions
+**** Table 2: Main regressions
 regress NW RET NEG RET_NEG $fin_controls
-estimates store NW
+outreg2 using "..\output\Table_2.xml", replace excel ctitle(NW) addtext(Quarter FE, NO, Firm FE, NO, Industry-clustered SE, NO) dec(3) stats(coef tstat)
+
 areg NW i.cquarter RET NEG RET_NEG $fin_controls, absorb(gvkey) cluster(SIC)
-estimates store NW_FE
+outreg2 using "..\output\Table_2.xml", append excel ctitle(NW) addtext(Quarter FE, YES, Firm FE, YES, Industry-clustered SE, YES) dec(3) drop(i.cquarter) stats(coef tstat)
 
 regress TONE RET NEG RET_NEG $fin_controls
-estimates store TONE
+outreg2 using "..\output\Table_2.xml", append excel ctitle(TONE) addtext(Quarter FE, NO, Firm FE, NO, Industry-clustered SE, NO) dec(3) stats(coef tstat)
+
 areg TONE i.cquarter RET NEG RET_NEG $fin_controls, absorb(gvkey) cluster(SIC)
-estimates store TONE_FE
+outreg2 using "..\output\Table_2.xml", append excel ctitle(TONE) addtext(Quarter FE, YES, Firm FE, YES, Industry-clustered SE, YES) dec(3) drop(i.cquarter) stats(coef tstat)
 
 regress TLAG RET NEG RET_NEG $fin_controls
-estimates store TLAG
-areg TLAG i.cquarter RET NEG RET_NEG $fin_controls, absorb(gvkey) cluster(SIC)
-estimates store TLAG_FE
+outreg2 using "..\output\Table_2.xml", append excel ctitle(TLAG) addtext(Quarter FE, NO, Firm FE, NO, Industry-clustered SE, NO) dec(3) stats(coef tstat)
 
-**** TABLE 2. Main results
-estimates table NW NW_FE TONE TONE_FE TLAG TLAG_FE, drop(i.cquarter) b(%9.4f) t(%9.2f) stats(N r2_a)
-estimates table NW NW_FE TONE TONE_FE TLAG TLAG_FE, drop(i.cquarter) b(%9.4f) stats(N r2_a) star
+areg TLAG i.cquarter RET NEG RET_NEG $fin_controls, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_2.xml", append excel ctitle(TLAG) addtext(Quarter FE, YES, Firm FE, YES, Industry-clustered SE, YES) dec(3) drop(i.cquarter) stats(coef tstat)
+
+
 
