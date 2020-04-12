@@ -42,6 +42,6 @@ This repo contains the following contents:
     
   3. output: figure and tables
   
-  4. LM: Louhgran and McDonald dictionary, taken from the following link:
+  4. LM: Loughran and McDonald dictionary, taken from the following link:
   
   		https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists
