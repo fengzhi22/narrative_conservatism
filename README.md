@@ -28,15 +28,23 @@ This repo contains the following contents:
 		
 		3) generate summary statistics (TABLE 1) of firm and text characteristics
 		
-		5_regression.do: generate main regression results (TABLE 2) in STATA
+		4_statistics_ibes: create final dataset crsp_comp_edgar_ibes_seg.csv for regression analysis
+		
+		1) merging id_crsp_comp_text.csv with IBES and SEGMENT data
+		
+		2) variable creation and data screening
+		
+		3) generate summary statistics (TABLE 3) of firm and text characteristics
+		
+		5_regression.do: generate regression results (TABLE 2 and TABLE 4) in STATA
     
 		Note: The first three procedures (1_scrape, 2_clean and 3_count) involves information retrival for millions filings, so they take substantial amount of time. Therefore, they are split into various time periods to allow for several kernels working at the same time, in order to reduce processing time.
   
   2. filings:
 	
-		i) raw data: COMPUSTAT and CRSP
+		i) raw data: COMPUSTAT, COMPUSTAT_SEGMENT, CRSP and IBES 
       
-		ii) processed data: web_url_index.txt, id_data.csv, text_data.csv and id_crsp_comp_text.csv
+		ii) processed data: web_url_index.txt, id_data.csv, text_data.csv and id_crsp_comp_text.csv, crsp_comp_edgar_ibes_seg.csv
     
 		Note: Due to hard drive storage limitation, the clean Edgar filings in accessin_number.txt format are not stored in this folder, but can be obtained by running 2_clean.ipynb script, and are available upon request.
     
