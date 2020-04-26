@@ -42,6 +42,6 @@ Observations	53,218	53,218	53,218	53,218
 Adjusted R-squared	0.003	0.498	0.003	0.510
 Year-quarter FE	NO	YES	NO	YES
 Firm FE	NO	YES	NO	YES
-Industry-clustered SE	NO	YES	NO	YES
+Industry clustered SE	NO	YES	NO	YES
 t-statistics in parentheses				
 *** p<0.01, ** p<0.05, * p<0.1				

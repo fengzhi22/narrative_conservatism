@@ -29,15 +29,19 @@ outreg2 using "..\output\Table_2.xml", append excel ctitle(TLAG) addtext(Year-qu
 areg TLAG_INV i.cquarter RET NEG RET_NEG $fin_controls, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_2.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
-*****************************************************
-********************* ABTONE ************************
-*****************************************************
+***********************************************************************
+********************* ABTONE ******************************************
+***********************************************************************
 
 **** read crsp_comp_edgar_ibes_seg_10-Q.csv
 . import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 gen RET_NEG = RET*NEG
+
+*****************************************************
+********************* TABLE 4 ***********************
+*****************************************************
 
 **** Table 4: TONE regressions (REPLICATION Huang et al. 2014 TABLE 1)
 regress tone EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF
@@ -52,6 +56,10 @@ outreg2 using "..\output\Table_4.xml", append excel ctitle(tone) addtext(Year-qu
 // areg TONE i.cquarter EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF, absorb(gvkey) cluster(SIC)
 // outreg2 using "..\output\Table_4.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry-clustered SE, YES) dec(4) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
+*****************************************************
+********************* TABLE 5 ***********************
+*****************************************************
+
 **** Table 5: ABTONE main results (mine)
 regress ABTONE RET NEG RET_NEG SIZE MTB LEV
 outreg2 using "..\output\Table_5.xml", replace excel ctitle(ABTONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
@@ -64,6 +72,10 @@ outreg2 using "..\output\Table_5.xml", append excel ctitle(ABTONE) addtext(Year-
 
 areg ABTONE i.cquarter RET NEG RET_NEG SIZE MTB LEV EARN STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_5.xml", append excel ctitle(ABTONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+*****************************************************
+********************* TABLE 6 ***********************
+*****************************************************
 
 **** Table 6: ABTONE main results (REPLICATION Huang et al. 2014 TABLE 4) NO DA
 ** ssc install reghdfe
