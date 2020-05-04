@@ -1,0 +1,163 @@
+\documentclass[a4paper]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{amsfonts}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{subfigure}
+\usepackage{times}
+\usepackage{hyperref}
+\usepackage[round]{natbib}
+\usepackage{verbatim}
+\usepackage{colortbl}
+\usepackage{lscape}
+\usepackage[affil-it]{authblk}
+
+
+\geometry{left=2cm,right=2cm,top=2cm,bottom=2cm}
+
+\setlength{\parindent}{2em}
+
+\begin{document}
+	
+	\title{Narrative Conservatism}
+	
+	\author{Beatriz Garc\'ia Osma}
+	
+	\author{Juan Manuel Garc\'ia Lara}
+	
+	\author{Fengzhi Zhu%
+		\thanks{Email: \texttt{fzhu@emp.uc3m.es}}}
+	
+	\affil{Department of Business Administration, Universidad Carlos III de Madrid, Spain}
+	
+	\date{Dated: \today}
+	
+	\maketitle
+
+\begin{spacing}{2}
+\begin{abstract}
+	I study whether firms' level of corporate social responsibility (CSR) affects their speed of response to gains and losses in financial reports, i.e. conditional conservatism. Using a natural experiment of staggered constituency statute enactments in the U.S. during 1980s, which allow managers to consider stakeholder interest in decision-making and thus improves CSR overall, I find that conservatism increases after CSR improvement. Such increase in conservatism is more significant in firms with strong debt-contracting demand and high managerial ability, consistent with debt being the main resource of conservatism and managerial style playing a role in determining CSR and conservatism. The results are robust to various alternative sample selections, variable measurements and model specifications. This study contributes to the linkage between CSR and conservatism literature by using a unique setting to document a positive causal impact of CSR on conservatism. Furthermore, this paper adds to the discussion on social influence of constituency statutes by providing a novel accounting viewpoint.\\
+	\newline
+	
+	\textbf{Keywords}: \textit{corporate social responsibility;  conditional conservatism; constituency statutes; trust}
+\end{abstract}
+
+\clearpage
+
+\section{Introduction}
+\cite{}
+%[motivation]
+
+%[setting]
+
+%[data]
+
+%[robustness]
+
+%[contribution]
+
+The rest of the paper structures as follows: Section 2 describes theoretical framework. Section 3 explains empirical models and data construction. Section 4 presents main results. Section 5 performs robustness checks. Section 6 concludes. \cite{liTextualAnalysisCorporate2010}
+
+\section{Theoretical Framework}
+
+\begin{center}
+	H1: Firms' conditional conservatism decreases as CSR increases.
+\end{center}
+
+\begin{center}
+	H2: Firms' conditional conservatism increases as CSR increases.
+\end{center}
+
+\section{Research Design}
+\subsection{News proxy: Market Returns}
+
+\subsection{Text properties}
+
+ \begin{equation}
+ 	EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+\epsilon_{i,t}
+ \end{equation}
+
+\subsection{Data}
+
+\section{Results}
+
+\subsection{Summary Statistics}
+
+\subsection{Main Results}
+
+\section{Robustness Checks}
+
+\subsection{Other news proxy}
+
+\section{Conclusions}
+
+\end{spacing}
+
+\newpage
+\section{Appendix}
+\subsection{Appendix A: 10-Q and 8-K scraping}
+
+\subsection{Appendix B: Financial Variable Definition}
+\begin{table}[H]
+	\centering
+	\begin{tabular}{lp{15cm}p{15cm}}
+		\textbf{Variable} & \textbf{Definition} \\
+		BTM   & Book to market ratio: book value of equity (Compustat CEQ) divided by market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO), as of current fiscal year. \\
+		CASH  & Cash holdings: cash and short-term investments (Compustat CHE) to the book value of total assets (Compustat AT), as of current fiscal year. \\
+		DCD   & Debt-contracting demand defined in two ways. (1) DCD1: a dummy variable that takes 1 if a firm experience an increase in average leverage ratio between the pre-enactment and post-enactment period (LEV\_POST $>$ LEV\_PRE), and 0 otherwise. (2) DCD2: The difference between average leverage ratios of the pre-enactment and post-enactment period (LEV\_POST - LEV\_PRE). \\
+		EARN  & Earnings: income before extraordinary items (Compustat IB) divided by lagged market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO). \\
+		LEV   & Leverage ratio: short term debt (Compustat DLC) plus long term debt (Compustat DLTT) divided by market value of equity, as of current fiscal year. \\
+		MA    & Managerial ability: an index of managerial ability constructed by \cite{demerjianQuantifyingManagerialAbility2012}. \\
+		MTB   & Market to book ratio: inverse of BTM. \\
+		NEG   & Dummy variable for bad news, which takes 1 when market -adjusted stock return (RET) is negative and is 0 otherwise. \\
+		POST  & Dummy variable for firm-year observation subject to constituency statute, which takes 1 when a firm-year observation appears after the year in which the constituency statute is enacted in the firm's state of incorporation, and is 0 otherwise. \\
+		RET   & Adjusted market return: sum of monthly buy-and-hold stock return (CRSP RET) over the fiscal year (starting from the fourth month of the fiscal year) minus the sum of monthly value-weighted stock return (CRSP VWRETD) over the same period.  \\
+		ROA   & Return on assets: operating income before depreciation (Compustat OIBDP) divided by total assets (Compustat AT), as of current fiscal year. \\
+		SIZE  & Firm size: natural log of market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO), as of current fiscal year. \\
+		TOBINSQ & Tobins' q: market value of total assets, which equals to book value of total assets (Compustat AT) plus market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO) minus the sum of the book value of common stock (Compustat CEQ) and balance sheet deferred taxes (Compustat TXDB), divided by book value of total assets (Compustat AT), as of current fiscal year. \\
+	\end{tabular}%
+\end{table}%
+
+\subsection{Appendix C: Text Variable Definition}
+\begin{table}[H]
+	\centering
+	\begin{tabular}{lp{15cm}p{15cm}}
+		\textbf{Indexes} & \textbf{Definition} \\
+		KLD\_TOTAL &  Total number of strengths minus total number of concerns (KLD\_STR - KLD\_CON) \\
+		KLD\_STR &  Number of strengths across all five dimensions (env\_str + com\_str + pro\_str + emp\_str + hum\_str) \\
+		KLD\_CON &  Number of concerns across all five dimensions (env\_con + com\_con + pro\_con + emp\_con + hum\_con) \\
+		com\_str  &  Total number of community strengths, including 6 subcategories: Charitable Giving, Innovative Giving, Non-US Charitable Giving, Support for Housing, Support for Education, and Other Strength. \\
+		com\_con  &  Total number of community concerns, including 4 subcategories: Investment Controversies, Negative Economic, Tax Disputes, and Other Concern. \\
+		div\_str  &  Total number of diversity strengths, including 6 subcategories: Promotion, Work/Life Benefits, Women \& Minority Contracting, Employment of the Disabled, Gay \& Lesbian Policies, and Other Strength. \\
+		div\_con  &  Total number of diversity concerns, including 2 subcategories: Controversies, and Other Concern. \\
+		env\_str  &  Total number of environment strengths, including 5 subcategories: Beneficial Products and Services, Pollution Prevention, Recycling, Clean Energy, and Other Strength. \\
+		env\_con  &  Total number of environment concerns, including 7 subcategories: Hazardous Waste, Regulatory Problems, Ozone Depleting Chemicals, Substantial Emissions, Agricultural Chemicals, Climate Change, and Other Concern. \\
+		emp\_str  &  Total number of employee relations strengths, including 6 subcategories: Union Relations, Cash Profit Sharing, Employee Involvement, Retirement Benefits Strength, Health and Safety Strength, and Other Strength. \\
+		emp\_con  &  Total number of employee relations concerns, including 4 subcategories: Union Relations, Health and Safety Concern, Work force Reductions and Retirement Benefits Concern. \\
+		hum\_str  &  Total number of human rights strengths, including 2 subcategories: Indigenous Peoples Relations and Labor Rights. \\
+		hum\_con  &  Total number of human rights concerns, including 4 subcategories: Burma Concern, Labor Rights, Indigenous Peoples Relations, and Other Concern. \\
+		pro\_str  &  Total number of product strengths, including 4 subcategories: Quality, R\&D/Innovation, Benefits to Economically Disadvantaged, and Other \\
+		pro\_con  &  Total number of product concerns, including 4 subcategories: Product Safety, Marketing/Contracting, Antitrust, and Other Concern. \\
+	\end{tabular}%
+\end{table}%
+
+\subsection{Online Appendix}
+Tables of untabulated results can be accessed via this website:
+
+%\href{https://drive.google.com/file/d/1P8XRZRd68AaeMenJVAEf1wEs_eRkLUfu/view?usp=sharing}{https://drive.google.com/file/d/1P8XRZRd68AaeMenJVAEf1wEs_eRkLUfu/view?usp=sharing}.
+
+\newpage
+\bibliographystyle{plainnat}
+\bibliography{NC}
+
+\newpage
+\include{Table}
+\end{document}
+
