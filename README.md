@@ -59,7 +59,9 @@ This repo contains the following contents:
 		Note: Due to hard drive storage limitation, the clean Edgar filings in accessin_number.txt format are not stored in this folder, but can be obtained by running 2_clean.ipynb script, and are available upon request.
     
   3. output: 
+  
   		Figures: 1) project outline 2) data selection process
+		
 		Tables: 1) Summary statistics for both 10-Q and 8-K 2) 10-Q main results 3) 10-Q ABTONE results 4) 8-K results  
   
   4. LM: Loughran and McDonald dictionary, taken from the following link:
