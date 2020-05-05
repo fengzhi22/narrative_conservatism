@@ -52,9 +52,9 @@ This repo contains the following contents:
   
   2. filings:
 	
-		i) raw data: COMPUSTAT, COMPUSTAT_SEGMENT, CRSP and IBES 
+		Raw data: COMPUSTAT, COMPUSTAT_SEGMENT, CRSP and IBES 
       
-		ii) processed data: web_url_index.txt, id_data.csv, text_data.csv and id_crsp_comp_text.csv, crsp_comp_edgar_ibes_seg.csv
+		Processed data: web_url_index.txt, id_data.csv, text_data.csv and crsp_comp_edgar.csv, crsp_comp_edgar_ibes_seg.csv
     
 		Note: Due to hard drive storage limitation, the clean Edgar filings in accessin_number.txt format are not stored in this folder, but can be obtained by running 2_clean.ipynb script, and are available upon request.
     
