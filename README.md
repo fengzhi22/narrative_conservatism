@@ -62,10 +62,10 @@ This repo contains the following contents:
   
   		Figures: 1) project outline 2) data selection process
 		
-		Tables: 1) Summary statistics for both 10-Q and 8-K 2) 10-Q main results 3) 10-Q ABTONE results 4) 8-K results  
+		Tables: 1) Summary statistics for both 10-Q and 8-K 2) 10-Q main results 3) 10-Q ABTONE results 4) 8-K results 
+		
+  4. latex: create final output NC.tex and NC.pdf
   
-  4. LM: Loughran and McDonald dictionary, taken from the following link:
+  5. LM: Loughran and McDonald dictionary, taken from the following link:
   
   		https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists
-		
-  5. latex: paper output
