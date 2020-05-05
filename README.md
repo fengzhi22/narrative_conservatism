@@ -20,23 +20,33 @@ This repo contains the following contents:
          
 		1) text_data.csv: a data set of word counts with various dimensions: pos, neg, litigious, uncertainty, modal words etc.      
       
-		4_statistics: create final dataset id_crsp_comp_text_obj-type.csv for regression analysis
+		4_statistics_10-Q: create dataset crsp_comp_edgar_10-Q.csv
 		
-		1) merging id_data.csv and text_data.csv with Compustat and CRSP data
-		
-		2) variable creation and data screening
-		
-		3) generate summary statistics (TABLE 1) of firm and text characteristics
-		
-		4_statistics_ibes: create final dataset crsp_comp_edgar_ibes_seg.csv for regression analysis
-		
-		1) merging id_crsp_comp_text.csv with IBES and SEGMENT data
+		1) merge id_data.csv and text_data.csv with Compustat and CRSP data
 		
 		2) variable creation and data screening
 		
-		3) generate summary statistics (TABLE 3) of firm and text characteristics
+		3) generate summary statistics of firm and text characteristics
 		
-		5_regression.do: generate regression results (TABLE 2 and TABLE 4) in STATA
+		4_statistics_ibes_seg_10-Q: create final dataset crsp_comp_edgar_ibes_seg_10-Q.csv for regression analysis, and crsp_comp_edgar_ibes_seg_DA_10-Q.csv for Huang et al. 2014 main results replication
+		
+		1) merge crsp_comp_edgar_10-Q.csv with IBES and SEGMENT data
+		
+		2) variable creation and data screening
+		
+		3) generate summary statistics of firm and text characteristics
+		
+		4_statistics_8-K: create final dataset crsp_comp_edgar_8-K.csv for regression analysis
+		
+		1) merge quarterly COMP with daily CRSP: COMP_CRSP
+		
+		2) prepare EDGAR 8-K data for merge: agregate data from individual 8-K level to firm-day 8-K filings level
+		
+		3) merge EDGAR with COMP_CRSP
+		
+		4) generate summary statistics of firm and text characteristics
+		
+		5_regression.do: generate regression results and make tables in STATA
     
 		Note: The first three procedures (1_scrape, 2_clean and 3_count) involves information retrival for millions filings, so they take substantial amount of time. Therefore, they are split into various time periods to allow for several kernels working at the same time, in order to reduce processing time.
   
@@ -48,7 +58,9 @@ This repo contains the following contents:
     
 		Note: Due to hard drive storage limitation, the clean Edgar filings in accessin_number.txt format are not stored in this folder, but can be obtained by running 2_clean.ipynb script, and are available upon request.
     
-  3. output: figure and tables
+  3. output: 
+  		Figures: 1) project outline 2) data selection process
+		Tables: 1) Summary statistics for both 10-Q and 8-K 2) 10-Q main results 3) 10-Q ABTONE results 4) 8-K results  
   
   4. LM: Loughran and McDonald dictionary, taken from the following link:
   
