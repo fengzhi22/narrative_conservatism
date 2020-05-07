@@ -52,18 +52,24 @@ This repo contains the following contents:
   
   2. filings:
 	
-		Raw data: COMPUSTAT, COMPUSTAT_SEGMENT, CRSP and IBES 
+		Raw data: COMPUSTAT, COMPUSTAT_SEGMENT, CRSP (daily and monthly) and IBES 
       
 		Processed data: web_url_index.txt, id_data.csv, text_data.csv and crsp_comp_edgar.csv, crsp_comp_edgar_ibes_seg.csv
     
-		Note: Due to hard drive storage limitation, the clean Edgar filings in accessin_number.txt format are not stored in this folder, but can be obtained by running 2_clean.ipynb script, and are available upon request.
+		Note: 
+		
+		1) Due to hard drive storage limitation, the clean EDGAR filings in accessin_number.txt format are not stored in this github folder, but can be obtained by running 2_clean.ipynb script, and are available upon request.
+		
+		2) Due to hard drive storage limitation, raw file crsp_daily.csv (5.10GB) and processed file comp_crsp_8-K.csv (8.28GB) are not stored in this github folder.
     
   3. output: 
   
   		Figures: 1) project outline 2) data selection process
 		
-		Tables: 1) Summary statistics for both 10-Q and 8-K 2) 10-Q main results 3) 10-Q ABTONE results 4) 8-K results  
+		Tables: 1) Summary statistics for both 10-Q and 8-K 2) 10-Q main results 3) 10-Q ABTONE results 4) 8-K results 
+		
+  4. latex: create final output NC.tex and NC.pdf
   
-  4. LM: Loughran and McDonald dictionary, taken from the following link:
+  5. LM: Loughran and McDonald dictionary, taken from the following link:
   
   		https://sraf.nd.edu/textual-analysis/resources/#LM%20Sentiment%20Word%20Lists
