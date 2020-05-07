@@ -1,5 +1,5 @@
 	(1)	(2)	(3)	(4)	(5)	(6)
-VARIABLES	NW	NW	TONE	TONE	TLAG_OP	TLAG_OP
+VARIABLES	NW	NW	TONE	TONE	TLAG	TLAG
 						
 NW	.	.				
 	(.)	(.)				
@@ -24,9 +24,8 @@ Constant	5.947***	4.583***	-0.903***	-15.308***	33.099***	38.952***
 						
 Observations	244,401	244,401	244,401	244,401	244,401	244,401
 Adjusted R-squared	0.012	0.420	0.009	0.151	0.013	0.139
-Year-month FE	NO	YES	NO	YES	NO	
+Year-month FE	NO	YES	NO	YES	NO	YES
 Firm FE	NO	YES	NO	YES	NO	YES
 Industry clustered SE	NO	YES	NO	YES	NO	YES
-Year-month FEE						YES
 t-statistics in parentheses						
 *** p<0.01, ** p<0.05, * p<0.1						

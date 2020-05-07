@@ -43,10 +43,12 @@
 
 \begin{spacing}{2}
 \begin{abstract}
-	I study whether firms' level of corporate social responsibility (CSR) affects their speed of response to gains and losses in financial reports, i.e. conditional conservatism. Using a natural experiment of staggered constituency statute enactments in the U.S. during 1980s, which allow managers to consider stakeholder interest in decision-making and thus improves CSR overall, I find that conservatism increases after CSR improvement. Such increase in conservatism is more significant in firms with strong debt-contracting demand and high managerial ability, consistent with debt being the main resource of conservatism and managerial style playing a role in determining CSR and conservatism. The results are robust to various alternative sample selections, variable measurements and model specifications. This study contributes to the linkage between CSR and conservatism literature by using a unique setting to document a positive causal impact of CSR on conservatism. Furthermore, this paper adds to the discussion on social influence of constituency statutes by providing a novel accounting viewpoint.\\
+	Extant accounting literature documents the existance of conditional conservatism in numerical disclosures, i.e. earnings reflecting bad news in a more timely manner than good news. However, little is known about the level of conservatism in narrative disclosure. In this paper, we study whether corporate narrative disclosure is more responsive to bad news than good news. News is proxied by market returns and narrative responsiveness is defined in terms of text content and filing timeliness. Using a sample of 10-Q and 8-K filings automatically retrieved from the SEC EDGAR database, with a time coverage from 1993 to 2020, we find that narrative disclosure is longer, more consistent with news, and timelier in response to bad news comparing to good news, consistent with narrative disclosure being conservative. 
+	%[addtional tests and roubustness]% 
+	We contribute to the literature on accounting conservatism by providing evidence on asymmetric responsiveness to good news and bad news in narrative disclosure.\\
 	\newline
 	
-	\textbf{Keywords}: \textit{corporate social responsibility;  conditional conservatism; constituency statutes; trust}
+	\textbf{Keywords}: \textit{narrative disclosure;  conditional conservatism; timeliness; tone}
 \end{abstract}
 
 \clearpage
@@ -63,22 +65,28 @@
 
 %[contribution]
 
-The rest of the paper structures as follows: Section 2 describes theoretical framework. Section 3 explains empirical models and data construction. Section 4 presents main results. Section 5 performs robustness checks. Section 6 concludes. \cite{liTextualAnalysisCorporate2010}
+The rest of the paper structures as follows: Section 2 develops theoretical framework. Section 3 explains empirical models and data selection. Section 4 presents main results. Section 5 performs robustness checks and Section 6 concludes.
 
 \section{Theoretical Framework}
 
+\subsection{Content}
 \begin{center}
-	H1: Firms' conditional conservatism decreases as CSR increases.
+	H1: Narrative disclosure is longer in response to bad news comparing to good news.
 \end{center}
 
 \begin{center}
-	H2: Firms' conditional conservatism increases as CSR increases.
+	H2: Narrative disclosure is more consistent with news in response to bad news comparing to good news.
+\end{center}
+
+\subsection{Timeliness}
+\begin{center}
+	H3: Narrative disclosure is timelier in response to bad news comparing to good news.
 \end{center}
 
 \section{Research Design}
 \subsection{News proxy: Market Returns}
 
-\subsection{Text properties}
+\subsection{Textual properties}
 
  \begin{equation}
  	EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+\epsilon_{i,t}
@@ -94,7 +102,7 @@ The rest of the paper structures as follows: Section 2 describes theoretical fra
 
 \section{Robustness Checks}
 
-\subsection{Other news proxy}
+\subsection{ABTONE}
 
 \section{Conclusions}
 
@@ -102,54 +110,51 @@ The rest of the paper structures as follows: Section 2 describes theoretical fra
 
 \newpage
 \section{Appendix}
-\subsection{Appendix A: 10-Q and 8-K scraping}
+\subsection{Appendix A: 10-Q and 8-K parsing}
 
 \subsection{Appendix B: Financial Variable Definition}
 \begin{table}[H]
 	\centering
 	\begin{tabular}{lp{15cm}p{15cm}}
 		\textbf{Variable} & \textbf{Definition} \\
-		BTM   & Book to market ratio: book value of equity (Compustat CEQ) divided by market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO), as of current fiscal year. \\
-		CASH  & Cash holdings: cash and short-term investments (Compustat CHE) to the book value of total assets (Compustat AT), as of current fiscal year. \\
-		DCD   & Debt-contracting demand defined in two ways. (1) DCD1: a dummy variable that takes 1 if a firm experience an increase in average leverage ratio between the pre-enactment and post-enactment period (LEV\_POST $>$ LEV\_PRE), and 0 otherwise. (2) DCD2: The difference between average leverage ratios of the pre-enactment and post-enactment period (LEV\_POST - LEV\_PRE). \\
-		EARN  & Earnings: income before extraordinary items (Compustat IB) divided by lagged market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO). \\
-		LEV   & Leverage ratio: short term debt (Compustat DLC) plus long term debt (Compustat DLTT) divided by market value of equity, as of current fiscal year. \\
-		MA    & Managerial ability: an index of managerial ability constructed by \cite{demerjianQuantifyingManagerialAbility2012}. \\
-		MTB   & Market to book ratio: inverse of BTM. \\
-		NEG   & Dummy variable for bad news, which takes 1 when market -adjusted stock return (RET) is negative and is 0 otherwise. \\
-		POST  & Dummy variable for firm-year observation subject to constituency statute, which takes 1 when a firm-year observation appears after the year in which the constituency statute is enacted in the firm's state of incorporation, and is 0 otherwise. \\
-		RET   & Adjusted market return: sum of monthly buy-and-hold stock return (CRSP RET) over the fiscal year (starting from the fourth month of the fiscal year) minus the sum of monthly value-weighted stock return (CRSP VWRETD) over the same period.  \\
-		ROA   & Return on assets: operating income before depreciation (Compustat OIBDP) divided by total assets (Compustat AT), as of current fiscal year. \\
-		SIZE  & Firm size: natural log of market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO), as of current fiscal year. \\
-		TOBINSQ & Tobins' q: market value of total assets, which equals to book value of total assets (Compustat AT) plus market value of equity (Compustat PRCC\_F $\times$ Compustat CSHO) minus the sum of the book value of common stock (Compustat CEQ) and balance sheet deferred taxes (Compustat TXDB), divided by book value of total assets (Compustat AT), as of current fiscal year. \\
+		
+		EARN & Quarterly earnings, defined as quarterly earnings before extraordinary items (Compustat data item IBQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
+		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged earnings \\
+		LEV & Leverage ratio, defined as beginning-of-quarter short term debt (Compustat data item DLCQ) plus beginning-of-quarter long term debt (Compustat data item DLTTQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
+		MTB & Market-to-book ratio, defined as beginning-of-quarter market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) divided by beginning-of-quarter book value of equity (Compustat data item CEQQ) \\
+		SIZE & Firm size, defined as the natural logarithm of market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) \\
+		RET & Quarterly market-adjusted stock return, defined as buy-and-hold stock return (CRSP data item RET) over the fiscal quarter adjusted by the value-weighted stock return (CRSP data item VWRETD) over the same period \\
+		NEG & Indicator for negative quarterly return, which is set to 1 when market-adjusted stock return (RET) is negative and 0 otherwise \\
+		AF & Analyst forecast, defined as analyst consensus forecast for one-year-ahead earnings per share, scaled by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
+		AFE & Analyst forecast error, defined as I/B/E/S earnings per share minus the median of the most recent analysts' forecasts, deflated by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
+		BUSSEG & Business segment, defined as the natural logarithm of one plus number of business segments, or one if item is missing from Compustat\\
+		GEOSEG & Geographical segment, defined as the natural logarithm of one plus number of geographical segments, or one if item is missing from Compustat\\
+		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the first entry date of the firm into CRSP monthly database\\
+		STD\textunderscore EARN & Standard deviation of earnings, calculated over the last five quarters\\
+		STD\textunderscore RET & Standard deviation of market-adjusted stock return (RET) over all months in the quarter\\
+		LOSS & Indicator for loss, which is set to 1 when earnings (EARN) is negative and 0 otherwise\\
+		$\Delta$RET & Change in daily market-adjusted stock return, defined as current daily market-adjusted stock return minus one-day-lagged daily market-adjusted stock return \\
+		BN & Indicator for daily bad news, which is set to 1(0) if the daily negative(positive) change in market-adjusted stock return is three times larger than the firm’s annual average decrease(increase) in daily return.\\
+		
 	\end{tabular}%
 \end{table}%
 
-\subsection{Appendix C: Text Variable Definition}
+\subsection{Appendix C: Textual Variable Definition}
 \begin{table}[H]
 	\centering
 	\begin{tabular}{lp{15cm}p{15cm}}
-		\textbf{Indexes} & \textbf{Definition} \\
-		KLD\_TOTAL &  Total number of strengths minus total number of concerns (KLD\_STR - KLD\_CON) \\
-		KLD\_STR &  Number of strengths across all five dimensions (env\_str + com\_str + pro\_str + emp\_str + hum\_str) \\
-		KLD\_CON &  Number of concerns across all five dimensions (env\_con + com\_con + pro\_con + emp\_con + hum\_con) \\
-		com\_str  &  Total number of community strengths, including 6 subcategories: Charitable Giving, Innovative Giving, Non-US Charitable Giving, Support for Housing, Support for Education, and Other Strength. \\
-		com\_con  &  Total number of community concerns, including 4 subcategories: Investment Controversies, Negative Economic, Tax Disputes, and Other Concern. \\
-		div\_str  &  Total number of diversity strengths, including 6 subcategories: Promotion, Work/Life Benefits, Women \& Minority Contracting, Employment of the Disabled, Gay \& Lesbian Policies, and Other Strength. \\
-		div\_con  &  Total number of diversity concerns, including 2 subcategories: Controversies, and Other Concern. \\
-		env\_str  &  Total number of environment strengths, including 5 subcategories: Beneficial Products and Services, Pollution Prevention, Recycling, Clean Energy, and Other Strength. \\
-		env\_con  &  Total number of environment concerns, including 7 subcategories: Hazardous Waste, Regulatory Problems, Ozone Depleting Chemicals, Substantial Emissions, Agricultural Chemicals, Climate Change, and Other Concern. \\
-		emp\_str  &  Total number of employee relations strengths, including 6 subcategories: Union Relations, Cash Profit Sharing, Employee Involvement, Retirement Benefits Strength, Health and Safety Strength, and Other Strength. \\
-		emp\_con  &  Total number of employee relations concerns, including 4 subcategories: Union Relations, Health and Safety Concern, Work force Reductions and Retirement Benefits Concern. \\
-		hum\_str  &  Total number of human rights strengths, including 2 subcategories: Indigenous Peoples Relations and Labor Rights. \\
-		hum\_con  &  Total number of human rights concerns, including 4 subcategories: Burma Concern, Labor Rights, Indigenous Peoples Relations, and Other Concern. \\
-		pro\_str  &  Total number of product strengths, including 4 subcategories: Quality, R\&D/Innovation, Benefits to Economically Disadvantaged, and Other \\
-		pro\_con  &  Total number of product concerns, including 4 subcategories: Product Safety, Marketing/Contracting, Antitrust, and Other Concern. \\
+		\textbf{Variable} & \textbf{Definition} \\
+		NW & Number of words, defined as the natural logarithm of one plus the count of total words (nw)\\
+		nw & Raw count of total words\\
+		TONE & Tone, defined as number of net positive words per thousand total words, calculated as total number of positive words minus total number of negative words minus total number of negations and multiply by one thousand\\
+		TLAG & Time lag, defined as number of days elapsed between the news release date (CRSP entry date) and document filing date (EDGAR filing date)\\
+		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional tone model (Eq. 3) in \cite{huangToneManagement2014}\\
+		
 	\end{tabular}%
 \end{table}%
 
 \subsection{Online Appendix}
-Tables of untabulated results can be accessed via this website:
+Tables of untabulated results can be accessed via this link:
 
 %\href{https://drive.google.com/file/d/1P8XRZRd68AaeMenJVAEf1wEs_eRkLUfu/view?usp=sharing}{https://drive.google.com/file/d/1P8XRZRd68AaeMenJVAEf1wEs_eRkLUfu/view?usp=sharing}.
 

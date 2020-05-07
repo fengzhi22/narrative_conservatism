@@ -1,0 +1,33 @@
+	(1)
+VARIABLES	TLAG_OL
+	
+TLAG	.
+	(.)
+DRET	-1.194***
+	(-11.54)
+BN	0.112***
+	(4.69)
+DRET_BN	2.064***
+	(13.95)
+SIZE	-0.165***
+	(-36.62)
+MTB	0.006***
+	(3.84)
+LEV	0.011
+	(0.28)
+/cut1	-1.051***
+	(-27.92)
+/cut2	-0.299***
+	(-8.01)
+/cut3	0.298***
+	(7.94)
+/cut4	1.097***
+	(28.56)
+	
+Observations	61,443
+Year-month FE	NO
+Firm FE	NO
+Industry clustered SE	NO
+Pseudo R2	0.00956
+z-statistics in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
