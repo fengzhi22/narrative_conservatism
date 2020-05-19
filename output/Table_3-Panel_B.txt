@@ -1,33 +1,40 @@
-	(1)
-VARIABLES	TLAG_OL
-	
-TLAG	.
-	(.)
-DRET	-1.194***
-	(-11.54)
-BN	0.112***
-	(4.69)
-DRET_BN	2.064***
-	(13.95)
-SIZE	-0.165***
-	(-36.62)
-MTB	0.006***
-	(3.84)
-LEV	0.011
-	(0.28)
-/cut1	-1.051***
-	(-27.92)
-/cut2	-0.299***
-	(-8.01)
-/cut3	0.298***
-	(7.94)
-/cut4	1.097***
-	(28.56)
-	
-Observations	61,443
-Year-month FE	NO
-Firm FE	NO
-Industry clustered SE	NO
-Pseudo R2	0.00956
-z-statistics in parentheses	
-*** p<0.01, ** p<0.05, * p<0.1	
+	(1)	(2)	(3)
+VARIABLES	NITEM	N8K_OL	TLAG_OL
+			
+n8k		.	
+		(.)	
+DRET	0.193***	0.835***	-1.194***
+	(4.79)	(7.43)	(-11.54)
+BN	0.015**	0.102***	0.112***
+	(2.29)	(3.25)	(4.69)
+DRET_BN	-0.263***	-0.905***	2.064***
+	(-4.70)	(-4.97)	(13.95)
+SIZE	0.001	0.101***	-0.165***
+	(0.15)	(16.13)	(-36.62)
+MTB	0.001*	-0.010***	0.006***
+	(1.88)	(-4.06)	(3.84)
+LEV	0.066***	0.446***	0.011
+	(3.01)	(7.65)	(0.28)
+/cut1		4.191***	-1.051***
+		(84.67)	(-27.92)
+/cut2		7.475***	-0.299***
+		(100.77)	(-8.01)
+/cut3		10.596***	0.298***
+		(39.01)	(7.94)
+/cut4		13.236***	1.097***
+		(13.22)	(28.56)
+nitem	.		
+	(.)		
+TLAG			.
+			(.)
+Constant	0.570***		
+	(13.35)		
+			
+Observations	244,401	244,401	61,443
+Adjusted R-squared	0.095		
+Year-month FE	YES	NO	NO
+Firm FE	YES	NO	NO
+Industry clustered SE	YES	NO	NO
+Pseudo R2		0.00525	0.00956
+Robust t-statistics in parentheses			
+*** p<0.01, ** p<0.05, * p<0.1			

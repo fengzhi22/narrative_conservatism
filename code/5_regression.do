@@ -77,33 +77,33 @@ outreg2 using "..\output\Table_2-Panel_B.xml", append excel ctitle(TONE) addtext
 areg TONE i.cquarter RET NEG RET_NEG SIZE MTB LEV EARN STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_2-Panel_B.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
-*****************************************************
-************ Online Appendix: Table 2 ***************
-*****************************************************
-
-**** read crsp_comp_edgar_ibes_seg_10-Q.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_DA_10-Q.csv", case(preserve) stringcols(2) clear
-
-**** OAT_2: REPLICATION Huang et al. 2014 TABLE 4
-** ssc install reghdfe
-
-reghdfe leap1_EARN abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
-outreg2 using "..\output\OAT_2.xml", replace excel ctitle(EARN_t+1) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-reghdfe leap2_EARN abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
-outreg2 using "..\output\OAT_2.xml", append excel ctitle(EARN_t+2) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-reghdfe leap3_EARN abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
-outreg2 using "..\output\OAT_2.xml", append excel ctitle(EARN_t+3) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-reghdfe leap1_CFO abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
-outreg2 using "..\output\OAT_2.xml", append excel ctitle(CFO_t+1) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-reghdfe leap2_CFO abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
-outreg2 using "..\output\OAT_2.xml", append excel ctitle(CFO_t+2) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-reghdfe leap3_CFO abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
-outreg2 using "..\output\OAT_2.xml", append excel ctitle(CFO_t+3) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// *****************************************************
+// ************ Online Appendix: Table X1 ***************
+// *****************************************************
+//
+// **** read crsp_comp_edgar_ibes_seg_10-Q.csv
+// import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_DA_10-Q.csv", case(preserve) stringcols(2) clear
+//
+// **** OAT_X1: REPLICATION Huang et al. 2014 TABLE 4
+// ** ssc install reghdfe
+//
+// reghdfe leap1_EARN abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
+// outreg2 using "..\output\OAT_X1.xml", replace excel ctitle(EARN_t+1) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// reghdfe leap2_EARN abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
+// outreg2 using "..\output\OAT_X1.xml", append excel ctitle(EARN_t+2) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// reghdfe leap3_EARN abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
+// outreg2 using "..\output\OAT_X1.xml", append excel ctitle(EARN_t+3) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// reghdfe leap1_CFO abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
+// outreg2 using "..\output\OAT_X1.xml", append excel ctitle(CFO_t+1) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// reghdfe leap2_CFO abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
+// outreg2 using "..\output\OAT_X1.xml", append excel ctitle(CFO_t+2) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// reghdfe leap3_CFO abtone DA EARN SIZE MTB RET STD_RET STD_EARN,  absorb(SIC cquarter) vce(cluster gvkey cquarter)
+// outreg2 using "..\output\OAT_X1.xml", append excel ctitle(CFO_t+3) addtext(Industry FE, YES, Year-quarter FE, YES, Firm clustered SE, YES, Year-quarter clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 *****************************************************
 **************** TABLE 3 - Panel A ******************
@@ -111,7 +111,7 @@ outreg2 using "..\output\OAT_2.xml", append excel ctitle(CFO_t+3) addtext(Indust
 
 **** TABLE 3 - Panel A: 8-K main results
 
-**** read crsp_comp_edgar_ibes_seg_10-Q.csv
+**** read crsp_comp_edgar_8-K.csv
 import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
@@ -139,13 +139,16 @@ areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
 outreg2 using "..\output\Table_3-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 *****************************************************
-************ Online Appendix: Table 3 ***************
+************ Online Appendix: Table 2 ***************
 *****************************************************
 
-**** OAT_3: 8-K main results (TABLE 4) in restricted sample (TLAG <= 4 or item = 7.01 or 8.01)
+**** OAT_2: 8-K main results (TABLE 4) in restricted sample (TLAG <= 4 or item = 7.01 or 8.01)
 
-**** read crsp_comp_edgar_ibes_seg_10-Q.csv
+**** read crsp_comp_edgar_8-K_restricted.csv
 import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K_restricted.csv", case(preserve) stringcols(2) clear
+
+**** Drop obs. if TLAG > 4
+drop if TLAG > 4
 
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"
@@ -153,37 +156,64 @@ gen RET_BN = RET*BN
 gen DRET_BN = DRET*BN
 
 regress NW DRET BN DRET_BN $fin_controls
-outreg2 using "..\output\OAT_3.xml", replace excel ctitle(NW) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+outreg2 using "..\output\OAT_2.xml", replace excel ctitle(NW) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
 
 areg NW i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
-outreg2 using "..\output\OAT_3.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\OAT_2.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 regress TONE DRET BN DRET_BN $fin_controls
-outreg2 using "..\output\OAT_3.xml", append excel ctitle(TONE) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+outreg2 using "..\output\OAT_2.xml", append excel ctitle(TONE) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
 
 areg TONE i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
-outreg2 using "..\output\OAT_3.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\OAT_2.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 regress TLAG DRET BN DRET_BN $fin_controls
-outreg2 using "..\output\OAT_3.xml", append excel ctitle(TLAG) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+outreg2 using "..\output\OAT_2.xml", append excel ctitle(TLAG) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
 
 areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
-outreg2 using "..\output\OAT_3.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\OAT_2.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 *****************************************************
 **************** TABLE 3 - Panel B ******************
 *****************************************************
 
-**** TABLE 3 - Panel B: 8-K TLAG in ordered logistics model
+**** TABLE 3 - Panel B: nitem OLS; n8k, TLAG ordered logistics model 8-K_restricted
+
+**** read crsp_comp_edgar_8-K.csv
+import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+
+**** Variable Creation
+global fin_controls "SIZE MTB LEV"
+gen RET_BN = RET*BN
+gen DRET_BN = DRET*BN
+
+**** TABLE 3 - Panel B: nitem OLS
+// regress nitem DRET BN DRET_BN $fin_controls
+// outreg2 using "..\output\Table_3-Panel_B.xml", replace excel ctitle(NITEM) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+
+areg nitem i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_3-Panel_B.xml", replace excel ctitle(NITEM) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+
+**** TABLE 3 - Panel B: n8k ordered logistics model 
+ologit n8k DRET BN DRET_BN $fin_controls
+outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(N8K_OL) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) addstat(Pseudo R2, e(r2_p))
+
+**** read crsp_comp_edgar_8-K_restricted.csv
+import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K_restricted.csv", case(preserve) stringcols(2) clear
+
+**** Variable Creation
+global fin_controls "SIZE MTB LEV"
+gen RET_BN = RET*BN
+gen DRET_BN = DRET*BN
 
 **** Drop obs. with TLAG > 4
 drop if TLAG > 4
 
-**** ordered logistic model
+**** TABLE 3 - Panel B: TLAG ordered logistics model 8-K_restricted
+
+**** TLAG ordered logistic model
 ologit TLAG DRET BN DRET_BN $fin_controls
 outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(TLAG_OL) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) addstat(Pseudo R2, e(r2_p))
-
-
 
 **** ordered logistic with firm fixed effects; BSW 2011 (NECESSARY?)
 // capture program drop feologit_buc

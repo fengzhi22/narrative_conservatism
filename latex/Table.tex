@@ -1,470 +1,70 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%TABLE 1
-\begin{table}[H]
-	\centering
-	\caption{Constituency Statute' Enactment Years (1975 - 2013)}
-	\begin{tabular}{lrrrr}
-		\toprule
-		\toprule
-		State & \multicolumn{1}{l}{Enactment date} & \multicolumn{1}{l}{Before} & \multicolumn{1}{l}{After} & \multicolumn{1}{l}{Total} \\
-		\midrule
-		AZ    & \multicolumn{1}{l}{07/22/1987} & 57    & 89    & 146 \\
-		CT    & \multicolumn{1}{l}{06/07/1988} & 207   & 307   & 514 \\
-		FL    & \multicolumn{1}{l}{06/27/1989} & 443   & 756   & 1199 \\
-		GA    & \multicolumn{1}{l}{07/01/1989} & 292   & 518   & 810 \\
-		HI    & \multicolumn{1}{l}{06/07/1989} & 39    & 52    & 91 \\
-		IA    & \multicolumn{1}{l}{12/31/1989} & 95    & 130   & 225 \\
-		ID    & \multicolumn{1}{l}{03/22/1988} & 13    & 26    & 39 \\
-		IL    & \multicolumn{1}{l}{08/23/1985} & 139   & 277   & 416 \\
-		IN    & \multicolumn{1}{l}{04/01/1986} & 261   & 519   & 780 \\
-		KY    & \multicolumn{1}{l}{07/15/1988} & 49    & 74    & 123 \\
-		LA    & \multicolumn{1}{l}{07/10/1988} & 77    & 114   & 191 \\
-		MA    & \multicolumn{1}{l}{07/18/1989} & 687   & 969   & 1656 \\
-		MD    & \multicolumn{1}{l}{06/01/1999} & 432   & 352   & 784 \\
-		ME    & \multicolumn{1}{l}{09/19/1985} & 74    & 101   & 175 \\
-		MN    & \multicolumn{1}{l}{06/01/1987} & 472   & 1,013 & 1485 \\
-		MO    & \multicolumn{1}{l}{05/06/1986} & 165   & 306   & 471 \\
-		MS    & \multicolumn{1}{l}{07/01/1990} & 2     & 23    & 25 \\
-		NC    & \multicolumn{1}{l}{10/01/1993} & 262   & 250   & 512 \\
-		NE    & \multicolumn{1}{l}{04/08/1988} & 50    & 32    & 82 \\
-		NJ    & \multicolumn{1}{l}{02/04/1989} & 597   & 809   & 1406 \\
-		NM    & \multicolumn{1}{l}{04/09/1987} & 30    & 47    & 77 \\
-		NV    & \multicolumn{1}{l}{10/01/1991} & 419   & 564   & 983 \\
-		NY    & \multicolumn{1}{l}{07/23/1987} & 1,351 & 1,999 & 3350 \\
-		OH    & \multicolumn{1}{l}{10/10/1984} & 574   & 1,351 & 1925 \\
-		OR    & \multicolumn{1}{l}{03/05/1989} & 134   & 223   & 357 \\
-		PA    & \multicolumn{1}{l}{04/27/1990} & 883   & 1,144 & 2027 \\
-		RI    & \multicolumn{1}{l}{07/03/1990} & 66    & 110   & 176 \\
-		SD    & \multicolumn{1}{l}{07/01/1990} & 27    & 45    & 72 \\
-		TN    & \multicolumn{1}{l}{03/11/1988} & 105   & 219   & 324 \\
-		TX    & \multicolumn{1}{l}{01/01/2006} & 594   & 241   & 835 \\
-		VA    & \multicolumn{1}{l}{03/31/1988} & 341   & 594   & 935 \\
-		VT    & \multicolumn{1}{l}{04/16/1998} & 58    & 28    & 86 \\
-		WI    & \multicolumn{1}{l}{06/13/1987} & 299   & 559   & 858 \\
-		WY    & \multicolumn{1}{l}{01/01/1990} & 32    & 52    & 84 \\
-		\midrule
-		Total  &       & 9,326 & 13,893 & 23,219 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-	\label{tab:addlabel}%
-\end{table}%
-\noindent This table presents the enactment dates and number of observations before and after enactment for 34 states out of 35 states that have adopted constituency statutes. North Dakota is excluded because of missing observations before or after law enactment date. Nebraska enacted constituency statute from 1988 to 1995 and from 2007 untill present.
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 1 Panel A + TABLE 1 Panel B
+%\begin{landscape}
+\input{../output/table/T1PA}
+\input{../output/table/T1PB}
+Table 1 Panel A and Table 1 Panel B presents summary statistics for key variables in 10-Q and 8-K sample, respectively. All financial variables except returns are winsorized at 1\% and 99\% level. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions, respectively.
+%\end{landscape}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%TABLE 2
-\begin{table}[H]
-	\centering
-	\caption{Basu Summary Statistics (1975-2013)}
-	Panel A. Firm-year Observations Before Constituency Statute Law Enactment (N=9,326)
-	\begin{tabular}{lrrrrrrrrr}
-		\toprule
-		\toprule
-		& \multicolumn{1}{l}{mean} & \multicolumn{1}{l}{median} & \multicolumn{1}{l}{std. dev.} & \multicolumn{1}{l}{max} & \multicolumn{1}{l}{min} & \multicolumn{1}{l}{p1} & \multicolumn{1}{l}{p25} & \multicolumn{1}{l}{p75} & \multicolumn{1}{l}{p99} \\
-		\midrule
-		EARN  & 0.088 & 0.098 & 0.151 & 0.378 & -1.034 & -0.524 & 0.049 & 0.163 & 0.378 \\
-		RET   & 0.032 & 0.023 & 0.338 & 1.419 & -1.194 & -0.817 & -0.156 & 0.194 & 1.086 \\
-		NEG   & 0.466 & 0.000 & 0.499 & 1.000 & 0.000 & 0.000 & 0.000 & 1.000 & 1.000 \\
-		SIZE  & 4.310 & 4.144 & 1.953 & 10.388 & 0.623 & 0.623 & 2.841 & 5.636 & 9.264 \\
-		BTM   & 0.882 & 0.773 & 0.576 & 3.256 & -0.980 & 0.054 & 0.481 & 1.153 & 3.010 \\
-		LEV   & 0.692 & 0.348 & 0.972 & 7.773 & 0.000 & 0.000 & 0.093 & 0.934 & 5.024 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-	\bigbreak
-	Panel B. Firm-year Observations After Constituency Statutes Law Enactment (N=13,893)
-	\begin{tabular}{lrrrrrrrrr}
-		\toprule
-		\toprule
-		& \multicolumn{1}{l}{mean} & \multicolumn{1}{l}{median} & \multicolumn{1}{l}{std. dev} & \multicolumn{1}{l}{max} & \multicolumn{1}{l}{min} & \multicolumn{1}{l}{p1} & \multicolumn{1}{l}{p25} & \multicolumn{1}{l}{p75} & \multicolumn{1}{l}{p99} \\
-		\midrule
-		EARN  & 0.025 & 0.060 & 0.162 & 0.378 & -1.034 & -0.820 & 0.023 & 0.086 & 0.290 \\
-		RET   & 0.013 & -0.005 & 0.351 & 1.419 & -1.194 & -0.924 & -0.173 & 0.180 & 1.156 \\
-		NEG   & 0.509 & 1.000 & 0.500 & 1.000 & 0.000 & 0.000 & 0.000 & 1.000 & 1.000 \\
-		SIZE  & 5.589 & 5.628 & 2.261 & 10.388 & 0.623 & 0.790 & 3.875 & 7.245 & 10.388 \\
-		BTM   & 0.682 & 0.574 & 0.548 & 3.256 & -0.980 & -0.581 & 0.359 & 0.851 & 2.909 \\
-		LEV   & 0.568 & 0.260 & 0.953 & 7.773 & 0.000 & 0.000 & 0.068 & 0.685 & 5.293 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-	\bigbreak
-	Panel C. Variable Difference Before and After Contituency Statute Law Enactment
-	\begin{tabular}{lcc}
-		\toprule
-		\toprule
-		& \multicolumn{1}{l}{mean difference} & \multicolumn{1}{l}{t-statistic} \\
-		\midrule
-		EARN  & -0.06*** & -29.76 \\
-		RET   & -0.02*** & -4.18 \\
-		NEG   & 0.04*** & 6.47 \\
-		SIZE  & 1.28*** & 44.61 \\
-		BTM   & -0.20*** & -26.79 \\
-		LEV   & -0.12*** & -9.60 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
-\noindent This table reports summary statistics for key variables used in Basu measure, separated into two time periods: before (Panel A) and after (Panel B) constituency statute enactment. Panel C demonstrates the differences in mean value between pre-enactment and post-enactment period for all key variables, and the significance of mean differences. EARN, RET, SIZE, BTM and LEV are winsorized at 1 and 99 percentiles. All variables are defined in Appendix B. *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level respectively.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%TABLE 3
-\newgeometry{left=1cm, right=1cm, top=1cm, bottom=1.8cm}
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 1 Panel C
+\newpage
 \begin{landscape}
-	\begin{table}[H]
-		\centering
-		\caption{Effect of Constituency Statue Enactments on Conservatism, Three Periods}
-		$EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+\epsilon_{i,t}$ \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad (1)
-		
-		$EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+POST_{i,t}\times (\beta_4+\beta_5RET_{i,t}+\beta_6NEG_{i,t}+\beta_7RET_{i,t}\times NEG_{i,t})+\epsilon_{i,t}$ (2)
-		
-		$\beta_j=\sum_{K}^{}\delta_{j,k}State_k+\sum_{M}^{}\theta_{j,m}Year_m \qquad j=1,2,3$ \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \quad (3)
-		
-		\begin{tabular}{lccccccc}
-			\toprule
-			\toprule
-			Dependent Variable: EARN & Baseline Basu & \multicolumn{2}{c}{DiD: 1975-2013} & \multicolumn{2}{c}{1984-1992} & \multicolumn{2}{c}{1985-1990} \\
-			& I     & II & III & IV & V& VI & VII \\
-			&  &  & Incorp. = State &  & Incorp. = State&  & Incorp. = State\\
-			\midrule
-			RET   & 0.0603*** &       &       &       &       &       &  \\
-			& 6.82  &       &       &       &       &       &  \\
-			NEG   & 0.0019 &       &       &       &       &       &  \\
-			& 0.70  &       &       &       &       &       &  \\
-			\rowcolor[rgb]{ .851,  .851,  .851} RET $\times$ NEG & 0.1171*** &       &       &       &       &       &  \\
-			\rowcolor[rgb]{ .851,  .851,  .851}       & 10.07 &       &       &       &       &       &  \\
-			POST  &       & -0.006 & 0.0067 & -0.0204 & -0.0029 & -0.0098 & 0.0213 \\
-			&       & -0.93 & 0.87  & -1.46 & -0.15 & -0.68 & 1.06 \\
-			\rowcolor[rgb]{ .851,  .851,  .851} POST $\times$ RET &       & -0.0114 & -0.0334 & 0.0896 & 0.0508 & 0.0762 & -0.0312 \\
-			\rowcolor[rgb]{ .851,  .851,  .851}       &       & -0.37 & -1.07 & 1.18  & 0.49  & 0.87  & -0.26 \\
-			POST $\times$ NEG &       & 0.0035 & 0.0091 & -0.0012 & -0.0092 & -0.0133 & -0.0377 \\
-			&       & 0.35  & 0.90  & -0.07 & -0.45 & -0.47 & -1.38 \\
-			\rowcolor[rgb]{ .851,  .851,  .851} POST $\times$ RET $\times$ NEG &       & 0.1041* & 0.1961*** & 0.0109 & 0.0055 & 0.0421 & 0.0833 \\
-			\rowcolor[rgb]{ .851,  .851,  .851}       &       & 2.05  & 4.37  & 0.09  & 0.04  & 0.36  & 0.60 \\
-			Constant & 0.1597*** & 0.0644** & 0.0571** & 0.0277 & 0.0171 & 0.0442** & 0.0127 \\
-			& 17.27 & 3.45  & 2.77  & 1.53  & 0.87  & 2.80 & 0.64 \\
-			Year Fixed Effects (Main) & YES   & YES   & YES   & YES   & YES   & YES   & YES \\
-			Firm Fixed Effects (Main) & YES   & YES   & YES   & YES   & YES   & YES   & YES \\
-			Year Fixed Effects (Basu Coefficients) & NO    & YES   & YES   & YES   & YES   & YES   & YES \\
-			State Fixed Effects (Basu Coefficients) & NO    & YES   & YES   & YES   & YES   & YES   & YES \\
-			S.E. Clustered by States & YES   & YES   & YES   & YES   & YES   & YES   & YES \\
-			Observations  & 23,219 &                  23,219  &                  17,347  &                     7,202  &                     5,314  &                     4,806  &                    3,514  \\
-			Adj. R-square & 0.2970 & 0.3108 & 0.3229 & 0.3645 & 0.3716 & 0.3916 & 0.3950 \\
-			\bottomrule
-			\bottomrule
-		\end{tabular}%
-	\end{table}%
-	
-	\noindent This table reports results of baseline Basu measure (Equation 1) over full sample period (Column I), and DiD results (Equation 2 and 3) in three sample periods: 1975 - 2013 (Column II, III), 1984 - 1992 (Column IV, V) and 1985 - 1990 (Column VI, VII). Column III, Column V and Column VII show the DiD results using only firms that headquarter in their state of incorporation. All variables are defined in Appendix B. EARN and RET are winsorized at 1 and 99 percentiles. All regressions control for firm and year fixed effects. DiD regressions control for Basu coefficient fixed effects. Standard errors are clustered at state of incorporation level. %The Basu coefficient fixed effects absorb slope coefficients in baseline Basu model so they are omitted.  *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level respectively. T-statistics are reported below coefficients.
-	
-\end{landscape}
-\restoregeometry
-
-%\begin{table}[H]
-%\centering
-%\caption{Basu Measure of Conditional Conservatism}
-%$EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+\epsilon_{i,t}$
-%\begin{tabular}{lccc}
-%\toprule
-%\toprule
-%Dep. Var. EARN & Prediction & 1975-2013 & 1985-1990 \\
-%\midrule
-%Constant &       & 0.1597*** & 0.0681*** \\
-%&       & 17.27 & 12.54 \\
-%RET   &       & 0.0603*** & 0.0793** \\
-%&       & 6.82  & 2.84 \\
-%NEG   &       & 0.0019 & 0.0087 \\
-%&       & 0.70  & 1.21 \\
-%\rowcolor[rgb]{ .851,  .851,  .851} RET $\times$ NEG & (+)   & 0.1171*** & 0.0932* \\
-%\rowcolor[rgb]{ .851,  .851,  .851}       &       & 10.07 & 2.71 \\
-%Year Fixed Effects  &       & YES   & YES \\
-%Firm Fixed Effects &       & YES   & YES \\
-%S.E. Clustered by States &       & YES   & YES \\
-%Observations     &       & 23,219 & 4,806 \\
-%Adj. R-square &       & 0.2970 & 0.3781 \\
-%\bottomrule
-%\bottomrule
-%\end{tabular}%
-%\end{table}%
-%
-%%%%%%%%%%%%%%%%TABLE 4
-%\begin{table}[H]
-%\centering
-%\caption{DiD: Effect of Constituency Statue Enactments on Conservatism, Two Periods}
-%
-%$EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+POST_{i,t}\times (\beta_4+\beta_5RET_{i,t}+\beta_6NEG_{i,t}+\beta_7RET_{i,t}\times NEG_{i,t})+\epsilon_{i,t}$
-%
-%\begin{tabular}{lcccc}
-%\toprule
-%\toprule
-%Dep. Var. EARN & \multicolumn{2}{c}{1975-2013} & \multicolumn{2}{c}{1985-1990} \\
-%& I & II& III & IV\\
-%& Full & Incorp.=State & Full & Incorp.=State\\
-%\midrule
-%POST  & -0.006 & 0.0067 & -0.0098 & 0.0213 \\
-%& -0.93 & 0.87  & -0.68 & 1.06 \\
-%\rowcolor[rgb]{ .851,  .851,  .851} POST $\times$ RET & -0.0114 & -0.0334 & 0.0762 & -0.0312 \\
-%\rowcolor[rgb]{ .851,  .851,  .851}       & -0.37 & -1.07 & 0.87  & -0.26 \\
-%POST $\times$ NEG & 0.0035 & 0.0091 & -0.0133 & -0.0377 \\
-%& 0.35  & 0.90  & -0.47 & -1.38 \\
-%\rowcolor[rgb]{ .851,  .851,  .851} POST $\times$ RET $\times$ NEG & 0.1041* & 0.1961*** & 0.0421 & 0.0833 \\
-%\rowcolor[rgb]{ .851,  .851,  .851}       & 2.05  & 4.37  & 0.36  & 0.60 \\
-%Constant & 0.0644** & 0.0571** & 0.0442** & 0.0127 \\
-%& 3.45  & 2.77  & 2.80   & 0.64 \\
-%Year Fixed Effects (Main) & YES   & YES   & YES   & YES \\
-%Firm Fixed Effects (Main) & YES   & YES   & YES   & YES \\
-%Year Fixed Effects (Basu Coefficients) & YES   & YES   & YES   & YES \\
-%State Fixed Effects (Basu Coefficients) & YES   & YES   & YES   & YES \\
-%S.E. Clustered by States & YES   & YES   & YES   & YES \\
-%Observations  &                  23,219  &                  17,347  &                     4,806  &                     3,514  \\
-%Adj. R-square & 0.3108 & 0.3229 & 0.3916 & 0.3950 \\
-%\bottomrule
-%\bottomrule
-%\end{tabular}%
-%\end{table}%
-
-%%%%%%%%%%TABLE 4
-\begin{landscape}
-	\begin{table}[H]
-		\centering
-		\caption{DiD: Effect of Constituency Statue Enactments on Conservatism, Rolling Windows}
-		$EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+Dummy_{i,t}\times (\beta_4+\beta_5RET_{i,t}+\beta_6NEG_{i,t}+\beta_7RET_{i,t}\times NEG_{i,t})+\epsilon_{i,t}$
-		\begin{tabular}{lcccccc}
-			\toprule
-			\toprule
-			Dep. Var. EARN & I & II & III & IV & V & VI \\
-			& -1/+1 &  -1/+1 & -2/+2 & -2/+2 & -3/+3 & -3/+3 \\
-			& Full & Incorp.= State & Full & Incorp.= State & Full & Incorp.= State \\
-			\midrule
-			\rowcolor[rgb]{ .906,  .902,  .902} Dummy $\times$ RET$\times$ NEG & 0.1717 & 0.1257 & 0.1622* & 0.1291 & 0.1358** & 0.1266* \\
-			& 2.02  & 1.26  & 2.24  & 1.65  & 2.93  & 2.71 \\
-			Dummy & -0.0149 & 0.0124 & 0.0187 & 0.0396 & 0.0005 & 0.016 \\
-			& -0.92 & 0.71 & 1.01 & 1.61 & 0.04 & 0.94 \\
-			Dummy$\times$RET & 0.024 & -0.0052 & 0.0056 & 0.0015 & -0.0079 & -0.0131 \\
-			& 0.47 & -0.08 & 0.16 & 0.03 & -0.29 & -0.32 \\
-			Dummy$\times$NEG & -0.0042 & -0.0269 & 0.0085 & -0.0035 & 0.007 & -0.0005 \\
-			& -0.15 & -0.68 & 0.68 & -0.23 & 0.59 & -0.03 \\
-			Constant & 0.0235 & 0.0394* & 0.0900*** & 0.1014*** & 0.1364*** & 0.1368*** \\
-			& 1.42 & 2.29 & 4.12 & 4.74 & 11.45 & 10.80 \\
-			Year Fixed Effects (Main) & Yes & Yes & Yes & Yes & Yes & Yes \\
-			Firm Fixed Effects (Main) & Yes & Yes & Yes & Yes & Yes & Yes \\
-			S.E. Clustered by States & Yes & Yes & Yes & Yes & Yes & Yes \\
-			Observations & 2,220 & 1,612 & 4,241 & 3,093 & 6,134 & 4,492 \\
-			Adj. R-squared & 0.4286 & 0.4169 & 0.3923 & 0.3686 & 0.3655 & 0.3543 \\
-			\bottomrule
-			\bottomrule
-		\end{tabular}%
-		\label{tab:addlabel}%
-	\end{table}%
-	
-	\noindent This table reports results of rolling window analysis of conservatism (measured by Basu model) in three subsamples that consist of firm-year observations within one-year (-1/+1), two-years (-2/+2) and three-years (-3/+3) window before and after constituency statute enactments in all states that have adopted the law as of 2013. Column II, Column IV and Column VI show the rolling window results using only firms that headquarter in their state of incorporation. \textit{Dummy} is an indicator variable that takes 1 if this firm-year observation is recorded after law enactment, and 0 if before law enactment. The rest of variables are defined in Appendix B. EARN and RET are winsorized at 1 and 99 percentiles. All regressions control for year and firm fixed effects. Standard errors are clustered at state of incorporation level. *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level, respectively. t-statistics are reported below coefficients.
+\input{../output/table/T1PC}
+Table 1 Panel C presents correlation matrix for 10-Q textual variables and financial variables. Pearson (Spearman) correlations are exhibited in right-top (left-bottom) matrix. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. 
 \end{landscape}
 
-%%%%%%%%%%%%%%%%%%%%%%TABLE 5
-\newgeometry{left=1cm, right=1cm, top=1.7cm, bottom=2cm}
-\begin{table}[H]
-	\centering
-	\caption{Mechanism (1975 - 2013)}                                                 
-	\begin{flushleft}
-		$EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+POST_{i,t}\times (\beta_4+\beta_5RET_{i,t}+\beta_6NEG_{i,t}+\beta_7RET_{i,t}\times NEG_{i,t})+MEC\times(\beta_8RET_{i,t}+\beta_9NEG_{i,t}+\beta_{10}REG_{i,t}\times NEG_{i,t})+MEC\times POST_{i,t}\times (\beta_{11}+\beta_{12}RET_{i,t}+\beta_{13}NEG_{i,t}+\beta_{14}RET_{i,t}\times NEG_{i,t})+\epsilon_{i,t}$ \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad(4)
-	\end{flushleft}
-	\begin{tabular}{lccc}
-		\toprule
-		\toprule
-		Dep. Var. EARN & DCD1 & DCD2 & MA \\
-		\midrule
-		POST  & 0.0003 & -0.0056 & -0.0160* \\
-		& 0.05  & -0.86 & -2.15 \\
-		POST$\times$ RET & 0.0112 & -0.0150 & 0.0254 \\
-		& 0.38  & -0.47 & 0.81 \\
-		POST$\times$NEG & 0.0000 & -0.0022 & 0.0129 \\
-		& 0.00  & -0.22 & 1.13 \\
-		\rowcolor[rgb]{ .851,  .851,  .851} POST$\times$RET$\times$NEG & -0.0657 & 0.0316 & 0.0709 \\
-		\rowcolor[rgb]{ .851,  .851,  .851}       & -1.43 & 0.61  & 1.23 \\
-		MEC$\times$RET & 0.0103 & 0.0158 & 0.7419*** \\
-		& 0.59  & 1.84  & 4.53 \\
-		MEC$\times$NEG & -0.0039 & -0.0024 & 0.1201** \\
-		& -0.36 & -0.37 & 2.98 \\
-		MEC$\times$RET$\times$NEG & -0.1059* & -0.0700* & -1.5956*** \\
-		& -2.46 & -2.34 & -4.21 \\
-		MEC$\times$POST & -0.0100 & -0.0220* & 0.1592*** \\
-		& -1.31 & -2.47 & 6.14 \\
-		MEC$\times$POST$\times$RET & -0.0581* & -0.0562*** & -0.7353*** \\
-		& -2.33 & -3.61 & -3.84 \\
-		MEC$\times$POST$\times$NEG & 0.0023 & -0.0105 & -0.1559** \\
-		& 0.18  & -0.79 & -2.80 \\
-		\rowcolor[rgb]{ .851,  .851,  .851} MEC$\times$POST$\times$RET$\times$NEG & 0.2854*** & 0.1751*** & 1.1218* \\
-		\rowcolor[rgb]{ .851,  .851,  .851}       & 7.74  & 4.90  & 2.65 \\
-		Constant & 0.0609** & 0.0599** & 0.0742*** \\
-		& 3.17  & 2.88  & 3.73 \\
-		Year Fixed Effects (Main) & YES   & YES   & YES \\
-		Firm Fixed Effects (Main) & YES   & YES   & YES \\
-		Year Fixed Effects (Basu Coefficients) & YES   & YES   & YES \\
-		State Fixed Effects (Basu Coefficients) & YES   & YES   & YES \\
-		S.E. Clustered by States & YES   & YES   & YES \\
-		Observations    & 23219 & 23219 & 18277 \\
-		Adj. R-squared & 0.318 & 0.3334 & 0.2836 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
-\noindent This table reports results of Equation (4): earnings on baseline Basu factors (i.e., NEG, RET, NEG $\times$ RET) and their interactions with POST dummy and three mechanism variables (DCD1, DCD2 and MA). All variables are defined in Appendix B. EARN and RET are winsorized at 1 and 99 percentiles. All regressions control for main firm and year fixed effects and Basu coefficient fixed effects. Standard errors are clustered at state of incorporation level. The Basu coefficient fixed effects absorb slope coefficients in baseline Basu model so they are omitted.  *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level respectively. T-statistics are reported below coefficients.
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 1 Panel D
+\newpage
+%\begin{landscape}
+	\input{../output/table/T1PD}
+	Table 1 Panel D presents correlation matrix for 8-K textual variables and financial variables. Pearson (Spearman) correlations are exhibited in right-top (left-bottom) matrix. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. 
+%\end{landscape}
 
-\restoregeometry
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 Panel A
+\newpage
+%\begin{landscape}
+\input{../output/table/T2PA}
+\setcounter{equation}{0}
+\begin{equation}
+TEX_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
 
-%%%%%%%%%%%%%%%%%%%TABLE 6
-\begin{table}[H]
-	\centering
-	\caption{KLD Indexes (1995 - 2013)}
-	
-	Panel A. KLD Summary Statistics
-	\begin{tabular}{lrrrrrrrrrr}
-		\toprule
-		\toprule
-		& \multicolumn{1}{l}{N} & \multicolumn{1}{l}{mean} & \multicolumn{1}{l}{median} & \multicolumn{1}{l}{std. dev.} & \multicolumn{1}{l}{max} & \multicolumn{1}{l}{min} & \multicolumn{1}{l}{p1} & \multicolumn{1}{l}{p25} & \multicolumn{1}{l}{p75} & \multicolumn{1}{l}{p99} \\
-		\midrule
-		KLD\_STR & 12341 & 0.476 & 0     & 1.060 & 12    & 0     & 0     & 0     & 1     & 5 \\
-		KLD\_CON & 13922 & 1.011 & 1     & 1.518 & 13    & 0     & 0     & 0     & 1     & 7 \\
-		KLD\_TOTAL & 12341 & -0.515 & 0     & 1.403 & 8     & -9    & -5    & -1    & 0     & 3 \\
-		Enviroment & 15800 & 0.137 & 0     & 0.427 & 4     & 0     & 0     & 0     & 0     & 2 \\
-		Community & 15624 & 0.147 & 0     & 0.476 & 5     & 0     & 0     & 0     & 0     & 2 \\
-		Product & 15624 & 0.071 & 0     & 0.272 & 3     & 0     & 0     & 0     & 0     & 1 \\
-		Emloyee relation & 12341 & 0.241 & 0     & 0.571 & 5     & 0     & 0     & 0     & 0     & 2 \\
-		Human rights & 12986 & 0.003 & 0     & 0.054 & 1     & 0     & 0     & 0     & 0     & 0 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-	
-	\bigbreak
-	Panel B. KLD Indexes Correlation Matrix
-	\begin{tabular}{lrrrrrrrr}
-		\toprule
-		\toprule
-		& KLD\_STR & KLD\_CON & KLD\_TOTAL & Env. & Com. & Prod. & Emp. & Hum.\\
-		\midrule
-		KLD\_STR & 1.000 &       &       &       &       &       &       &  \\
-		KLD\_CON & 0.425 & 1.000 &       &       &       &       &       &  \\
-		KLD\_TOTAL & 0.309 & -0.730 & 1.000 &       &       &       &       &  \\
-		Enviroment & 0.655 & 0.331 & 0.122 & 1.000 &       &       &       &  \\
-		Community & 0.662 & 0.305 & 0.174 & 0.264 & 1.000 &       &       &  \\
-		Product & 0.500 & 0.116 & 0.235 & 0.204 & 0.149 & 1.000 &       &  \\
-		Employee relation & 0.801 & 0.307 & 0.282 & 0.306 & 0.287 & 0.256 & 1.000 &  \\
-		Human rights & 0.145 & 0.043 & 0.062 & 0.023 & 0.117 & 0.031 & 0.064 & 1.000 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
-\noindent This table reports summary statistics (Panel A) and correlation matrix (Panel B) of KLD indexes from 1995 to 2013. All indexes are defined in Appendix C.
+Table 2 Panel A presents regression results of Equation (1). TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+%\end{landscape}
 
-%%%%%%%%%%%%%%%%%%TABLE 7
-\newgeometry{left=1cm, right=1cm, top=2cm, bottom=2cm}
-\begin{landscape}
-	\begin{table}[H]
-		\centering
-		\caption{Association between KLD Indexes and Conservatism , Measured by C\textunderscore Score (1995 - 2013)}
-		
-		$Conservatism_{i,t}=a_i+b_t+c\times KLD\textunderscore INDEX+d\times X_{i,t}+\epsilon_{i,t}$ \qquad (8)
-		
-		\begin{tabular}{lccccccc}
-			\toprule
-			\toprule
-			Dependent Variable: C\_Score & I     & II    & III   & IV    & V     & VI    & VII \\
-			\midrule
-			KLD\_STR & \cellcolor[rgb]{ .906,  .902,  .902}0.0030*** & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}              \\
-			& \cellcolor[rgb]{ .906,  .902,  .902}4.95 & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			KLD\textunderscore TOTAL   & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-0.0011* & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			& \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-2.07 & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			Environment & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-0.0019 & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			& \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-1.93 & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			Community & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-0.0020* & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			& \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-2.45 & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			Product & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}0.0060* & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			& \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}2.42 & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			Employee Relation & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}0.0028** & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			& \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}3.47 & \cellcolor[rgb]{ .906,  .902,  .902} \\
-			Human Rights & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-0.0059 \\
-			& \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902} & \cellcolor[rgb]{ .906,  .902,  .902}-0.80 \\
-			SIZE  & -0.0094*** & -0.0093*** & -0.0114*** & -0.0108*** & -0.0108*** & -0.0095*** & -0.0102*** \\
-			& -8.41 & -8.11 & -9.34 & -8.64 & -8.74 & -8.18 & -8.77 \\
-			MTB   & 0.0052*** & 0.0052*** & 0.0055*** & 0.0053*** & 0.0054*** & 0.0052*** & 0.0058*** \\
-			& 26.27 & 26.17 & 15.15 & 18.34 & 18.19 & 26.28 & 28.29 \\
-			LEV   & 0.061*** & 0.061*** & 0.0576*** & 0.0574*** & 0.0574*** & 0.0610*** & 0.0580*** \\
-			& 24.19 & 23.88 & 26.32 & 26.55 & 26.48 & 23.99 & 22.85 \\
-			Constant & 0.2287*** & 0.2287*** & 0.0176 & 0.0148 & 0.0136 & 0.2295*** & 0.1523*** \\
-			& 30.31 & 29.85 & 1.96  & 1.57  & 1.43  & 29.76 & 22.15 \\
-			Year fixed effects & YES   & YES   & YES   & YES   & YES   & YES   & YES \\
-			Firm Fixed Effects & YES   & YES   & YES   & YES   & YES   & YES   & YES \\
-			S.E. Clustered by States & YES   & YES   & YES   & YES   & YES   & YES   & YES \\
-			Observations    & 10483 & 10483 & 13920 & 13742 & 13742 & 10483 & 11087 \\
-			Adj. R-square & 0.7778 & 0.7776 & 0.778 & 0.7752 & 0.7753 & 0.7776 & 0.7708 \\
-			\bottomrule
-			\bottomrule
-		\end{tabular}%
-		\label{tab:addlabel}%
-	\end{table}%
-	
-	\noindent This table reports results of Equation (8): OLS regression model of conservatism (measured by C\textunderscore Score) on KLD indexes. All KLD indexes are defined in Appendix c. All regressions control for firm and year fixed effects. Standard errors are clustered at state of incorporation level. *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level respectively. T-statistics are reported below coefficients.
-	
-\end{landscape}
-\restoregeometry
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 Panel B
+\newpage
+\input{../output/table/T2PB}
+\setcounter{equation}{3}
+\begin{equation}
+ABTONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
+\begin{equation}
+\begin{split}
+TONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{split}
+\end{equation}
 
-%%%%%%%%%%%TABLE 8
-\begin{table}[H]
-	\centering
-	\caption{DiD: Effect  of Constituency Statute Enactments on C\textunderscore Score, Three Periods}
-	$Conservatism_{i,t}=a_i+b_t+c\times POST_{i,t}+d\times X_{i,t}+\epsilon_{i,t}$ \qquad (9)
-	\begin{tabular}{lccc}
-		\toprule
-		\toprule
-		Dep. Var. C\_Score & 1975 - 2013 & 1984 - 1992 & 1985 - 1990 \\
-		& I & II & III \\
-		\midrule
-		\rowcolor[rgb]{ .906,  .902,  .902} POST  & 0.0046 & 0.0073* & 0.0112* \\
-		\rowcolor[rgb]{ .906,  .902,  .902}       & 1.56  & 2.17  & 2.51 \\
-		SIZE  & -0.0150*** & -0.0355*** & -0.0441*** \\
-		& -8.27 & -12.94 & -8.83 \\
-		MTB   & -0.0018 & -0.0051*** & -0.0044* \\
-		& -1.64 & -5.83 & -2.73 \\
-		LEV   & 0.0633*** & 0.0329*** & 0.0218*** \\
-		& 23.07 & 10.45 & 3.99 \\
-		Constant & 0.0824*** & 0.1695*** & 0.2749*** \\
-		& 8.98  & 12.68 & 11.41 \\
-		Year Fixed Effects & YES   & YES   & YES \\
-		Firm Fixed Effects & YES   & YES   & YES \\
-		S.E. Clustered by States & YES   & YES   & YES \\
-		Observations  & 22570 & 6965  & 4644 \\
-		Adj. R-square & 0.5016 & 0.5482 & 0.5194 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
+Table 2 Panel B presents regression results of Equation (4) (Column 1 and 2) and Equation (5) (Column 2 and 3). \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB), leverage ratio (LEV) and all other regressors in \hyperref[eq2]{Equation 2}. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2 and 4 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
 
-\noindent This table reports DiD regression (Equation 9) results in three sample periods: 1975 - 2013 (Column I), 1984 - 1992 (Column II) and 1985 - 1990 (Column III). All variables are defined in Appendix B. SIZE, MTB and LEV are winsorized at 1 and 99 percentiles. All regressions control for firm and year fixed effects. Standard errors are clustered at state of incorporation level. *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level respectively. T-statistics are reported below coefficients.
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 3 Panel A
+\newpage
+%\begin{landscape}
+\input{../output/table/T3PA}
+\setcounter{equation}{2}
+\begin{equation}
+TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
 
-%%%%%%%%%%%%TABLE 9
-\begin{table}[H]
-	\centering
-	\caption{DiD: Effect of Constituency Statute Enactments on C\textunderscore Score, Rolling Windows}
-	$Conservatism_{i,t}=a_i+b_t+c\times Dummy_{i,t}+d\times X_{i,t}+\epsilon_{i,t}$
-	\begin{tabular}{lccc}
-		\toprule
-		\toprule
-		Dep. Var. C\_SCORE & I & II & III \\
-		\multicolumn{1}{r}{} & -1/+1 & -2/+2 & -3/+3 \\
-		\midrule
-		\rowcolor[rgb]{ .906,  .902,  .902} Dummy & 0.0223*** & 0.011 & 0.0083 \\
-		\rowcolor[rgb]{ .906,  .902,  .902} & 5.89  & 1.09  & 1.36 \\
-		SIZE  & -0.0387** & -0.0303***& -0.0318*** \\
-		& -3.03 & -5.74 & -6.92 \\
-		MTB   & -0.0032 & -0.0049** & -0.0041** \\
-		& -1.02 & -3.26 & -3.56 \\
-		LEV   & 0.0164 & 0.0319** & 0.0341*** \\
-		& 0.74  & 2.92  & 5.13 \\
-		Constant & 0.2184*** & 0.2130*** & 0.1846*** \\
-		& 3.80  & 8.03  & 8.11 \\
-		Year Fixed Effects & Yes & Yes & Yes \\
-		Firm Fixed Effects & Yes & Yes & Yes \\
-		S.E. Clustered by States & Yes & Yes & Yes \\
-		Observations & 2,144 & 4,105 & 5,941 \\
-		Adj. R-squared & 0.6858 & 0.7176 & 0.6896 \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
-\noindent This table reports results of rolling window analysis of conservatism (measured by C\textunderscore Score) in three subsamples that consist of firm-year observations within one-year (-1/+1), two-years (-2/+2) and three-years (-3/+3) window before and after constituency statute enactments in all states that have adopted the law as of 2013. \textit{Dummy} is an indicator variable that takes 1 if this firm-year observation is recorded after law enactment, and 0 if before law enactment. The rest of variables are defined in Appendix B. SIZE, MTB and LEV are winsorized at 1 and 99 percentiles. All regressions control for year and firm fixed effects. Standard errors are clustered at state of incorporation level. *, **, and *** indicate significance at 10\%, 5\% and 1\% confidence level, respectively. t-statistics are reported below coefficients.
+Table 3 Panel A presents regression results of Equation (3). TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+%\end{landscape}
+
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 3 Panel B
+\newpage
+%\begin{landscape}
+\input{../output/table/T3PB}
+\setcounter{equation}{2}
+\begin{equation}
+TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
+
+Table 3 Panel B presents regression results of Equation (3) with TEX being NITEM (Column 1), N8K (Column 2) and TLAG (Column 3), respectively. \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). Column 1 presents results of an ordinary least square (OLS) regression with firm and time fixed effects and clustered standard errors at industry level identified by 4-digit SIC codes. Column 2 and 3 present results of ordered logistics models. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.

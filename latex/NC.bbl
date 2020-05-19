@@ -1,16 +1,83 @@
-\begin{thebibliography}{1}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{12}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-\bibitem[Huang et~al.(2014)Huang, Teoh, and Zhang]{huangToneManagement2014}
-Xuan Huang, Siew~Hong Teoh, and Yinglei Zhang.
+\bibitem[{Bamber et~al.(1993)Bamber, Bamber, \&
+  Schoderbek}]{bamberAuditStructureOther1993}
+Bamber, E.~M., Bamber, L.~S., \& Schoderbek, M.~P. (1993).
+\newblock Audit {{Structure}} and {{Other Determinants}} of {{Audit Report
+  Lag}}: {{An Empirical Analysis}}.
+\newblock {\em AUDITING: A Journal of Practice \& Theory\/}, {\em 12\/}(1),
+  1--23.
+
+\bibitem[{Basu(1997)}]{basuConservatismPrincipleAsymmetric1997}
+Basu, S. (1997).
+\newblock The {{Conservatism Principle}} and {{The Asymmetric Timeliness}} of
+  {{Earnings}}.
+\newblock {\em Journal of Accounting and Economics\/}, {\em 24\/}(1), 3--37.
+
+\bibitem[{Chen et~al.(2018)Chen, Hribar, \&
+  Melessa}]{chenIncorrectInferencesWhen2018}
+Chen, W., Hribar, P., \& Melessa, S. (2018).
+\newblock Incorrect {{Inferences When Using Residuals}} as {{Dependent
+  Variables}}.
+\newblock {\em Journal of Accounting Research\/}, {\em 56\/}(3), 751--796.
+
+\bibitem[{Huang et~al.(2014)Huang, Teoh, \& Zhang}]{huangToneManagement2014}
+Huang, X., Teoh, S.~H., \& Zhang, Y. (2014).
 \newblock Tone {{Management}}.
-\newblock \emph{The Accounting Review}, 89\penalty0 (3):\penalty0 1083--1113,
-  May 2014.
-\newblock ISSN 0001-4826, 1558-7967.
-\newblock \doi{10.2308/accr-50684}.
+\newblock {\em The Accounting Review\/}, {\em 89\/}(3), 1083--1113.
+
+\bibitem[{Knechel \& Payne(2001)}]{knechelAdditionalEvidenceAudit2001}
+Knechel, W.~R., \& Payne, J.~L. (2001).
+\newblock Additional {{Evidence}} on {{Audit Report Lag}}.
+\newblock {\em AUDITING: A Journal of Practice \& Theory\/}, {\em 20\/}(1),
+  137--146.
+
+\bibitem[{Li(2010)}]{liInformationContentForwardLooking2010}
+Li, F. (2010).
+\newblock The {{Information Content}} of {{Forward}}-{{Looking Statements}} in
+  {{Corporate Filings}}\textemdash{{A Na\"ive Bayesian Machine Learning
+  Approach}}.
+\newblock {\em Journal of Accounting Research\/}, {\em 48\/}(5), 1049--1102.
+
+\bibitem[{Loughran \& Mcdonald(2011)}]{loughranWhenLiabilityNot2011}
+Loughran, T., \& Mcdonald, B. (2011).
+\newblock When {{Is}} a {{Liability Not}} a {{Liability}}? {{Textual
+  Analysis}}, {{Dictionaries}}, and 10-{{Ks}}.
+\newblock {\em The Journal of Finance\/}, {\em 66\/}(1), 35--65.
+
+\bibitem[{Petersen(2009)}]{petersenEstimatingStandardErrors2009}
+Petersen, M.~A. (2009).
+\newblock Estimating {{Standard Errors}} in {{Finance Panel Data Sets}}:
+  {{Comparing Approaches}}.
+\newblock {\em Review of Financial Studies\/}, {\em 22\/}(1), 435--480.
+
+\bibitem[{Rogers et~al.(2011)Rogers, Van~Buskirk, \&
+  Zechman}]{rogersDisclosureToneShareholder2011}
+Rogers, J.~L., Van~Buskirk, A., \& Zechman, S. L.~C. (2011).
+\newblock Disclosure {{Tone}} and {{Shareholder Litigation}}.
+\newblock {\em The Accounting Review\/}, {\em 86\/}(6), 2155--2183.
+
+\bibitem[{SEC(2004)}]{secFinalRuleAdditional2004}
+SEC (2004).
+\newblock Final {{Rule}}: {{Additional Form}} 8-{{K Disclosure Requirements}}
+  and {{Acceleration}} of {{Filing Date}}; {{Rel}}. {{No}}. 33-8400;
+  {{S7}}-22-02.
+\newblock https://www.sec.gov/rules/final/33-8400.htm.
+
+\bibitem[{SEC(2009)}]{secFinalRuleInteractive2009}
+SEC (2009).
+\newblock Final {{Rule}}: {{Interactive Data}} to {{Improve Financial
+  Reporting}}; {{Rel}}. {{No}}. 33-9002; {{S7}}-11-08.
+\newblock https://www.sec.gov/rules/final/2009/33-9002.pdf.
+
+\bibitem[{Tottie(1991)}]{tottieNegationEnglishSpeech1991}
+Tottie, G. (1991).
+\newblock {\em Negation in {{English}} Speech and Writing: {{A}} Study in
+  Variation\/}, vol.~4.
+\newblock {Academic Press}.
 
 \end{thebibliography}

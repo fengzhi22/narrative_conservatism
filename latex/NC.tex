@@ -18,7 +18,8 @@
 \usepackage{colortbl}
 \usepackage{lscape}
 \usepackage[affil-it]{authblk}
-
+\urlstyle{same}
+\usepackage{footnotebackref}
 
 \geometry{left=2cm,right=2cm,top=2cm,bottom=2cm}
 
@@ -33,28 +34,29 @@
 	\author{Juan Manuel Garc\'ia Lara}
 	
 	\author{Fengzhi Zhu%
-		\thanks{Email: \texttt{fzhu@emp.uc3m.es}}}
+		\thanks{Email: fzhu@emp.uc3m.es}}
 	
 	\affil{Department of Business Administration, Universidad Carlos III de Madrid, Spain}
 	
 	\date{Dated: \today}
 	
 	\maketitle
-
+\thispagestyle{empty}
 \begin{spacing}{2}
 \begin{abstract}
-	Extant accounting literature documents the existance of conditional conservatism in numerical disclosures, i.e. earnings reflecting bad news in a more timely manner than good news. However, little is known about the level of conservatism in narrative disclosure. In this paper, we study whether corporate narrative disclosure is more responsive to bad news than good news. News is proxied by market returns and narrative responsiveness is defined in terms of text content and filing timeliness. Using a sample of 10-Q and 8-K filings automatically retrieved from the SEC EDGAR database, with a time coverage from 1993 to 2020, we find that narrative disclosure is longer, more consistent with news, and timelier in response to bad news comparing to good news, consistent with narrative disclosure being conservative. 
+	Extant accounting literature documents the existance of conditional conservatism in numerical disclosures, i.e. earnings reflecting bad news in a more timely manner than good news. However, little is known about the level of conservatism in narrative disclosure. In this paper, we study whether corporate narrative disclosure is more responsive to bad news than good news. News is proxied by market returns and narrative responsiveness is defined in terms of TEXt content and filing timeliness. Using 10-Q and 8-K filings automatically retrieved from the SEC EDGAR database with a time coverage from 1993 to 2020, we find that narrative disclosure is longer, more consistent with news, and timelier in response to bad news comparing to good news, consistent with narrative disclosure being conservative. 
 	%[addtional tests and roubustness]% 
 	We contribute to the literature on accounting conservatism by providing evidence on asymmetric responsiveness to good news and bad news in narrative disclosure.\\
 	\newline
 	
-	\textbf{Keywords}: \textit{narrative disclosure;  conditional conservatism; timeliness; tone}
+	\textbf{Keywords}: \textit{narrative disclosure;  conditional conservatism; asymmetric responsiveness; tone; textual analysis}
 \end{abstract}
 
 \clearpage
 
+\setcounter{page}{1}
 \section{Introduction}
-\cite{}
+
 %[motivation]
 
 %[setting]
@@ -68,8 +70,21 @@
 The rest of the paper structures as follows: Section 2 develops theoretical framework. Section 3 explains empirical models and data selection. Section 4 presents main results. Section 5 performs robustness checks and Section 6 concludes.
 
 \section{Theoretical Framework}
+\subsection{Reliability/faithful representaton and Timeliness}
 
-\subsection{Content}
+Why 10-Q and 8-K?
+
+Advantage and disadvantage of 10-Q and 8-K?
+
+1) 10-Q contains managerial discussion while 8-K does not (more neutral language)
+
+2) 10-Q is not timely but 8-K is 
+
+\cite{secFinalRuleAdditional2004} announced a reform in 8-K item classification which became effective on May 23rd of 2004 (inclusive), in which SEC states that:
+“\textit{Under the previous Form 8-K regime, companies were required to report very few significant corporate events. The limited number of Form 8-K disclosure items permitted a public company to delay disclosure of many significant events until the due date for its next periodic report. During such a delay, the market was unable to assimilate such undisclosed information into the value of a company's securities. The revisions that we adopt today will benefit markets by increasing the number of unquestionably or presumptively material events that must be disclosed currently. They will also provide investors with better and more timely disclosure of important corporate events.}”
+
+Nature of the two types of filings, why we have ABTONE only for 10-Q and N8K, NITEM only for 8-K?
+
 \begin{center}
 	H1: Narrative disclosure is longer in response to bad news comparing to good news.
 \end{center}
@@ -78,91 +93,115 @@ The rest of the paper structures as follows: Section 2 develops theoretical fram
 	H2: Narrative disclosure is more consistent with news in response to bad news comparing to good news.
 \end{center}
 
-\subsection{Timeliness}
 \begin{center}
 	H3: Narrative disclosure is timelier in response to bad news comparing to good news.
 \end{center}
 
 \section{Research Design}
-\subsection{News proxy: Market Returns}
+\subsection{Model Specification}
+\subsubsection{Form 10-Q}
+10-Q filings are quarterly reports that are filed to SEC within 40 (for accelerated filers) or 45 days (for all other registrants) after fiscal quarter-end according to Section 13 or 15(d) of the Securities Exchange Act of 1934.  Given their stable periodicity, we design the following model to explore how 10-Q filings behave when firms have good versus bad news. 
+\begin{equation} \label{eq1}
+TEX_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
 
-\subsection{Textual properties}
+In Equation (1), QRET denotes the quarterly market-adjusted stock return of firm i at time t. Assuming some degree of market efficiency, stock returns incorporate public and private information and therefore is indicative of good and bad news of firms. %[cite needed]
+NEG is an indicator for bad news, which is set to 1 if QRET is negative and 0 otherwise. \textit{Controls} represents a vector of control variables, which includes firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV) (see \hyperref[appc]{Appendix C} for detailed variable definition). We aim to alleviate some of the omitted unobservable variable bias by controlling for these three firm characteristics, as the three factors can affect stock returns and firm narrative disclosure simultaneously (\cite{liInformationContentForwardLooking2010}, \cite{huangToneManagement2014}). %[specific explanation on each of the controls and cite needed]
+Notice that the right-hand side of Equation (1) resembles the Basu model on conditional conservatism (\cite{basuConservatismPrincipleAsymmetric1997}), in which he studies how earnings respond differently to market returns when the returns are positive versus negative. Our model differs from the Basu model in replacing earnings with several textual variables in order to examine the responses of narrative disclosures to positive versus negative market returns. Specifically, TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG) \footnote{There are two limitations in proxying timeliness of narrative disclosure with 10-Q reporting time lag. First, 10-Q filings shall be filed once every quarter and after fiscal quarter-end, so it cannot be a very timely communication vehicle in responding to the news released during early days in a fiscal quarter, regardless of managerial reporting incentive. Through 10-Q, managers can only bunch information acquired during the fiscal quarter and respond at the quarter-end due to this quarterly report format limitation. Second, apart from narrative disclosures, 10-Q filings also contains quarterly financial statements, so the reporting time lag of 10-Q does not strictly measure the timeliness of narrative disclosure, but the timeliness of disclosure in general. We address this deficiency with 8-K reporting time lag.}. NW is calculated as the natural logarithm of one plus the count of total words. TONE is defined as number of net positive words per thousand total words, which is calculated as total number of positive words minus the sum of total number of negative words and total number of negations, and multiply the previous result by one thousand for ease of interpretation. We follow \cite{loughranWhenLiabilityNot2011} and count negations as cases where negation words \footnote{Negation words include: “no”, “not", “none", “neither", “never", “nobody" (\cite{tottieNegationEnglishSpeech1991}).} occurs within four or fewer words from a positive word. By taking negations of positive words into consideration when calculating tone, we control for the fact that it is common for firms to frame bad news using negated positive words (“did not profit”). We do not control for negations of negative words because firms rarely communicate good news with negated negative words (“did not fail”). TLAG is defined as number of days elapsed between the news release date and document filing date in EDGAR.
 
- \begin{equation}
- 	EARN_{i,t}=\alpha_i+\omega_t+\beta_1RET_{i,t}+\beta_2NEG_{i,t}+\beta_3RET_{i,t}\times NEG_{i,t}+\epsilon_{i,t}
- \end{equation}
+The coefficient of interest in Equation (1) is $\beta_3$, which can be interpreted as the difference in responsiveness of textual properties to good and bad news. If narrative disclosure is conservative, we expect it to be longer, more consistent with news and timelier when firms have bad news. In the case of NW being the dependent variable, $\beta_3^{NW}$ should be negative under H1 because QRET is always negative when NEG equals 1, and therefore the product of the interactive term $\beta_3^{NW}QRET_{i,t}\times NEG_{i,t}$ is positive, which translate into an incremental length in terms of number of words. Following the same logic, $\beta_3^{TLAG}$ of TLAG regression should be positive under H3, which translates into shorter reporting time lag. The interpretation of $\beta_3^{TONE}$ is different from those of the previous two estimates, in the sense that $\beta_3^{TONE}$ represents the incremental consistency between news and tone. We define consistency as the correspondence of positive tone to good news and negative tone to bad news. Under this definition, a positive incremental consistency, which is reflected in Equation (1) as positive $\beta_3^{TONE}$, means that on average, more negative words are used to discuss bad news than positive words are used to discuss good news, given the same magnitude of news impact.
+
+Additionally, we construct an abnormal tone measure (ABTONE) following the expected tone model in \cite{huangToneManagement2014}. ABTONE is calculated as the residual of the following model \footnote{Our expected tone model differs from \cite{huangToneManagement2014} in replacing book-to-market ratio with market-to-book ratio}:
+\begin{equation} \label{eq2}
+\begin{split}
+TONE_{i,t}=\beta_0&+\beta_1EARN_{i,t}+\beta_2RET_{i,t}+\beta_3SIZE_{i,t}+\beta_4MTB_{i,t}+\beta_5STD\_EARN_{i,t}\\
+&+\beta_6STD\_RET_{i,t}+\beta_7AGE_{i,t}+\beta_8BUSSEG_{i,t}+\beta_9GEOSEG_{i,t}+\beta_{10}LOSS_{i,t}\\
+&+\beta_{11}\Delta EARN_{i,t}+\beta_{12}AFE_{i,t}+\beta_{13}AF_{i,t}+\epsilon_{i,t}
+\end{split}
+\end{equation}
+Where TONE is the number of net positive words per thousand total words. Other financial variables are defined in \hyperref[appc]{Appendix C}. As residuals of Equation (2), ABTONE captures the portion in tone that is orthogonal to firm fundamentals such as business complexity, growth opportunities and risk, and therefore is the portion subject to managerial discretion. Our regression result of Equation (2) is consistent with \cite{huangToneManagement2014} \footnote{See result comparison in \hyperref[oat1]{Table 1 of Online Appendix}.}.
+%[explain ABTONE interpretation]
+
+\subsubsection{Form 8-K}
+8-K filings are required to be filed upon the occurrence of any one or more events pertaining to a wide set of pre-specified corporate events, where each type of event is classified as an 8-K \textit{item} (see list of 8-K items in \hyperref[appd]{Appendix D}). 
+%%%% 8-K filing data structure
+8-K filings in EDGAR database have a unique data structure: although most companies only file one 8-K report in one day and each 8-K report usually contains only one or two 8-K items, some firms report more than one 8-K per day and each 8-K may contain more than two items. As we want to analyze the responsiveness of 8-K filings to good and bad news, and our news proxy daily stock return is at firm-day level, we aggregate the raw 8-K data at individual event level into 8-K data at firm-day level by summing up all raw count variables over each firm-day. For instance, the count variable $nw_{i,t}$ in 8-K dataset stands for number of total words in all 8-K filings reported in day t for firm i, instead of number of total words of one specific 8-K filing. We further construct two new variables N8K and NITEM, which are defined as number of 8-K filings reported in one day and number of 8-K items reported in one day, respectively. We call a firm-day “8-K day” if there is at least one 8-K reported for that day.
+
+%%%% 8-K news proxy
+Next, we build our proxy for news under 8-K context. We obtain the daily market-adjusted stock returns (DRET) based on raw data from CRSP and calculate the change in daily returns ($\Delta$DRET). Then, we define a firm-day as a “bad (good) news day” if the negative (positive) change in daily market-adjusted stock return ($\Delta$DRET) is three times larger than the firm's average decrease (increase) in daily return over the calendar year. BN is an indicator for bad news day, which is set to 1 if this firm-day is a bad news day, and 0 if this firm-day is a good news day \footnote{We code BN to missing if the firm-day does not have any news. Therefore, in our final 8-K sample for regression analysis, all observations are either good or bad news firm-days.}. Notice that we define good and bad news differently under 8-K context comparing to the 10-Q context, because daily returns are more volatile than quarterly returns and the sign of daily returns can change constantly merely due to trading noises. Therefore, we only focus on firm-days with sizable changes (three times than annual average) in daily returns, which is more likely to result from significant events happened in the firm and is more likely to reflect fundamental information about the firm.
+
+%%%% 8-K event matching process
+At last, we construct 8-K sample for regression analysis through a matching process as illustrated in \hyperref[fig1]{Figure 1}. The idea of matching is to pair the news releases to firms' responses to the precedent news in form of 8-K filings. Specifically, we match every news day to its first posterior 8-K day, ignoring the successive 8-K days (if any) between two news days (Match-1), or in some cases the 8-K day coincides with news day (Match-2). After matching, we calculate TLAG of 8-K sample as the number of days elapsed between the news release date and document filing date \footnote{All filings in EDGAR have two dates: filing date and reporting period date. Filing date is the date when the document is filed to EDGAR, and reporting period date is the end date of reporting period of the filing. We match by 8-K \textit{reporting period date} because we want to make sure that the 8-K filings reported on a specific date are indeed responses to the news revealed just before, although we acknowledge that the fact that some 8-K filings are reported immediately after a certain news does not guarantee that the 8-K filings are meant to address that news, i.e. time sequence does not necessarily imply association. We calculate TLAG using 8-K \textit{filing date} because we are interested in whether 8-K filings respond to good and bad news in distinct timely manner, allowing for managerial discretion in reporting speed.}. 
+
+After 8-K sample construction, we design the following model to explore how 8-K filings behave when firms have good versus bad news.
+\begin{equation} \label{eq3}
+TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
+Where $\Delta$DRET and BN are changes in daily returns and bad news indicator for firm i \textit{at news release date}, respectively. We deploy $\Delta$DRET rather than DRET in our model because under 8-K context, our bad news indicator BN is defined based on $\Delta$DRET, as opposed to DRET. In Equation (3), \textit{Controls} denotes a vector of control variables \textit{at 8-K filing date}\footnote{Because our measures of firm fundamentals are calculated based on Compustat quarterly data, the variation in firm fundamental measures is very small (if any) either we control for them at news release date (t-tlag) or at 8-K filing date (t), as the average reporting time lag of 8-K is only 23 days.}, which includes firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). We aim to control for these fundamental characteristics that could affect firms reporting policy in order to address some of the omitted unobservable variable bias. TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG), which share the same definition as in 10-Q context. The coefficient of interest in Equation 3 is still $\beta_3$, and its interpretation is the same as that in the context of 10-Q. If narrative disclosure is conservative, we expect it to be longer, more consistent with news and timelier when firms have bad news, which is reflected as negative $\beta_3^{NW}$, positive  $\beta_3^{TONE}$ and positive $\beta_3^{TLAG}$.
 
 \subsection{Data}
+We obtain historical financial data and segment data from Compustat, stock returns from Center for Research in Security Prices (CRSP), analysts’ earnings forecasts data from I/B/E/S. We retrieve 10-Q and 8-K data from EDGAR through a self-developed Python program (see \hyperref[appa]{Appendix A} for detailed description of EDGAR data collection process). First, we successfully parsed and retrieved 575,579 (1,489,626) unique 10-Q (8-K) filings out of 594,017 (1,628,467) existing filings in EDGAR from 1993-Q1 to 2020-Q1. Next, we merge 10-Q and 8-K dataset with other datasets of firm characteristics and market performance. Finally, we screen the merged 10-Q and 8-K dataset according to the following criteria. We eliminate observations with missing value in key accounting and financial-market variables or with beginning-of-quarter stock prices below \$1. In 10-Q sample, we further delete observations without analyst coverage variables. We exclude financial (SIC code between 6000 and 6999) and utility (SIC code between 4900 and 4999) firms because the accounting policy for the former is different from that of other industries, and they are both highly regulated which makes them incomparable to other industries in general. Observations with non-positive total assets or book value of equity, or with negative or longer-than-99\% reporting time lag \footnote{Before truncation, the average reporting time lag for 10-Q is 40 days, but the maximum lag is 4,069 days, which is filed by CPI Corp in 2007-06-21 to report a quarterly result as of 1996-04-27 (see \url{https://www.sec.gov/Archives/edgar/containers/fix041/25354/0001140361-07-012753.txt}). We read some of the 10-Q filings with such extremely long reporting lag but do not find an explanation for the unusual delay. In theory SEC requires 10-Q filings to be filed within 40 or 45 days after fiscal quarter-end (Section 13 or 15(d) of the Securities Exchange Act of 1934), so it remains a puzzle as to why in practice there exists a few accepted filings with such a big delay in EDGAR database. However, for the purpose of this study we eliminate observations with unusual delay. We also perform the 99\% truncation on TLAG for 8-K filings.}, or with less-than-1\% total number of words are dropped. All financial variables except returns are winsorized at 1\% and 99\% level in order to minimize the impact of outliers. Our final 10-Q sample contains 91,606 firm-quarter observations which constitues of observations from 5,250 unique firms from 1993 to 2016. Final 8-K sample contains 244,401 firm-day observations which constitues of observations from 8,876 unique firms from 1993 to 2019. \hyperref[fig2]{Figure 2} illustrates the sample selection process of 10-Q and 8-K filings. Sample size can vary across different test specifications and is stated in each table. 
 
 \section{Results}
-
 \subsection{Summary Statistics}
+\hyperref[T1PA]{Table 1 Panel A} presents summary statistics for key variables in 10-Q sample. The summary statistics of raw word count for positive, negative, uncertainty, litigation and modal words in 10-Q narratives (untabulated) are consistent with LM 10-Q dataset \footnote{Bill McDonald and Tim Loughran created a dataset containing summary data for each individual 10-X (e.g., 10-K, 10-K/A, 10-Q405, etc.) filing, available at \url{https://sraf.nd.edu/textual-analysis/resources/\#LM_10X_Summaries}}. On average, each 10-Q filing contains 10,215 words, with considerable variation across filings. TONE is negative in general and we propose two possible explanations for this. First, the LM sentiment word list contains more negative (2,355) than positive (354) words by construction, so the range of words being classified as negative words is broader than the range of positive words, resulting in larger negative word count than positive word count in general. Second, since optimistic language increases litigation risk (\cite{rogersDisclosureToneShareholder2011}), firms may avoid positive words in 10-Q filings in order to reduce litigation risk. On average, 10-Qs are filed 39 days after fiscal quarter-end, and 75\% of 10-Qs are filed within 44 days after fiscal quarter-end, which are one day before the filing deadline for accelerated filers and all other filers, respectively. This shows that firms do have discretion in reporting speed \footnote{One concern is that the length of reporting time lag may not be fully controlled by firms, as prior auditing literature suggests that a set of auditor characteristics contributes to unexpected audit report lag (\cite{knechelAdditionalEvidenceAudit2001}, \cite{bamberAuditStructureOther1993}), which consequently leads to filing delay in audited financial reports. However, because audit for quarterly filings is not mandated by law, and due to the expensive auditing cost, most 10-Q filings are not audited.}. ABTONE is normally distributed around zero by construction, and its summary statistics is consistent with that in \cite{huangToneManagement2014}.
 
-\subsection{Main Results}
+\hyperref[T1PB]{Table 1 Panel B} presents summary statistics for key variables in 8-K sample. 8-K filings are more neutral in tone comparing to 10-Q filings, with average TONE being almost zero. Also, 8-K filings are more timely responses to news events, with average TLAG being 23 days, which is 16 days sooner than average 10-Q filings. In more than 75\% of our 8-K firm-day observatiosns, there is only one reported 8-K filing per day, and the maximum number of 8-Ks a firm has reported in one day is five. On average, all reported 8-Ks in one day contains 1,258 words in total, which is significantly less than the number of words per 10-Q. Finally, on average firms report two 8-K items per day, with the maximum number being sixteen. \hyperref[fig3]{Figure 3} illustrates the 8-K item distribution before (left) and after (right) May 23rd of 2004, respectively. Each share of pie chart shows the percentage of corporate events reported under each 8-K items. The most commonly reported 8-K items before reform are Item 7: financial statements and exhibits (36.4\%), Item 5: other events (29.6\%) and Item 2: acquisition or disposition of assets (13.8\%), whereas after reform the most frequent ones are Item 9.01: financial statements and exhibits (37.7\%), Item 2.02: results of operations and financial condition (18.9\%) and Item 8.01: other events (9.4\%). Despite of a sharp decline in reporting frequency from 29.6\% to 9.4\%, voluntary disclosure item, i.e. other events, still makes up for a large proportion in total 8-K filings. This indicates that firms indeed use 8-K filings to report events that are not explicitly required but the firms consider important to shareholders, and it further suggests that firms do have discretion in choosing whether, when and how to communicate with the general public via 8-K form. 
 
+\hyperref[T1PC]{Panel C} and \hyperref[T1PD]{Panel D} of Table 1 present correlation matrix of key variables in 10-Q and 8-K sample, respectively. In Panel C, the correlations between ABTONE and other financial variables are close to zero, which verifies the fact that ABTONE captures the portion of discretionary tone that is orthogonal to firm fundamentals. 
+
+\subsection{Is 10-Q narrative disclosure more responsive to bad news than good news?}
+\hyperref[T2PA]{Table 2 Panel A} presents the regression result of \hyperref[eq1]{Equation 1}. Column 2, 4 and 6 include firm and time fixed effects in order to control for unobservable firm characteristics or time trends that may bias our estimation. Furthurmore, given that reporting policy of firms within a same industry may be similar, which could lead to high correlations among observations in textual variables such as NW, TLAG and TONE, we cluster standard errors in Column 2, 4 and 6 at 4-digit SIC code industry level to correct the potential existance of serial correlation in dependent variables (\cite{petersenEstimatingStandardErrors2009}). Our clustering approach yields 375 clusters in 10-Q sample (approximately 244 observations per cluster on average). As predicted by H1, the coefficient of QRET$\times$NEG is significantly negative for NW, consistent with 10-Q narratives being longer in response to bad news comparing to good news. Also, consistent with H2, the coefficient of QRET$\times$NEG is significantly positive for TONE, which suggests that 10-Q narratives are more consistent with news in response to bad news comparing to good news. However, in contrast to H3, the coefficient of QRET$\times$NEG is significantly negative for TLAG, which suggests that 10-Q reporting time lag is incrementally longer in response to bad news comparing to good news, i.e. 10-Q fillings respond to good news in a timlier manner than bad news. This delay in bad news response may appear because firms invest more resource and time on preparing the 10-Q filings in order to analyze and explain the causes of bad news. Due to the two limitations discussed in previous section about proxying timeliness of narrative disclosure with 10-Q reporting time lag, we interpret the TLAG result obtained in 10-Q sample only as supplemental evidence on timeliness of narrative disclosure in general.
+
+In addition to the main hypotheses, we are interested in whether firms use different tone management strategy to influence investors' perception in response to good news versus bad news. We extend \hyperref[eq1]{Equation (1)} to the abnormal tone (ABTONE) proposed by \cite{huangToneManagement2014}, and estimate the following model:
+\begin{equation} \label{eq4}
+ABTONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{equation}
+Where ABTONE measures the discretionary portion of tone that is uncorrelated with firm fundamentals such as business complexity, growth opportunities and risk. Positive (negative) ABTONE indicates that the sentiment of 10-Q filing is more positive (negative) than it should be conditional on firm fundamentals. In Equation (4), positive $\beta_1$ can be obtained only when the signs of returns (QRET) and abnormal tone (ABTONE) agree, suggesting that firms deploy more positive (negative) sentiment than they should in 10-Q filings in response to good (bad) news. Vice versa, negative $\beta_1$ suggests that firms deploy more positive (negative) sentiment than they should in 10-Q filings in response to bad (good) news. We label the phenomenon behind positive $\beta_1$ as \textit{tone exaggeration} and that behind negative $\beta_1$ as \textit{tone attenuation}, which are two different forms of tone management. If none of the two types of tone management is present in 10-Q filings, then $\beta_1$ should not be significantly different from zero. The coefficient of interest in Equation (4) is $\beta_3$, which can be interpreted as the \textit{incremental} tone exaggeration or attenuation in case of bad news comparing to good news, depending on the sign of $\beta_3$.
+
+One key research design issue in estimating \hyperref[eq4]{Equation 4} is that the dependent variable ABTONE is calculated as residuals from \hyperref[eq2]{Equation 2}. \cite{chenIncorrectInferencesWhen2018} points out that using residuals as dependent variables may cause incorrect inferences. Therefore, we apply the following two remedies as suggested in \cite{chenIncorrectInferencesWhen2018}. First, we include all regressors in Equation 2 as control variables in Equation 4. Second, we combine all the model regressors in Equation 2 and Equation 4 into one single-, as opposed to two-step regression, i.e. we estimate the following single-step regression:
+\begin{equation} \label{eq5}
+\begin{split}
+TONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
+\end{split}
+\end{equation}
+Where TONE is number of net positive words per thousand total words and \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB), leverage ratio (LEV) and all other regressors in \hyperref[eq2]{Equation 2}.
+
+\hyperref[T2PB]{Table 2 Panel B} presents the regression result of Equation 4 (Column 1 and 2) and 5 (Column 3 and 4). Column 2 and 4 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. Regression results are very similar (if not identical) between Column 1 and 3 and Column 2 and 4. In both senarios, $\beta_3$ is significantly positive, which suggests that firms tend to exaggerate more the impact of bad news comparing to good news, potentially due to litigation pressure. The significance of $\beta_1$ confirms the existance of tone management in response to good news, although it is not clear whether the commonly applied strategy is tone exaggeration or tone attenuation, as the sign of $\beta_1$ remains indeterminate.
+
+Overall, the results demonstrate that 10-Q filings are generally longer, more consistent with news directionlly and less timelier in response to bad news comparing to good news. Moreover, 10-Q filings tend to exaggerate more the impact of bad news in comparison with good news. 
+
+\subsection{Is 8-K narrative disclosure more responsive to bad news than good news?}
+\hyperref[T3PA]{Table 3 Panel A} presents the regression result of \hyperref[eq3]{Equation 3}. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at 4-digit SIC code industry level. Our clustering approach yields 383 clusters in 8-K sample (approximately 638 observations per cluster on average). As predicted by H1, the coefficient of $\Delta$DRET$\times$NEG is significantly negative for NW, consistent with 8-K narratives being longer in response to bad news comparing to good news. Also, consistent with H2, the coefficient of $\Delta$DRET$\times$NEG is significantly positive for TONE, which suggests that 8-K narratives are more consistent with news in response to bad news comparing to good news. Notice that because 8-K filings are generally shorter and more standardized than 10-Q filings, the tone results obtained in 8-K sample may serve only as supplemental evidence on the faithful representation of narrative disclosure in general. Finally, in line with H3, the coefficient of QRET$\times$NEG is significantly positive for TLAG, which suggests that 8-K reporting time lag is shorter in response to bad news comparing to good news, i.e. 8-K filings respond to bad news in a timelier manner comparing to good news.
+
+We perform three additional tests to assess the responsiveness of 8-K to good versus bad news from three other aspects, making use of the unique data structure of 8-K filings. First, we test whether firms report more 8-K items per day in response to bad news comparing to good news by taking NITEM as dependent variable in \hyperref[eq3]{Equation 3}. Second, we analyze whether firms are more likely to report more 8-K filings per day in response to bad news by estimating an ordered logistics model on N8K (N8K = 1, 2, 3, 4, 5). Last but not least, we restrict our 8-K sample to observations with reporting time lag less than or equal to four calendar days (TLAG = 0, 1, 2, 3, 4)\footnote{We construct this restricted 8-K sample because issuers that are subject to the reporting requirements of Section 13(a) and Section 15(d) of the Exchange Act must file required current reports on Form 8-K within four business days of a triggering event (\cite{secFinalRuleAdditional2004}). Therefore, 8-K filings reported within four days of news release are more likely to be related to the precedent news, as is regulated by law. Our sample selection criterion is more strict than the regulation for two reasons. First, while the regulation requires firms to file 8-K within four business days of a triggering event, we reduce this reporting deadline to four calendar days, which is always shorter or at most equal to four business day. Second, the regulation exempt 8-K filings subjet to item 7.01 and item 8.01 from the four business day reporting deadline, but our restricted sample still apply this reporting deadline to these two items. This more stringent sample selection criterion further ensures that 8-K filings in our restricted sample are indeed responding to precedent news. We repeat our main analysis of 8-K using the restricted sample, and the results (see \hyperref[oat2]{Table 2 of Online Appendix}) remain unchanged. }, and examine whether firms are more likely to report more promptly via 8-K in response to bad news by estimating an ordered logistics model on TLAG using the restricted sample. If the narrative disclosure 8-K is conservative, we expect firm to report more 8-K items and 8-K filings per day in response to bad news comparing to good news, which is reflected as significantly negative $\beta_3^{NITEM}$ and $\beta_3^{N8K}$ \footnote{As $\Delta$DRET is always negative when BN equals to 1, a negative $\beta_3$ makes the interaction term positive, which translates into more 8-K items or filings. Similar reasoning applies to the sign expectation for $\beta_3^{TLAG}$.}. Also, we expect 8-K filings to respond more promptly to bad news, which is reflected as significantly positive $\beta_3^{TLAG}$.
+
+\hyperref[T3PB]{Table 3 Panel B} presents the regression results for three additional tests. Column 1 presents results of NITEM using an ordinary least square (OLS) regression with firm and time fixed effects and clustered standard errors at industry level identified by 4-digit SIC codes. Column 2 and 3 present results of ordered logistics models for N8K and TLAG respectively. Aligned with previous predictions, the coefficients of $\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}$ are significantly negative for NITEM and N8K, and is significantly positive for TLAG.
+
+Overall, the results demonstrate that 8-K filings are generally longer, more consistent with news directionlly and more timelier in response to bad news comparing to good news. Moreover, firms tend to report more 8-K items and filings per day in response to bad news comparing to good news. 
 \section{Robustness Checks}
 
-\subsection{ABTONE}
-
+\subsection{Alternative news proxy}
 \section{Conclusions}
 
 \end{spacing}
 
 \newpage
-\section{Appendix}
-\subsection{Appendix A: 10-Q and 8-K parsing}
-
-\subsection{Appendix B: Financial Variable Definition}
-\begin{table}[H]
-	\centering
-	\begin{tabular}{lp{15cm}p{15cm}}
-		\textbf{Variable} & \textbf{Definition} \\
-		
-		EARN & Quarterly earnings, defined as quarterly earnings before extraordinary items (Compustat data item IBQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
-		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged earnings \\
-		LEV & Leverage ratio, defined as beginning-of-quarter short term debt (Compustat data item DLCQ) plus beginning-of-quarter long term debt (Compustat data item DLTTQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
-		MTB & Market-to-book ratio, defined as beginning-of-quarter market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) divided by beginning-of-quarter book value of equity (Compustat data item CEQQ) \\
-		SIZE & Firm size, defined as the natural logarithm of market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) \\
-		RET & Quarterly market-adjusted stock return, defined as buy-and-hold stock return (CRSP data item RET) over the fiscal quarter adjusted by the value-weighted stock return (CRSP data item VWRETD) over the same period \\
-		NEG & Indicator for negative quarterly return, which is set to 1 when market-adjusted stock return (RET) is negative and 0 otherwise \\
-		AF & Analyst forecast, defined as analyst consensus forecast for one-year-ahead earnings per share, scaled by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
-		AFE & Analyst forecast error, defined as I/B/E/S earnings per share minus the median of the most recent analysts' forecasts, deflated by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
-		BUSSEG & Business segment, defined as the natural logarithm of one plus number of business segments, or one if item is missing from Compustat\\
-		GEOSEG & Geographical segment, defined as the natural logarithm of one plus number of geographical segments, or one if item is missing from Compustat\\
-		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the first entry date of the firm into CRSP monthly database\\
-		STD\textunderscore EARN & Standard deviation of earnings, calculated over the last five quarters\\
-		STD\textunderscore RET & Standard deviation of market-adjusted stock return (RET) over all months in the quarter\\
-		LOSS & Indicator for loss, which is set to 1 when earnings (EARN) is negative and 0 otherwise\\
-		$\Delta$RET & Change in daily market-adjusted stock return, defined as current daily market-adjusted stock return minus one-day-lagged daily market-adjusted stock return \\
-		BN & Indicator for daily bad news, which is set to 1(0) if the daily negative(positive) change in market-adjusted stock return is three times larger than the firm’s annual average decrease(increase) in daily return.\\
-		
-	\end{tabular}%
-\end{table}%
-
-\subsection{Appendix C: Textual Variable Definition}
-\begin{table}[H]
-	\centering
-	\begin{tabular}{lp{15cm}p{15cm}}
-		\textbf{Variable} & \textbf{Definition} \\
-		NW & Number of words, defined as the natural logarithm of one plus the count of total words (nw)\\
-		nw & Raw count of total words\\
-		TONE & Tone, defined as number of net positive words per thousand total words, calculated as total number of positive words minus total number of negative words minus total number of negations and multiply by one thousand\\
-		TLAG & Time lag, defined as number of days elapsed between the news release date (CRSP entry date) and document filing date (EDGAR filing date)\\
-		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional tone model (Eq. 3) in \cite{huangToneManagement2014}\\
-		
-	\end{tabular}%
-\end{table}%
-
-\subsection{Online Appendix}
-Tables of untabulated results can be accessed via this link:
-
-%\href{https://drive.google.com/file/d/1P8XRZRd68AaeMenJVAEf1wEs_eRkLUfu/view?usp=sharing}{https://drive.google.com/file/d/1P8XRZRd68AaeMenJVAEf1wEs_eRkLUfu/view?usp=sharing}.
-
-\newpage
-\bibliographystyle{plainnat}
+\bibliographystyle{apa-good}
 \bibliography{NC}
 
 \newpage
+\include{Figure}
+
+\newpage
 \include{Table}
+
+\newpage
+\include{Appendix}
+
+\newpage
+\setcounter{page}{1}
+\include{OA}
+
 \end{document}
 

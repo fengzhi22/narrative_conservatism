@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  6 MAY 2020 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  19 MAY 2020 00:33
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -376,38 +376,40 @@ Package: authblk 2001/02/27 1.3 (PWD)
 \c@authors=\count279
 \c@affil=\count280
 )
+(E:\MiKTeX\tex/latex/footnotebackref\footnotebackref.sty
+Package: footnotebackref 2012/07/01 v1.0 Backreferences for footnotes (Holger L
+ange)
+\c@BackrefHyperFootnoteCounter=\count281
+)
 (E:\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count281
+\l__kernel_color_stack_int=\count282
 \l__pdf_internal_box=\box51
-) (NC.aux (Table.aux
+) (NC.aux (Figure.aux
 
-LaTeX Warning: Label `tab:addlabel' multiply defined.
+LaTeX Warning: Label `fig2' multiply defined.
 
-
-LaTeX Warning: Label `tab:addlabel' multiply defined.
-
-))
+) (Table.aux) (Appendix.aux) (OA.aux))
 \openout1 = `NC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-7.
+8.
  (E:\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -447,16 +449,16 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 (E:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
+\scratchcounter=\count283
 \scratchdimen=\dimen184
 \scratchbox=\box52
-\nofMPsegments=\count283
-\nofMParguments=\count284
+\nofMPsegments=\count284
+\nofMParguments=\count285
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count285
+\MPscratchCnt=\count286
 \MPscratchDim=\dimen185
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
 \everyMPtoPDFconversion=\toks29
 ) (E:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -472,7 +474,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 \AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 28.
 
 (E:\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -483,11 +485,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (E:\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count288
+\c@section@level=\count289
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
  (NC.out) (NC.out)
 \@outlinefile=\write3
 \openout3 = `NC.out'.
@@ -495,210 +497,190 @@ LaTeX Info: Redefining \nameref on input line 27.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
 
 (E:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
  (E:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-2.
+3.
 
 (E:\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
-2.
- (E:\MiKTeX\tex/latex/psnfss\ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--50
+Underfull \hbox (badness 10000) in paragraph at lines 47--51
 
  []
 
 [1
 
-{C:/Users/fengzhi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2
+{C:/Users/fengzhi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]pdfTeX war
+ning (ext4): destination with the same identifier (name{page.1}) has been alrea
+dy used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.104 \begin{equation}
+                       \label{eq1} [1
 
-] [3]
-Overfull \hbox (16.80421pt too wide) in paragraph at lines 118--140
- [][] 
+] [2] [3] [4] [5] [6] [7] [8] [9] [10]
+(NC.bbl
+Underfull \hbox (badness 2012) in paragraph at lines 72--76
+[]\OT1/ptm/m/n/10 SEC (2009).  Fi-nal Rule: In-ter-ac-tive Data to Im-prove Fi-
+nan-cial Re-port-ing; Rel. No. 33-9002; S7-11-08.
  []
 
+) [11]
+\openout2 = `Figure.aux'.
 
-Overfull \hbox (7.46434pt too wide) in paragraph at lines 145--154
- [][] 
- []
+ (Figure.tex
+<../output/fig/fig1_matching.png, id=290, 588.39825pt x 102.98476pt>
+File: ../output/fig/fig1_matching.png Graphic file (type png)
+<use ../output/fig/fig1_matching.png>
+Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
-[4] (NC.bbl) [5]
+(pdftex.def)             Requested size: 353.04167pt x 61.7913pt.
+ (../output/fig/fig2_8-K_item_distrbution.tex
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
+0.
+
+(E:\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+)
+<../output/fig/fig3_8-K_before.png, id=292, 433.62pt x 289.08pt>
+File: ../output/fig/fig3_8-K_before.png Graphic file (type png)
+<use ../output/fig/fig3_8-K_before.png>
+Package pdftex.def Info: ../output/fig/fig3_8-K_before.png  used on input line 
+19.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+<../output/fig/fig3_8-K_after.png, id=293, 433.62pt x 289.08pt>
+File: ../output/fig/fig3_8-K_after.png Graphic file (type png)
+<use ../output/fig/fig3_8-K_after.png>
+Package pdftex.def Info: ../output/fig/fig3_8-K_after.png  used on input line 2
+0.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+) [12
+
+ <../output/fig/fig1_matching.png> <../output/fig/fig3_8-K_before.png> <../outp
+ut/fig/fig3_8-K_after.png>]
 \openout2 = `Table.aux'.
 
- (Table.tex [6
 
-] [7]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 765.37906pt, 51.21504pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=765.37906pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-80.81725pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- [8
-
-
-] [9
-
+(Table.tex (../output/table/T1PA.tex) (../output/table/T1PB.tex) [13
 
 
 ]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(48.36958pt, 739.77176pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=739.77176pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-60.9004pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+(../output/table/T1PC.tex) [14
 
- [10
-
-
-] [11
+] (../output/table/T1PD.tex) [15
 
 ]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=540.60239pt
-* \textheight=731.23584pt
-* \oddsidemargin=-43.81725pt
-* \evensidemargin=-43.81725pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
-* \headsep=25.0pt
-* \topskip=10.0pt
-* \footskip=30.0pt
-* \marginparwidth=57.0pt
-* \marginparsep=11.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+(../output/table/T2PA.tex) [16] (../output/table/T2PB.tex) [17]
+(../output/table/T3PA.tex) [18] (../output/table/T3PB.tex)pdfTeX warning (ext4)
+: destination with the same identifier (name{equation.6.3}) has been already us
+ed, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.6.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.6.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.6.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.66 \begin{equation}
+                     ) [19]
+\openout2 = `Appendix.aux'.
+
+ (Appendix.tex
+Overfull \hbox (7.46434pt too wide) in paragraph at lines 24--35
+ [][] 
+ []
 
 
+Overfull \hbox (16.80421pt too wide) in paragraph at lines 41--63
+ [][] 
+ []
 
-LaTeX Warning: Command \textunderscore invalid in math mode on input line 362.
-
-[12
-
-
-]) [13
+[20
 
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
- (NC.aux (Table.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+] [21] (../output/fig/fig4_8-K_item_list.tex
+Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
+ [][] 
+ []
+
+)) [22]
+\openout2 = `OA.aux'.
+
+ (OA.tex (../output/table/OAT1.tex)pdfTeX warning (ext4): destination with the 
+same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 \newpage
+              [1
+
+
+] (../output/table/OAT2.tex))pdfTeX warning (ext4): destination with the same i
+dentifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.204 \include{OA}
+                   [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
+ (NC.aux (Figure.aux) (Table.aux) (Appendix.aux) (OA.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `NC.out' has not changed.
-(rerunfilecheck)             Checksum: D32FDA70169279D5929D73947EE747C3;1162.
+(rerunfilecheck)             Checksum: D282B9D1E92F7A5E2353E24FCE28230D;1464.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
- 8566 strings out of 480930
- 126726 string characters out of 2917961
- 418660 words of memory out of 3000000
- 24186 multiletter control sequences out of 15000+200000
- 561398 words of font info for 81 fonts, out of 3000000 for 9000
+ 8846 strings out of 480930
+ 133357 string characters out of 2917961
+ 425743 words of memory out of 3000000
+ 24320 multiletter control sequences out of 15000+200000
+ 564973 words of font info for 85 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,43p,1021b,355s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,2888b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/MiKTeX/fonts/enc/dvips/base/8r.enc}<E:/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmex10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><E:/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/urw/courier/ucrr8
-a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/ti
-mes/utmr8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on NC.pdf (13 pages, 157640 bytes).
+/cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><E:/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/t
+imes/utmr8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on NC.pdf (25 pages, 315940 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 499 PDF objects out of 1000 (max. 8388607)
+ 124 named destinations out of 1000 (max. 500000)
+ 184 words of extra memory for PDF output out of 10000 (max. 10000000)
 

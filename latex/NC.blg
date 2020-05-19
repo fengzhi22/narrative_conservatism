@@ -1,49 +1,50 @@
 This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: NC.aux
-The style file: plainnat.bst
+The style file: apa-good.bst
+A level-1 auxiliary file: Figure.aux
 A level-1 auxiliary file: Table.aux
+A level-1 auxiliary file: Appendix.aux
+A level-1 auxiliary file: OA.aux
 Database file #1: NC.bib
-Warning--I didn't find a database entry for ""
-You've used 1 entry,
-            2773 wiz_defined-function locations,
-            602 strings with 5015 characters,
-and the built_in function-call counts, 586 in all, are:
-= -- 54
-> -- 30
-< -- 0
-+ -- 10
-- -- 9
-* -- 57
-:= -- 95
-add.period$ -- 5
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 21
-empty$ -- 44
-format.name$ -- 10
-if$ -- 115
+You've used 12 entries,
+            2804 wiz_defined-function locations,
+            671 strings with 7187 characters,
+and the built_in function-call counts, 6397 in all, are:
+= -- 535
+> -- 206
+< -- 9
++ -- 82
+- -- 66
+* -- 471
+:= -- 1008
+add.period$ -- 36
+call.type$ -- 12
+change.case$ -- 81
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 476
+empty$ -- 502
+format.name$ -- 94
+if$ -- 1231
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 15
-num.names$ -- 4
-pop$ -- 8
+missing$ -- 99
+newline$ -- 67
+num.names$ -- 48
+pop$ -- 165
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 70
 quote$ -- 0
-skip$ -- 15
+skip$ -- 174
 stack$ -- 0
-substring$ -- 33
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 355
+swap$ -- 263
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 11
+type$ -- 105
 warning$ -- 0
-while$ -- 5
+while$ -- 54
 width$ -- 0
-write$ -- 24
-(There was 1 warning)
+write$ -- 160
