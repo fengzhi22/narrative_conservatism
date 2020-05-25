@@ -1,21 +1,18 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Theoretical Framework}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Reliability/faithful representaton and Timeliness}{section.2}% 3
-\BOOKMARK [1][-]{section.3}{Research Design}{}% 4
-\BOOKMARK [2][-]{subsection.3.1}{Model Specification}{section.3}% 5
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Form 10-Q}{subsection.3.1}% 6
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Form 8-K}{subsection.3.1}% 7
-\BOOKMARK [2][-]{subsection.3.2}{Data}{section.3}% 8
-\BOOKMARK [1][-]{section.4}{Results}{}% 9
-\BOOKMARK [2][-]{subsection.4.1}{Summary Statistics}{section.4}% 10
-\BOOKMARK [2][-]{subsection.4.2}{Is 10-Q narrative disclosure more responsive to bad news than good news?}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.3}{Is 8-K narrative disclosure more responsive to bad news than good news?}{section.4}% 12
-\BOOKMARK [1][-]{section.5}{Robustness Checks}{}% 13
-\BOOKMARK [2][-]{subsection.5.1}{Alternative news proxy}{section.5}% 14
-\BOOKMARK [1][-]{section.6}{Conclusions}{}% 15
-\BOOKMARK [1][-]{section.7}{Appendix}{}% 16
-\BOOKMARK [2][-]{subsection.7.1}{Appendix A: 10-Q and 8-K parsing}{section.7}% 17
-\BOOKMARK [2][-]{subsection.7.2}{Appendix B: Textual Variable Definition}{section.7}% 18
-\BOOKMARK [2][-]{subsection.7.3}{Appendix C: Financial Variable Definition}{section.7}% 19
-\BOOKMARK [2][-]{subsection.7.4}{Appendix D: 8-K Item List}{section.7}% 20
-\BOOKMARK [1][-]{section.8}{Online Appendix}{}% 21
+\BOOKMARK [2][-]{subsection.2.1}{Numerical and Narrative Conservatism}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Narrative Disclosure Corpora and News Proxy}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Research Design}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Model Specification}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Form 10-Q}{subsection.3.1}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Form 8-K}{subsection.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Data}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Results}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Summary Statistics}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Is 10-Q narrative disclosure more responsive to bad news than good news?}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Is 8-K narrative disclosure more responsive to bad news than good news?}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Auxiliary Analysis}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Alternative News Proxy}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Various Sections of Narratives in 10-Q}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Interaction Between Numerical and Narrative Conservatism}{section.5}% 17
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 18

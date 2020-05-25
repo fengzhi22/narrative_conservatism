@@ -11,6 +11,7 @@ import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_
 
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"
+// winsor2 RET, cuts(1 99)
 gen RET_NEG = RET*NEG
 
 **** Table 2 - Panel A: Main regressions
@@ -116,7 +117,8 @@ import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.c
 
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"
-gen RET_BN = RET*BN
+// gen RET_BN = RET*BN
+// winsor2 DRET, cuts(1 99)
 gen DRET_BN = DRET*BN
 
 **** Table 4: DRET main results
@@ -147,8 +149,17 @@ outreg2 using "..\output\Table_3-Panel_A.xml", append excel ctitle(TLAG) addtext
 **** read crsp_comp_edgar_8-K_restricted.csv
 import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K_restricted.csv", case(preserve) stringcols(2) clear
 
-**** Drop obs. if TLAG > 4
-drop if TLAG > 4
+// // **** Drop obs. if is regfd (9, 7.01) or other events (5, 8.01)
+// drop if item_801 >=1
+// drop if item_701 >=1
+// drop if item_5 >=1
+// drop if item_9 >=1
+
+// **** Drop obs. if is TLAG > 4 (after 20040523) or TLAG > 5 (before 20040523)
+gen rp1 = date(rp,"YMD")
+gen before2004=(rp1<date("May 23 2004","MDY"))
+drop if before2004 == 1 & TLAG > 5
+drop if before2004 == 0 & TLAG > 4
 
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"
@@ -206,8 +217,11 @@ global fin_controls "SIZE MTB LEV"
 gen RET_BN = RET*BN
 gen DRET_BN = DRET*BN
 
-**** Drop obs. with TLAG > 4
-drop if TLAG > 4
+// **** Drop obs. if is TLAG > 4 (after 20040523) or TLAG > 5 (before 20040523)
+gen rp1 = date(rp,"YMD")
+gen before2004=(rp1<date("May 23 2004","MDY"))
+drop if before2004 == 1 & TLAG > 5
+drop if before2004 == 0 & TLAG > 4
 
 **** TABLE 3 - Panel B: TLAG ordered logistics model 8-K_restricted
 

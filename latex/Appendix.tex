@@ -1,5 +1,5 @@
-\section{Appendix}
-\subsection{Appendix A: 10-Q and 8-K parsing}
+\section*{Appendix}
+\subsection*{Appendix A: 10-Q and 8-K parsing}
 \label{appa}
 We develop a Python program to automatically parse, process and retrieve 10-K and 8-K filings from EDGAR database. Our algorithm consists of the following steps:
 
@@ -7,17 +7,17 @@ We develop a Python program to automatically parse, process and retrieve 10-K an
 
 2. Filter all 10-Q and 8-K filings \footnote{Our analysis exclude amendments such as 10-Q/A and 8-K/A} from EDGAR master index files and obtain url of the \textit{filing detail} webpage \footnote{One example is \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/0000320193-20-000050-index.html}} for each of the 10-Q and 8-K filings. 
 
-3. Extract i) identification information \footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and ii) url of report in HTM/TXT format \footnote{One example of report in HTM format is \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. Normally all filings in XML format are also available in HTM format. We manually checked 100 random filings that are in XML format, and all of them are also available in HTM format with the same content. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exibits and press release etc. However, the HTM files only contain the main report. We mainly focus on HTM files other than TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
+3. Extract i) identification information \footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and ii) url of report in HTM/TXT format \footnote{One example of report in HTM format is \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. Normally all filings in XML format are also available in HTM format. We manually checked 100 random filings that are in XML format, and all of them are also available in HTM format with the same content. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exhibits and press release etc. However, the HTM files only contain the main report. We mainly focus on HTM files other than TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
 
 4. Parse and cleanse \footnote{Cleansing steps are: a) delete nondisplay section; b) delete all tables that contains more than 4 numbers; and c) delete all HTML tags} all 10-Q and 8-K filings with url of HTM/TXT format report, using \textit{beautiful soup} \footnote{Package documentation available at \url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}} package. 
 
 5. Save all clean 10-Q and 8-K filings to local device. 
 
-6. Perform word count on clean 10-Q and 8-K filings using LM dictionary (\cite{loughranWhenLiabilityNot2011})\footnote{LM dictionary available at \url{https://sraf.nd.edu/textual-analysis/resources/\#LM\%20Sentiment\%20Word\%20Lists}}. 
+6. Perform word count on clean 10-Q and 8-K filings using LM dictionary \footnote{LM dictionary available at \url{https://sraf.nd.edu/textual-analysis/resources/\#LM\%20Sentiment\%20Word\%20Lists}}. 
 
 All Python scripts and data are available online via \url{https://github.com/fengzhi22/narrative_conservatism}.
 
-\subsection{Appendix B: Textual Variable Definition}
+\subsection*{Appendix B: Textual Variable Definition}
 \label{appb}
 \begin{table}[H]
 	\centering
@@ -34,7 +34,7 @@ All Python scripts and data are available online via \url{https://github.com/fen
 	\end{tabular}%
 \end{table}%
 
-\subsection{Appendix C: Financial Variable Definition}
+\subsection*{Appendix C: Financial Variable Definition}
 \label{appc}
 \begin{table}[H]
 	\centering
@@ -62,6 +62,6 @@ All Python scripts and data are available online via \url{https://github.com/fen
 	\end{tabular}%
 \end{table}%
 \newpage
-\subsection{Appendix D: 8-K Item List}
+\subsection*{Appendix D: 8-K Item List}
 \label{appd}
 \input{../output/fig/fig4_8-K_item_list}
