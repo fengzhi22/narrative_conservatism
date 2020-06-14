@@ -1,64 +1,67 @@
-%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 1 Panel A + TABLE 1 Panel B
-%\begin{landscape}
-\input{../output/table/T1PA}
-\input{../output/table/T1PB}
-Table 1 Panel A and Table 1 Panel B present summary statistics for key variables in 10-Q and 8-K sample. All financial variables except returns are winsorized at 1\% and 99\% level. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions.
-%\end{landscape}
-
-%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 1 Panel C + TABLE 1 Panel D
+%%%%%%%%%%%%%% Table 1: Sample Selection Process
+\input{../output/table/T1}
 \newpage
-\begin{landscape}
-\input{../output/table/T1PC}
-\input{../output/table/T1PD}
-Table 1 Panel C and Table 1 Panel D present correlation matrix for key variables in 10-Q and 8-K sample. Pearson (Spearman) correlations are exhibited in right-top (left-bottom) matrix. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. 
-\end{landscape}
-
-%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 Panel A
-\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 Panel A + TABLE 2 Panel B
 %\begin{landscape}
 \input{../output/table/T2PA}
-\setcounter{equation}{0}
-\begin{equation}
-TEX_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
-\end{equation}
-
-Table 2 Panel A presents regression results of Equation (1). TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+\input{../output/table/T2PB}
+Table 2 Panel A and Table 2 Panel B present summary statistics for key variables in 10-Q and 8-K sample. All financial variables except returns are winsorized at 1\% and 99\% level. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions.
 %\end{landscape}
 
-%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 Panel B
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 2 Panel C + TABLE 2 Panel D
 \newpage
-\input{../output/table/T2PB}
-\setcounter{equation}{3}
-\begin{equation}
-ABTONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
-\end{equation}
-\begin{equation}
-\begin{split}
-TONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nControls_{i,t}+\epsilon_{i,t}
-\end{split}
-\end{equation}
-
-Table 2 Panel B presents regression results of Equation (4) (Column 1 and 2) and Equation (5) (Column 2 and 3). \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB), leverage ratio (LEV) and all other regressors in \hyperref[eq2]{Equation 2}. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2 and 4 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+\begin{landscape}
+\input{../output/table/T2PC}
+\input{../output/table/T2PD}
+Table 2 Panel C and Table 2 Panel D present correlation matrix for key variables in 10-Q and 8-K sample. Pearson (Spearman) correlations are exhibited above (below) diagonal. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. 
+\end{landscape}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% TABLE 3 Panel A
 \newpage
 %\begin{landscape}
 \input{../output/table/T3PA}
-\setcounter{equation}{2}
+\setcounter{equation}{0}
 \begin{equation}
-TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nControls_{i,t}+\epsilon_{i,t}
+TEX_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
 \end{equation}
 
-Table 3 Panel A presents regression results of Equation (3). TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+Table 3 Panel A presents regression results of Equation (1). TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). CONTROLS denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
 %\end{landscape}
 
 %%%%%%%%%%%%%%%%%%%%%%%%% TABLE 3 Panel B
 \newpage
-%\begin{landscape}
 \input{../output/table/T3PB}
-\setcounter{equation}{2}
+\setcounter{equation}{3}
 \begin{equation}
-TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nControls_{i,t}+\epsilon_{i,t}
+ABTONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
+\end{equation}
+\begin{equation}
+\begin{split}
+TONE_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
+\end{split}
 \end{equation}
 
-Table 3 Panel B presents regression results of Equation (3) with TEX being NITEM (Column 1), N8K (Column 2) and TLAG (Column 3), respectively. \textit{Controls} denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). Column 1 presents results of an ordinary least square (OLS) regression with firm and time fixed effects and clustered standard errors at industry level identified by 4-digit SIC codes. Column 2 and 3 present results of ordered logistics models. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+Table 3 Panel B presents regression results of Equation (4) (Column 1 and 2) and Equation (5) (Column 3 and 4). CONTROLS denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB), leverage ratio (LEV) and all other regressors in \hyperref[eq2]{Equation 2}. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2 and 4 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 4 Panel A
+\newpage
+%\begin{landscape}
+\input{../output/table/T4PA}
+\setcounter{equation}{2}
+\begin{equation}
+TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
+\end{equation}
+
+Table 4 Panel A presents regression results of Equation (3). TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). CONTROLS denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+%\end{landscape}
+
+%%%%%%%%%%%%%%%%%%%%%%%%% TABLE 4 Panel B
+\newpage
+%\begin{landscape}
+\input{../output/table/T4PB}
+\setcounter{equation}{2}
+\begin{equation}
+TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
+\end{equation}
+
+Table 4 Panel B presents regression results of Equation (3), with TEX being NITEM (Column 1), N8K (Column 2) and TLAG (Column 3) respectively. CONTROLS denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). Column 1 presents the result of an ordinary least square (OLS) regression with firm and time fixed effects and clustered standard errors at industry level identified by 4-digit SIC codes. Column 2 and 3 present the results of ordered logistics models. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.

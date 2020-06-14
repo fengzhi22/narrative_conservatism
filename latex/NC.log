@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  25 MAY 2020 01:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  13 JUN 2020 00:27
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -330,29 +330,22 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 )
 (E:\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (E:\MiKTeX\tex/latex/natbib\natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip59
-\bibsep=\skip60
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count277
-)
-(E:\MiKTeX\tex/latex/tools\verbatim.sty
+) (E:\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks24
 \verbatim@line=\toks25
 \verbatim@in@stream=\read2
-)
-(E:\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (E:\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
- (E:\MiKTeX\tex/latex/tools\array.sty
+
+(E:\MiKTeX\tex/latex/tools\array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen182
 \ar@mcellbox=\box49
 \extrarowheight=\dimen183
 \NC@list=\toks26
-\extratabsurround=\skip61
-\backup@length=\skip62
+\extratabsurround=\skip59
+\backup@length=\skip60
 \ar@cellbox=\box50
 ) (E:\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
@@ -363,53 +356,68 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 \everycr=\toks27
-\minrowclearance=\skip63
+\minrowclearance=\skip61
 )
 (E:\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 (E:\MiKTeX\tex/latex/preprint\authblk.sty
 Package: authblk 2001/02/27 1.3 (PWD)
-\affilsep=\skip64
-\@affilsep=\skip65
-\c@Maxaffil=\count278
-\c@authors=\count279
-\c@affil=\count280
+\affilsep=\skip62
+\@affilsep=\skip63
+\c@Maxaffil=\count277
+\c@authors=\count278
+\c@affil=\count279
 )
 (E:\MiKTeX\tex/latex/footnotebackref\footnotebackref.sty
 Package: footnotebackref 2012/07/01 v1.0 Backreferences for footnotes (Holger L
 ange)
-\c@BackrefHyperFootnoteCounter=\count281
+\c@BackrefHyperFootnoteCounter=\count280
 )
+(E:\MiKTeX\tex/latex/apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count281
+\bibleftmargin=\skip64
+\bibindent=\skip65
+\bibparsep=\skip66
+\bibitemsep=\skip67
+\biblabelsep=\skip68
+)
+(E:\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip69
+\bibsep=\skip70
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count282
+)
+LaTeX Info: Redefining \BBA on input line 22.
+
 (E:\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count282
+\l__kernel_color_stack_int=\count283
 \l__pdf_internal_box=\box51
-) (NC.aux (Figure.aux
-
-LaTeX Warning: Label `fig2' multiply defined.
-
-) (Table.aux) (Appendix.aux) (OA.aux))
+) (NC.aux (Figure.aux)
+(Table.aux) (Appendix.aux) (OA.aux))
 \openout1 = `NC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+0.
  (E:\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -449,16 +457,16 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 (E:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
+\scratchcounter=\count284
 \scratchdimen=\dimen184
 \scratchbox=\box52
-\nofMPsegments=\count284
-\nofMParguments=\count285
+\nofMPsegments=\count285
+\nofMParguments=\count286
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count286
+\MPscratchCnt=\count287
 \MPscratchDim=\dimen185
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
 \everyMPtoPDFconversion=\toks29
 ) (E:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -474,7 +482,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 \AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 30.
 
 (E:\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -485,11 +493,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (E:\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count290
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
  (NC.out) (NC.out)
 \@outlinefile=\write3
 \openout3 = `NC.out'.
@@ -497,29 +505,29 @@ LaTeX Info: Redefining \nameref on input line 28.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
+\c@maskedRefs=\count291
 
+(E:\MiKTeX\tex/latex/apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
 
-(E:\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (E:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
 
  (E:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-3.
-
-(E:\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+5.
+ (E:\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--51
+Underfull \hbox (badness 10000) in paragraph at lines 52--57
 
  []
 
@@ -530,81 +538,80 @@ ning (ext4): destination with the same identifier (name{page.1}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.67 
+l.74 
       [1
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] (NC.bbl
-[15]) [16]
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
+[16] [17] [18] (NC.bbl [19]) [20]
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=392, 588.39825pt x 102.98476pt>
+<../output/fig/fig1_matching.png, id=535, 460.72125pt x 79.497pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
-(pdftex.def)             Requested size: 353.04167pt x 61.7913pt.
- (../output/fig/fig2_8-K_item_distrbution.tex
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-0.
-
-(E:\MiKTeX\tex/latex/psnfss\omsptm.fd
-File: omsptm.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
-)
-<../output/fig/fig3_8-K_before.png, id=394, 433.62pt x 289.08pt>
-File: ../output/fig/fig3_8-K_before.png Graphic file (type png)
-<use ../output/fig/fig3_8-K_before.png>
-Package pdftex.def Info: ../output/fig/fig3_8-K_before.png  used on input line 
-19.
+(pdftex.def)             Requested size: 276.43488pt x 47.69855pt.
+<../output/fig/fig2_8-K_before.png, id=537, 433.62pt x 289.08pt>
+File: ../output/fig/fig2_8-K_before.png Graphic file (type png)
+<use ../output/fig/fig2_8-K_before.png>
+Package pdftex.def Info: ../output/fig/fig2_8-K_before.png  used on input line 
+15.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<../output/fig/fig3_8-K_after.png, id=395, 433.62pt x 289.08pt>
-File: ../output/fig/fig3_8-K_after.png Graphic file (type png)
-<use ../output/fig/fig3_8-K_after.png>
-Package pdftex.def Info: ../output/fig/fig3_8-K_after.png  used on input line 2
-0.
+<../output/fig/fig2_8-K_after.png, id=538, 433.62pt x 289.08pt>
+File: ../output/fig/fig2_8-K_after.png Graphic file (type png)
+<use ../output/fig/fig2_8-K_after.png>
+Package pdftex.def Info: ../output/fig/fig2_8-K_after.png  used on input line 1
+6.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-) [17
+) [21
 
- <../output/fig/fig1_matching.png> <../output/fig/fig3_8-K_before.png> <../outp
-ut/fig/fig3_8-K_after.png>]
+ <../output/fig/fig1_matching.png> <../output/fig/fig2_8-K_before.png> <../outp
+ut/fig/fig2_8-K_after.png>]
 \openout2 = `Table.aux'.
 
 
-(Table.tex (../output/table/T1PA.tex) (../output/table/T1PB.tex) [18
+(Table.tex (../output/table/T1.tex
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
+1.
+ (E:\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
+)
+[22
 
+
+] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [23]
+(../output/table/T2PC.tex) (../output/table/T2PD.tex) [24
 
 ]
-(../output/table/T1PC.tex) (../output/table/T1PD.tex) [19
+(../output/table/T3PA.tex) [25
 
-]
-(../output/table/T2PA.tex) [20
-
-] (../output/table/T2PB.tex) [21]
-(../output/table/T3PA.tex) [22] (../output/table/T3PB.tex)pdfTeX warning (ext4)
+] (../output/table/T3PB.tex) [26]
+(../output/table/T4PA.tex) [27] (../output/table/T4PB.tex)pdfTeX warning (ext4)
 : destination with the same identifier (name{equation.6.3}) has been already us
 ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \begin{equation}
+l.63 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \begin{equation}
+l.63 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \begin{equation}
+l.63 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \begin{equation}
-                     ) [23]
+l.63 \begin{equation}
+                     ) [28]
 \openout2 = `Appendix.aux'.
 
  (Appendix.tex
@@ -617,10 +624,10 @@ Overfull \hbox (16.80421pt too wide) in paragraph at lines 41--63
  [][] 
  []
 
-[24
+[29
 
 
-] [25] (../output/fig/fig4_8-K_item_list.tex
+] [30] (../output/table/appd.tex
 Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
  [][] 
  []
@@ -629,7 +636,7 @@ Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
 Overfull \vbox (7.95602pt too high) has occurred while \output is active []
 
 
-[26]
+[31]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.tex)pdfTeX warning (ext4): destination with the 
@@ -664,29 +671,25 @@ l.21 \begin{equation}
 er (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.228 \include{OA}
+l.269 \include{OA}
                    [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
  (NC.aux (Figure.aux) (Table.aux) (Appendix.aux) (OA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
 Package rerunfilecheck Info: File `NC.out' has not changed.
-(rerunfilecheck)             Checksum: 00F6776D7B2492CFE6159A19F966B7B7;1307.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
+(rerunfilecheck)             Checksum: 48282F04F833015BFE700F148381D4A0;1553.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
  ) 
 Here is how much of TeX's memory you used:
- 8927 strings out of 480930
- 136265 string characters out of 2917961
- 428768 words of memory out of 3000000
- 24374 multiletter control sequences out of 15000+200000
- 564973 words of font info for 85 fonts, out of 3000000 for 9000
+ 9450 strings out of 480930
+ 145799 string characters out of 2917961
+ 437199 words of memory out of 3000000
+ 24860 multiletter control sequences out of 15000+200000
+ 563289 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,2923b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,3388b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/MiKTeX/fonts/enc/dvips/base/8r.enc}<E:/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
@@ -694,11 +697,12 @@ cm/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y7.pfb><E:/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/t
-imes/utmr8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on NC.pdf (29 pages, 349222 bytes).
+y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
+e1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><E:/MiKTeX/
+fonts/type1/urw/times/utmri8a.pfb>
+Output written on NC.pdf (34 pages, 396871 bytes).
 PDF statistics:
- 598 PDF objects out of 1000 (max. 8388607)
- 151 named destinations out of 1000 (max. 500000)
- 160 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 757 PDF objects out of 1000 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
+ 184 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,18 +1,21 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Theoretical Framework}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Numerical and Narrative Conservatism}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Narrative Disclosure Corpora and News Proxy}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Research Design}{}% 5
-\BOOKMARK [2][-]{subsection.3.1}{Model Specification}{section.3}% 6
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Form 10-Q}{subsection.3.1}% 7
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Form 8-K}{subsection.3.1}% 8
-\BOOKMARK [2][-]{subsection.3.2}{Data}{section.3}% 9
-\BOOKMARK [1][-]{section.4}{Results}{}% 10
-\BOOKMARK [2][-]{subsection.4.1}{Summary Statistics}{section.4}% 11
-\BOOKMARK [2][-]{subsection.4.2}{Is 10-Q narrative disclosure more responsive to bad news than good news?}{section.4}% 12
-\BOOKMARK [2][-]{subsection.4.3}{Is 8-K narrative disclosure more responsive to bad news than good news?}{section.4}% 13
-\BOOKMARK [1][-]{section.5}{Auxiliary Analysis}{}% 14
-\BOOKMARK [2][-]{subsection.5.1}{Alternative News Proxy}{section.5}% 15
-\BOOKMARK [2][-]{subsection.5.2}{Various Sections of Narratives in 10-Q}{section.5}% 16
-\BOOKMARK [2][-]{subsection.5.3}{Interaction Between Numerical and Narrative Conservatism}{section.5}% 17
-\BOOKMARK [1][-]{section.6}{Conclusions}{}% 18
+\BOOKMARK [2][-]{subsection.2.1}{Recognition and Disclosure}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Recognition and Narrative Conservatism: Definition}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Recognition and Narrative Conservatism: Usefulness}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Research Design}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Narrative Disclosure Corpora and News Proxy}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Model Specification}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Form 10-Q}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Form 8-K}{subsection.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Data}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Results}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Summary Statistics}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Is 10-Q narrative disclosure more responsive to bad news than good news?}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.3}{Is 8-K narrative disclosure more responsive to bad news than good news?}{section.4}% 15
+\BOOKMARK [1][-]{section.5}{Auxiliary Analysis}{}% 16
+\BOOKMARK [2][-]{subsection.5.1}{Reg FD}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.2}{Alternative News Proxy}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.3}{Various Sections of Narratives in 10-Q}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.4}{Interaction Between Reporting and Narrative Conservatism}{section.5}% 20
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 21

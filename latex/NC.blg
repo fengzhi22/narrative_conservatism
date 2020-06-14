@@ -1,50 +1,60 @@
 This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: NC.aux
-The style file: apa-good.bst
+The style file: apacite.bst
 A level-1 auxiliary file: Figure.aux
 A level-1 auxiliary file: Table.aux
 A level-1 auxiliary file: Appendix.aux
 A level-1 auxiliary file: OA.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: NC.bib
-You've used 30 entries,
-            2804 wiz_defined-function locations,
-            786 strings with 10819 characters,
-and the built_in function-call counts, 16454 in all, are:
-= -- 1374
-> -- 566
-< -- 20
-+ -- 220
-- -- 183
-* -- 1250
-:= -- 2572
-add.period$ -- 90
-call.type$ -- 30
-change.case$ -- 209
-chr.to.int$ -- 29
-cite$ -- 30
-duplicate$ -- 1221
-empty$ -- 1274
-format.name$ -- 263
-if$ -- 3168
-int.to.chr$ -- 2
-int.to.str$ -- 1
-missing$ -- 255
-newline$ -- 157
-num.names$ -- 120
-pop$ -- 427
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 46 entries,
+            6951 wiz_defined-function locations,
+            1590 strings with 20800 characters,
+and the built_in function-call counts, 89521 in all, are:
+= -- 10896
+> -- 640
+< -- 4754
++ -- 4669
+- -- 104
+* -- 6107
+:= -- 17502
+add.period$ -- 184
+call.type$ -- 46
+change.case$ -- 862
+chr.to.int$ -- 0
+cite$ -- 92
+duplicate$ -- 2105
+empty$ -- 3358
+format.name$ -- 1026
+if$ -- 16509
+int.to.chr$ -- 0
+int.to.str$ -- 146
+missing$ -- 0
+newline$ -- 1156
+num.names$ -- 368
+pop$ -- 1367
 preamble$ -- 1
-purify$ -- 181
+purify$ -- 232
 quote$ -- 0
-skip$ -- 430
+skip$ -- 5457
 stack$ -- 0
-substring$ -- 900
-swap$ -- 687
-text.length$ -- 1
+substring$ -- 5003
+swap$ -- 1315
+text.length$ -- 147
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 264
+top$ -- 1
+type$ -- 3680
 warning$ -- 0
-while$ -- 138
+while$ -- 400
 width$ -- 0
-write$ -- 391
+write$ -- 1394

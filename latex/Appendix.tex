@@ -3,17 +3,17 @@
 \label{appa}
 We develop a Python program to automatically parse, process and retrieve 10-K and 8-K filings from EDGAR database. Our algorithm consists of the following steps:
 
-1. Download all quarterly master indexes from EDGAR using \textit{python-edgar} \footnote{Package documentation available at \url{https://github.com/edouardswiac/python-edgar/blob/master/README.md}} package.
+1. Download all quarterly master indexes from EDGAR using \textit{python-edgar}\footnote{Python-edgar package documentation available at \url{https://github.com/edouardswiac/python-edgar/blob/master/README.md}} package.
 
-2. Filter all 10-Q and 8-K filings \footnote{Our analysis exclude amendments such as 10-Q/A and 8-K/A} from EDGAR master index files and obtain url of the \textit{filing detail} webpage \footnote{One example is \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/0000320193-20-000050-index.html}} for each of the 10-Q and 8-K filings. 
+2. Filter all 10-Q and 8-K filings\footnote{Our analysis exclude amendments such as 10-Q/A and 8-K/A} from EDGAR master index files and obtain url of the \textit{filing detail} webpage\footnote{One example of filing detail webpage is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/0000320193-20-000050-index.html}} for each of the 10-Q and 8-K filings. 
 
-3. Extract i) identification information \footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and ii) url of report in HTM/TXT format \footnote{One example of report in HTM format is \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. Normally all filings in XML format are also available in HTM format. We manually checked 100 random filings that are in XML format, and all of them are also available in HTM format with the same content. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exhibits and press release etc. However, the HTM files only contain the main report. We mainly focus on HTM files other than TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
+3. Extract a) identification information\footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and b) url of report in HTM/TXT format\footnote{One example of report in HTM format is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. Normally all filings in XML format are also available in HTM format. We manually checked 100 random filings that are in XML format, and all of them are also available in HTM format with the same content. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exhibits and press release etc. However, the HTM files only contain the main report. We mainly focus on HTM files other than TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
 
-4. Parse and cleanse \footnote{Cleansing steps are: a) delete nondisplay section; b) delete all tables that contains more than 4 numbers; and c) delete all HTML tags} all 10-Q and 8-K filings with url of HTM/TXT format report, using \textit{beautiful soup} \footnote{Package documentation available at \url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}} package. 
+4. Parse and cleanse\footnote{Cleansing steps are: a) delete nondisplay section; b) delete all tables that contains more than 4 numbers; and c) delete all HTML tags} all 10-Q and 8-K filings with url of HTM/TXT format report, using \textit{beautiful soup}\footnote{Beautiful soup package documentation available at \url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}} package. 
 
 5. Save all clean 10-Q and 8-K filings to local device. 
 
-6. Perform word count on clean 10-Q and 8-K filings using LM dictionary \footnote{LM dictionary available at \url{https://sraf.nd.edu/textual-analysis/resources/\#LM\%20Sentiment\%20Word\%20Lists}}. 
+6. Perform word count on clean 10-Q and 8-K filings using LM dictionary\footnote{LM dictionary available at \url{https://sraf.nd.edu/textual-analysis/resources/\#LM\%20Sentiment\%20Word\%20Lists}}. 
 
 All Python scripts and data are available online via \url{https://github.com/fengzhi22/narrative_conservatism}.
 
@@ -27,7 +27,7 @@ All Python scripts and data are available online via \url{https://github.com/fen
 		nw & Raw count of total words\\
 		TONE & Tone, defined as number of net positive words per thousand total words, calculated as total number of positive words minus the sum of total number of negative words and total number of negations, and multiply the previous result by one thousand\\
 		TLAG & Time lag, defined as number of days elapsed between the news release date (CRSP entry date) and document filing date (EDGAR filing date)\\
-		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional tone model (Eq. 3) in \cite{huangToneManagement2014}\\
+		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional expected tone model (Equation 3) in \citet*{huangToneManagement2014}\\
 		N8K & Number of 8-Ks reported in one day\\
 		NITEM & Number of 8-K items reported in one day\\
 		
@@ -42,26 +42,26 @@ All Python scripts and data are available online via \url{https://github.com/fen
 		\textbf{Variable} & \textbf{Definition} \\
 		
 		EARN & Quarterly earnings, defined as quarterly earnings before extraordinary items (Compustat data item IBQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
-		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged earnings \\
+		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged quarterly earnings \\
 		LEV & Leverage ratio, defined as beginning-of-quarter short term debt (Compustat data item DLCQ) plus beginning-of-quarter long term debt (Compustat data item DLTTQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
 		MTB & Market-to-book ratio, defined as beginning-of-quarter market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) divided by beginning-of-quarter book value of equity (Compustat data item CEQQ) \\
-		SIZE & Firm size, defined as the natural logarithm of market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) \\
+		SIZE & Firm size, defined as the natural logarithm of market value of equity, calculated as natural logarithm of common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) \\
 		QRET & Quarterly market-adjusted stock return, defined as buy-and-hold stock return (CRSP data item RET) over the fiscal quarter adjusted by the value-weighted stock return (CRSP data item VWRETD) over the same period \\
 		DRET & Daily market-adjusted stock return, defined as daily buy-and-hold stock return (CRSP data item RET) adjusted by the daily value-weighted stock return (CRSP data item VWRETD)\\
 		$\Delta$DRET & Change in daily market-adjusted stock return (DRET), defined as current daily market-adjusted stock return minus one-day-lagged daily market-adjusted stock return \\
 		NEG & Indicator for negative quarterly return, which is set to 1 when market-adjusted stock return (QRET) is negative and 0 otherwise \\
-		BN & Indicator for daily bad news, which is set to 1 (0) if the negative (positive) change in daily market-adjusted stock return is three times larger than the firm’s average decrease (increase) in daily return over the calendar year.\\
-		AF & Analyst forecast, defined as analyst consensus forecast for one-year-ahead earnings per share, scaled by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
+		BN & Indicator for daily bad news, which is set to 1 (0) if the negative (positive) change in daily market-adjusted stock return ($\Delta$DRET) is three times larger than the firm’s average decrease (increase) in daily return over the calendar year.\\
+		AF & Analyst forecast, defined as analysts' mean consensus forecast for one-year-ahead earnings per share, scaled by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
 		AFE & Analyst forecast error, defined as I/B/E/S earnings per share minus the median of the most recent analysts' forecasts, deflated by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
 		BUSSEG & Business segment, defined as the natural logarithm of one plus number of business segments, or one if item is missing from Compustat\\
 		GEOSEG & Geographical segment, defined as the natural logarithm of one plus number of geographical segments, or one if item is missing from Compustat\\
-		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the first entry date of the firm into CRSP monthly database\\
-		STD\_EARN & Standard deviation of earnings, calculated over the last five quarters\\
-		STD\_QRET & Standard deviation of market-adjusted stock return (QRET) over all months in the quarter\\
-		LOSS & Indicator for loss, which is set to 1 when earnings (EARN) is negative and 0 otherwise\\
+		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the firm's first entry date in CRSP\\
+		STD\_EARN & Standard deviation of quarterly earnings (EARN) over the last five quarters\\
+		STD\_QRET & Standard deviation of monthly market-adjusted stock return over all months in the fiscal quarter\\
+		LOSS & Indicator for loss, which is set to 1 when quaterly earnings (EARN) is negative and 0 otherwise\\
 	\end{tabular}%
 \end{table}%
 \newpage
 \subsection*{Appendix D: 8-K Item List}
 \label{appd}
-\input{../output/fig/fig4_8-K_item_list}
+\input{../output/table/appd}
