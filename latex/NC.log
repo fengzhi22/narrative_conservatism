@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  13 JUN 2020 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  18 JUN 2020 23:05
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -542,36 +542,35 @@ l.74
       [1
 
 ] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-[16] [17] [18] (NC.bbl [19]) [20]
+[16] [17] [18] [19] (NC.bbl [20]) [21]
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=535, 460.72125pt x 79.497pt>
+<../output/fig/fig1_matching.png, id=553, 460.72125pt x 79.497pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
 (pdftex.def)             Requested size: 276.43488pt x 47.69855pt.
-<../output/fig/fig2_8-K_before.png, id=537, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_before.png, id=555, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_before.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_before.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_before.png  used on input line 
 15.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<../output/fig/fig2_8-K_after.png, id=538, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_after.png, id=556, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_after.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_after.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_after.png  used on input line 1
 6.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-) [21
+) [22
 
  <../output/fig/fig1_matching.png> <../output/fig/fig2_8-K_before.png> <../outp
 ut/fig/fig2_8-K_after.png>]
 \openout2 = `Table.aux'.
 
-
-(Table.tex (../output/table/T1.tex
+ (Table.tex (../output/table/T1.tex
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
 1.
  (E:\MiKTeX\tex/latex/psnfss\omsptm.fd
@@ -580,17 +579,17 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
 )
-[22
+[23
 
 
-] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [23]
-(../output/table/T2PC.tex) (../output/table/T2PD.tex) [24
+] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [24]
+(../output/table/T2PC.tex) (../output/table/T2PD.tex) [25
 
 ]
-(../output/table/T3PA.tex) [25
+(../output/table/T3PA.tex) [26
 
-] (../output/table/T3PB.tex) [26]
-(../output/table/T4PA.tex) [27] (../output/table/T4PB.tex)pdfTeX warning (ext4)
+] (../output/table/T3PB.tex) [27]
+(../output/table/T4PA.tex) [28] (../output/table/T4PB.tex)pdfTeX warning (ext4)
 : destination with the same identifier (name{equation.6.3}) has been already us
 ed, duplicate ignored
 <to be read again> 
@@ -611,7 +610,7 @@ r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.63 \begin{equation}
-                     ) [28]
+                     ) [29]
 \openout2 = `Appendix.aux'.
 
  (Appendix.tex
@@ -624,10 +623,10 @@ Overfull \hbox (16.80421pt too wide) in paragraph at lines 41--63
  [][] 
  []
 
-[29
+[30
 
 
-] [30] (../output/table/appd.tex
+] [31] (../output/table/appd.tex
 Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
  [][] 
  []
@@ -636,7 +635,7 @@ Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
 Overfull \vbox (7.95602pt too high) has occurred while \output is active []
 
 
-[31]
+[32]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.tex)pdfTeX warning (ext4): destination with the 
@@ -683,13 +682,13 @@ Package rerunfilecheck Info: File `NC.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
  ) 
 Here is how much of TeX's memory you used:
- 9450 strings out of 480930
- 145799 string characters out of 2917961
- 437199 words of memory out of 3000000
- 24860 multiletter control sequences out of 15000+200000
+ 9462 strings out of 480930
+ 146030 string characters out of 2917961
+ 437380 words of memory out of 3000000
+ 24866 multiletter control sequences out of 15000+200000
  563289 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,3388b,503s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,3370b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/MiKTeX/fonts/enc/dvips/base/8r.enc}<E:/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
@@ -700,9 +699,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
 e1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><E:/MiKTeX/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on NC.pdf (34 pages, 396871 bytes).
+Output written on NC.pdf (35 pages, 400855 bytes).
 PDF statistics:
- 757 PDF objects out of 1000 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
+ 776 PDF objects out of 1000 (max. 8388607)
+ 189 named destinations out of 1000 (max. 500000)
  184 words of extra memory for PDF output out of 10000 (max. 10000000)
 

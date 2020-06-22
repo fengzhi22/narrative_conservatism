@@ -408,6 +408,30 @@ Diamond, D\BPBI W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+EY%
+}{%
+EY%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+eyPointNowTime2012}
+\APACinsertmetastar {%
+eyPointNowTime2012}%
+\begin{APACrefauthors}%
+EY.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {To the {{Point}}: {{Now Is}} the {{Time}} to {{Address
+  Disclosure Overload}}} {To the {{Point}}: {{Now Is}} the {{Time}} to
+  {{Address Disclosure Overload}}}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 FASB%
 }{%
 FASB%
