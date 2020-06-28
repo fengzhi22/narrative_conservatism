@@ -319,6 +319,69 @@ Bushee, B\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Carter%
+\ \BBA {} Soo%
+}{%
+Carter%
+\ \BBA {} Soo%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+carterRelevanceForm8K1999}
+\APACinsertmetastar {%
+carterRelevanceForm8K1999}%
+\begin{APACrefauthors}%
+Carter, M\BPBI E.%
+\BCBT {}\ \BBA {} Soo, B\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Relevance}} of {{Form}} 8-{{K Reports}}} {The
+  {{Relevance}} of {{Form}} 8-{{K Reports}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{37}{1}{119--132}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2491399} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cascino%
+, Clatworthy%
+, Garcia~Osma%
+, Gassen%
+\BCBL {}\ \BBA {} Imam%
+}{%
+Cascino%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+cascinoUsefulnessFinancialAccounting2017}
+\APACinsertmetastar {%
+cascinoUsefulnessFinancialAccounting2017}%
+\begin{APACrefauthors}%
+Cascino, S.%
+, Clatworthy, M.%
+, Garcia~Osma, B.%
+, Gassen, J.%
+\BCBL {}\ \BBA {} Imam, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Usefulness}} of {{Financial Accounting
+  Information}}: {{Evidence}} from the {{Field}}} {The {{Usefulness}} of
+  {{Financial Accounting Information}}: {{Evidence}} from the
+  {{Field}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Working Paper}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.2139/ssrn.3008083} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Cazier%
 , Merkley%
 \BCBL {}\ \BBA {} Treu%
@@ -567,6 +630,34 @@ Hassan, T\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+He%
+\ \BBA {} Plumlee%
+}{%
+He%
+\ \BBA {} Plumlee%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+heMeasuringDisclosureUsing2020}
+\APACinsertmetastar {%
+heMeasuringDisclosureUsing2020}%
+\begin{APACrefauthors}%
+He, J.%
+\BCBT {}\ \BBA {} Plumlee, M\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring {{Disclosure Using}} 8-{{K Filings}}}
+  {Measuring {{Disclosure Using}} 8-{{K Filings}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Review of Accounting Studies}{}{}{forthcoming}.
+\newblock
+\begin{APACrefDOI} \doi{10.2139/ssrn.3354252} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Huang%
 , Teoh%
 \BCBL {}\ \BBA {} Zhang%
@@ -766,7 +857,7 @@ Leuz, C.%
   {{Cost}} of {{Capital}}: {{Evidence}} from {{Firms}}' {{Responses}} to the
   {{Enron Shock}}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{NBER Working Paper Sseries}{}{}{}.
+\APACjournalVolNumPages{NBER Working Paper Series}{}{}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.3386/w14897} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -1046,6 +1137,33 @@ Petersen, M\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Pinsker%
+}{%
+Pinsker%
+}{%
+{\protect \APACyear {2006}}%
+}]{%
+pinskerHasFirmsForm2006}
+\APACinsertmetastar {%
+pinskerHasFirmsForm2006}%
+\begin{APACrefauthors}%
+Pinsker, R\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Has {{Firms}}' {{Form}} 8-{{K Filing Behavior Changed
+  Since Section}} 409 of the {{Sarbanes}}-{{Oxley Act Became Effective}}?} {Has
+  {{Firms}}' {{Form}} 8-{{K Filing Behavior Changed Since Section}} 409 of the
+  {{Sarbanes}}-{{Oxley Act Became Effective}}?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Working Paper}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.2139/ssrn.930063} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Rogers%
 , Van~Buskirk%
 \BCBL {}\ \BBA {} Zechman%
@@ -1144,6 +1262,36 @@ SEC.%
   Reporting}}; {{Rel}}. {{No}}. 33-9002; {{S7}}-11-08.} {Final {{Rule}}:
   {{Interactive Data}} to {{Improve Financial Reporting}}; {{Rel}}. {{No}}.
   33-9002; {{S7}}-11-08.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Segal%
+\ \BBA {} Segal%
+}{%
+Segal%
+\ \BBA {} Segal%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+segalAreManagersStrategic2016}
+\APACinsertmetastar {%
+segalAreManagersStrategic2016}%
+\begin{APACrefauthors}%
+Segal, B.%
+\BCBT {}\ \BBA {} Segal, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Are Managers Strategic in Reporting Non-Earnings News?
+  {{Evidence}} on Timing and News Bundling} {Are managers strategic in
+  reporting non-earnings news? {{Evidence}} on timing and news
+  bundling}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Review of Accounting Studies}{21}{4}{1203--1244}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11142-016-9366-y} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

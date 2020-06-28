@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  18 JUN 2020 23:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  28 JUN 2020 15:54
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -546,19 +546,19 @@ l.74
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=553, 460.72125pt x 79.497pt>
+<../output/fig/fig1_matching.png, id=594, 460.72125pt x 79.497pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
 (pdftex.def)             Requested size: 276.43488pt x 47.69855pt.
-<../output/fig/fig2_8-K_before.png, id=555, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_before.png, id=596, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_before.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_before.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_before.png  used on input line 
 15.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<../output/fig/fig2_8-K_after.png, id=556, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_after.png, id=597, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_after.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_after.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_after.png  used on input line 1
@@ -631,11 +631,30 @@ Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
  [][] 
  []
 
-))
+
+Overfull \hbox (20.25784pt too wide) in paragraph at lines 64--68
+ [][] 
+ []
+
+)
 Overfull \vbox (7.95602pt too high) has occurred while \output is active []
 
 
 [32]
+Overfull \hbox (2.8916pt too wide) in paragraph at lines 82--83
+[]\OT1/ptm/m/n/10 Amarin Cor-po-ra-tion plc (CIK = 897448) ex-pe-ri-enced a sig
+-nif-i-cant rise in market-adjusted daily stock re-turns ($\OT1/cmr/m/n/10 $\O
+T1/ptm/m/n/10 DRET
+ []
+
+
+Overfull \hbox (2.21129pt too wide) in paragraph at lines 84--85
+[]\OT1/ptm/m/n/10 Avanir Phar-ma-ceu-ti-cals (CIK = 858803) ex-pe-ri-enced a si
+g-nif-i-cant rise in market-adjusted daily stock re-turns ($\OT1/cmr/m/n/10 $\
+OT1/ptm/m/n/10 DRET
+ []
+
+[33]) [34]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.tex)pdfTeX warning (ext4): destination with the 
@@ -670,25 +689,32 @@ l.21 \begin{equation}
 er (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.269 \include{OA}
+l.275 \include{OA}
                    [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 277.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 277.
  (NC.aux (Figure.aux) (Table.aux) (Appendix.aux) (OA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
-Package rerunfilecheck Info: File `NC.out' has not changed.
-(rerunfilecheck)             Checksum: 48282F04F833015BFE700F148381D4A0;1553.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 277.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 277.
+
+
+Package rerunfilecheck Warning: File `NC.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `NC.out':
+(rerunfilecheck)             Before: 17AE519F750CC02C2FCF4C166ADC7DB4;1764
+(rerunfilecheck)             After:  A60F234433DDB5B14DD49D019B6DD26F;1748.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 277.
  ) 
 Here is how much of TeX's memory you used:
- 9462 strings out of 480930
- 146030 string characters out of 2917961
- 437380 words of memory out of 3000000
- 24866 multiletter control sequences out of 15000+200000
+ 9513 strings out of 480930
+ 147263 string characters out of 2917961
+ 437891 words of memory out of 3000000
+ 24893 multiletter control sequences out of 15000+200000
  563289 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,3370b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,3369b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
 {E:/MiKTeX/fonts/enc/dvips/base/8r.enc}<E:/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
@@ -699,9 +725,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
 e1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><E:/MiKTeX/
 fonts/type1/urw/times/utmri8a.pfb>
-Output written on NC.pdf (35 pages, 400855 bytes).
+Output written on NC.pdf (37 pages, 422040 bytes).
 PDF statistics:
- 776 PDF objects out of 1000 (max. 8388607)
- 189 named destinations out of 1000 (max. 500000)
- 184 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 842 PDF objects out of 1000 (max. 8388607)
+ 213 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
