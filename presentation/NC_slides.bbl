@@ -1,0 +1,37 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[FASB(1984)]{fasbStatementFinancialAccounting1984}
+FASB.
+\newblock Statement of {{Financial Accounting Concepts No}}.
+  5\textemdash{{Recognition}} and {{Measurement}} in {{Financial Statements}}
+  of {{Business Enterprises}}, 1984.
+
+\bibitem[FASB(2018)]{fasbConceptualFrameworkFinancial2018b}
+FASB.
+\newblock Conceptual {{Framework}} for {{Financial
+  Reporting}}\textemdash{{Chapter}} 1, {{The Objective}} of {{General Purpose
+  Financial Reporting}}, 2018.
+
+\bibitem[Kothari et~al.(2009)Kothari, Shu, and
+  Wysocki]{kothariManagersWithholdBad2009}
+S.~P. Kothari, Susan Shu, and Peter~D. Wysocki.
+\newblock Do {{Managers Withhold Bad News}}?
+\newblock \emph{Journal of Accounting Research}, 47\penalty0 (1):\penalty0
+  241--276, March 2009.
+\newblock ISSN 00218456, 1475679X.
+\newblock \doi{10.1111/j.1475-679X.2008.00318.x}.
+
+\bibitem[Schipper(2007)]{schipperRequiredDisclosuresFinancial2007}
+Katherine Schipper.
+\newblock Required {{Disclosures}} in {{Financial Reports}}.
+\newblock \emph{The Accounting Review}, 82\penalty0 (2):\penalty0 301--326,
+  March 2007.
+\newblock ISSN 0001-4826, 1558-7967.
+\newblock \doi{10.2308/accr.2007.82.2.301}.
+
+\end{thebibliography}
