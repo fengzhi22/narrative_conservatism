@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  2 JUL 2020 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  8 JUL 2020 00:48
 entering extended mode
 **./NC_slides.tex
 (NC_slides.tex
@@ -987,35 +987,50 @@ Package pdftex.def Info: tab3panA.png  used on input line 246.
 <tab3panB.png, id=178, 380.92313pt x 615.80063pt>
 File: tab3panB.png Graphic file (type png)
 <use tab3panB.png>
-Package pdftex.def Info: tab3panB.png  used on input line 263.
+Package pdftex.def Info: tab3panB.png  used on input line 271.
 (pdftex.def)             Requested size: 131.25551pt x 212.17894pt.
 <tab3panBeq.png, id=179, 663.98062pt x 59.47218pt>
 File: tab3panBeq.png Graphic file (type png)
 <use tab3panBeq.png>
-Package pdftex.def Info: tab3panBeq.png  used on input line 263.
-(pdftex.def)             Requested size: 166.14764pt x 14.8816pt.
+Package pdftex.def Info: tab3panBeq.png  used on input line 271.
+(pdftex.def)             Requested size: 174.45552pt x 15.62573pt.
 
-Overfull \vbox (13.77496pt too high) detected at line 263
+Overfull \hbox (8.30788pt too wide) in paragraph at lines 271--271
+ [] 
+ []
+
+<eq2.png, id=180, 816.80156pt x 128.73094pt>
+File: eq2.png Graphic file (type png)
+<use eq2.png>
+Package pdftex.def Info: eq2.png  used on input line 271.
+(pdftex.def)             Requested size: 174.45552pt x 27.49393pt.
+
+Overfull \hbox (8.30788pt too wide) in paragraph at lines 271--271
+ [] 
+ []
+
+
+Overfull \vbox (13.77496pt too high) detected at line 271
  []
 
 [12
 
- <./tab3panB.png> <./tab3panBeq.png>]
-<tab4panA.png, id=191, 724.20563pt x 531.48563pt>
+ <./tab3panB.png> <./tab3panBeq.png> <./eq2.png>]
+<tab4panA.png, id=194, 724.20563pt x 531.48563pt>
 File: tab4panA.png Graphic file (type png)
 <use tab4panA.png>
-Package pdftex.def Info: tab4panA.png  used on input line 272.
+Package pdftex.def Info: tab4panA.png  used on input line 280.
 (pdftex.def)             Requested size: 256.72147pt x 188.40703pt.
  [13
 
  <./tab4panA.png>]
-<tab4panB.png, id=202, 584.93532pt x 606.76688pt>
+<tab4panB.png, id=205, 584.93532pt x 606.76688pt>
 File: tab4panB.png Graphic file (type png)
 <use tab4panB.png>
-Package pdftex.def Info: tab4panB.png  used on input line 281.
+Package pdftex.def Info: tab4panB.png  used on input line 289.
 (pdftex.def)             Requested size: 205.37926pt x 213.04745pt.
 
-Overfull \vbox (3.04347pt too high) detected at line 281
+Overfull \vbox (3.04347pt too high) detected at line 289
  []
 
 [14
@@ -1057,19 +1072,19 @@ thkerncmss.
 \tf@snm=\write8
 \openout8 = `NC_slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 336.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 336.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
  (NC_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 336.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 336.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
 Package rerunfilecheck Info: File `NC_slides.out' has not changed.
 (rerunfilecheck)             Checksum: 112CE34F864EA5D9BB3CF930769BCD01;405.
  ) 
 Here is how much of TeX's memory you used:
- 18986 strings out of 480930
- 353992 string characters out of 2917961
- 609936 words of memory out of 3000000
- 34327 multiletter control sequences out of 15000+200000
+ 18995 strings out of 480930
+ 354068 string characters out of 2917961
+ 609966 words of memory out of 3000000
+ 34335 multiletter control sequences out of 15000+200000
  540629 words of font info for 53 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,797b,583s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1078,9 +1093,9 @@ lic/amsfonts/cm/cmss10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb
 ><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><E:/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmss9.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pf
 b><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
-Output written on NC_slides.pdf (17 pages, 738902 bytes).
+Output written on NC_slides.pdf (17 pages, 761044 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 

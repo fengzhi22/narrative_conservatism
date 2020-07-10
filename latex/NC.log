@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  2 JUL 2020 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  9 JUL 2020 16:44
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -328,17 +328,15 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfig@top=\skip57
 \subfig@bottom=\skip58
 )
-(E:\MiKTeX\tex/latex/psnfss\times.sty
-Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-) (E:\MiKTeX\tex/latex/tools\verbatim.sty
+(E:\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks24
 \verbatim@line=\toks25
 \verbatim@in@stream=\read2
-) (E:\MiKTeX\tex/latex/colortbl\colortbl.sty
+)
+(E:\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
-
-(E:\MiKTeX\tex/latex/tools\array.sty
+ (E:\MiKTeX\tex/latex/tools\array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen182
 \ar@mcellbox=\box49
@@ -383,44 +381,31 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip67
 \biblabelsep=\skip68
 )
-(E:\MiKTeX\tex/latex/natbib\natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip69
-\bibsep=\skip70
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count282
-)
-LaTeX Info: Redefining \BBA on input line 22.
-
 (E:\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count283
+\l__kernel_color_stack_int=\count282
 \l__pdf_internal_box=\box51
 ) (NC.aux (Figure.aux)
 (Table.aux) (Appendix.aux) (OA.aux))
 \openout1 = `NC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
-0.
- (E:\MiKTeX\tex/latex/psnfss\ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -457,16 +442,16 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 
 (E:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
+\scratchcounter=\count283
 \scratchdimen=\dimen184
 \scratchbox=\box52
-\nofMPsegments=\count285
-\nofMParguments=\count286
+\nofMPsegments=\count284
+\nofMParguments=\count285
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count287
+\MPscratchCnt=\count286
 \MPscratchDim=\dimen185
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
 \everyMPtoPDFconversion=\toks29
 ) (E:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -482,7 +467,7 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 \AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring OFF on input line 30.
+Package hyperref Info: Link coloring OFF on input line 29.
 
 (E:\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -493,11 +478,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (E:\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count290
+\c@section@level=\count289
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 29.
+LaTeX Info: Redefining \pageref on input line 29.
+LaTeX Info: Redefining \nameref on input line 29.
  (NC.out) (NC.out)
 \@outlinefile=\write3
 \openout3 = `NC.out'.
@@ -505,29 +490,24 @@ LaTeX Info: Redefining \nameref on input line 30.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@maskedRefs=\count291
+\c@maskedRefs=\count290
 
 (E:\MiKTeX\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
 
  (E:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
 
  (E:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-5.
- (E:\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 52--56
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
 
  []
 
@@ -538,58 +518,63 @@ ning (ext4): destination with the same identifier (name{page.1}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 
+l.74 
       [1
 
 ] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-[16] [17] [18] [19] (NC.bbl [20]) [21]
+[16] [17] [18] [19] [20] [21] [22] (NC.bbl [23]) [24]
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=590, 460.72125pt x 79.497pt>
+<../output/fig/fig1_matching.png, id=648, 460.72125pt x 79.497pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
 (pdftex.def)             Requested size: 276.43488pt x 47.69855pt.
-<../output/fig/fig2_8-K_before.png, id=592, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_before.png, id=650, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_before.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_before.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_before.png  used on input line 
 15.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<../output/fig/fig2_8-K_after.png, id=593, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_after.png, id=651, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_after.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_after.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_after.png  used on input line 1
 6.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-) [22
+) [25
 
  <../output/fig/fig1_matching.png> <../output/fig/fig2_8-K_before.png> <../outp
 ut/fig/fig2_8-K_after.png>]
 \openout2 = `Table.aux'.
 
  (Table.tex (../output/table/T1.tex
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-1.
- (E:\MiKTeX\tex/latex/psnfss\omsptm.fd
-File: omsptm.fd 
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+0.
+
+(E:\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-)
-[23
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 10.
+
+Overfull \hbox (2.59566pt too wide) in paragraph at lines 3--21
+ [][] 
+ []
+
+) [26
 
 
-] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [24]
-(../output/table/T2PC.tex) (../output/table/T2PD.tex) [25
+] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [27]
+(../output/table/T2PC.tex) (../output/table/T2PD.tex) [28
 
 ]
-(../output/table/T3PA.tex) [26
+(../output/table/T3PA.tex) [29
 
-] (../output/table/T3PB.tex) [27]
-(../output/table/T4PA.tex) [28] (../output/table/T4PB.tex)pdfTeX warning (ext4)
+] (../output/table/T3PB.tex) [30]
+(../output/table/T4PA.tex) [31] (../output/table/T4PB.tex)pdfTeX warning (ext4)
 : destination with the same identifier (name{equation.6.3}) has been already us
 ed, duplicate ignored
 <to be read again> 
@@ -610,51 +595,28 @@ r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.63 \begin{equation}
-                     ) [29]
+                     ) [32]
 \openout2 = `Appendix.aux'.
 
  (Appendix.tex
-Overfull \hbox (7.46434pt too wide) in paragraph at lines 24--35
+Overfull \hbox (10.98346pt too wide) in paragraph at lines 24--35
  [][] 
  []
 
 
-Overfull \hbox (16.80421pt too wide) in paragraph at lines 41--63
+Overfull \hbox (20.2779pt too wide) in paragraph at lines 41--63
  [][] 
  []
 
-[30
+[33
 
 
-] [31] (../output/table/appd.tex
-Overfull \hbox (41.64796pt too wide) in paragraph at lines 4--63
+] [34] (../output/table/appd.tex
+Overfull \hbox (29.0559pt too wide) in paragraph at lines 69--74
  [][] 
  []
 
-
-Overfull \hbox (20.25784pt too wide) in paragraph at lines 64--68
- [][] 
- []
-
-)
-Overfull \vbox (7.95602pt too high) has occurred while \output is active []
-
-
-[32]
-Overfull \hbox (2.8916pt too wide) in paragraph at lines 82--83
-[]\OT1/ptm/m/n/10 Amarin Cor-po-ra-tion plc (CIK = 897448) ex-pe-ri-enced a sig
--nif-i-cant rise in market-adjusted daily stock re-turns ($\OT1/cmr/m/n/10 $\O
-T1/ptm/m/n/10 DRET
- []
-
-
-Overfull \hbox (2.21129pt too wide) in paragraph at lines 84--85
-[]\OT1/ptm/m/n/10 Avanir Phar-ma-ceu-ti-cals (CIK = 858803) ex-pe-ri-enced a si
-g-nif-i-cant rise in market-adjusted daily stock re-turns ($\OT1/cmr/m/n/10 $\
-OT1/ptm/m/n/10 DRET
- []
-
-[33]) [34]
+) [35] [36]) [37]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.tex)pdfTeX warning (ext4): destination with the 
@@ -689,38 +651,47 @@ l.21 \begin{equation}
 er (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274 \include{OA}
+l.285 \include{OA}
                    [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (NC.aux (Figure.aux) (Table.aux) (Appendix.aux) (OA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `NC.out' has not changed.
-(rerunfilecheck)             Checksum: A073C85F24D21AC120F0727F74743FB6;1655.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
+(rerunfilecheck)             Checksum: 970996EA069825487529771B7F24F9DE;1732.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
  ) 
 Here is how much of TeX's memory you used:
- 9511 strings out of 480930
- 147233 string characters out of 2917961
- 437894 words of memory out of 3000000
- 24892 multiletter control sequences out of 15000+200000
- 563289 words of font info for 83 fonts, out of 3000000 for 9000
+ 9107 strings out of 480930
+ 140508 string characters out of 2917961
+ 435616 words of memory out of 3000000
+ 24500 multiletter control sequences out of 15000+200000
+ 544448 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,3369b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
-{E:/MiKTeX/fonts/enc/dvips/base/8r.enc}<E:/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
-y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
-e1/urw/times/utmb8a.pfb><E:/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><E:/MiKTeX/
-fonts/type1/urw/times/utmri8a.pfb>
-Output written on NC.pdf (37 pages, 421782 bytes).
+ 41i,18n,43p,4500b,517s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm0900.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1000.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk><E:/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E
+:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><E:/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><E:/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr9.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><E:/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><E:/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on NC.pdf (40 pages, 585350 bytes).
 PDF statistics:
- 838 PDF objects out of 1000 (max. 8388607)
- 212 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 934 PDF objects out of 1000 (max. 8388607)
+ 216 named destinations out of 1000 (max. 500000)
+ 200 words of extra memory for PDF output out of 10000 (max. 10000000)
 

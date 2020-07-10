@@ -54,6 +54,36 @@ Aboody, D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Acharya%
+, DeMarzo%
+\BCBL {}\ \BBA {} Kremer%
+}{%
+Acharya%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+acharyaEndogenousInformationFlows2011}
+\APACinsertmetastar {%
+acharyaEndogenousInformationFlows2011}%
+\begin{APACrefauthors}%
+Acharya, V\BPBI V.%
+, DeMarzo, P.%
+\BCBL {}\ \BBA {} Kremer, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Endogenous {{Information Flows}} and the {{Clustering}}
+  of {{Announcements}}} {Endogenous {{Information Flows}} and the
+  {{Clustering}} of {{Announcements}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Economic Review}{101}{7}{2955--2979}.
+\newblock
+\begin{APACrefDOI} \doi{10.1257/aer.101.7.2955} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Alford%
 , Jones%
 \BCBL {}\ \BBA {} Zmijewski%
@@ -597,6 +627,36 @@ Gao, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Guttman%
+, Kremer%
+\BCBL {}\ \BBA {} Skrzypacz%
+}{%
+Guttman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+guttmanNotOnlyWhat2014}
+\APACinsertmetastar {%
+guttmanNotOnlyWhat2014}%
+\begin{APACrefauthors}%
+Guttman, I.%
+, Kremer, I.%
+\BCBL {}\ \BBA {} Skrzypacz, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Not {{Only What}} but {{Also When}}: {{A Theory}} of
+  {{Dynamic Voluntary Disclosure}}} {Not {{Only What}} but {{Also When}}: {{A
+  Theory}} of {{Dynamic Voluntary Disclosure}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{American Economic Review}{104}{8}{2400--2420}.
+\newblock
+\begin{APACrefDOI} \doi{10.1257/aer.104.8.2400} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Hassan%
 , Hollander%
 , {van Lent}%
@@ -1048,6 +1108,35 @@ Loughran, T.%
   {Measuring {{Readability}} in {{Financial Disclosures}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Journal of Finance}{69}{4}{1643--1671}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marinovic%
+\ \BBA {} Varas%
+}{%
+Marinovic%
+\ \BBA {} Varas%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+marinovicNoNewsGood2016}
+\APACinsertmetastar {%
+marinovicNoNewsGood2016}%
+\begin{APACrefauthors}%
+Marinovic, I.%
+\BCBT {}\ \BBA {} Varas, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {No News Is Good News: Voluntary Disclosure in the Face
+  of Litigation} {No news is good news: Voluntary disclosure in the face of
+  litigation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The RAND Journal of Economics}{47}{4}{822--856}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/1756-2171.12156} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

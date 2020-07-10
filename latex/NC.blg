@@ -18,45 +18,45 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: NC.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in eyPointNowTime2012
-You've used 52 entries,
+You've used 55 entries,
             6951 wiz_defined-function locations,
-            1626 strings with 21956 characters,
-and the built_in function-call counts, 100667 in all, are:
-= -- 12249
-> -- 729
-< -- 5310
-+ -- 5221
-- -- 118
-* -- 6836
-:= -- 19591
-add.period$ -- 208
-call.type$ -- 52
-change.case$ -- 966
+            1649 strings with 22646 characters,
+and the built_in function-call counts, 106646 in all, are:
+= -- 12957
+> -- 781
+< -- 5618
++ -- 5517
+- -- 124
+* -- 7249
+:= -- 20725
+add.period$ -- 220
+call.type$ -- 55
+change.case$ -- 1023
 chr.to.int$ -- 0
-cite$ -- 105
-duplicate$ -- 2391
-empty$ -- 3793
-format.name$ -- 1176
-if$ -- 18602
+cite$ -- 111
+duplicate$ -- 2550
+empty$ -- 4026
+format.name$ -- 1264
+if$ -- 19707
 int.to.chr$ -- 0
-int.to.str$ -- 164
+int.to.str$ -- 173
 missing$ -- 0
-newline$ -- 1315
-num.names$ -- 416
-pop$ -- 1511
+newline$ -- 1398
+num.names$ -- 440
+pop$ -- 1585
 preamble$ -- 1
-purify$ -- 258
+purify$ -- 276
 quote$ -- 0
-skip$ -- 6217
+skip$ -- 6592
 stack$ -- 0
-substring$ -- 5597
-swap$ -- 1480
-text.length$ -- 162
+substring$ -- 5914
+swap$ -- 1583
+text.length$ -- 174
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 4160
+type$ -- 4400
 warning$ -- 1
-while$ -- 449
+while$ -- 486
 width$ -- 0
-write$ -- 1588
+write$ -- 1695
 (There was 1 warning)
