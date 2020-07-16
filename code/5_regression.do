@@ -140,6 +140,11 @@ outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext
 areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
+drop if TLAG == 0
+
+areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG>0) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+
 *****************************************************
 ************ Online Appendix: Table 2 ***************
 *****************************************************
@@ -147,13 +152,7 @@ outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext
 **** OAT_2: 8-K main results (TABLE 4) in restricted sample (TLAG <= 4 or item = 7.01 or 8.01)
 
 **** read crsp_comp_edgar_8-K_restricted.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K_restricted.csv", case(preserve) stringcols(2) clear
-
-// // **** Drop obs. if is regfd (9, 7.01) or other events (5, 8.01)
-// drop if item_801 >=1
-// drop if item_701 >=1
-// drop if item_5 >=1
-// drop if item_9 >=1
+import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
 // **** Drop obs. if is TLAG > 4 (after 20040823) or TLAG > 5 (before 20040823)
 gen rp1 = date(rp,"YMD")
@@ -208,14 +207,6 @@ outreg2 using "..\output\Table_4-Panel_B.xml", replace excel ctitle(NITEM) addte
 **** TABLE 4 - Panel B: n8k ordered logistics model 
 ologit n8k DRET BN DRET_BN $fin_controls
 outreg2 using "..\output\Table_4-Panel_B.xml", append excel ctitle(N8K_OL) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) addstat(Pseudo R2, e(r2_p))
-
-**** read crsp_comp_edgar_8-K_restricted.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K_restricted.csv", case(preserve) stringcols(2) clear
-
-**** Variable Creation
-global fin_controls "SIZE MTB LEV"
-gen RET_BN = RET*BN
-gen DRET_BN = DRET*BN
 
 // **** Drop obs. if is TLAG > 4 (after 20040823) or TLAG > 5 (before 20040823)
 gen rp1 = date(rp,"YMD")
