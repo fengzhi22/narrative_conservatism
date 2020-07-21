@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  16 JUL 2020 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  21 JUL 2020 16:44
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -526,7 +526,7 @@ l.74
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=643, 693.792pt x 95.1555pt>
+<../output/fig/fig1_matching.png, id=635, 693.792pt x 95.1555pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
@@ -537,13 +537,13 @@ Overfull \hbox (1.95421pt too wide) in paragraph at lines 5--6
  [] 
  []
 
-<../output/fig/fig2_8-K_before.png, id=645, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_before.png, id=637, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_before.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_before.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_before.png  used on input line 
 15.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<../output/fig/fig2_8-K_after.png, id=646, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_after.png, id=638, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_after.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_after.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_after.png  used on input line 1
@@ -580,7 +580,7 @@ Overfull \hbox (25.08604pt too wide) in paragraph at lines 3--32
 
 ] (../output/table/T3PB.tex) [30]
 (../output/table/T4PA.tex
-Overfull \hbox (10.38745pt too wide) in paragraph at lines 4--34
+Overfull \hbox (3.7208pt too wide) in paragraph at lines 4--34
  [][] 
  []
 
@@ -672,10 +672,10 @@ Package rerunfilecheck Info: File `NC.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
  ) 
 Here is how much of TeX's memory you used:
- 9106 strings out of 480930
- 140491 string characters out of 2917961
+ 9103 strings out of 480930
+ 140394 string characters out of 2917961
  435581 words of memory out of 3000000
- 24499 multiletter control sequences out of 15000+200000
+ 24496 multiletter control sequences out of 15000+200000
  544448 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,18n,43p,4500b,517s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -697,9 +697,9 @@ nts/type1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmti12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on NC.pdf (40 pages, 581748 bytes).
+Output written on NC.pdf (40 pages, 579208 bytes).
 PDF statistics:
- 924 PDF objects out of 1000 (max. 8388607)
+ 916 PDF objects out of 1000 (max. 8388607)
  216 named destinations out of 1000 (max. 500000)
  200 words of extra memory for PDF output out of 10000 (max. 10000000)
 
