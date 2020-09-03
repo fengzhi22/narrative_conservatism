@@ -5,8 +5,6 @@
 **** TABLE 3 - Panel A: 10-Q main results
 
 **** read id_crsp_comp_text_10-Q.csv
-// import delimited "F:\github\narrative_conservatism\filings\id_crsp_comp_text_10-Q.csv", case(preserve) stringcols(2) clear
-
 import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
@@ -51,14 +49,14 @@ gen RET_NEG = RET*NEG
 regress tone EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF
 outreg2 using "..\output\OAT_1.xml", replace excel ctitle(tone) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(4) tdec(2) stats(coef tstat) adjr2
 
-areg tone i.cquarter EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\OAT_1.xml", append excel ctitle(tone) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(4) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// areg tone i.cquarter EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\OAT_1.xml", append excel ctitle(tone) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(4) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 // regress TONE EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF
-// outreg2 using "..\output\Table_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry-clustered SE, NO) dec(4) tdec(2) stats(coef tstat) adjr2
-//
+// outreg2 using "..\output\OAT_1.xml", append excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry-clustered SE, NO) dec(4) tdec(2) stats(coef tstat) adjr2
+
 // areg TONE i.cquarter EARN RET SIZE MTB STD_RET STD_EARN AGE BUSSEG GEOSEG LOSS DEARN AFE AF, absorb(gvkey) cluster(SIC)
-// outreg2 using "..\output\Table_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry-clustered SE, YES) dec(4) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// outreg2 using "..\output\OAT_1.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry-clustered SE, YES) dec(4) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 *****************************************************
 **************** TABLE 3 - Panel B ******************
@@ -159,6 +157,7 @@ gen rp1 = date(rp,"YMD")
 gen before2004=(rp1<date("August 23 2004","MDY"))
 drop if before2004 == 1 & TLAG > 5
 drop if before2004 == 0 & TLAG > 4
+drop rp1
 
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"

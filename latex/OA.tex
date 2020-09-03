@@ -22,5 +22,29 @@ Online Appendix Table 1 presents regression results of the above Equation (Colum
 TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
 \end{equation}
 
-Online Appendix Table 2 presents regression results of Equation (3) using restricted 8-K sample. All observations in restricted 8-K sample are subject to four (five) business day 8-K reporting deadline after (before) May 23rd 2004. TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). CONTROLS denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+Online Appendix Table 2 presents regression results of Equation (3) using restricted 8-K sample. All observations in restricted 8-K sample are subject to four (five) business day 8-K reporting deadline after (before) August 23 of 2004. TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). CONTROLS denotes a vector of control variables including firm size (SIZE), market-to-book ratio (MTB) and leverage ratio (LEV). See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. Column 2, 4 and 6 include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
+%\end{landscape} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%% Online Appendix TABLE 3
+\newpage
+%\begin{landscape}
+\input{../output/table/OAT3}
+\setcounter{equation}{5}
+\begin{equation}
+\begin{split}
+EARN_{i,t} = \beta_0&+\beta_1NEG_{i,t}+\beta_2RET_{i,t}\\
+&+\beta_3RET_{i,t}\times SIZE_{i,t}+\beta_4RET_{i,t}\times MTB_{i,t}+\beta_5RET_{i,t}\times LEV_{i,t}+\beta_6RET_{i,t}\times NEG_{i,t}\\
+&+\beta_7RET_{i,t}\times NEG_{i,t}\times SIZE_{i,t}+\beta_8RET_{i,t}\times NEG_{i,t}\times MTB_{i,t}+\beta_9RET_{i,t}\times NEG_{i,t}\times LEV_{i,t}\\
+&+\beta_{10}SIZE_{i,t}+\beta_{11}MTB_{i,t}+\beta_{12}LEV_{i,t}\\
+&+\beta_{13}NEG_{i,t}\times SIZE_{i,t}+\beta_{14}NEG_{i,t}\times MTB_{i,t}+\beta_{15}NEG_{i,t}\times LEV_{i,t}+ \epsilon_{i,t}
+\end{split}
+\end{equation}
+\begin{equation}
+C\_SCORE_{i,t} = \beta_6+\beta_7SIZE_{i,t}+\beta_8MTB_{i,t}+\beta_9LEV_{i,t}
+\end{equation}
+\begin{equation}
+G\_SCORE_{i,t} = \beta_2+\beta_3SIZE_{i,t}+\beta_4MTB_{i,t}+\beta_5LEV_{i,t}
+\end{equation}
+
+Online Appendix Table 3 illustrates the key statistics in constructing C\_SCORE and G\_SCORE. Panel A presents the mean of coefficients, the mean of standard errors and the t-statistics obtained from 28 fiscal yearly regressions (Equation 6) using 10-Q sample from 1993 to 2020. C\_SCORE and G\_SCORE are calculated following Equation 7 and Equation 8 respectively. Panel B presents the summary statistics of C\_SCORE and G\_SCORE. See \hyperref[appb]{Appendix B} and \hyperref[appc]{Appendix C} for textual and financial variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level.
 %\end{landscape} 

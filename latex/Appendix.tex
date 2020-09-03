@@ -26,7 +26,7 @@ All Python scripts and data are available online via \url{https://github.com/fen
 		NW & Number of words, defined as the natural logarithm of one plus the count of total words (nw)\\
 		nw & Raw count of total words\\
 		TONE & Tone, defined as number of net positive words per thousand total words, calculated as total number of positive words minus the sum of total number of negative words and total number of negations, and multiply the previous result by one thousand\\
-		TLAG & Time lag, defined as number of days elapsed between the news release date (CRSP entry date) and document filing date (EDGAR filing date)\\
+		TLAG & Time lag, defined as number of natural days elapsed between the news release date and document filing date. In 10-Q sample, it is the number of natural days elapsed between the fiscal-quarter end date and the 10-Q filing date in EDGAR. In 8-K sample, it is the number of natural days elapsed between the 8-K filing date and its nearest news day, defined as a date whose change in daily return ($\Delta$DRET) is three times larger than the firm’s average change in daily return over the calendar year\\
 		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional expected tone model (Equation 3)\\
 		N8K & Number of 8-Ks reported in one day\\
 		NITEM & Number of 8-K items reported in one day\\

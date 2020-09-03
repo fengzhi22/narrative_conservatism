@@ -54,36 +54,6 @@ Aboody, D.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Acharya%
-, DeMarzo%
-\BCBL {}\ \BBA {} Kremer%
-}{%
-Acharya%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2011}}%
-}]{%
-acharyaEndogenousInformationFlows2011}
-\APACinsertmetastar {%
-acharyaEndogenousInformationFlows2011}%
-\begin{APACrefauthors}%
-Acharya, V\BPBI V.%
-, DeMarzo, P.%
-\BCBL {}\ \BBA {} Kremer, I.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2011}{{\APACmonth{12}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Endogenous {{Information Flows}} and the {{Clustering}}
-  of {{Announcements}}} {Endogenous {{Information Flows}} and the
-  {{Clustering}} of {{Announcements}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{American Economic Review}{101}{7}{2955--2979}.
-\newblock
-\begin{APACrefDOI} \doi{10.1257/aer.101.7.2955} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Alford%
 , Jones%
 \BCBL {}\ \BBA {} Zmijewski%
@@ -377,41 +347,6 @@ Carter, M\BPBI E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Cascino%
-, Clatworthy%
-, Garc{\'i}a~Osma%
-, Gassen%
-\BCBL {}\ \BBA {} Imam%
-}{%
-Cascino%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2017}}%
-}]{%
-cascinoUsefulnessFinancialAccounting2017}
-\APACinsertmetastar {%
-cascinoUsefulnessFinancialAccounting2017}%
-\begin{APACrefauthors}%
-Cascino, S.%
-, Clatworthy, M.%
-, Garc{\'i}a~Osma, B.%
-, Gassen, J.%
-\BCBL {}\ \BBA {} Imam, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2017}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The {{Usefulness}} of {{Financial Accounting
-  Information}}: {{Evidence}} from the {{Field}}} {The {{Usefulness}} of
-  {{Financial Accounting Information}}: {{Evidence}} from the
-  {{Field}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Working Paper}{}{}{}.
-\newblock
-\begin{APACrefDOI} \doi{10.2139/ssrn.3008083} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Cazier%
 , Merkley%
 \BCBL {}\ \BBA {} Treu%
@@ -554,31 +489,7 @@ FASB%
 FASB%
 }{%
 {\protect \APACyear {2018}}%
-{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
-fasbConceptualFrameworkFinancial2018b}
-\APACinsertmetastar {%
-fasbConceptualFrameworkFinancial2018b}%
-\begin{APACrefauthors}%
-FASB.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018{\protect \BCnt {1}}}{}{}.
-\newblock
-\APACrefbtitle {Conceptual {{Framework}} for {{Financial
-  Reporting}}\textemdash{{Chapter}} 1, {{The Objective}} of {{General Purpose
-  Financial Reporting}}.} {Conceptual {{Framework}} for {{Financial
-  Reporting}}\textemdash{{Chapter}} 1, {{The Objective}} of {{General Purpose
-  Financial Reporting}}.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-FASB%
-}{%
-FASB%
-}{%
-{\protect \APACyear {2018}}%
-{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+}]{%
 fasbConceptualFrameworkFinancial2018}
 \APACinsertmetastar {%
 fasbConceptualFrameworkFinancial2018}%
@@ -587,7 +498,7 @@ FASB.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2018{\protect \BCnt {2}}}{}{}.
+\APACrefYearMonthDay{2018}{}{}.
 \newblock
 \APACrefbtitle {Conceptual {{Framework}} for {{Financial
   Reporting}}\textemdash{{Chapter}} 3, {{Qualitative Characteristics}} of
@@ -624,36 +535,6 @@ Gao, M.%
 \APACjournalVolNumPages{The Review of Financial Studies}{33}{4}{1367--1411}.
 \newblock
 \begin{APACrefDOI} \doi{10.1093/rfs/hhz100} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Guttman%
-, Kremer%
-\BCBL {}\ \BBA {} Skrzypacz%
-}{%
-Guttman%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2014}}%
-}]{%
-guttmanNotOnlyWhat2014}
-\APACinsertmetastar {%
-guttmanNotOnlyWhat2014}%
-\begin{APACrefauthors}%
-Guttman, I.%
-, Kremer, I.%
-\BCBL {}\ \BBA {} Skrzypacz, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{{\APACmonth{08}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Not {{Only What}} but {{Also When}}: {{A Theory}} of
-  {{Dynamic Voluntary Disclosure}}} {Not {{Only What}} but {{Also When}}: {{A
-  Theory}} of {{Dynamic Voluntary Disclosure}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{American Economic Review}{104}{8}{2400--2420}.
-\newblock
-\begin{APACrefDOI} \doi{10.1257/aer.104.8.2400} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -774,6 +655,37 @@ Kasznik, R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Khan%
+\ \BBA {} Watts%
+}{%
+Khan%
+\ \BBA {} Watts%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+khanEstimationEmpiricalProperties2009}
+\APACinsertmetastar {%
+khanEstimationEmpiricalProperties2009}%
+\begin{APACrefauthors}%
+Khan, M.%
+\BCBT {}\ \BBA {} Watts, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Estimation and {{Empirical Properties}} of a
+  {{Firm}}-{{Year Measure}} of {{Accounting Conservatism}}} {Estimation and
+  {{Empirical Properties}} of a {{Firm}}-{{Year Measure}} of {{Accounting
+  Conservatism}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and
+  Economics}{48}{2-3}{132--150}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2009.08.002} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Knechel%
 \ \BBA {} Payne%
 }{%
@@ -829,39 +741,6 @@ Kothari, S\BPBI P.%
 \APACjournalVolNumPages{Journal of Accounting Research}{47}{1}{241--276}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1475-679X.2008.00318.x} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Lennard%
-}{%
-Lennard%
-}{%
-{\protect \APACyear {2007}}%
-}]{%
-lennardStewardshipObjectivesFinancial2007}
-\APACinsertmetastar {%
-lennardStewardshipObjectivesFinancial2007}%
-\begin{APACrefauthors}%
-Lennard, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{{\APACmonth{06}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Stewardship and the {{Objectives}} of {{Financial
-  Statements}}: {{A Comment}} on {{IASB}}'s {{Preliminary Views}} on an
-  {{Improved Conceptual Framework}} for {{Financial Reporting}}: {{The
-  Objective}} of {{Financial Reporting}} and {{Qualitative Characteristics}} of
-  {{Decision}}-{{Useful Financial Reporting Information}}} {Stewardship and the
-  {{Objectives}} of {{Financial Statements}}: {{A Comment}} on {{IASB}}'s
-  {{Preliminary Views}} on an {{Improved Conceptual Framework}} for {{Financial
-  Reporting}}: {{The Objective}} of {{Financial Reporting}} and {{Qualitative
-  Characteristics}} of {{Decision}}-{{Useful Financial Reporting
-  Information}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Accounting in Europe}{4}{1}{51--66}.
-\newblock
-\begin{APACrefDOI} \doi{10.1080/17449480701308774} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1108,95 +987,6 @@ Loughran, T.%
   {Measuring {{Readability}} in {{Financial Disclosures}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Journal of Finance}{69}{4}{1643--1671}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Marinovic%
-\ \BBA {} Varas%
-}{%
-Marinovic%
-\ \BBA {} Varas%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-marinovicNoNewsGood2016}
-\APACinsertmetastar {%
-marinovicNoNewsGood2016}%
-\begin{APACrefauthors}%
-Marinovic, I.%
-\BCBT {}\ \BBA {} Varas, F.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{{\APACmonth{11}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {No News Is Good News: Voluntary Disclosure in the Face
-  of Litigation} {No news is good news: Voluntary disclosure in the face of
-  litigation}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{The RAND Journal of Economics}{47}{4}{822--856}.
-\newblock
-\begin{APACrefDOI} \doi{10.1111/1756-2171.12156} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Murphy%
-, O'Connell%
-\BCBL {}\ \BBA {} {{\'O} h{\'O}gartaigh}%
-}{%
-Murphy%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2013}}%
-}]{%
-murphyDiscoursesSurroundingEvolution2013}
-\APACinsertmetastar {%
-murphyDiscoursesSurroundingEvolution2013}%
-\begin{APACrefauthors}%
-Murphy, T.%
-, O'Connell, V.%
-\BCBL {}\ \BBA {} {{\'O} h{\'O}gartaigh}, C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2013}{{\APACmonth{01}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Discourses Surrounding the Evolution of the
-  {{IASB}}/{{FASB Conceptual Framework}}: {{What}} They Reveal about the
-  ``Living Law'' of Accounting} {Discourses surrounding the evolution of the
-  {{IASB}}/{{FASB Conceptual Framework}}: {{What}} they reveal about the
-  ``living law'' of accounting}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Accounting, Organizations and Society}{38}{1}{72--91}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.aos.2012.07.003} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Pelger%
-}{%
-Pelger%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-pelgerPracticesStandardsettingAnalysis2016}
-\APACinsertmetastar {%
-pelgerPracticesStandardsettingAnalysis2016}%
-\begin{APACrefauthors}%
-Pelger, C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{{\APACmonth{04}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Practices of Standard-Setting \textendash{} {{An}}
-  Analysis of the {{IASB}}'s and {{FASB}}'s Process of Identifying the
-  Objective of Financial Reporting} {Practices of standard-setting
-  \textendash{} {{An}} analysis of the {{IASB}}'s and {{FASB}}'s process of
-  identifying the objective of financial reporting}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Accounting, Organizations and Society}{50}{}{51--73}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.aos.2015.10.001} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1453,56 +1243,6 @@ Tottie, G.%
   variation}\ (\BVOL~4).
 \newblock
 \APACaddressPublisher{}{{Academic Press}}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Watts%
-}{%
-Watts%
-}{%
-{\protect \APACyear {2003}}%
-}]{%
-wattsConservatismAccountingPart2003}
-\APACinsertmetastar {%
-wattsConservatismAccountingPart2003}%
-\begin{APACrefauthors}%
-Watts, R\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Conservatism in {{Accounting Part I}}: {{Explanations}}
-  and {{Implications}}} {Conservatism in {{Accounting Part I}}:
-  {{Explanations}} and {{Implications}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Accounting Horizons}{17}{3}{207--221}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Watts%
-\ \BBA {} Zimmerman%
-}{%
-Watts%
-\ \BBA {} Zimmerman%
-}{%
-{\protect \APACyear {1986}}%
-}]{%
-wattsPositiveAccountingTheory1986}
-\APACinsertmetastar {%
-wattsPositiveAccountingTheory1986}%
-\begin{APACrefauthors}%
-Watts, R\BPBI L.%
-\BCBT {}\ \BBA {} Zimmerman, J\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1986}.
-\newblock
-\APACrefbtitle {Positive {{Accounting Theory}}} {Positive {{Accounting
-  Theory}}}.
-\newblock
-\APACaddressPublisher{{Englewood Cliffs, NJ}}{{Prentice-Hall}}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
