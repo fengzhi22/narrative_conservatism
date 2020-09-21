@@ -3,37 +3,37 @@ VARIABLES	tone
 	
 tone	.
 	(.)
-EARN	0.0066***
-	(8.01)
-RET	0.0000
-	(0.30)
+EARN	0.0068***
+	(7.84)
+RET	0.0001
+	(0.63)
 SIZE	-0.0008***
-	(-51.03)
+	(-50.78)
 MTB	0.0001***
-	(13.34)
-STD_RET	-0.0058***
-	(-16.01)
-STD_EARN	-0.0191***
-	(-22.76)
-AGE	0.0003***
-	(14.79)
-BUSSEG	0.0005***
-	(7.02)
-GEOSEG	-0.0010***
-	(-17.59)
-LOSS	-0.0032***
-	(-43.02)
-DEARN	-0.0104***
-	(-13.63)
-AFE	0.0055***
-	(15.32)
-AF	-0.0048***
-	(-12.36)
-Constant	-0.0043***
-	(-20.69)
+	(13.94)
+STD_RET	-0.0064***
+	(-17.00)
+STD_EARN	-0.0206***
+	(-23.35)
+AGE	0.0004***
+	(14.91)
+BUSSEG	0.0007***
+	(8.99)
+GEOSEG	-0.0009***
+	(-14.07)
+LOSS	-0.0033***
+	(-42.51)
+DEARN	-0.0110***
+	(-13.66)
+AFE	0.0060***
+	(15.86)
+AF	-0.0050***
+	(-12.21)
+Constant	-0.0049***
+	(-22.39)
 	
-Observations	91,606
-Adjusted R-squared	0.0874
+Observations	91,607
+Adjusted R-squared	0.0856
 Year-quarter FE	NO
 Firm FE	NO
 Industry clustered SE	NO

@@ -182,8 +182,145 @@ hausman R_NW_NOTE R_NW_MDA
 hausman R_TONE_NOTE R_TONE_MDA
 
 ****************************************************************************************
-*********** TABLE 7: litigation, stock option grant and compensation *******************
+*********** TABLE 7: litigation, stock option grant and corporate transaction **********
 ****************************************************************************************
 
-************************************************************************** Group observations according to their C_SCORE into 5 groups
-// xtile C_PCT = C_SCORE, n(5)
+****************************** ST0CK OPTION GRANT **************************************
+
+import delimited "..\filings\crsp_comp_edgar_10-Q.csv", case(preserve) stringcols(2) clear
+save "..\filings\crsp_comp_edgar_10-Q.dta"
+
+import delimited "..\filings\execucomp.csv", case(preserve) stringcols(2) clear
+
+rename GVKEY gvkey
+rename YEAR fyearq
+
+bysort gvkey fyearq: egen BLKSHVALSUM = sum(BLKSHVAL)
+duplicates drop gvkey fyearq, force
+keep gvkey fyearq BLKSHVAL BLKSHVALSUM
+drop if BLKSHVALSUM <= 0
+
+merge 1:m gvkey fyearq using "..\filings\crsp_comp_edgar_10-Q.dta"
+erase "..\filings\crsp_comp_edgar_10-Q.dta"
+
+**** Variable Creation
+gen RET_NEG=RET*NEG
+global fin_controls "SIZE MTB LEV"
+
+// *** compare optgrant == 0 with optgrant == 1
+// drop if _merge == 1
+// gen OPTGRANT = 0
+// replace OPTGRANT = 1 if _merge == 3
+// bysort OPTGRANT: summarize BLKSHVALSUM EARN RET SIZE MTB LEV
+//
+// areg NW i.cquarter RET NEG RET_NEG $fin_controls if OPTGRANT==1, absorb(gvkey)
+// est store R_NW_YES
+// outreg2 using "..\output\Table_8.xml", replace excel ctitle(NW_YES) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, NO) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// areg NW i.cquarter RET NEG RET_NEG $fin_controls if OPTGRANT==0, absorb(gvkey)
+// est store R_NW_NO
+// outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_NO) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, NO) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// areg TONE i.cquarter RET NEG RET_NEG $fin_controls if OPTGRANT==1, absorb(gvkey)
+// est store R_TONE_YES
+// outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_YES) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, NO) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// areg TONE i.cquarter RET NEG RET_NEG $fin_controls if OPTGRANT==0, absorb(gvkey)
+// est store R_TONE_NO
+// outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_NO) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, NO) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if OPTGRANT==1, absorb(gvkey)
+// est store R_TLAG_YES
+// outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_YES) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, NO) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if OPTGRANT==0, absorb(gvkey)
+// est store R_TLAG_NO
+// outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_NO) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, NO) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// hausman R_NW_YES R_NW_NO
+// hausman R_TONE_YES R_TONE_NO
+// hausman R_TLAG_YES R_TLAG_NO
+
+*** compare option grants with high value with option grants with low value as benchmarked by the median of BLKSHVALSUM
+drop if _merge != 3
+xtile BLKSHVALSUM_HIGH = BLKSHVALSUM, n(2)
+bysort BLKSHVALSUM_HIGH: summarize BLKSHVALSUM EARN RET SIZE MTB LEV
+drop _merge
+
+areg NW i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_A.xml", replace excel ctitle(NW_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg NW i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==2, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_A.xml", append excel ctitle(NW_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+areg TONE i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_A.xml", append excel ctitle(TONE_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg TONE i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==2, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_A.xml", append excel ctitle(TONE_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_A.xml", append excel ctitle(TLAG_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==2, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_A.xml", append excel ctitle(TLAG_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+**** HAUSMAN TEST FOR COEFFICIENTS
+quiet areg NW i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==1, absorb(gvkey)
+est store R_NW_LOW
+quiet areg NW i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==2, absorb(gvkey)
+est store R_NW_HIGH
+quiet areg TONE i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==1, absorb(gvkey)
+est store R_TONE_LOW
+quiet areg TONE i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==2, absorb(gvkey)
+est store R_TONE_HIGH
+quiet areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==1, absorb(gvkey)
+est store R_TLAG_LOW
+quiet areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if BLKSHVALSUM_HIGH==2, absorb(gvkey)
+est store R_TLAG_HIGH
+
+hausman R_NW_LOW R_NW_HIGH
+hausman R_TONE_LOW R_TONE_HIGH
+hausman R_TLAG_LOW R_TLAG_HIGH
+
+****************************** SEO **************************************
+import delimited "..\filings\crsp_comp_edgar_10-Q.csv", case(preserve) stringcols(2) clear
+
+**** Variable Creation
+gen RET_NEG=RET*NEG
+global fin_controls "SIZE MTB LEV"
+
+drop if sstky < 0
+drop if sstky == .
+
+xtile SEO_HIGH = sstky, n(5)
+bysort SEO_HIGH: summarize sstky EARN RET SIZE MTB LEV
+
+**** Regressions
+areg NW i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_B.xml", replace excel ctitle(NW_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg NW i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==5, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_B.xml", append excel ctitle(NW_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+areg TONE i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_B.xml", append excel ctitle(TONE_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg TONE i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==5, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_B.xml", append excel ctitle(TONE_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_B.xml", append excel ctitle(TLAG_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==5, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_8-Panel_B.xml", append excel ctitle(TLAG_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+**** HAUSMAN TEST FOR COEFFICIENTS
+quiet areg NW i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==1, absorb(gvkey)
+est store R_NW_LOW
+quiet areg NW i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==5, absorb(gvkey)
+est store R_NW_HIGH
+quiet areg TONE i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==1, absorb(gvkey)
+est store R_TONE_LOW
+quiet areg TONE i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==5, absorb(gvkey)
+est store R_TONE_HIGH
+quiet areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==1, absorb(gvkey)
+est store R_TLAG_LOW
+quiet areg TLAG i.cquarter RET NEG RET_NEG $fin_controls if SEO_HIGH==5, absorb(gvkey)
+est store R_TLAG_HIGH
+
+hausman R_NW_HIGH R_NW_LOW
+hausman R_TONE_HIGH R_TONE_LOW
+hausman R_TLAG_HIGH R_TLAG_LOW
+

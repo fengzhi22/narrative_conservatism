@@ -5,7 +5,7 @@ We develop a Python program to automatically parse, process and retrieve 10-K an
 
 1. Download all quarterly master indexes from EDGAR using \textit{python-edgar}\footnote{Python-edgar package documentation available at \url{https://github.com/edouardswiac/python-edgar/blob/master/README.md}} package.
 
-2. Filter all 10-Q and 8-K filings\footnote{Our analysis exclude amendments such as 10-Q/A and 8-K/A} from EDGAR master index files and obtain url of the \textit{filing detail} webpage\footnote{One example of filing detail webpage is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/0000320193-20-000050-index.html}} for each of the 10-Q and 8-K filings. 
+2. Filter all 10-Q and 8-K filings\footnote{Our analyses exclude amendments such as 10-Q/A and 8-K/A} from EDGAR master index files and obtain url of the \textit{filing detail} webpage\footnote{One example of filing detail webpage is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/0000320193-20-000050-index.html}} for each of the 10-Q and 8-K filings. 
 
 3. Extract (a) identification information\footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and (b) url of report in HTM/TXT format\footnote{One example of report in HTM format is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. Normally all filings in XML format are also available in HTM format. We manually checked 100 random filings that are in XML format, and all of them are also available in HTM format with the same content. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exhibits and press release etc. However, the HTM files only contain the main report. We mainly focus on HTM files other than TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
 
@@ -14,6 +14,8 @@ We develop a Python program to automatically parse, process and retrieve 10-K an
 5. Save all clean 10-Q and 8-K filings to local device. 
 
 6. Perform word count on clean 10-Q and 8-K filings using LM dictionary.\footnote{LM dictionary available at \url{https://sraf.nd.edu/textual-analysis/resources/\#LM\%20Sentiment\%20Word\%20Lists}}
+
+7. Calculate the Gunning fog index using \textit{textstat}\footnote{textstat package documentation available at \url{https://github.com/shivam5992/textstat}} package. 
 
 All Python scripts and data are available online via \url{https://github.com/fengzhi22/narrative_conservatism}.
 
@@ -25,11 +27,12 @@ All Python scripts and data are available online via \url{https://github.com/fen
 		\textbf{Variable} & \textbf{Definition} \\
 		NW & Number of words, defined as the natural logarithm of one plus the count of total words (nw)\\
 		nw & Raw count of total words\\
-		TONE & Tone, defined as number of net positive words per thousand total words, calculated as total number of positive words minus the sum of total number of negative words and total number of negations, and multiply the previous result by one thousand\\
-		TLAG & Time lag, defined as number of natural days elapsed between the news release date and document filing date. In 10-Q sample, it is the number of natural days elapsed between the fiscal-quarter end date and the 10-Q filing date in EDGAR. In 8-K sample, it is the number of natural days elapsed between the 8-K filing date and its nearest news day, defined as a date whose change in daily return ($\Delta$DRET) is three times larger than the firm’s average change in daily return over the calendar year\\
+		TONE & Tone, defined as the number of net positive words per thousand total words, calculated as the total number of positive words minus the sum of total number of negative words and the total number of negations, and multiply the previous result by one thousand\\
+		TLAG & Time lag, defined as the number of natural days elapsed between the news release date and the document filing date. In 10-Q sample, it is the number of natural days elapsed between the fiscal quarter-end date and the 10-Q filing date in EDGAR. In 8-K sample, it is the number of natural days elapsed between the 8-K filing date and its nearest news day, defined as a date whose change in daily return ($\Delta$DRET) is three times larger than the firm’s average change in daily return over the calendar year\\
+		READ & Gunning fog index, calculated as the average words per sentence plus the percent of complex words and multiply the sum by 0.4 \\
 		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional expected tone model (Equation 3)\\
-		N8K & Number of 8-Ks reported in one day\\
-		NITEM & Number of 8-K items reported in one day\\
+		N8K & Number of 8-K filings in one reporting period date \\
+		NITEM & Number of 8-K items in one reporting period date \\
 		
 	\end{tabular}%
 \end{table}%
@@ -70,7 +73,7 @@ All Python scripts and data are available online via \url{https://github.com/fen
 \newpage
 \begin{small}
 \subsection*{Appendix E: 8-K Matching Cases}
-We check whether the SEC filings and the market returns movements are triggered by the same corporate events, assuming market efficiency. First, we randomly pick 20 good and bad news events. Next, we read the 8-Ks matched to the news and check if the corporate events depicted in the 8-Ks are in line with the market movements both in terms of direction and magnitude. We find that the 8-K matching cases make economic sense overall. See selected 8-K matching cases below.
+We check whether the 8-K filings are responses to their matched news releases, as proxied by dramatic market movements. First, we randomly pick 20 good and bad news events. Next, we read the 8-Ks matched to the news and check if the corporate events depicted in the 8-Ks are in line with the market movements both in terms of direction and magnitude. We find that the 8-K matching cases make economic sense overall. See selected 8-K matching cases below.
 \label{appe}
 \begin{center}
 	\textbf{Good News}

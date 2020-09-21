@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  2 SEP 2020 16:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  20 SEP 2020 23:43
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -522,16 +522,16 @@ l.74
       [1
 
 ] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-[16] [17] [18] [19] [20]
-Overfull \hbox (10.89261pt too wide) detected at line 273
+[16] [17] [18] [19] [20] [21]
+Overfull \hbox (10.89261pt too wide) detected at line 262
 []
  []
 
-[21] [22] [23] [24] [25] (NC.bbl [26]) [27]
+[22] [23] [24] [25] [26] [27] (NC.bbl [28]) [29]
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=649, 693.792pt x 95.1555pt>
+<../output/fig/fig1_matching.png, id=674, 693.792pt x 95.1555pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
@@ -542,19 +542,19 @@ Overfull \hbox (1.95421pt too wide) in paragraph at lines 5--6
  [] 
  []
 
-<../output/fig/fig2_8-K_before.png, id=651, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_before.png, id=676, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_before.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_before.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_before.png  used on input line 
 15.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-<../output/fig/fig2_8-K_after.png, id=652, 433.62pt x 289.08pt>
+<../output/fig/fig2_8-K_after.png, id=677, 433.62pt x 289.08pt>
 File: ../output/fig/fig2_8-K_after.png Graphic file (type png)
 <use ../output/fig/fig2_8-K_after.png>
 Package pdftex.def Info: ../output/fig/fig2_8-K_after.png  used on input line 1
 6.
 (pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
-) [28
+) [30
 
  <../output/fig/fig1_matching.png> <../output/fig/fig2_8-K_before.png> <../outp
 ut/fig/fig2_8-K_after.png>]
@@ -574,126 +574,171 @@ Overfull \hbox (25.08604pt too wide) in paragraph at lines 3--32
  [][] 
  []
 
-) [29
+) [31
 
 
-] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [30]
-(../output/table/T2PC.tex) (../output/table/T2PD.tex) [31
+] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [32]
+(../output/table/T2PC.tex
+Overfull \hbox (2.94873pt too wide) in paragraph at lines 4--30
+ [][] 
+ []
+
+) (../output/table/T2PD.tex) [33
+
+] (../output/table/T3PA.tex) [34
 
 ]
-(../output/table/T3PA.tex) [32
-
-] (../output/table/T3PB.tex) [33]
-(../output/table/T4PA.tex
+(../output/table/T3PB.tex)pdfTeX warning (ext4): destination with the same iden
+tifier (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 \begin{equation}
+                      [35] (../output/table/T4PA.tex
 Overfull \hbox (3.7208pt too wide) in paragraph at lines 4--36
  [][] 
  []
 
-) [34] (../output/table/T4PB.tex)pdfTeX warning (ext4): destination with the sa
+) [36] (../output/table/T4PB.tex)pdfTeX warning (ext4): destination with the sa
 me identifier (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \begin{equation}
+l.60 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \begin{equation}
+l.60 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \begin{equation}
+l.60 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.63 \begin{equation}
-                      [35] (../output/table/T5.tex)pdfTeX warning (ext4): desti
+l.60 \begin{equation}
+                      [37] (../output/table/T5.tex)pdfTeX warning (ext4): desti
 nation with the same identifier (name{equation.6.1}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.74 \begin{equation}
+l.71 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 \begin{equation}
+l.71 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 \begin{equation}
+l.71 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.74 \begin{equation}
-                      [36] (../output/table/T6.tex)pdfTeX warning (ext4): desti
+l.71 \begin{equation}
+                      [38] (../output/table/T6.tex)pdfTeX warning (ext4): desti
 nation with the same identifier (name{equation.6.1}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.85 \begin{equation}
+l.82 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \begin{equation}
+l.82 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \begin{equation}
+l.82 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \begin{equation}
-                      [37] (../output/table/T7PA.tex)pdfTeX warning (ext4): des
+l.82 \begin{equation}
+                      [39] (../output/table/T7PA.tex)pdfTeX warning (ext4): des
 tination with the same identifier (name{equation.6.3}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.96 \begin{equation}
+l.93 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 \begin{equation}
+l.93 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 \begin{equation}
+l.93 \begin{equation}
                      pdfTeX warning (ext4): destination with the same identifie
 r (name{equation.6.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.96 \begin{equation}
-                      [38] (../output/table/T7PB.tex)) [39]
+l.93 \begin{equation}
+                      [40] (../output/table/T7PB.tex) [41]
+(../output/table/T8.tex)pdfTeX warning (ext4): destination with the same identi
+fier (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.115 \begin{equation}
+                      ) [42]
 \openout2 = `Appendix.aux'.
 
  (Appendix.tex
-Overfull \hbox (10.98346pt too wide) in paragraph at lines 24--35
+Overfull \hbox (10.98346pt too wide) in paragraph at lines 26--38
  [][] 
  []
 
 
-Overfull \hbox (20.2779pt too wide) in paragraph at lines 41--63
+Overfull \hbox (20.2779pt too wide) in paragraph at lines 44--66
  [][] 
  []
 
-[40
+[43
 
 
-] [41] (../output/table/appd.tex
+] [44] (../output/table/appd.tex
 Overfull \hbox (29.0559pt too wide) in paragraph at lines 69--74
  [][] 
  []
 
-) [42] [43]) [44]
+) [45] [46]) [47]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.tex)pdfTeX warning (ext4): destination with the 
@@ -743,25 +788,25 @@ Overfull \hbox (10.89261pt too wide) detected at line 41
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.342 \include{OA}
+l.332 \include{OA}
                    [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 344.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 344.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
  (NC.aux (Figure.aux) (Table.aux) (Appendix.aux) (OA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 344.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 344.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 334.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
 Package rerunfilecheck Info: File `NC.out' has not changed.
-(rerunfilecheck)             Checksum: CF51BA5E8827FEDE47332304DAADE5BE;1712.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 344.
+(rerunfilecheck)             Checksum: 02E35B1756B340614BD81EDA945983BF;1672.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 334.
  ) 
 Here is how much of TeX's memory you used:
- 9116 strings out of 480930
- 139857 string characters out of 2917961
- 435126 words of memory out of 3000000
- 24484 multiletter control sequences out of 15000+200000
+ 9127 strings out of 480930
+ 140446 string characters out of 2917961
+ 437315 words of memory out of 3000000
+ 24493 multiletter control sequences out of 15000+200000
  544448 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,43p,4032b,490s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,3332b,484s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm0900.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm1000.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/
@@ -769,20 +814,18 @@ ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2
 .9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk><E:/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmbx10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E
 :/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><E:/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX/fonts/type1/public/am
-sfonts/cm/cmr17.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><E:/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmti12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on NC.pdf (48 pages, 606751 bytes).
+/amsfonts/cm/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr9.pfb><E:/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><E:/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmti12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on NC.pdf (51 pages, 596684 bytes).
 PDF statistics:
- 969 PDF objects out of 1000 (max. 8388607)
- 226 named destinations out of 1000 (max. 500000)
- 200 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 994 PDF objects out of 1000 (max. 8388607)
+ 225 named destinations out of 1000 (max. 500000)
+ 192 words of extra memory for PDF output out of 10000 (max. 10000000)
 
