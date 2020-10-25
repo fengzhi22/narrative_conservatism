@@ -50,7 +50,7 @@ Aboody, D.%
   {{Corporate Voluntary Disclosures}}} {{{CEO Stock Option Awards}} and the
   {{Timing}} of {{Corporate Voluntary Disclosures}}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Accounting and Economics}{29}{}{73--100}.
+\APACjournalVolNumPages{Journal of Accounting and Economics}{29}{1}{73--100}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -82,6 +82,38 @@ Alford, A\BPBI W.%
   Economics}{17}{1-2}{229--254}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/0165-4101(94)90011-6} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Baginski%
+, Campbell%
+, Hinson%
+\BCBL {}\ \BBA {} Koo%
+}{%
+Baginski%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+baginskiCareerConcernsAffect2018}
+\APACinsertmetastar {%
+baginskiCareerConcernsAffect2018}%
+\begin{APACrefauthors}%
+Baginski, S\BPBI P.%
+, Campbell, J\BPBI L.%
+, Hinson, L\BPBI A.%
+\BCBL {}\ \BBA {} Koo, D\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Do {{Career Concerns Affect}} the {{Delay}} of {{Bad
+  News Disclosure}}?} {Do {{Career Concerns Affect}} the {{Delay}} of {{Bad
+  News Disclosure}}?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Accounting Review}{93}{2}{61--95}.
+\newblock
+\begin{APACrefDOI} \doi{10.2308/accr-51848} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -143,6 +175,35 @@ Baker, T.%
   Finance}{18}{4}{557--582}.
 \newblock
 \begin{APACrefDOI} \doi{10.1177/0148558X0301800408} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ball%
+\ \BBA {} Shivakumar%
+}{%
+Ball%
+\ \BBA {} Shivakumar%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+ballEarningsQualityUK2005}
+\APACinsertmetastar {%
+ballEarningsQualityUK2005}%
+\begin{APACrefauthors}%
+Ball, R.%
+\BCBT {}\ \BBA {} Shivakumar, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Earnings Quality in {{UK}} Private Firms: Comparative
+  Loss Recognition Timeliness} {Earnings quality in {{UK}} private firms:
+  Comparative loss recognition timeliness}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and Economics}{39}{1}{83--128}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2004.04.001} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -378,35 +439,32 @@ Carter, M\BPBI E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Cazier%
-, Merkley%
-\BCBL {}\ \BBA {} Treu%
+Chambers%
+\ \BBA {} Penman%
 }{%
-Cazier%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2020}}%
+Chambers%
+\ \BBA {} Penman%
+}{%
+{\protect \APACyear {1984}}%
 }]{%
-cazierWhenAreFirms2020}
+chambersTimelinessReportingStock1984}
 \APACinsertmetastar {%
-cazierWhenAreFirms2020}%
+chambersTimelinessReportingStock1984}%
 \begin{APACrefauthors}%
-Cazier, R\BPBI A.%
-, Merkley, K\BPBI J.%
-\BCBL {}\ \BBA {} Treu, J\BPBI S.%
+Chambers, A\BPBI E.%
+\BCBT {}\ \BBA {} Penman, S\BPBI H.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2020}{{\APACmonth{01}}}{}.
+\APACrefYearMonthDay{1984}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {When Are {{Firms Sued}} for {{Qualitative Disclosures}}?
-  {{Implications}} of the {{Safe Harbor}} for {{Forward}}-{{Looking
-  Statements}}} {When are {{Firms Sued}} for {{Qualitative Disclosures}}?
-  {{Implications}} of the {{Safe Harbor}} for {{Forward}}-{{Looking
-  Statements}}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Timeliness of {{Reporting}} and the {{Stock Price
+  Reaction}} to {{Earnings Announcements}}} {Timeliness of {{Reporting}} and
+  the {{Stock Price Reaction}} to {{Earnings Announcements}}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{The Accounting Review}{95}{1}{31--55}.
+\APACjournalVolNumPages{Journal of Accounting Research}{22}{1}{21--47}.
 \newblock
-\begin{APACrefDOI} \doi{10.2308/accr-52443} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.2307/2490700} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -441,33 +499,26 @@ Chapman, K\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Chen%
-, Hribar%
-\BCBL {}\ \BBA {} Melessa%
+Diamond%
 }{%
-Chen%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
+Diamond%
+}{%
+{\protect \APACyear {1985}}%
 }]{%
-chenIncorrectInferencesWhen2018}
+diamondOptimalReleaseInformation1985}
 \APACinsertmetastar {%
-chenIncorrectInferencesWhen2018}%
+diamondOptimalReleaseInformation1985}%
 \begin{APACrefauthors}%
-Chen, W.%
-, Hribar, P.%
-\BCBL {}\ \BBA {} Melessa, S.%
+Diamond, D\BPBI W.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2018}{{\APACmonth{06}}}{}.
+\APACrefYearMonthDay{1985}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Incorrect {{Inferences When Using Residuals}} as
-  {{Dependent Variables}}} {Incorrect {{Inferences When Using Residuals}} as
-  {{Dependent Variables}}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Optimal {{Release}} of {{Information By Firms}}}
+  {Optimal {{Release}} of {{Information By Firms}}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Accounting Research}{56}{3}{751--796}.
-\newblock
-\begin{APACrefDOI} \doi{10.1111/1475-679X.12195} \end{APACrefDOI}
+\APACjournalVolNumPages{The Journal of Finance}{40}{}{1071--1094}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -551,7 +602,7 @@ FASB%
 FASB%
 }{%
 {\protect \APACyear {2018}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 fasbConceptualFrameworkFinancial2018}
 \APACinsertmetastar {%
 fasbConceptualFrameworkFinancial2018}%
@@ -560,13 +611,95 @@ FASB.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2018}{}{}.
+\APACrefYearMonthDay{2018{\protect \BCnt {1}}}{}{}.
 \newblock
 \APACrefbtitle {Conceptual {{Framework}} for {{Financial
   Reporting}}\textemdash{{Chapter}} 3, {{Qualitative Characteristics}} of
   {{Useful Financial Information}}.} {Conceptual {{Framework}} for {{Financial
   Reporting}}\textemdash{{Chapter}} 3, {{Qualitative Characteristics}} of
   {{Useful Financial Information}}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+FASB%
+}{%
+FASB%
+}{%
+{\protect \APACyear {2018}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+fasbConceptualFrameworkFinancial2018a}
+\APACinsertmetastar {%
+fasbConceptualFrameworkFinancial2018a}%
+\begin{APACrefauthors}%
+FASB.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018{\protect \BCnt {2}}}{}{}.
+\newblock
+\APACrefbtitle {Conceptual {{Framework}} for {{Financial
+  Reporting}}\textemdash{{Chapter}} 8, {{Notes}} to {{Financial Statements}}.}
+  {Conceptual {{Framework}} for {{Financial Reporting}}\textemdash{{Chapter}}
+  8, {{Notes}} to {{Financial Statements}}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Field%
+, Lowry%
+\BCBL {}\ \BBA {} Shu%
+}{%
+Field%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+fieldDoesDisclosureDeter2005}
+\APACinsertmetastar {%
+fieldDoesDisclosureDeter2005}%
+\begin{APACrefauthors}%
+Field, L.%
+, Lowry, M.%
+\BCBL {}\ \BBA {} Shu, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Does Disclosure Deter or Trigger Litigation?} {Does
+  disclosure deter or trigger litigation?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and Economics}{39}{3}{487--507}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2005.04.004} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Francis%
+, Philbrick%
+\BCBL {}\ \BBA {} Schipper%
+}{%
+Francis%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1994}}%
+}]{%
+francisShareholderLitigationCorporate1994}
+\APACinsertmetastar {%
+francisShareholderLitigationCorporate1994}%
+\begin{APACrefauthors}%
+Francis, J.%
+, Philbrick, D.%
+\BCBL {}\ \BBA {} Schipper, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Shareholder {{Litigation}} and {{Corporate
+  Disclosures}}} {Shareholder {{Litigation}} and {{Corporate
+  Disclosures}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{32}{2}{137--164}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2491279} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -597,6 +730,92 @@ Gao, M.%
 \APACjournalVolNumPages{The Review of Financial Studies}{33}{4}{1367--1411}.
 \newblock
 \begin{APACrefDOI} \doi{10.1093/rfs/hhz100} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garc{\'i}a~Lara%
+, Garc{\'i}a~Osma%
+\BCBL {}\ \BBA {} Penalva%
+}{%
+Garc{\'i}a~Lara%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+garcialaraConditionalConservatismCost2011}
+\APACinsertmetastar {%
+garcialaraConditionalConservatismCost2011}%
+\begin{APACrefauthors}%
+Garc{\'i}a~Lara, J\BPBI M.%
+, Garc{\'i}a~Osma, B.%
+\BCBL {}\ \BBA {} Penalva, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Conditional Conservatism and Cost of Capital}
+  {Conditional conservatism and cost of capital}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Review of Accounting Studies}{16}{2}{247--271}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11142-010-9133-4} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Glosten%
+\ \BBA {} Milgrom%
+}{%
+Glosten%
+\ \BBA {} Milgrom%
+}{%
+{\protect \APACyear {1985}}%
+}]{%
+glostenBidAskTransaction1985}
+\APACinsertmetastar {%
+glostenBidAskTransaction1985}%
+\begin{APACrefauthors}%
+Glosten, L\BPBI R.%
+\BCBT {}\ \BBA {} Milgrom, P\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1985}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bid, Ask and Transaction Prices in a Specialist Market
+  with Heterogeneously Informed Traders} {Bid, ask and transaction prices in a
+  specialist market with heterogeneously informed traders}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Financial Economics}{14}{1}{71--100}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0304-405X(85)90044-3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Guay%
+\ \BBA {} Verrecchia%
+}{%
+Guay%
+\ \BBA {} Verrecchia%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+guayConservativeDisclosure2018}
+\APACinsertmetastar {%
+guayConservativeDisclosure2018}%
+\begin{APACrefauthors}%
+Guay, W\BPBI R.%
+\BCBT {}\ \BBA {} Verrecchia, R\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Conservative {{Disclosure}}} {Conservative
+  {{Disclosure}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Financial Reporting}{3}{1}{73--92}.
+\newblock
+\begin{APACrefDOI} \doi{10.2308/jfir-52051} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -650,14 +869,43 @@ He, J.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2020}{}{}.
+\APACrefYearMonthDay{2020}{{\APACmonth{09}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Measuring {{Disclosure Using}} 8-{{K Filings}}}
-  {Measuring {{Disclosure Using}} 8-{{K Filings}}}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Measuring Disclosure Using 8-{{K}} Filings} {Measuring
+  disclosure using 8-{{K}} filings}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Review of Accounting Studies}{}{}{forthcoming}.
+\APACjournalVolNumPages{Review of Accounting Studies}{25}{3}{903--962}.
 \newblock
-\begin{APACrefDOI} \doi{10.2139/ssrn.3354252} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.1007/s11142-020-09551-y} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Healy%
+\ \BBA {} Palepu%
+}{%
+Healy%
+\ \BBA {} Palepu%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+healyInformationAsymmetryCorporate2001}
+\APACinsertmetastar {%
+healyInformationAsymmetryCorporate2001}%
+\begin{APACrefauthors}%
+Healy, P\BPBI M.%
+\BCBT {}\ \BBA {} Palepu, K\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Information Asymmetry, Corporate Disclosure, and the
+  Capital Markets: {{A}} Review of the Empirical Disclosure Literature}
+  {Information asymmetry, corporate disclosure, and the capital markets: {{A}}
+  review of the empirical disclosure literature}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and
+  Economics}{31}{1-3}{405--440}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -748,6 +996,35 @@ Khan, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Kim%
+\ \BBA {} Skinner%
+}{%
+Kim%
+\ \BBA {} Skinner%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+kimMeasuringSecuritiesLitigation2012}
+\APACinsertmetastar {%
+kimMeasuringSecuritiesLitigation2012}%
+\begin{APACrefauthors}%
+Kim, I.%
+\BCBT {}\ \BBA {} Skinner, D\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring Securities Litigation Risk} {Measuring
+  securities litigation risk}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and
+  Economics}{53}{1-2}{290--310}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2011.09.005} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Knechel%
 \ \BBA {} Payne%
 }{%
@@ -778,11 +1055,46 @@ Knechel, W\BPBI R.%
 
 \bibitem [\protect \citeauthoryear {%
 Kothari%
+, Li%
+\BCBL {}\ \BBA {} Short%
+}{%
+Kothari%
+, Li%
+\BCBL {}\ \BBA {} Short%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+kothariEffectDisclosuresManagement2009}
+\APACinsertmetastar {%
+kothariEffectDisclosuresManagement2009}%
+\begin{APACrefauthors}%
+Kothari, S\BPBI P.%
+, Li, X.%
+\BCBL {}\ \BBA {} Short, J\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Effect}} of {{Disclosures}} by {{Management}},
+  {{Analysts}}, and {{Business Press}} on {{Cost}} of {{Capital}}, {{Return
+  Volatility}}, and {{Analyst Forecasts}}: {{A Study Using Content Analysis}}}
+  {The {{Effect}} of {{Disclosures}} by {{Management}}, {{Analysts}}, and
+  {{Business Press}} on {{Cost}} of {{Capital}}, {{Return Volatility}}, and
+  {{Analyst Forecasts}}: {{A Study Using Content Analysis}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Accounting Review}{84}{5}{1639--1670}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kothari%
 , Shu%
 \BCBL {}\ \BBA {} Wysocki%
 }{%
 Kothari%
-\ \protect \BOthers {.}}{%
+, Shu%
+\BCBL {}\ \BBA {} Wysocki%
+}{%
 {\protect \APACyear {2009}}%
 }]{%
 kothariManagersWithholdBad2009}
@@ -803,6 +1115,36 @@ Kothari, S\BPBI P.%
 \APACjournalVolNumPages{Journal of Accounting Research}{47}{1}{241--276}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1475-679X.2008.00318.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lang%
+\ \BBA {} Lundholm%
+}{%
+Lang%
+\ \BBA {} Lundholm%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+langVoluntaryDisclosureEquity2000}
+\APACinsertmetastar {%
+langVoluntaryDisclosureEquity2000}%
+\begin{APACrefauthors}%
+Lang, M\BPBI H.%
+\BCBT {}\ \BBA {} Lundholm, R\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Voluntary Disclosure and Equity Offerings: Reducing
+  Information Asymmetry or Hyping the Stock?}} {{Voluntary Disclosure and
+  Equity Offerings: Reducing Information Asymmetry or Hyping the
+  Stock?}}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Contemporary Accounting Research}{17}{4}{623--662}.
+\newblock
+\begin{APACrefDOI} \doi{10.1506/9N45-F0JX-AXVW-LBWJ} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -923,7 +1265,7 @@ Li%
 Li%
 }{%
 {\protect \APACyear {2010}}%
-{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+}]{%
 liInformationContentForwardLooking2010}
 \APACinsertmetastar {%
 liInformationContentForwardLooking2010}%
@@ -932,7 +1274,7 @@ Li, F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2010{\protect \BCnt {1}}}{}{}.
+\APACrefYearMonthDay{2010}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {The {{Information Content}} of {{Forward}}-{{Looking
   Statements}} in {{Corporate Filings}}\textemdash{{A Na\"ive Bayesian Machine
@@ -948,23 +1290,53 @@ Li%
 }{%
 Li%
 }{%
-{\protect \APACyear {2010}}%
-{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
-liTextualAnalysisCorporate2010}
+{\protect \APACyear {2011}}%
+}]{%
+liTextualAnalysisCorporate2011}
 \APACinsertmetastar {%
-liTextualAnalysisCorporate2010}%
+liTextualAnalysisCorporate2011}%
 \begin{APACrefauthors}%
 Li, F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2010{\protect \BCnt {2}}}{}{}.
+\APACrefYearMonthDay{2011}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Textual {{Analysis}} of {{Corporate Disclosures}}: {{A
   Survey}} of the {{Literature}}} {Textual {{Analysis}} of {{Corporate
   Disclosures}}: {{A Survey}} of the {{Literature}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Accounting Literature}{29}{}{143--165}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lleras%
+, Piermont%
+\BCBL {}\ \BBA {} Svoboda%
+}{%
+Lleras%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+llerasAsymmetricGainLoss2019}
+\APACinsertmetastar {%
+llerasAsymmetricGainLoss2019}%
+\begin{APACrefauthors}%
+Lleras, J\BPBI S.%
+, Piermont, E.%
+\BCBL {}\ \BBA {} Svoboda, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Asymmetric Gain\textendash Loss Reference Dependence and
+  Attitudes toward Uncertainty} {Asymmetric gain\textendash loss reference
+  dependence and attitudes toward uncertainty}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Economic Theory}{68}{3}{669--699}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s00199-018-1138-4} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -999,10 +1371,10 @@ Lo, K.%
 
 \bibitem [\protect \citeauthoryear {%
 Loughran%
-\ \BBA {} Mcdonald%
+\ \BBA {} McDonald%
 }{%
 Loughran%
-\ \BBA {} Mcdonald%
+\ \BBA {} McDonald%
 }{%
 {\protect \APACyear {2011}}%
 }]{%
@@ -1011,7 +1383,7 @@ loughranWhenLiabilityNot2011}
 loughranWhenLiabilityNot2011}%
 \begin{APACrefauthors}%
 Loughran, T.%
-\BCBT {}\ \BBA {} Mcdonald, B.%
+\BCBT {}\ \BBA {} McDonald, B.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
@@ -1027,10 +1399,10 @@ Loughran, T.%
 
 \bibitem [\protect \citeauthoryear {%
 Loughran%
-\ \BBA {} Mcdonald%
+\ \BBA {} McDonald%
 }{%
 Loughran%
-\ \BBA {} Mcdonald%
+\ \BBA {} McDonald%
 }{%
 {\protect \APACyear {2014}}%
 }]{%
@@ -1039,7 +1411,7 @@ loughranMeasuringReadabilityFinancial2014}
 loughranMeasuringReadabilityFinancial2014}%
 \begin{APACrefauthors}%
 Loughran, T.%
-\BCBT {}\ \BBA {} Mcdonald, B.%
+\BCBT {}\ \BBA {} McDonald, B.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
@@ -1049,6 +1421,64 @@ Loughran, T.%
   {Measuring {{Readability}} in {{Financial Disclosures}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Journal of Finance}{69}{4}{1643--1671}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Loughran%
+\ \BBA {} McDonald%
+}{%
+Loughran%
+\ \BBA {} McDonald%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+loughranTextualAnalysisAccounting2016}
+\APACinsertmetastar {%
+loughranTextualAnalysisAccounting2016}%
+\begin{APACrefauthors}%
+Loughran, T.%
+\BCBT {}\ \BBA {} McDonald, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Textual {{Analysis}} in {{Accounting}} and {{Finance}}:
+  {{A Survey}}} {Textual {{Analysis}} in {{Accounting}} and {{Finance}}: {{A
+  Survey}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{54}{4}{1187--1230}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/1475-679X.12123} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marinovic%
+\ \BBA {} Varas%
+}{%
+Marinovic%
+\ \BBA {} Varas%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+marinovicNoNewsGood2016}
+\APACinsertmetastar {%
+marinovicNoNewsGood2016}%
+\begin{APACrefauthors}%
+Marinovic, I.%
+\BCBT {}\ \BBA {} Varas, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {No News Is Good News: Voluntary Disclosure in the Face
+  of Litigation} {No news is good news: Voluntary disclosure in the face of
+  litigation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The RAND Journal of Economics}{47}{4}{822--856}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/1756-2171.12156} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1076,7 +1506,58 @@ McAnally, M\BPBI L.%
   Targets}}, and {{Earnings Management}}} {Executive {{Stock Options}},
   {{Missed Earnings Targets}}, and {{Earnings Management}}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{The Accounting Review}{33}{}{185--216}.
+\APACjournalVolNumPages{The Accounting Review}{83}{1}{185--216}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nelson%
+\ \BBA {} Pritchard%
+}{%
+Nelson%
+\ \BBA {} Pritchard%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+nelsonCarrotStickShift2016}
+\APACinsertmetastar {%
+nelsonCarrotStickShift2016}%
+\begin{APACrefauthors}%
+Nelson, K\BPBI K.%
+\BCBT {}\ \BBA {} Pritchard, A\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Carrot or {{Stick}}? {{The Shift}} from {{Voluntary}} to
+  {{Mandatory Disclosure}} of {{Risk Factors}}} {Carrot or {{Stick}}? {{The
+  Shift}} from {{Voluntary}} to {{Mandatory Disclosure}} of {{Risk
+  Factors}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Empirical Legal Studies}{13}{2}{266--297}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Niessner%
+}{%
+Niessner%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+niessnerStrategicDisclosureTiming2015}
+\APACinsertmetastar {%
+niessnerStrategicDisclosureTiming2015}%
+\begin{APACrefauthors}%
+Niessner, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Strategic {{Disclosure Timing}} and {{Insider Trading}}}
+  {Strategic {{Disclosure Timing}} and {{Insider Trading}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Working Paper}{}{}{}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1130,6 +1611,35 @@ Pinsker, R\BPBI E.%
 \APACjournalVolNumPages{Working Paper}{}{}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.2139/ssrn.930063} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rogers%
+\ \BBA {} Van~Buskirk%
+}{%
+Rogers%
+\ \BBA {} Van~Buskirk%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+rogersShareholderLitigationChanges2009}
+\APACinsertmetastar {%
+rogersShareholderLitigationChanges2009}%
+\begin{APACrefauthors}%
+Rogers, J\BPBI L.%
+\BCBT {}\ \BBA {} Van~Buskirk, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Shareholder Litigation and Changes in Disclosure
+  Behavior} {Shareholder litigation and changes in disclosure behavior}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and
+  Economics}{47}{1-2}{136--156}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2008.04.003} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1234,6 +1744,27 @@ SEC.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+SEC%
+}{%
+SEC%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+secFinancialReportingManual2019}
+\APACinsertmetastar {%
+secFinancialReportingManual2019}%
+\begin{APACrefauthors}%
+SEC.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {Financial {{Reporting Manual}}.} {Financial {{Reporting
+  Manual}}.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Segal%
 \ \BBA {} Segal%
 }{%
@@ -1308,7 +1839,7 @@ Skinner, D\BPBI J.%
 {\BBOQ}\APACrefatitle {Earnings {{Disclosures}} and {{Stockholder Lawsuits}}}
   {Earnings {{Disclosures}} and {{Stockholder Lawsuits}}}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Accounting and Economics}{23}{}{249--282}.
+\APACjournalVolNumPages{Journal of Accounting and Economics}{23}{3}{249--282}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1336,7 +1867,34 @@ Teoh, S\BPBI H.%
   Equity Offerings} {Earnings management and the underperformance of seasoned
   equity offerings}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Financial Economics}{}{}{37}.
+\APACjournalVolNumPages{Journal of Financial Economics}{50}{1}{63--99}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tetlock%
+}{%
+Tetlock%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+tetlockGivingContentInvestor2007}
+\APACinsertmetastar {%
+tetlockGivingContentInvestor2007}%
+\begin{APACrefauthors}%
+Tetlock, P\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Giving {{Content}} to {{Investor Sentiment}}: {{The
+  Role}} of {{Media}} in the {{Stock Market}}} {Giving {{Content}} to
+  {{Investor Sentiment}}: {{The Role}} of {{Media}} in the {{Stock
+  Market}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Journal of Finance}{62}{3}{1139--1168}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1540-6261.2007.01232.x} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1361,6 +1919,56 @@ Tottie, G.%
   variation}\ (\BVOL~4).
 \newblock
 \APACaddressPublisher{}{{Academic Press}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watts%
+}{%
+Watts%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+wattsConservatismAccountingPart2003}
+\APACinsertmetastar {%
+wattsConservatismAccountingPart2003}%
+\begin{APACrefauthors}%
+Watts, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Conservatism in {{Accounting Part I}}: {{Explanations}}
+  and {{Implications}}} {Conservatism in {{Accounting Part I}}:
+  {{Explanations}} and {{Implications}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Accounting Horizons}{17}{3}{207--221}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watts%
+\ \BBA {} Zimmerman%
+}{%
+Watts%
+\ \BBA {} Zimmerman%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+wattsPositiveAccountingTheory1986}
+\APACinsertmetastar {%
+wattsPositiveAccountingTheory1986}%
+\begin{APACrefauthors}%
+Watts, R\BPBI L.%
+\BCBT {}\ \BBA {} Zimmerman, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {Positive {{Accounting Theory}}} {Positive {{Accounting
+  Theory}}}.
+\newblock
+\APACaddressPublisher{{Englewood Cliffs, NJ}}{{Prentice-Hall}}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

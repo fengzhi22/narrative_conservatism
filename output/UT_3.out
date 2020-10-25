@@ -1,0 +1,21 @@
+	(1)
+VARIABLES	NW
+	
+NW	.
+	(.)
+CFO	-0.610***
+	(-7.90)
+CFONEG	-0.028***
+	(-4.57)
+CFO_CFONEG	1.406***
+	(12.22)
+Constant	8.184***
+	(234.35)
+	
+Observations	91,461
+Adjusted R-squared	0.652
+Year-quarter FE	YES
+Firm FE	YES
+Industry clustered SE	YES
+Robust t-statistics in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
