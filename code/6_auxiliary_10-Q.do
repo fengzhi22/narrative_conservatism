@@ -164,30 +164,6 @@ outreg2 using "..\output\Table_5.xml", append excel ctitle(TLAG_LOW) addtext(Yea
 areg TLAG i.cquarter RET NEG RET_NEG $fin_controls $abt_controls if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_5.xml", append excel ctitle(TLAG_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
-// **** TABLE 5: 10-Q NC - triple interactions
-//
-// **** Variable Creation
-// gen RET_NEG=RET*NEG
-// gen RET_CSCORE=RET*C_SCORE
-// gen NEG_CSCORE=NEG*C_SCORE
-// gen RET_NEG_CSCORE=RET*NEG*C_SCORE
-// gen SIZE_CSCORE=SIZE*C_SCORE
-// gen MTB_CSCORE=MTB*C_SCORE
-// gen LEV_CSCORE=LEV*C_SCORE
-//
-// global fin_controls "SIZE MTB LEV SIZE_CSCORE MTB_CSCORE LEV_CSCORE"
-//
-// **** Regressions
-//
-// areg NW i.cquarter RET NEG RET_NEG RET_CSCORE NEG_CSCORE RET_NEG_CSCORE $fin_controls, absorb(gvkey) cluster(SIC)
-// outreg2 using "..\output\Table_5.xml", replace excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-//
-// areg TONE i.cquarter RET NEG RET_NEG RET_CSCORE NEG_CSCORE RET_NEG_CSCORE $fin_controls, absorb(gvkey) cluster(SIC)
-// outreg2 using "..\output\Table_5.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-//
-// areg TLAG i.cquarter RET NEG RET_NEG RET_CSCORE NEG_CSCORE RET_NEG_CSCORE $fin_controls, absorb(gvkey) cluster(SIC)
-// outreg2 using "..\output\Table_5.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
 ****************************************************************************************
 ************************ TABLE 6: MDA v.s. NOTES ***************************************
 ****************************************************************************************
@@ -327,6 +303,68 @@ test 1.LIT_HIGH#c.RET_NEG = 0.LIT_HIGH#c.RET_NEG
 // outreg2 using "..\output\Table_8-Panel_C.xml", append excel ctitle(LITIGATION_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 // areg LITIGATION i.cquarter RET NEG RET_NEG $fin_controls if LIT_HIGH==1, absorb(gvkey) cluster(SIC)
 // outreg2 using "..\output\Table_8-Panel_C.xml", append excel ctitle(LITIGATION_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+****************************************************************************************
+****************** TABLE 9: Time Trend and Table 10: Reg FD ****************************
+****************************************************************************************
+********************** 10-Q ************************
+import delimited "..\filings\crsp_comp_edgar_10-Q.csv", case(preserve) stringcols(2) clear
+
+**** variable creation ******
+gen POST_FD = 1 if fyearq == 2001 | fyearq == 2002 | fyearq == 2003
+replace POST_FD = 0 if fyearq == 1997 | fyearq == 1998 | fyearq == 1999
+
+gen RET_NEG=RET*NEG
+
+**** Time Trend Regressions
+levelsof fyearq, local(levels) 
+areg NW RET NEG RET_NEG if fyearq == 1993, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_NW_10-Q.xml", replace excel ctitle(NW) addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+foreach l of local levels {
+quiet areg NW RET NEG RET_NEG if fyearq == `l', absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_NW_10-Q.xml", append excel ctitle(`l') addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+}
+
+levelsof fyearq, local(levels) 
+areg TONE RET NEG RET_NEG if fyearq == 1993, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TONE_10-Q.xml", replace excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+foreach l of local levels {
+quiet areg TONE RET NEG RET_NEG if fyearq == `l', absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TONE_10-Q.xml", append excel ctitle(`l') addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+}
+
+levelsof fyearq, local(levels) 
+areg TLAG RET NEG RET_NEG if fyearq == 1993, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TLAG_10-Q.xml", replace excel ctitle(TLAG) addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+foreach l of local levels {
+quiet areg TLAG RET NEG RET_NEG if fyearq == `l', absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TLAG_10-Q.xml", append excel ctitle(`l') addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+}
+
+****************************** REG FD ****************************
+areg NW i.fyearq RET NEG RET_NEG if POST_FD==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_10-Q.xml", replace excel ctitle(NW_BEFORE) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg NW i.fyearq RET NEG RET_NEG if POST_FD==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_10-Q.xml", append excel ctitle(NW_AFTER) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2)  stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe NW (c.RET c.NEG c.RET_NEG)#i.POST_FD, a(gvkey#i.POST_FD) cluster(SIC)
+test 1.POST_FD#c.RET_NEG = 0.POST_FD#c.RET_NEG
+
+areg TONE i.fyearq RET NEG RET_NEG if POST_FD==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_10-Q.xml", append excel ctitle(TONE_BEFORE) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2)  stats(coef tstat) adjr2 drop(i.fyearq)
+areg TONE i.fyearq RET NEG RET_NEG if POST_FD==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_10-Q.xml", append excel ctitle(TONE_AFTER) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2)  stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe TONE (i.fyearq c.RET c.NEG c.RET_NEG)#i.POST_FD, a(gvkey#i.POST_FD) cluster(SIC)
+test 1.POST_FD#c.RET_NEG = 0.POST_FD#c.RET_NEG
+
+areg TLAG i.fyearq RET NEG RET_NEG if POST_FD==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_10-Q.xml", append excel ctitle(TLAG_BEFORE) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2)  stats(coef tstat) adjr2 drop(i.fyearq)
+areg TLAG i.fyearq RET NEG RET_NEG if POST_FD==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_10-Q.xml", append excel ctitle(TLAG_AFTER) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2)  stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe TLAG (i.fyearq c.RET c.NEG c.RET_NEG)#i.POST_FD, a(gvkey#i.POST_FD) cluster(SIC)
+test 1.POST_FD#c.RET_NEG = 0.POST_FD#c.RET_NEG
 
 ****************************************************************************************
 *********** Untabulated Robustness checks 10-Q *****************************************

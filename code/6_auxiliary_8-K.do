@@ -245,3 +245,107 @@ areg TLAG i.cmonth $item_before DRET $fin_controls if before2004 == 1, absorb(ci
 outreg2 using "..\output\Table_7-Panel_B.xml", append excel ctitle(TLAG_BEFORE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 areg TLAG i.cmonth $item_after DRET $fin_controls if before2004 == 0, absorb(cik) cluster(SIC)
 outreg2 using "..\output\Table_7-Panel_B.xml", append excel ctitle(TLAG_AFTER) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+
+*************************************************************************
+********************** 8-K Reg FD and Time Trend ************************
+*************************************************************************
+import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+
+**** variable creation ******
+gen POST_FD = 1 if fyearq == 2001 | fyearq == 2002 | fyearq == 2003
+replace POST_FD = 0 if fyearq == 1997 | fyearq == 1998 | fyearq == 1999
+
+gen DRET_BN=DRET*BN
+
+**** Time Trend Regressions
+levelsof fyearq, local(levels) 
+areg NW DRET BN DRET_BN if fyearq == 1994, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_NW_8-K.xml", replace excel ctitle(NW) addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+foreach l of local levels {
+capture noisily quiet areg NW DRET BN DRET_BN if fyearq == `l', absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_NW_8-K.xml", append excel ctitle(`l') addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+}
+
+levelsof fyearq, local(levels) 
+areg TONE DRET BN DRET_BN if fyearq == 1994, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TONE_8-K.xml", replace excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+foreach l of local levels {
+capture noisily quiet areg TONE DRET BN DRET_BN if fyearq == `l', absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TONE_8-K.xml", append excel ctitle(`l') addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+}
+
+levelsof fyearq, local(levels) 
+areg TLAG DRET BN DRET_BN if fyearq == 1994, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TLAG_8-K.xml", replace excel ctitle(TLAG) addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+foreach l of local levels {
+capture noisily quiet areg TLAG DRET BN DRET_BN if fyearq == `l', absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_9_TLAG_8-K.xml", append excel ctitle(`l') addtext(Year-quarter FE, NO, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+}
+
+****************************** REG FD ****************************
+areg NW i.fyearq DRET BN DRET_BN if POST_FD==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_8-K.xml", replace excel ctitle(NW_BEFORE) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg NW i.fyearq DRET BN DRET_BN if POST_FD==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_8-K.xml", append excel ctitle(NW_AFTER) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe NW (i.fyearq c.DRET c.BN c.DRET_BN)#i.POST_FD, a(gvkey#i.POST_FD) cluster(gvkey)
+test 1.POST_FD#c.DRET_BN = 0.POST_FD#c.DRET_BN
+
+areg TONE i.fyearq DRET BN DRET_BN if POST_FD==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_8-K.xml", append excel ctitle(TONE_BEFORE) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg TONE i.fyearq DRET BN DRET_BN if POST_FD==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_8-K.xml", append excel ctitle(TONE_AFTER) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe TONE (i.fyearq c.DRET c.BN c.DRET_BN)#i.POST_FD, a(gvkey#i.POST_FD) cluster(gvkey)
+test 1.POST_FD#c.DRET_BN = 0.POST_FD#c.DRET_BN
+
+areg TLAG i.fyearq DRET BN DRET_BN if POST_FD==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_8-K.xml", append excel ctitle(TLAG_BEFORE) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg TLAG i.fyearq DRET BN DRET_BN if POST_FD==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_10_8-K.xml", append excel ctitle(TLAG_AFTER) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe TLAG (i.fyearq c.DRET c.BN c.DRET_BN)#i.POST_FD, a(gvkey#i.POST_FD) cluster(gvkey)
+test 1.POST_FD#c.DRET_BN = 0.POST_FD#c.DRET_BN
+
+*************************************************************************
+************************* A priori bad news  ****************************
+*************************************************************************
+import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+
+**** variable creation ******
+**** BN_ITEMS: items 1.02, 1.03, 2.04, 2.06, 3.01, 4.01, 4.02 (Segal and Segal 2016)
+gen rp1 = date(rp,"YMD")
+gen before2004=(rp1<date("August 23 2004","MDY"))
+drop if before2004 == 1
+gen bn = item_102 + item_103 + item_204 + item_206 + item_301 + item_401 + item_402
+gen BN_ITEMS = 0
+replace BN_ITEMS = 1 if bn >= 1
+drop if bn == .
+drop rp1 before2004 bn
+
+gen DRET_BN=DRET*BN
+
+****************************** Regressions ****************************
+areg NW i.fyearq DRET BN DRET_BN if BN_ITEMS==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", replace excel ctitle(NW_NO) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg NW i.fyearq DRET BN DRET_BN if BN_ITEMS==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_YES) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe NW (i.fyearq c.DRET c.BN c.DRET_BN)#i.BN_ITEMS, a(gvkey#i.BN_ITEMS) cluster(gvkey)
+test 1.BN_ITEMS#c.DRET_BN = 0.BN_ITEMS#c.DRET_BN
+
+areg TONE i.fyearq DRET BN DRET_BN if BN_ITEMS==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_NO) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg TONE i.fyearq DRET BN DRET_BN if BN_ITEMS==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_YES) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe TONE (i.fyearq c.DRET c.BN c.DRET_BN)#i.BN_ITEMS, a(gvkey#i.BN_ITEMS) cluster(gvkey)
+test 1.BN_ITEMS#c.DRET_BN = 0.BN_ITEMS#c.DRET_BN
+
+areg TLAG i.fyearq DRET BN DRET_BN if BN_ITEMS==0, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_NO) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+areg TLAG i.fyearq DRET BN DRET_BN if BN_ITEMS==1, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_YES) addtext(Year FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2 drop(i.fyearq)
+** Test RET_NEG diff.
+reghdfe TLAG (i.fyearq c.DRET c.BN c.DRET_BN)#i.BN_ITEMS, a(gvkey#i.BN_ITEMS) cluster(gvkey)
+test 1.BN_ITEMS#c.DRET_BN = 0.BN_ITEMS#c.DRET_BN
