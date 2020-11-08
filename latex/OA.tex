@@ -1,6 +1,6 @@
 \section*{Online Appendix}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%% Online Appendix TABLE 1
+%%%%%%%%%%%%%%%%%%%%%%%%%% Online Appendix TABLE 0
 %\input{../output/table/OAT1}
 %\begin{equation*}
 %\begin{split}
@@ -12,40 +12,14 @@
 %
 %Online Appendix Table 1 presents regression results of the above Equation (Column 1) in comparison with the expected tone model results in \citeA{huangToneManagement2014} (Column 2). Dependent variable $tone_{i,t}$ is defined as net positive words, and is calculated as total number of positive words minus the sum of total number of negative words and total number of negations, deflated by total words. Independent variables are defined in \hyperref[appc]{Appendix C}. All financial variables except returns are winsorized at 1\% and 99\% level. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test. The coefficient of MTB in Column 1 is consistent with that in Column 2 in terms of sign, because \citeA{huangToneManagement2014} use book-to-market ratio instead of market-to-book ratio in the expected tone model. 
 
-
 %%%%%%%%%%%%%%%%%%%%%%%%% Online Appendix TABLE 1
 %\newpage
 %\begin{landscape}
 \input{../output/table/OAT1}
-\setcounter{equation}{1}
-\begin{equation}
-TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
-\end{equation}
-\newline
-
-Online Appendix Table 1 presents regression results of Equation (2) using restricted 8-K sample. All observations in restricted 8-K sample are subject to four (five) business day 8-K reporting deadline after (before) August 23 of 2004. TEX represents a vector of textual properties that consists of number of words (NW), tone (TONE) and reporting time lag (TLAG). CONTROLS denotes a vector of control variables, including SIZE, MTB and LEV. See \hyperref[appb]{Appendix B} for variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. All regressions include firm and time fixed effects and standard errors are clustered at industry level identified by 4-digit SIC codes. ***, ** and * indicate significance at the 1\%, 5\% and 10\% levels in a two-tailed test.
 %\end{landscape} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%% Online Appendix TABLE 2
 \newpage
 %\begin{landscape}
 \input{../output/table/OAT2}
-\setcounter{equation}{2}
-\begin{equation}
-\begin{split}
-EARN_{i,t} = \beta_0&+\beta_1NEG_{i,t}+\beta_2RET_{i,t}\\
-&+\beta_3RET_{i,t}\times SIZE_{i,t}+\beta_4RET_{i,t}\times MTB_{i,t}+\beta_5RET_{i,t}\times LEV_{i,t}+\beta_6RET_{i,t}\times NEG_{i,t}\\
-&+\beta_7RET_{i,t}\times NEG_{i,t}\times SIZE_{i,t}+\beta_8RET_{i,t}\times NEG_{i,t}\times MTB_{i,t}+\beta_9RET_{i,t}\times NEG_{i,t}\times LEV_{i,t}\\
-&+\beta_{10}SIZE_{i,t}+\beta_{11}MTB_{i,t}+\beta_{12}LEV_{i,t}\\
-&+\beta_{13}NEG_{i,t}\times SIZE_{i,t}+\beta_{14}NEG_{i,t}\times MTB_{i,t}+\beta_{15}NEG_{i,t}\times LEV_{i,t}+ \epsilon_{i,t}
-\end{split}
-\end{equation}
-\begin{equation}
-C\_SCORE_{i,t} = \beta_6+\beta_7SIZE_{i,t}+\beta_8MTB_{i,t}+\beta_9LEV_{i,t}
-\end{equation}
-\begin{equation}
-G\_SCORE_{i,t} = \beta_2+\beta_3SIZE_{i,t}+\beta_4MTB_{i,t}+\beta_5LEV_{i,t}
-\end{equation}
-
-Online Appendix Table 2 presents the key statistics in constructing C\_SCORE and G\_SCORE. Panel A presents the mean of coefficients, the mean of standard errors and the t-statistics obtained from 23 fiscal yearly regressions (Equation 3) using 10-Q sample from 1993 to 2015. C\_SCORE and G\_SCORE are calculated following Equation 4 and Equation 5 respectively. Panel B presents the summary statistics of C\_SCORE and G\_SCORE. See \hyperref[appb]{Appendix B} for variable definitions. All financial variables except returns are winsorized at 1\% and 99\% level. The mean and standard errors of coefficients and the summary statistics of C\_SCORE and G\_SCORE are consistent with \citeA{khanEstimationEmpiricalProperties2009} overall. 
 %\end{landscape} 

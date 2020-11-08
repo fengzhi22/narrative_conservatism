@@ -60,7 +60,7 @@ areg TLAG i.cquarter RET NEG RET_NEG $fin_controls $abt_controls, absorb(gvkey) 
 outreg2 using "..\output\Table_3-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 ***********************************************************************
-********************* ABTONE and Readability **************************
+********************* Readability *************************************
 ***********************************************************************
 
 **** read crsp_comp_edgar_ibes_seg_10-Q.csv
@@ -105,13 +105,6 @@ areg READ i.cquarter NW RET NEG RET_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_3-Panel_B.xml", replace excel ctitle(READ) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 areg READ i.cquarter NW RET NEG RET_NEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(READ) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-
-areg READ i.cquarter NW RET NEG NW_NEG, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(READ) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-areg READ i.cquarter NW RET NEG NW_NEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(READ) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 areg READ i.cquarter NW RET NEG RET_NEG NW_NEG RET_NW RET_NEG_NW, absorb(gvkey) cluster(SIC)
@@ -168,33 +161,32 @@ import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.c
 gen DRET_BN = DRET*BN
 
 **** Table 4: DRET main results
-regress NW DRET BN DRET_BN
-outreg2 using "..\output\Table_4-Panel_A.xml", replace excel ctitle(NW) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg NW i.cmonth DRET BN DRET_BN, absorb(cik) cluster(SIC)
+// regress NW DRET BN DRET_BN
+// outreg2 using "..\output\Table_4-Panel_A.xml", replace excel ctitle(NW) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+areg NW i.cmonth DRET BN DRET_BN, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", replace excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+// regress NW DRET BN DRET_BN $fin_controls
+// outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(NW) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+areg NW i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(gvkey)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-regress NW DRET BN DRET_BN $fin_controls
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(NW) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg NW i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
-regress TONE DRET BN DRET_BN
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TONE i.cmonth DRET BN DRET_BN, absorb(cik) cluster(SIC)
+// regress TONE DRET BN DRET_BN
+// outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+areg TONE i.cmonth DRET BN DRET_BN, absorb(cik) cluster(gvkey)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-regress TONE DRET BN DRET_BN $fin_controls
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TONE i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
+// regress TONE DRET BN DRET_BN $fin_controls
+// outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+areg TONE i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(gvkey)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
-regress TLAG DRET BN DRET_BN
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TLAG i.cmonth DRET BN DRET_BN, absorb(cik) cluster(SIC)
+// regress TLAG DRET BN DRET_BN
+// outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+areg TLAG i.cmonth DRET BN DRET_BN, absorb(cik) cluster(gvkey)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-regress TLAG DRET BN DRET_BN $fin_controls
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(SIC)
+// regress TLAG DRET BN DRET_BN $fin_controls
+// outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(gvkey)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-
 
 **** UT_2: Untabulated Robustness checks 8-K ******************
 // **** read crsp_comp_edgar_ibes_seg_8-K.csv
