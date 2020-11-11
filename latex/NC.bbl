@@ -823,11 +823,11 @@ Glosten, L\BPBI R.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-W.~Guay%
+Guay%
 , Samuels%
 \BCBL {}\ \BBA {} Taylor%
 }{%
-W.~Guay%
+Guay%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {2016}}%
 }]{%
@@ -835,7 +835,7 @@ guayGuidingFogFinancial2016}
 \APACinsertmetastar {%
 guayGuidingFogFinancial2016}%
 \begin{APACrefauthors}%
-Guay, W.%
+Guay, W\BPBI R.%
 , Samuels, D.%
 \BCBL {}\ \BBA {} Taylor, D.%
 \end{APACrefauthors}%
@@ -854,10 +854,10 @@ Guay, W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-W\BPBI R.~Guay%
+Guay%
 \ \BBA {} Verrecchia%
 }{%
-W\BPBI R.~Guay%
+Guay%
 \ \BBA {} Verrecchia%
 }{%
 {\protect \APACyear {2018}}%
