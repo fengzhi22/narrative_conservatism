@@ -342,7 +342,7 @@ outreg2 using "..\output\UT_5_TLAG_10-Q.xml", append excel ctitle(`l') addtext(Y
 }
 
 ****************************************************************************************
-********************* TABLE 10: Intangible Assets and R&D ******************************
+********************* TABLE 9: Intangible Assets and R&D ******************************
 ****************************************************************************************
 import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 
@@ -444,54 +444,58 @@ outreg2 using "..\output\UT_1.xml", append excel ctitle(TLAG) addtext(Year-quart
 areg TLAG i.cquarter RET NEG RET_NEG $fin_controls $lit_controls $axy_controls, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_1.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
-************************* CFO **********************************************
-**** read id_crsp_comp_text_10-Q.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
-
-**** Variable Creation
-* winsor2 RET, cuts(1 99) replace
-gen CFONEG = 0
-replace CFONEG = 1 if CFO < 0
-gen CFO_CFONEG = CFO*CFONEG
-
-**** UT_3
-// regress NW CFO CFONEG CFO_CFONEG
-// outreg2 using "..\output\UT_3", replace excel ctitle(NW) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg NW i.cquarter CFO CFONEG CFO_CFONEG, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", replace excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-// regress NW CFO CFONEG CFO_CFONEG $fin_controls $abt_controls
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(NW) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg NW i.cquarter CFO CFONEG CFO_CFONEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-// regress TONE CFO CFONEG CFO_CFONEG
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TONE i.cquarter CFO CFONEG CFO_CFONEG, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-// regress TONE CFO CFONEG CFO_CFONEG $fin_controls $abt_controls
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TONE i.cquarter CFO CFONEG CFO_CFONEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-// regress TONE_GI CFO CFONEG CFO_CFONEG $fin_controls $abt_controls
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_GI) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TONE_GI i.cquarter CFO CFONEG CFO_CFONEG, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_GI) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE_GI i.cquarter CFO CFONEG CFO_CFONEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_GI) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-// regress TONE_HE CFO CFONEG CFO_CFONEG $fin_controls $abt_controls
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_HE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TONE_HE i.cquarter CFO CFONEG CFO_CFONEG, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_HE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE_HE i.cquarter CFO CFONEG CFO_CFONEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_HE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-// regress TLAG CFO CFONEG CFO_CFONEG
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TLAG i.cquarter CFO CFONEG CFO_CFONEG, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-// regress TLAG CFO CFONEG CFO_CFONEG $fin_controls $abt_controls
-// outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
-areg TLAG i.cquarter CFO CFONEG CFO_CFONEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+************************* CFO: opposite results, even when using lag1_CFO, lag2_CFO and lag3_CFO **********************************************
+// **** read id_crsp_comp_text_10-Q.csv
+// import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_10-Q.csv", case(preserve) stringcols(2) clear
+//
+// destring lag1_CFO lag2_CFO lag3_CFO, force replace
+// **** Variable Creation
+// * winsor2 RET, cuts(1 99) replace
+// gen lag1_CFONEG = 0
+// replace lag1_CFONEG = 1 if lag1_CFO < 0
+// gen lag1_CFO_lag1_CFONEG = lag1_CFO*lag1_CFONEG
+// * winsor2 lag1_CFO, cuts(1 99) replace
+// summarize lag1_CFO, detail
+// keep if inrange(lag1_CFO, r(p1), r(p99))
+//
+// **** UT_3
+// // regress NW lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG
+// // outreg2 using "..\output\UT_3", replace excel ctitle(NW) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg NW i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", replace excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// // regress NW lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls $abt_controls
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(NW) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg NW i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// // regress TONE lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg TONE i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// // regress TONE lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls $abt_controls
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg TONE i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// // regress TONE_GI lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls $abt_controls
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_GI) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg TONE_GI i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_GI) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// areg TONE_GI i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_GI) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// // regress TONE_HE lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls $abt_controls
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_HE) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg TONE_HE i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_HE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// areg TONE_HE i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TONE_HE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+//
+// // regress TLAG lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg TLAG i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+// // regress TLAG lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls $abt_controls
+// // outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, NO, Firm FE, NO, Industry clustered SE, NO) dec(3) tdec(2) stats(coef tstat) adjr2
+// areg TLAG i.cquarter lag1_CFO lag1_CFONEG lag1_CFO_lag1_CFONEG $fin_controls, absorb(gvkey) cluster(SIC)
+// outreg2 using "..\output\UT_3.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
