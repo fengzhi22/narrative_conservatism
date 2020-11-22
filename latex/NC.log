@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  9 NOV 2020 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  22 NOV 2020 22:47
 entering extended mode
 **./NC.tex
 (NC.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-04-06> (E:\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(E:\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(E:\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
 \c@section=\count168
@@ -386,30 +386,34 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \bibitemsep=\skip67
 \biblabelsep=\skip68
 )
+(E:\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count284
+)
 (E:\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count284
+\l__kernel_color_stack_int=\count285
 \l__pdf_internal_box=\box51
 ) (NC.aux (Figure.aux)
 (Table.aux) (Appendix.aux) (OA.aux))
 \openout1 = `NC.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -430,12 +434,12 @@ LaTeX Font Info:    ... okay on input line 31.
 * \topmargin=-37.00018pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=34.0pt plus 9.0pt minus 2.0pt
+* \skip\footins=34.8pt plus 9.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -447,32 +451,24 @@ LaTeX Font Info:    ... okay on input line 31.
 
 (E:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count285
+\scratchcounter=\count286
 \scratchdimen=\dimen184
 \scratchbox=\box52
-\nofMPsegments=\count286
-\nofMParguments=\count287
+\nofMPsegments=\count287
+\nofMParguments=\count288
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count288
+\MPscratchCnt=\count289
 \MPscratchDim=\dimen185
-\MPnumerator=\count289
-\makeMPintoPDFobject=\count290
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
 \everyMPtoPDFconversion=\toks29
 ) (E:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(E:\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 \AtBeginShipoutBox=\box53
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 33.
 
 (E:\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -483,11 +479,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (E:\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count291
+\c@section@level=\count292
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
  (NC.out) (NC.out)
 \@outlinefile=\write3
 \openout3 = `NC.out'.
@@ -495,24 +491,24 @@ LaTeX Info: Redefining \nameref on input line 31.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@maskedRefs=\count292
+\c@maskedRefs=\count293
 
 (E:\MiKTeX\tex/latex/apacite\english.apc
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
 
  (E:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
 
  (E:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 53--58
+Underfull \hbox (badness 10000) in paragraph at lines 55--60
 
  []
 
@@ -523,67 +519,84 @@ ning (ext4): destination with the same identifier (name{page.1}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 
-      [1
+l.82 T
+      o examine narrative conservatism, we build on fundamental properties o...
+[1
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15]
-[16] [17] [18]
-Overfull \hbox (31.49237pt too wide) detected at line 249
-[]\OML/cmm/m/it/10.95 TEX[] \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 [] \OT1/c
-mr/m/n/10.95 + \OML/cmm/m/it/10.95 []\OT1/cmr/m/n/10.95 \OML/cmm/m/it/10.95 D
-RET[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 []BN[] \OT1/cmr/m/n/10.95 + \OM
-L/cmm/m/it/10.95 []\OT1/cmr/m/n/10.95 \OML/cmm/m/it/10.95 DRET[] \OMS/cmsy/m/
-n/10.95  \OML/cmm/m/it/10.95 BN[] \OT1/cmr/m/n/10.95 + [] \OML/cmm/m/it/10.95 
-[]CONTROLS[] \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 []
- []
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
+[18] [19] [20] [21] [22] [23] [24]
 
-[19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] (NC.bbl
-[32] [33] [34]) [35]
+LaTeX Warning: Hyper reference `h1' on page 25 undefined on input line 319.
+
+
+LaTeX Warning: Hyper reference `h2' on page 25 undefined on input line 319.
+
+[25] [26]
+
+LaTeX Warning: Hyper reference `h1' on page 27 undefined on input line 326.
+
+
+LaTeX Warning: Hyper reference `h2' on page 27 undefined on input line 326.
+
+
+LaTeX Warning: Hyper reference `h3' on page 27 undefined on input line 326.
+
+[27] [28] [29]
+
+LaTeX Warning: Hyper reference `h1' on page 30 undefined on input line 364.
+
+
+LaTeX Warning: Hyper reference `h2' on page 30 undefined on input line 364.
+
+[30]
+
+LaTeX Warning: Hyper reference `h1' on page 31 undefined on input line 374.
+
+
+LaTeX Warning: Hyper reference `h2' on page 31 undefined on input line 374.
+
+
+LaTeX Warning: Hyper reference `h3' on page 31 undefined on input line 374.
+
+[31] [32] [33] [34] [35] [36] (NC.bbl [37] [38] [39]) [40]
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=919, 573.94424pt x 78.2925pt>
+<../output/fig/fig1_matching.png, id=1000, 573.94424pt x 78.2925pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
 (pdftex.def)             Requested size: 401.75822pt x 54.80437pt.
-) [36
+)
+[41
 
  <../output/fig/fig1_matching.png>]
 \openout2 = `Table.aux'.
 
-
-(Table.tex (../output/table/T1.tex
+ (Table.tex (../output/table/T1.tex
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
 9.
- (E:\MiKTeX\tex/latex/base\omscmr.fd
+
+(E:\MiKTeX\tex/latex/base\omscmr.fd
 File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
-
-
-LaTeX Warning: Float too large for page by 0.92969pt on input line 42.
-
-) [37] (../output/table/T2PA.tex) (../output/table/T2PB.tex) [38
+) [42] (../output/table/T2PA.tex)
+(../output/table/T2PB.tex) [43
 
 
 
 
-]
-(../output/table/T2PC.tex
-Overfull \hbox (16.59587pt too wide) in paragraph at lines 4--51
- [] 
- []
+] (../output/table/T2PC.tex) [44]
+(../output/table/T2PD.tex) (../output/table/T2PD_cont.tex) [45]
+(../output/table/T2PE.tex) [46
 
-) [39] (../output/table/T2PD.tex) (../output/table/T2PD_cont.tex) [40]
-(../output/table/T2PE.tex) [41
-
-] (../output/table/T3PA.tex) [42
+] (../output/table/T3PA.tex) [47
 
 ]
-(../output/table/T3PB.tex) [43] (../output/table/T4PA.tex) [44]
+(../output/table/T3PB.tex) [48] (../output/table/T4PA.tex) [49]
 (../output/table/T4PB.texpdfTeX warning (ext4): destination with the same ident
 ifier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
@@ -604,7 +617,7 @@ fier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 			\begin{equation}
-                        ) [45] (../output/table/T5.texpdfTeX warning (ext4): de
+                        ) [50] (../output/table/T5.texpdfTeX warning (ext4): de
 stination with the same identifier (name{equation.6.1}) has been already used, 
 duplicate ignored
 <to be read again> 
@@ -625,7 +638,7 @@ er (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.52 	\begin{equation}
-                      ) [46] (../output/table/T6.texpdfTeX warning (ext4): dest
+                      ) [51] (../output/table/T6.texpdfTeX warning (ext4): dest
 ination with the same identifier (name{equation.6.2}) has been already used, du
 plicate ignored
 <to be read again> 
@@ -646,28 +659,49 @@ ier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.41 		\begin{equation}
-                       ) [47] (../output/table/T7.texpdfTeX warning (ext4): des
+                       ) [52] (../output/table/T7.texpdfTeX warning (ext4): des
 tination with the same identifier (name{equation.6.1}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.54 			\begin{equation}
+l.44 	\begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 	\begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 	\begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifi
+er (name{equation.6.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 	\begin{equation}
+                      ) [53] (../output/table/T8.texpdfTeX warning (ext4): dest
+ination with the same identifier (name{equation.6.1}) has been already used, du
+plicate ignored
+<to be read again> 
+                   \relax 
+l.61 			\begin{equation}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 			\begin{equation}
+l.61 			\begin{equation}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 			\begin{equation}
+l.61 			\begin{equation}
                         pdfTeX warning (ext4): destination with the same identi
 fier (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 			\begin{equation}
-                        ) [48] (../output/table/T8.texpdfTeX warning (ext4): de
+l.61 			\begin{equation}
+                        ) [54] (../output/table/T9.texpdfTeX warning (ext4): de
 stination with the same identifier (name{equation.6.1}) has been already used, 
 duplicate ignored
 <to be read again> 
@@ -688,61 +722,34 @@ ier (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.58 		\begin{equation}
-                       ) [49] (../output/table/T9.texpdfTeX warning (ext4): des
-tination with the same identifier (name{equation.6.1}) has been already used, d
-uplicate ignored
-<to be read again> 
-                   \relax 
-l.44 	\begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.44 	\begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.44 	\begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.44 	\begin{equation}
-                      )) [50]
+                       )) [55]
 \openout2 = `Appendix.aux'.
 
- (Appendix.tex (../output/table/appa.tex [51
+ (Appendix.tex (../output/table/appa.tex [56
 
 
 ]
-Overfull \hbox (41.0862pt too wide) in paragraph at lines 23--75
+Underfull \hbox (badness 10000) in paragraph at lines 23--75
 [][][]
  []
 
-) [52]
-Overfull \hbox (26.69867pt too wide) in paragraph at lines 12--27
+) [57]
+Overfull \hbox (22.73709pt too wide) in paragraph at lines 12--27
  [][] 
  []
 
 
-Overfull \hbox (39.27177pt too wide) in paragraph at lines 32--57
+Overfull \hbox (34.21938pt too wide) in paragraph at lines 32--57
  [][] 
  []
 
-[53] [54] [55] [56] [57]
-Underfull \hbox (badness 1325) in paragraph at lines 100--100
-[][][]\OT1/cmr/m/n/9 One ex-am-ple of fil-ing de-tail web-page is avail-able at
- []$https :// www [] .sec [] .gov / Archives / edgar / data / 320193 /
+[58] [59] [60] [61] [62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[][][]\OT1/cmr/m/n/10 LM dic-tio-nary avail-able at []$https :// sraf [] .nd []
+ .edu / textual [] -analysis / resources / #LM % 20Sentiment %
  []
 
-)
-Overfull \hbox (29.67479pt too wide) in paragraph at lines 110--384
-\OT1/cmr/m/n/10.95 All Python scripts and data are avail-able on-line via []$ht
-tps :// github [] .com / fengzhi22 / narrative [] []conservatism$[]. 
- []
-
-[58]
+) [64]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.texpdfTeX warning (ext4): destination with the s
@@ -773,51 +780,59 @@ l.22 \newpage
               [1
 
 
-] (../output/table/OAT2.tex))pdfTeX warning (ext4): destination with the same i
-dentifier (name{page.2}) has been already used, duplicate ignored
+] (../output/table/OAT2.tex
+Overfull \hbox (24.83409pt too wide) detected at line 57
+[]
+ []
+
+))pdfTeX warning (ext4): destination with the same identifier (name{page.2}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.388 \include{OA}
+l.461 \include{OA}
                    [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 390.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 390.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 463.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 463.
  (NC.aux (Figure.aux) (Table.aux) (Appendix.aux) (OA.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 390.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 390.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
 Package rerunfilecheck Info: File `NC.out' has not changed.
-(rerunfilecheck)             Checksum: CB3551386948FC187C09E449B27DB17E;1745.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 390.
+(rerunfilecheck)             Checksum: F946CC10A59E4036BCE805517CE0543B;2062.
+
+
+LaTeX Warning: There were undefined references.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 463.
  ) 
 Here is how much of TeX's memory you used:
- 9327 strings out of 480930
- 145652 string characters out of 2917961
- 437568 words of memory out of 3000000
- 24630 multiletter control sequences out of 15000+200000
- 547262 words of font info for 79 fonts, out of 3000000 for 9000
+ 9642 strings out of 480930
+ 149749 string characters out of 2917961
+ 444715 words of memory out of 3000000
+ 24933 multiletter control sequences out of 15000+200000
+ 546957 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,17n,43p,3004b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,17n,43p,2904b,576s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcrm1095.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\tcrm0600.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><E:/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmbx10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E
-:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmex10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex9
-.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi6.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.
-pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><E:/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pf
-b><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmr8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><E:
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmsy6.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><E:/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><E:/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on NC.pdf (61 pages, 617826 bytes).
+0\tcrm1000.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1200.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk> <C:\Users\fengzhi\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><E:/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmbx10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><E:/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
+12.pfb>
+Output written on NC.pdf (67 pages, 604512 bytes).
 PDF statistics:
- 1269 PDF objects out of 1440 (max. 8388607)
- 283 named destinations out of 1000 (max. 500000)
- 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1352 PDF objects out of 1440 (max. 8388607)
+ 299 named destinations out of 1000 (max. 500000)
+ 222 words of extra memory for PDF output out of 10000 (max. 10000000)
 

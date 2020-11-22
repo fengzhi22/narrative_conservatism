@@ -18,7 +18,14 @@
 \usepackage{verbatim}
 \usepackage{subfigure}
 \usepackage{multicol}
-
+\newcommand{\beginbackup}{
+	\newcounter{framenumbervorappendix}
+	\setcounter{framenumbervorappendix}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+	\addtocounter{framenumbervorappendix}{-\value{framenumber}}
+	\addtocounter{framenumber}{\value{framenumbervorappendix}} 
+}
 %----------------------------------------------------------------------
 %	TITLE PAGE
 %----------------------------------------------------------------------
@@ -56,14 +63,13 @@
 \item \textbf{Research Question}
 
 \begin{itemize}
-\item Whether narrative disclosure is conservative, i.e., whether narratives respond to bad news in a more complete, news-consistent and timely manner than good news?
+\item Whether narrative disclosure is conservative, i.e., whether narratives reflect bad news in a more complete, news-consistent, and timely manner than good news?
 \end{itemize}
 
 \item \textbf{Contribution}
 
 \begin{itemize}
 	\item Filling the gap in conservatism literature by documenting the existence of narrative conservatism.
-	\item Adding to the literature on the distinction and the interaction between recognition and disclosure.
 	\item Providing novel evidence to the debate regarding whether managers withhold bad news. 
 	\item Relating to the broader literature on the informativeness of SEC filings.
 \end{itemize}
@@ -113,32 +119,76 @@
 \item \textbf{Definition}
 
 	\begin{itemize}
-		\item Conditional and unconditional conservatism
-		%``accountants' tendency to require a higher degree of verification to recognize good news as gains than to recognize bad news as losses" \citep*[p. 7]{basuConservatismPrincipleAsymmetric1997}
-		%``accountants' preference for accounting methods that lead to lower reported values for shareholders' equity" \citep*[p. 8]{basuConservatismPrincipleAsymmetric1997}.
-		\item Narrative conservatism: narratives responding to bad news in a more complete, news-consistent and timely manner than good news
+		\item Conditional conservatism: ``accountants' tendency to require a higher degree of verification to recognize good news as gains than to recognize bad news as losses" \citep*[p. 7]{basuConservatismPrincipleAsymmetric1997}
+		\item Unconditional conservatism: ``accountants' preference for accounting methods that lead to lower reported values for shareholders' equity" \citep*[p. 8]{basuConservatismPrincipleAsymmetric1997}.
+		\item Narrative conservatism: narratives reflecting bad news in a more complete, news-consistent and timely manner than good news
 	\end{itemize}
 
-\item \textbf{Why do firms disclose or withhold bad news?}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Theoretical Framework: Completeness}
+	\begin{itemize}
+\item \textbf{Completeness}
 
 \begin{itemize}
-	\item Disclose: lower financing costs, avoid litigation risk and reduce the stock option exercise price
-	\item Withhold: managers' future career concern and performance-based compensation
+	\item Complete disclosure must include all necessary information for a user to understand the underlying economic event \citep{fasbConceptualFrameworkFinancial2018}
+	\item Firms may disclose good news in a more complete manner than bad news to boost performance \citep{teohEarningsManagementUnderperformance1998, langVoluntaryDisclosureEquity2000}.
+	\item Firms may disclose bad news in a more complete manner than good news to avoid litigation \citep{skinnerWhyFirmsVoluntarily1994, skinnerEarningsDisclosuresStockholder1997}.
 \end{itemize}
 
 \item \textbf{Hypotheses}
 
 \begin{itemize}
-	\item  \textbf{H1:} The total number of words in narrative disclosure is greater in response to bad news than good news.
-	\item  \textbf{H2}: The marginal change of tone in narrative disclosure is greater in response to bad news than good news.
-	\item  \textbf{H3}: The reporting time lag of narrative disclosure is shorter in response to bad news than good news.
+	\item  \textbf{H1:} Narrative disclosure is completer in response to bad news than to good news.
 \end{itemize}
 
 \end{itemize}
 \end{frame}
 %------------------------------------------------
+\begin{frame}
+	\frametitle{Theoretical Framework: News-consistency}
+	\begin{itemize}
+		\item \textbf{News-consistency}
+		
+		\begin{itemize}
+			\item News-consistency implies that disclosure agrees with the underlying economic event in content sentiment. %Specifically, we interpret it as the degree to which firms use positive tone in narrative disclosure in response to good news and negative tone in response to bad news.
+			\item Tone influences how information is perceived or processed, and thus it can be employed both to inform or mislead \citep{davisNumbersMeasuringInformation2012, liInformationContentForwardLooking2010, huangToneManagement2014}.
+			\item Firms may deploy a uniformly positive (negative) tone in both good and bad news disclosure, resulting in higher news-consistency in good (bad) news disclosure.
+		\end{itemize}
+		
+		\item \textbf{Hypotheses}
+		
+		\begin{itemize}
+			\item  \textbf{H2}: Narrative disclosure is more news-consistent in response to bad news than to good news.
+		\end{itemize}
+		
+	\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Theoretical Framework: Timeliness}
+	\begin{itemize}
+		\item \textbf{Timeliness}
+		
+		\begin{itemize}
+			\item Financial information is of higher quality if it is \textit{timely}. Disclosure should be made \textit{in time} to influence users' decisions \citep{fasbConceptualFrameworkFinancial2018}.
+			\item Managers may delay bad news disclosure to mitigate its negative economic consequences \citep{chambersTimelinessReportingStock1984, niessnerStrategicDisclosureTiming2015, segalAreManagersStrategic2016, brockbankStrategicTiming8K2018}.
+			\item Managers may accelerate bad news disclosure due to litigation concerns \citep{skinnerWhyFirmsVoluntarily1994, marinovicNoNewsGood2016}.
+		\end{itemize}
+		
+		\item \textbf{Hypotheses}
+		
+		\begin{itemize}
+			\item  \textbf{H3}: Narrative disclosure is timelier in response to bad news than to good news.
+		\end{itemize}
+		
+	\end{itemize}
+\end{frame}
+%------------------------------------------------
 %\begin{frame}
-%	\frametitle{Theoretical Framework: Conservatism Cont.}
+%	\frametitle{Theoretical Framework: Conservatism Continued}
 %	\begin{itemize}
 %
 %\item \textbf{Is conservatism useful?}
@@ -160,16 +210,30 @@
 \section{Research Design}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Research Design: Model}
+\frametitle{Research Design: Proxies}
 \begin{itemize}
 
-\item \textbf{Narrative Disclosure Corpora and News Proxy}
+\item \textbf{Narrative Disclosure Corpora}
 
-\begin{itemize}
-	\item Corpora: 10-Q and 8-K filings as they (a) are more credible, (b) have higher reporting threshold and (c) are more timely than other corporate communication channels.
-	\item Heterogeneity between 10-Q and 8-K: (a) 10-Q is more diversified in content (b) 8-K is more timely.
-	\item News proxy is stock returns, assuming market efficiency.
+	\begin{itemize}
+		\item Corpora: 10-Q and 8-K filings because they (a) are more credible, (b) have higher reporting threshold and (c) are more timely than other corporate communication channels.
+		\item Heterogeneity between 10-Q and 8-K: (a) 10-Q is more diversified in content (b) 8-K is more timely.
+	\end{itemize}
+
+\item \textbf{Proxies for Textual Properties and News}
+	\begin{itemize}
+		\item Completeness: the total number of words of SEC filings
+		\item News-consistency: the marginal change of tone in response to increase (good news) or decrease (bad news) in stock market returns.
+		\item Timeliness: reporting time lag, defined as the number of days elapsed between the news release date and the filing date of the studied disclosure
+		\item News: stock returns \citep{basuConservatismPrincipleAsymmetric1997}.
+	\end{itemize}
+
 \end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Research Design: Model}
+	\begin{itemize}
 
 \item \textbf{Model Specification}
 	\begin{itemize}
@@ -185,8 +249,8 @@
 		
 		\begin{figure}[h]
 			\centering
-			\includegraphics[width=0.8\linewidth]{eq3}
-			\label{eq3}
+			\includegraphics[width=0.8\linewidth]{eq2}
+			\label{eq2}
 		\end{figure}
 	
 		\begin{figure}[h]
@@ -203,31 +267,31 @@
 \frametitle{Research Design: Data}
 
 \begin{itemize}
-	\item Data source: historical financial and segment data from Compustat, stock returns from the Center for Research in Security Prices (CRSP) and analyst earnings forecasts data from I/B/E/S.
+	\item Data source: Compustat, CRSP and I/B/E/S
 	
 	\begin{figure}[h]
 		\centering
-		\includegraphics[width=0.8\linewidth]{tab1}
+		\includegraphics[width=0.65\linewidth]{tab1}
 		\label{tab1}
 	\end{figure}
 
 \end{itemize}
 \end{frame}
 %------------------------------------------------
-\section{Main Results}
+\section{Results}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Main Results: Summary Statistics}
+\frametitle{Results: Summary Statistics}
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.7\linewidth]{tab2panA}
+	\includegraphics[width=0.65\linewidth]{tab2panA}
 	\label{tab2panA}
 \end{figure}
 
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-	\frametitle{Main Results: Summary Statistics Cont.}
+	\frametitle{Results: Summary Statistics Continued}
 	\begin{figure}[h]
 		\centering
 		\includegraphics[width=0.65\linewidth]{tab2panB}
@@ -237,123 +301,134 @@
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Main Results: 10-Q Main Results}
+	\frametitle{Results: Summary Statistics Continued}
 	\begin{figure}[h]
 		\centering
-		\includegraphics[width=0.7\linewidth]{tab3panA}
+		\includegraphics[width=0.55\linewidth]{tab2panC}
+		\label{tab2panC}
+	\end{figure}
+	
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Is 10-Q Narrative Disclosure Conservative?}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.55\linewidth]{tab3panA}
 		\label{tab3panA}
 	\end{figure}
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Main Results: 10-Q Additional Results}
-\begin{multicols}{2}
+\frametitle{Results: Are Lengthier 10-Qs Less Readable?}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.79\linewidth]{tab3panB}
+	\includegraphics[width=0.75\linewidth]{tab3panB}
 	\label{tab3panB}
 	\end{figure}
-
-	\begin{figure}[h]
-	\centering
-	\includegraphics[width=1.05\linewidth]{tab3panBeq}
-	\label{tab3panBeq}
-	\end{figure}
-
-	\begin{figure}[h]
-	\centering
-	\includegraphics[width=1.05\linewidth]{eq2}
-	\label{eq2}
-	\end{figure}
-
-
-\end{multicols}
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Main Results: 8-K Main Results}
+\frametitle{Results: Is 8-K Narrative Disclosure Conservative?}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.75\linewidth]{tab4panA}
+	\includegraphics[width=0.7\linewidth]{tab4panA}
 	\label{tab4panA}
 	\end{figure}
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Main Results: 8-K Additional Results}
+\frametitle{Results: 8-K Items, Filings and Reporting Time Lag}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.62\linewidth]{tab4panB}
+	\includegraphics[width=0.65\linewidth]{tab4panB}
 	\label{tab4panB}
 	\end{figure}
 \end{frame}
 %------------------------------------------------
-\section{Auxiliary Analyses}
+\begin{frame}
+	\frametitle{Results: Robustness Checks}
+\begin{itemize}
+	\item Our evidence of narrative conservatism is robust to 
+	\begin{itemize}
+		\item employing an alternative tone measure using the positive and negative word list from the Harvard General Inquiry dictionary \citep{loughranTextualAnalysisAccounting2016};
+		\item including controls for conditional conservatism and managerial incentives;
+		\item excluding 8-K items on results of operations that contain quarterly or annual financial statements \citep{segalAreManagersStrategic2016};
+		\item using an alternative 8-K reporting time lag definition \citep{carterRelevanceForm8K1999, niessnerStrategicDisclosureTiming2015, chapmanInformationOverloadDisclosure2019};
+		\item excluding a priori bad news 8-K items \citep{segalAreManagersStrategic2016};
+		\item estimating by fiscal year from 1995 to 2020.
+	\end{itemize}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\section{Additional Analyses}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Auxiliary Analyses: Narrative and Conditional Conservatism}
+\frametitle{Additional Analyses: MD\&A and NFS}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.75\linewidth]{tab5}
+	\includegraphics[width=0.58\linewidth]{tab5}
 	\label{tab5}
 	\end{figure}
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Auxiliary Analyses: The Role of Narratives}
+\frametitle{Additional Analyses: Voluntary and Mandatory Disclosure}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.70\linewidth]{tab6}
+	\includegraphics[width=0.7\linewidth]{tab6}
 	\label{tab6}
 	\end{figure}
 	
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Auxiliary Analyses: Voluntary and Mandatory Disclosure}
+	\frametitle{Additional Analyses: Intangible Assets and R\&D Expenses}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.75\linewidth]{tab7panA}
-	\label{tab7panA}
+	\includegraphics[width=0.7\linewidth]{tab7}
+	\label{tab7}
 	\end{figure}
 	
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-	\frametitle{Auxiliary Analyses: Voluntary and Mandatory Disclosure}
+	\frametitle{Additional Analyses: Firm Characteristics}
 	\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.48\linewidth]{tab7panB}
-	\label{tab7panB}
+		\centering
+		\includegraphics[width=0.5\linewidth]{tab8}
+		\label{tab8}
 	\end{figure}
 	
 \end{frame}
 %------------------------------------------------
 \begin{frame}
-	\frametitle{Auxiliary Analyses: Managerial Incentives}
+	\frametitle{Additional Analyses: Managerial Incentives}
 	\begin{figure}[h]
 	\centering
-	\includegraphics[width=0.62\linewidth]{tab8}
-	\label{tab8}
+	\includegraphics[width=0.7\linewidth]{tab9}
+	\label{tab9}
 	\end{figure}
 \end{frame}
 %------------------------------------------------
-\section{Discussion}
+\section{Conclusions}
 %------------------------------------------------
 \begin{frame}
-\frametitle{Discussion}
+\frametitle{Conclusions}
 \begin{itemize}
 	\item \textbf{Conclusions}
 	\begin{itemize}
-		\item On average narrative disclosure has more number of words, greater marginal change of tone and shorter reporting time lag in response to bad news relative to good news, consistent with narratives being conservative.
-		\item Firms emphasize bad news more than good news via 10-Q filings, and are more likely to report larger number of 8-K filings and 8-K items per day in response to bad news comparing to good news.
-		\item Narrative conservatism is more (less) pronounced in frms with lower (higher) conditional conservatism, in explanatory (supplementary) narratives, in voluntary (mandatory) disclosure, and in settings where managers have more (less) incentives to disclose bad news.
+		\item We provide evidence that narratives reflect bad news in a more complete, news-consistent, and timely manner than good news. 
+		\item Firms report lengthier 10-Qs to clarify rather than obfuscate bad news, and provide more 8-Ks and 8-K items in response to bad news than to good news.
+		\item We document greater narrative conservatism in the MD\&A section and in voluntary disclosure. Also, narrative conservatism is pervasive in firms with high conditional conservatism, intangible assets, R\&D expenses and proprietary costs.
+		\item We find greater narrative conservatism in settings where managers have strong incentives to disclose bad news.
 	\end{itemize}
-	
-	\item \textbf{Next Steps}
+
+	\item \textbf{Future Research}
 	\begin{itemize}
-		\item Complete the auxiliary analyses.
-		\item Polish the drafts.
+		\item An aggregate measure of narrative conservatism
+		\item Economic implications of narrative conservatism
+		\item Mechanisms that assure the credibility of narrative conservatism 
 	\end{itemize}
 	
 \end{itemize}
@@ -362,11 +437,13 @@
 %------------------------------------------------
 \section{References}
 %------------------------------------------------
-\begin{frame}
+\beginbackup
+\begin{frame}<presentation:0>
 \frametitle{Selected References}
 \scriptsize
 \bibliographystyle{plainnat}
 \bibliography{NC_slides}
 \end{frame}
+\backupend
 %------------------------------------------------
 \end{document}

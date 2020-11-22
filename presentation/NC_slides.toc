@@ -1,7 +1,6 @@
 \beamer@sectionintoc {1}{Research Question and Contribution}{3}{0}{1}
 \beamer@sectionintoc {2}{Theoretical Framework}{4}{0}{2}
-\beamer@sectionintoc {3}{Research Design}{6}{0}{3}
-\beamer@sectionintoc {4}{Main Results}{8}{0}{4}
-\beamer@sectionintoc {5}{Auxiliary Analyses}{14}{0}{5}
-\beamer@sectionintoc {6}{Discussion}{19}{0}{6}
-\beamer@sectionintoc {7}{References}{20}{0}{7}
+\beamer@sectionintoc {3}{Research Design}{9}{0}{3}
+\beamer@sectionintoc {4}{Results}{12}{0}{4}
+\beamer@sectionintoc {5}{Additional Analyses}{20}{0}{5}
+\beamer@sectionintoc {6}{Conclusions}{25}{0}{6}

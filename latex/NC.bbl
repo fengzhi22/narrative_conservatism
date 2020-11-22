@@ -549,10 +549,9 @@ Davis, A\BPBI K.%
 \APACrefYearMonthDay{2012}{{\APACmonth{09}}}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Beyond the {{Numbers}}: {{Measuring}} the {{Information
-  Content}} of {{Earnings Press Release Language}}*: {{Content}} of {{Earnings
-  Press Release Language}}} {Beyond the {{Numbers}}: {{Measuring}} the
-  {{Information Content}} of {{Earnings Press Release Language}}*: {{Content}}
-  of {{Earnings Press Release Language}}}.{\BBCQ}
+  Content}} of {{Earnings Press Release Language}}} {Beyond the {{Numbers}}:
+  {{Measuring}} the {{Information Content}} of {{Earnings Press Release
+  Language}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Contemporary Accounting Research}{29}{3}{845--868}.
 \newblock
@@ -794,6 +793,95 @@ Gao, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Garc{\'i}a~Lara%
+, Garc{\'i}a~Osma%
+\BCBL {}\ \BBA {} Penalva%
+}{%
+Garc{\'i}a~Lara%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+garcialaraConditionalConservatismCost2011}
+\APACinsertmetastar {%
+garcialaraConditionalConservatismCost2011}%
+\begin{APACrefauthors}%
+Garc{\'i}a~Lara, J\BPBI M.%
+, Garc{\'i}a~Osma, B.%
+\BCBL {}\ \BBA {} Penalva, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Conditional Conservatism and Cost of Capital}
+  {Conditional conservatism and cost of capital}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Review of Accounting Studies}{16}{2}{247--271}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11142-010-9133-4} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garc{\'i}a~Lara%
+, Garc{\'i}a~Osma%
+\BCBL {}\ \BBA {} Penalva%
+}{%
+Garc{\'i}a~Lara%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+garcialaraInformationConsequencesAccounting2014}
+\APACinsertmetastar {%
+garcialaraInformationConsequencesAccounting2014}%
+\begin{APACrefauthors}%
+Garc{\'i}a~Lara, J\BPBI M.%
+, Garc{\'i}a~Osma, B.%
+\BCBL {}\ \BBA {} Penalva, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{{\APACmonth{04}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Information {{Consequences}} of {{Accounting
+  Conservatism}}} {Information {{Consequences}} of {{Accounting
+  Conservatism}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Accounting Review}{23}{2}{173--198}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/09638180.2014.882263} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garc{\'i}a~Lara%
+, Garc{\'i}a~Osma%
+\BCBL {}\ \BBA {} Penalva%
+}{%
+Garc{\'i}a~Lara%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+garcialaraAccountingConservatismFirm2016}
+\APACinsertmetastar {%
+garcialaraAccountingConservatismFirm2016}%
+\begin{APACrefauthors}%
+Garc{\'i}a~Lara, J\BPBI M.%
+, Garc{\'i}a~Osma, B.%
+\BCBL {}\ \BBA {} Penalva, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Accounting {{Conservatism}} and {{Firm Investment
+  Efficiency}}} {Accounting {{Conservatism}} and {{Firm Investment
+  Efficiency}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and Economics}{61}{1}{221--238}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2015.07.003} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Glosten%
 \ \BBA {} Milgrom%
 }{%
@@ -901,7 +989,34 @@ Gunning, R.%
 \APACrefbtitle {The {{Technique}} of {{Clear Writing}}} {The {{Technique}} of
   {{Clear Writing}}}.
 \newblock
-\APACaddressPublisher{{New York, NY}}{{McGraw-Hill International Book Co.,}}.
+\APACaddressPublisher{{New York, NY}}{{McGraw-Hill International Book Co.}}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Harris%
+}{%
+Harris%
+}{%
+{\protect \APACyear {1998}}%
+}]{%
+harrisAssociationCompetitionManagers1998}
+\APACinsertmetastar {%
+harrisAssociationCompetitionManagers1998}%
+\begin{APACrefauthors}%
+Harris, M\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Association}} between {{Competition}} and
+  {{Managers}}' {{Business Segment Reporting Decisions}}} {The {{Association}}
+  between {{Competition}} and {{Managers}}' {{Business Segment Reporting
+  Decisions}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{36}{1}{111}.
+\newblock
+\begin{APACrefDOI} \doi{10.2307/2491323} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1350,9 +1465,9 @@ Leuz, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Li%
+F.~Li%
 }{%
-Li%
+F.~Li%
 }{%
 {\protect \APACyear {2008}}%
 }]{%
@@ -1377,9 +1492,9 @@ Li, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Li%
+F.~Li%
 }{%
-Li%
+F.~Li%
 }{%
 {\protect \APACyear {2010}}%
 }]{%
@@ -1403,9 +1518,9 @@ Li, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Li%
+F.~Li%
 }{%
-Li%
+F.~Li%
 }{%
 {\protect \APACyear {2011}}%
 }]{%
@@ -1424,6 +1539,32 @@ Li, F.%
   Disclosures}}: {{A Survey}} of the {{Literature}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Accounting Literature}{29}{}{143--165}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+X.~Li%
+}{%
+X.~Li%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+liImpactsProductMarket2010}
+\APACinsertmetastar {%
+liImpactsProductMarket2010}%
+\begin{APACrefauthors}%
+Li, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{{\APACmonth{09}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Impacts of Product Market Competition on the
+  Quantity and Quality of Voluntary Disclosures} {The impacts of product market
+  competition on the quantity and quality of voluntary disclosures}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Review of Accounting Studies}{15}{3}{663--711}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11142-010-9129-0} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1594,34 +1735,6 @@ McAnally, M\BPBI L.%
   {{Missed Earnings Targets}}, and {{Earnings Management}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Accounting Review}{83}{1}{185--216}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Nelson%
-\ \BBA {} Pritchard%
-}{%
-Nelson%
-\ \BBA {} Pritchard%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-nelsonCarrotStickShift2016}
-\APACinsertmetastar {%
-nelsonCarrotStickShift2016}%
-\begin{APACrefauthors}%
-Nelson, K\BPBI K.%
-\BCBT {}\ \BBA {} Pritchard, A\BPBI C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Carrot or {{Stick}}? {{The Shift}} from {{Voluntary}} to
-  {{Mandatory Disclosure}} of {{Risk Factors}}} {Carrot or {{Stick}}? {{The
-  Shift}} from {{Voluntary}} to {{Mandatory Disclosure}} of {{Risk
-  Factors}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Empirical Legal Studies}{13}{2}{266--297}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2081,6 +2194,31 @@ Tottie, G.%
   variation}\ (\BVOL~4).
 \newblock
 \APACaddressPublisher{}{{Academic Press}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Verrecchia%
+}{%
+Verrecchia%
+}{%
+{\protect \APACyear {1983}}%
+}]{%
+verrecchiaDiscretionaryDisclosure1983}
+\APACinsertmetastar {%
+verrecchiaDiscretionaryDisclosure1983}%
+\begin{APACrefauthors}%
+Verrecchia, R\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1983}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Discretionary Disclosure} {Discretionary
+  disclosure}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and Economics}{5}{}{179--194}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/0165-4101(83)90011-3} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
