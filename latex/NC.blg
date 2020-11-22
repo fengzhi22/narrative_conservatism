@@ -20,43 +20,43 @@ apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in eyPointNowTime2012
 You've used 82 entries,
             6951 wiz_defined-function locations,
-            1812 strings with 27844 characters,
-and the built_in function-call counts, 156286 in all, are:
-= -- 19083
+            1812 strings with 27847 characters,
+and the built_in function-call counts, 155941 in all, are:
+= -- 19037
 > -- 1162
-< -- 7944
-+ -- 7926
+< -- 7934
++ -- 7894
 - -- 181
-* -- 10467
-:= -- 29719
+* -- 10449
+:= -- 29658
 add.period$ -- 328
 call.type$ -- 82
 change.case$ -- 1494
 chr.to.int$ -- 0
 cite$ -- 165
-duplicate$ -- 3942
-empty$ -- 6021
-format.name$ -- 1914
-if$ -- 29186
+duplicate$ -- 3915
+empty$ -- 6013
+format.name$ -- 1906
+if$ -- 29132
 int.to.chr$ -- 0
 int.to.str$ -- 250
 missing$ -- 0
 newline$ -- 2088
 num.names$ -- 656
-pop$ -- 2353
+pop$ -- 2348
 preamble$ -- 1
 purify$ -- 412
 quote$ -- 0
-skip$ -- 9788
+skip$ -- 9778
 stack$ -- 0
-substring$ -- 8592
-swap$ -- 2422
+substring$ -- 8546
+swap$ -- 2410
 text.length$ -- 258
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 6560
 warning$ -- 1
-while$ -- 751
+while$ -- 743
 width$ -- 0
 write$ -- 2539
 (There was 1 warning)
