@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  22 NOV 2020 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  24 NOV 2020 14:55
 entering extended mode
 **./NC_slides.tex
 (NC_slides.tex
@@ -936,17 +936,17 @@ s.toc) [2
 ] [9
 
 ]
-<eq1.png, id=165, 511.9125pt x 19.87425pt>
+<eq1.png, id=162, 511.9125pt x 19.87425pt>
 File: eq1.png Graphic file (type png)
 <use eq1.png>
 Package pdftex.def Info: eq1.png  used on input line 264.
 (pdftex.def)             Requested size: 223.87138pt x 8.69131pt.
-<eq2.png, id=167, 548.0475pt x 34.32825pt>
+<eq2.png, id=164, 548.0475pt x 34.32825pt>
 File: eq2.png Graphic file (type png)
 <use eq2.png>
 Package pdftex.def Info: eq2.png  used on input line 264.
 (pdftex.def)             Requested size: 238.79706pt x 14.9578pt.
-<fig1.png, id=168, 386.6445pt x 96.36pt>
+<fig1.png, id=165, 386.6445pt x 96.36pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
 Package pdftex.def Info: fig1.png  used on input line 264.
@@ -954,15 +954,15 @@ Package pdftex.def Info: fig1.png  used on input line 264.
  [10
 
  <./eq1.png> <./eq2.png> <./fig1.png>]
-<tab1.png, id=182, 487.8225pt x 419.76825pt>
+<tab1.png, id=179, 516.7305pt x 428.19975pt>
 File: tab1.png Graphic file (type png)
 <use tab1.png>
 Package pdftex.def Info: tab1.png  used on input line 279.
-(pdftex.def)             Requested size: 208.25494pt x 179.20299pt.
+(pdftex.def)             Requested size: 224.2757pt x 185.85376pt.
  [11
 
  <./tab1.png>]
-<tab2panA.png, id=192, 513.117pt x 335.45325pt>
+<tab2panA.png, id=189, 513.117pt x 335.45325pt>
 File: tab2panA.png Graphic file (type png)
 <use tab2panA.png>
 Package pdftex.def Info: tab2panA.png  used on input line 291.
@@ -970,23 +970,27 @@ Package pdftex.def Info: tab2panA.png  used on input line 291.
  [12
 
  <./tab2panA.png>]
-<tab2panB.png, id=201, 496.85625pt x 251.13824pt>
+<tab2panB.png, id=198, 504.08325pt x 252.945pt>
 File: tab2panB.png Graphic file (type png)
 <use tab2panB.png>
 Package pdftex.def Info: tab2panB.png  used on input line 301.
-(pdftex.def)             Requested size: 222.48985pt x 112.45935pt.
+(pdftex.def)             Requested size: 222.48985pt x 111.64351pt.
  [13
 
  <./tab2panB.png>]
-<tab2panC.png, id=212, 422.7795pt x 447.47176pt>
+<tab2panC.png, id=209, 481.8pt x 504.08325pt>
 File: tab2panC.png Graphic file (type png)
 <use tab2panC.png>
 Package pdftex.def Info: tab2panC.png  used on input line 311.
-(pdftex.def)             Requested size: 188.26346pt x 199.26427pt.
- [14
+(pdftex.def)             Requested size: 205.37926pt x 214.8748pt.
+
+Overfull \vbox (4.87082pt too high) detected at line 311
+ []
+
+[14
 
  <./tab2panC.png>]
-<tab3panA.png, id=222, 427.5975pt x 466.74374pt>
+<tab3panA.png, id=219, 427.5975pt x 466.74374pt>
 File: tab3panA.png Graphic file (type png)
 <use tab3panA.png>
 Package pdftex.def Info: tab3panA.png  used on input line 320.
@@ -994,7 +998,7 @@ Package pdftex.def Info: tab3panA.png  used on input line 320.
  [15
 
  <./tab3panA.png>]
-<tab3panB.png, id=232, 569.7285pt x 475.7775pt>
+<tab3panB.png, id=229, 569.7285pt x 475.7775pt>
 File: tab3panB.png Graphic file (type png)
 <use tab3panB.png>
 Package pdftex.def Info: tab3panB.png  used on input line 329.
@@ -1006,21 +1010,21 @@ Overfull \vbox (4.3843pt too high) detected at line 329
 [16
 
  <./tab3panB.png>]
-<tab4panA.png, id=242, 554.67226pt x 383.031pt>
+<tab4panA.png, id=239, 549.85425pt x 379.4175pt>
 File: tab4panA.png Graphic file (type png)
 <use tab4panA.png>
 Package pdftex.def Info: tab4panA.png  used on input line 338.
-(pdftex.def)             Requested size: 239.60567pt x 165.4599pt.
+(pdftex.def)             Requested size: 239.60567pt x 165.33475pt.
  [17
 
  <./tab4panA.png>]
-<tab4panB.png, id=252, 521.5485pt x 510.708pt>
+<tab4panB.png, id=249, 489.027pt x 515.526pt>
 File: tab4panB.png Graphic file (type png)
 <use tab4panB.png>
 Package pdftex.def Info: tab4panB.png  used on input line 347.
-(pdftex.def)             Requested size: 222.48985pt x 217.86237pt.
+(pdftex.def)             Requested size: 205.37926pt x 216.51158pt.
 
-Overfull \vbox (7.85838pt too high) detected at line 347
+Overfull \vbox (6.5076pt too high) detected at line 347
  []
 
 [18
@@ -1028,7 +1032,7 @@ Overfull \vbox (7.85838pt too high) detected at line 347
  <./tab4panB.png>] [19
 
 ]
-<tab5.png, id=281, 461.92575pt x 496.85625pt>
+<tab5.png, id=278, 461.92575pt x 496.85625pt>
 File: tab5.png Graphic file (type png)
 <use tab5.png>
 Package pdftex.def Info: tab5.png  used on input line 373.
@@ -1040,15 +1044,15 @@ Overfull \vbox (3.54147pt too high) detected at line 373
 [20
 
  <./tab5.png>]
-<tab6.png, id=290, 564.30824pt x 395.67825pt>
+<tab6.png, id=287, 567.3195pt x 401.0985pt>
 File: tab6.png Graphic file (type png)
 <use tab6.png>
 Package pdftex.def Info: tab6.png  used on input line 383.
-(pdftex.def)             Requested size: 239.60567pt x 168.00706pt.
+(pdftex.def)             Requested size: 239.60567pt x 169.40273pt.
  [21
 
  <./tab6.png>]
-<tab7.png, id=300, 557.08125pt x 317.38576pt>
+<tab7.png, id=297, 557.08125pt x 317.38576pt>
 File: tab7.png Graphic file (type png)
 <use tab7.png>
 Package pdftex.def Info: tab7.png  used on input line 393.
@@ -1056,7 +1060,7 @@ Package pdftex.def Info: tab7.png  used on input line 393.
  [22
 
  <./tab7.png>]
-<tab8.png, id=310, 410.7345pt x 514.92375pt>
+<tab8.png, id=307, 410.7345pt x 514.92375pt>
 File: tab8.png Graphic file (type png)
 <use tab8.png>
 Package pdftex.def Info: tab8.png  used on input line 403.
@@ -1068,7 +1072,7 @@ Overfull \vbox (4.56538pt too high) detected at line 403
 [23
 
  <./tab8.png>]
-<tab9.png, id=320, 548.64975pt x 420.3705pt>
+<tab9.png, id=317, 548.64975pt x 420.3705pt>
 File: tab9.png Graphic file (type png)
 <use tab9.png>
 Package pdftex.def Info: tab9.png  used on input line 412.
@@ -1119,10 +1123,10 @@ Package rerunfilecheck Info: File `NC_slides.out' has not changed.
 (rerunfilecheck)             Checksum: E21732113513EBD5AB4580DE2CF3BD77;317.
  ) 
 Here is how much of TeX's memory you used:
- 19123 strings out of 480930
- 357220 string characters out of 2917961
- 611885 words of memory out of 3000000
- 34429 multiletter control sequences out of 15000+200000
+ 19119 strings out of 480930
+ 357047 string characters out of 2917961
+ 611861 words of memory out of 3000000
+ 34426 multiletter control sequences out of 15000+200000
  540985 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,797b,583s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1171,9 +1175,6 @@ ferenced but does not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.teohEarningsManagementUnderperformance1998} ha
 s been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.fasbConceptualFrameworkFinancial2018} has been
- referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{cite.basuConservatismPrincipleAsymmetric1997} has b
 een referenced but does not exist, replaced by a fixed one
 
@@ -1188,9 +1189,9 @@ lic/amsfonts/cm/cmss12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb>
 <E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><E:/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmssbx10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.p
 fb>
-Output written on NC_slides.pdf (25 pages, 1387153 bytes).
+Output written on NC_slides.pdf (25 pages, 1426100 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
+ 376 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 

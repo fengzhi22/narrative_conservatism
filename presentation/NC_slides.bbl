@@ -1,4 +1,4 @@
-\begin{thebibliography}{19}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -63,12 +63,6 @@ FASB.
 \newblock Statement of {{Financial Accounting Concepts No}}.
   5\textemdash{{Recognition}} and {{Measurement}} in {{Financial Statements}}
   of {{Business Enterprises}}, 1984.
-
-\bibitem[FASB(2018)]{fasbConceptualFrameworkFinancial2018}
-FASB.
-\newblock Conceptual {{Framework}} for {{Financial
-  Reporting}}\textemdash{{Chapter}} 3, {{Qualitative Characteristics}} of
-  {{Useful Financial Information}}, 2018.
 
 \bibitem[Huang et~al.(2014)Huang, Teoh, and Zhang]{huangToneManagement2014}
 Xuan Huang, Siew~Hong Teoh, and Yinglei Zhang.

@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: NC_slides.aux
 The style file: plainnat.bst
 Database file #1: NC_slides.bib
-You've used 19 entries,
+You've used 18 entries,
             2773 wiz_defined-function locations,
-            742 strings with 9071 characters,
-and the built_in function-call counts, 8494 in all, are:
-= -- 836
-> -- 356
-< -- 15
-+ -- 124
-- -- 105
-* -- 701
-:= -- 1310
-add.period$ -- 81
-call.type$ -- 19
-change.case$ -- 92
-chr.to.int$ -- 19
-cite$ -- 38
-duplicate$ -- 373
-empty$ -- 740
-format.name$ -- 138
-if$ -- 1772
+            739 strings with 8854 characters,
+and the built_in function-call counts, 8211 in all, are:
+= -- 813
+> -- 346
+< -- 14
++ -- 120
+- -- 102
+* -- 688
+:= -- 1268
+add.period$ -- 79
+call.type$ -- 18
+change.case$ -- 88
+chr.to.int$ -- 18
+cite$ -- 36
+duplicate$ -- 358
+empty$ -- 708
+format.name$ -- 134
+if$ -- 1711
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 17
-newline$ -- 127
-num.names$ -- 76
-pop$ -- 142
+newline$ -- 123
+num.names$ -- 72
+pop$ -- 129
 preamble$ -- 1
-purify$ -- 73
+purify$ -- 70
 quote$ -- 0
-skip$ -- 272
+skip$ -- 258
 stack$ -- 0
-substring$ -- 441
-swap$ -- 27
+substring$ -- 439
+swap$ -- 26
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 209
+type$ -- 198
 warning$ -- 0
-while$ -- 89
+while$ -- 86
 width$ -- 0
-write$ -- 299
+write$ -- 289
