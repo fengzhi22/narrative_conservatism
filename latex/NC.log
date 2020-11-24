@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  22 NOV 2020 23:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  24 NOV 2020 03:02
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -553,18 +553,18 @@ LaTeX Warning: Hyper reference `h2' on page 31 undefined on input line 372.
 
 LaTeX Warning: Hyper reference `h3' on page 31 undefined on input line 372.
 
-[31] [32] [33] [34] [35] [36] (NC.bbl [37] [38] [39]) [40]
+[31] [32] [33] [34] [35] [36] (NC.bbl [37] [38] [39] [40]) [41]
 \openout2 = `Figure.aux'.
 
  (Figure.tex
-<../output/fig/fig1_matching.png, id=1000, 573.94424pt x 78.2925pt>
+<../output/fig/fig1_matching.png, id=1009, 573.94424pt x 78.2925pt>
 File: ../output/fig/fig1_matching.png Graphic file (type png)
 <use ../output/fig/fig1_matching.png>
 Package pdftex.def Info: ../output/fig/fig1_matching.png  used on input line 5.
 
 (pdftex.def)             Requested size: 401.75822pt x 54.80437pt.
 )
-[41
+[42
 
  <../output/fig/fig1_matching.png>]
 \openout2 = `Table.aux'.
@@ -578,20 +578,20 @@ File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
-) [42] (../output/table/T2PA.tex)
-(../output/table/T2PB.tex) [43
+) [43] (../output/table/T2PA.tex)
+(../output/table/T2PB.tex) [44
 
 
 
 
-] (../output/table/T2PC.tex) [44]
-(../output/table/T2PD.tex) (../output/table/T2PD_cont.tex) [45]
-(../output/table/T2PE.tex) [46
+] (../output/table/T2PC.tex) [45]
+(../output/table/T2PD.tex) (../output/table/T2PD_cont.tex) [46]
+(../output/table/T2PE.tex) [47
 
-] (../output/table/T3PA.tex) [47
+] (../output/table/T3PA.tex) [48
 
 ]
-(../output/table/T3PB.tex) [48] (../output/table/T4PA.tex) [49]
+(../output/table/T3PB.tex) [49] (../output/table/T4PA.tex) [50]
 (../output/table/T4PB.texpdfTeX warning (ext4): destination with the same ident
 ifier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
@@ -612,7 +612,7 @@ fier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 			\begin{equation}
-                        ) [50] (../output/table/T5.texpdfTeX warning (ext4): de
+                        ) [51] (../output/table/T5.texpdfTeX warning (ext4): de
 stination with the same identifier (name{equation.6.1}) has been already used, 
 duplicate ignored
 <to be read again> 
@@ -633,7 +633,7 @@ er (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.52 	\begin{equation}
-                      ) [51] (../output/table/T6.texpdfTeX warning (ext4): dest
+                      ) [52] (../output/table/T6.texpdfTeX warning (ext4): dest
 ination with the same identifier (name{equation.6.2}) has been already used, du
 plicate ignored
 <to be read again> 
@@ -654,7 +654,7 @@ ier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.41 		\begin{equation}
-                       ) [52] (../output/table/T7.texpdfTeX warning (ext4): des
+                       ) [53] (../output/table/T7.texpdfTeX warning (ext4): des
 tination with the same identifier (name{equation.6.1}) has been already used, d
 uplicate ignored
 <to be read again> 
@@ -675,7 +675,7 @@ er (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.44 	\begin{equation}
-                      ) [53] (../output/table/T8.texpdfTeX warning (ext4): dest
+                      ) [54] (../output/table/T8.texpdfTeX warning (ext4): dest
 ination with the same identifier (name{equation.6.1}) has been already used, du
 plicate ignored
 <to be read again> 
@@ -696,7 +696,7 @@ fier (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.61 			\begin{equation}
-                        ) [54] (../output/table/T9.texpdfTeX warning (ext4): de
+                        ) [55] (../output/table/T9.texpdfTeX warning (ext4): de
 stination with the same identifier (name{equation.6.1}) has been already used, 
 duplicate ignored
 <to be read again> 
@@ -717,10 +717,10 @@ ier (name{equation.6.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.58 		\begin{equation}
-                       )) [55]
+                       )) [56]
 \openout2 = `Appendix.aux'.
 
- (Appendix.tex (../output/table/appa.tex [56
+ (Appendix.tex (../output/table/appa.tex [57
 
 
 ]
@@ -728,7 +728,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--75
 [][][]
  []
 
-) [57]
+) [58]
 Overfull \hbox (22.73709pt too wide) in paragraph at lines 12--27
  [][] 
  []
@@ -738,13 +738,13 @@ Overfull \hbox (34.21938pt too wide) in paragraph at lines 32--57
  [][] 
  []
 
-[58] [59] [60] [61] [62] [63]
+[59] [60] [61] [62] [63] [64]
 Underfull \hbox (badness 10000) in paragraph at lines 109--109
 [][][]\OT1/cmr/m/n/10 LM dic-tio-nary avail-able at []$https :// sraf [] .nd []
  .edu / textual [] -analysis / resources / #LM % 20Sentiment %
  []
 
-) [64]
+) [65]
 \openout2 = `OA.aux'.
 
  (OA.tex (../output/table/OAT1.texpdfTeX warning (ext4): destination with the s
@@ -800,13 +800,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 462.
  ) 
 Here is how much of TeX's memory you used:
- 9642 strings out of 480930
- 149749 string characters out of 2917961
- 444667 words of memory out of 3000000
- 24933 multiletter control sequences out of 15000+200000
+ 9667 strings out of 480930
+ 150692 string characters out of 2917961
+ 445341 words of memory out of 3000000
+ 24951 multiletter control sequences out of 15000+200000
  546957 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,17n,43p,2904b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,17n,43p,2904b,575s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\tcrm1000.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
 pen/ec/dpi600\tcrm1200.pk> <C:\Users\fengzhi\AppData\Local\MiKTeX\2.9\fonts/pk/
@@ -825,9 +825,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
 12.pfb>
-Output written on NC.pdf (67 pages, 604398 bytes).
+Output written on NC.pdf (68 pages, 606650 bytes).
 PDF statistics:
- 1352 PDF objects out of 1440 (max. 8388607)
- 299 named destinations out of 1000 (max. 500000)
+ 1362 PDF objects out of 1440 (max. 8388607)
+ 306 named destinations out of 1000 (max. 500000)
  222 words of extra memory for PDF output out of 10000 (max. 10000000)
 
