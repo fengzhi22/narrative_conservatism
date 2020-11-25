@@ -1,8 +1,6 @@
-*****************************************************
-**************** TABLE 7 - Panel A ******************
-*****************************************************
-
-**** Table 7 - Panel_A: Voluntary v.s. Mandatory Disclosure Items
+*************************************************************************************
+*************** Table 6: Voluntary v.s. Mandatory Disclosure Items ******************
+*************************************************************************************
 
 **** read crsp_comp_edgar_8-K.csv
 import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
@@ -19,49 +17,33 @@ gen VD = 0
 replace VD = 1 if vd >= 1
 drop vd
 
-**** Table 7： Voluntary v.s. Mandatory Disclosure Items
-areg NW i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_7-Panel_A.xml", replace excel ctitle(NW_VD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+**** Table 6： Voluntary v.s. Mandatory Disclosure Items
+quiet areg NW i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_6.xml", replace excel ctitle(NW_VD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+quiet areg NW i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_6.xml", append excel ctitle(NW_MD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+** Test RET_NEG diff.
+reghdfe NW (i.cmonth c.DRET c.BN c.DRET_BN)#i.VD, a(cik#i.VD) cluster(cik)
+test 1.VD#c.DRET_BN = 0.VD#c.DRET_BN
 
-areg NW i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_7-Panel_A.xml", append excel ctitle(NW_MD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+quiet areg TONE i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_6.xml", append excel ctitle(TONE_VD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+quiet areg TONE i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_6.xml", append excel ctitle(TONE_MD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+** Test RET_NEG diff.
+reghdfe TONE (i.cmonth c.DRET c.BN c.DRET_BN)#i.VD, a(cik#i.VD) cluster(cik)
+test 1.VD#c.DRET_BN = 0.VD#c.DRET_BN
 
-areg TONE i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_7-Panel_A.xml", append excel ctitle(TONE_VD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-
-areg TONE i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_7-Panel_A.xml", append excel ctitle(TONE_MD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-
-areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_7-Panel_A.xml", append excel ctitle(TLAG_VD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-
-areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik) cluster(SIC)
-outreg2 using "..\output\Table_7-Panel_A.xml", append excel ctitle(TLAG_MD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-
-quietly areg NW i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik)
-est store R_NW_VD
-
-quietly areg NW i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik)
-est store R_NW_MD
-
-quietly areg TONE i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik)
-est store R_TONE_VD
-
-areg TONE i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik)
-est store R_TONE_MD
-
-quietly areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) 
-est store R_TLAG_VD
-
-quietly areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik)
-est store R_TLAG_MD
-
-hausman R_NW_MD R_NW_VD
-hausman R_TONE_MD R_TONE_VD
-hausman R_TLAG_MD R_TLAG_VD
+quiet areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if VD == 1, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_6.xml", append excel ctitle(TLAG_VD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+quiet areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if VD == 0, absorb(cik) cluster(SIC)
+outreg2 using "..\output\Table_6.xml", append excel ctitle(TLAG_MD) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+** Test RET_NEG diff.
+reghdfe TLAG (i.cmonth c.DRET c.BN c.DRET_BN)#i.VD, a(cik#i.VD) cluster(cik)
+test 1.VD#c.DRET_BN = 0.VD#c.DRET_BN
 
 *************************************************************************
-****************** Table 9: 8-K Reg FD and Time Trend *******************
+****************** UT_5: 8-K Reg FD and Time Trend *******************
 *************************************************************************
 import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
