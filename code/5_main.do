@@ -1,7 +1,7 @@
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"
 global lit_controls "LNASSETS SG SKEW_RET STD_RET TURNOVER"
-global abt_controls_8k "EARN STD_RET STD_EARN"
+global abt_controls_8k "EARN STD_RET"
 global abt_controls "EARN STD_RET STD_EARN AGE BUSSEG GEOSEG AF AFE"
 global lag_controls "LAG1_RET LAG2_RET LAG3_RET"
 

@@ -440,6 +440,37 @@ Bushee, B\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Bushman%
+, Piotroski%
+\BCBL {}\ \BBA {} Smith%
+}{%
+Bushman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+bushmanCapitalAllocationTimely2011}
+\APACinsertmetastar {%
+bushmanCapitalAllocationTimely2011}%
+\begin{APACrefauthors}%
+Bushman, R\BPBI M.%
+, Piotroski, J\BPBI D.%
+\BCBL {}\ \BBA {} Smith, A\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{{\APACmonth{01}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Capital {{Allocation}} and {{Timely Accounting
+  Recognition}} of {{Economic Losses}}} {Capital {{Allocation}} and {{Timely
+  Accounting Recognition}} of {{Economic Losses}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business Finance \&
+  Accounting}{38}{1-2}{1--33}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1468-5957.2010.02231.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Carter%
 \ \BBA {} Soo%
 }{%
@@ -733,11 +764,11 @@ Field, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Francis%
+J.~Francis%
 , Philbrick%
 \BCBL {}\ \BBA {} Schipper%
 }{%
-Francis%
+J.~Francis%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {1994}}%
 }]{%
@@ -760,6 +791,35 @@ Francis, J.%
 \APACjournalVolNumPages{Journal of Accounting Research}{32}{2}{137--164}.
 \newblock
 \begin{APACrefDOI} \doi{10.2307/2491279} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+J\BPBI R.~Francis%
+\ \BBA {} Martin%
+}{%
+J\BPBI R.~Francis%
+\ \BBA {} Martin%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+francisAcquisitionProfitabilityTimely2010}
+\APACinsertmetastar {%
+francisAcquisitionProfitabilityTimely2010}%
+\begin{APACrefauthors}%
+Francis, J\BPBI R.%
+\BCBT {}\ \BBA {} Martin, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{{\APACmonth{02}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Acquisition Profitability and Timely Loss Recognition}
+  {Acquisition profitability and timely loss recognition}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and
+  Economics}{49}{1-2}{161--178}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2009.09.003} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -923,7 +983,7 @@ guayGuidingFogFinancial2016}
 \APACinsertmetastar {%
 guayGuidingFogFinancial2016}%
 \begin{APACrefauthors}%
-Guay, W\BPBI R.%
+Guay, W.%
 , Samuels, D.%
 \BCBL {}\ \BBA {} Taylor, D.%
 \end{APACrefauthors}%
@@ -954,7 +1014,7 @@ guayConservativeDisclosure2018}
 \APACinsertmetastar {%
 guayConservativeDisclosure2018}%
 \begin{APACrefauthors}%
-Guay, W\BPBI R.%
+Guay, W.%
 \BCBT {}\ \BBA {} Verrecchia, R\BPBI E.%
 \end{APACrefauthors}%
 \unskip\
@@ -1289,6 +1349,37 @@ Kothari, S\BPBI P.%
 
 \bibitem [\protect \citeauthoryear {%
 Kothari%
+, Ramanna%
+\BCBL {}\ \BBA {} Skinner%
+}{%
+Kothari%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+kothariImplicationsGAAPAnalysis2010}
+\APACinsertmetastar {%
+kothariImplicationsGAAPAnalysis2010}%
+\begin{APACrefauthors}%
+Kothari, S\BPBI P.%
+, Ramanna, K.%
+\BCBL {}\ \BBA {} Skinner, D\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{{\APACmonth{12}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Implications for {{GAAP}} from an Analysis of Positive
+  Research in Accounting} {Implications for {{GAAP}} from an analysis of
+  positive research in accounting}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and
+  Economics}{50}{2-3}{246--286}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2010.09.003} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kothari%
 , Shu%
 \BCBL {}\ \BBA {} Wysocki%
 }{%
@@ -1316,6 +1407,32 @@ Kothari, S\BPBI P.%
 \APACjournalVolNumPages{Journal of Accounting Research}{47}{1}{241--276}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1475-679X.2008.00318.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+LaFond%
+\ \BBA {} Watts%
+}{%
+LaFond%
+\ \BBA {} Watts%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+lafondInformationRoleConservatism2008}
+\APACinsertmetastar {%
+lafondInformationRoleConservatism2008}%
+\begin{APACrefauthors}%
+LaFond, R.%
+\BCBT {}\ \BBA {} Watts, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Information Role}} of {{Conservatism}}} {The
+  {{Information Role}} of {{Conservatism}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The Accounting Review}{83}{2}{447--478}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2093,6 +2210,32 @@ Skinner, D\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Suijs%
+}{%
+Suijs%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+suijsValueRelevanceAsymmetric2008}
+\APACinsertmetastar {%
+suijsValueRelevanceAsymmetric2008}%
+\begin{APACrefauthors}%
+Suijs, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {On the {{Value Relevance}} of {{Asymmetric Financial
+  Reporting Policies}}} {On the {{Value Relevance}} of {{Asymmetric Financial
+  Reporting Policies}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{46}{5}{1297--1321}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1475-679X.2008.00309.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 {Tama-Sweet}%
 }{%
 {Tama-Sweet}%
@@ -2243,6 +2386,32 @@ Watts, R\BPBI L.%
   {{Explanations}} and {{Implications}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Accounting Horizons}{17}{3}{207--221}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watts%
+\ \BBA {} Zimmerman%
+}{%
+Watts%
+\ \BBA {} Zimmerman%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+wattsPositiveAccountingTheory1986}
+\APACinsertmetastar {%
+wattsPositiveAccountingTheory1986}%
+\begin{APACrefauthors}%
+Watts, R\BPBI L.%
+\BCBT {}\ \BBA {} Zimmerman, J\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1986}.
+\newblock
+\APACrefbtitle {Positive {{Accounting Theory}}} {Positive {{Accounting
+  Theory}}}.
+\newblock
+\APACaddressPublisher{{Englewood Cliffs, NJ}}{{Prentice-Hall}}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
