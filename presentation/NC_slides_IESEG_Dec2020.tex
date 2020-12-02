@@ -216,9 +216,9 @@
 
 \pause
 \begin{itemize}
-	\item \textbf{Narratives may not be conservative:} 
+	\item \textbf{Narratives may \underline{not} be conservative:} 
 	\begin{itemize}
-			\item Strategic disclosure and bad news hoarding/smoothing \citep[e.g.,][]{kothariManagersWithholdBad2009,segalAreManagersStrategic2016,chapmanInformationOverloadDisclosure2019}.
+			\item Strategic disclosure and bad news hoarding/smoothing \citep[e.g.,][]{kothariManagersWithholdBad2009,geAcquirersDiscloseGood2011,segalAreManagersStrategic2016,chapmanInformationOverloadDisclosure2019}.
 		\item ``Full disclosure,'' \citep{guayConservativeDisclosure2018} may imply greater timeliness and completeness of good news disclosure, if all bad news are recognized.
 	\end{itemize}
 
@@ -333,7 +333,7 @@
 \item \textbf{Narrative Disclosure Corpora}
 
 	\begin{itemize}
-		\item Corpora: 10-Q and 8-K filings because they (a) are more credible, (b) have higher reporting threshold and (c) are more timely than other corporate communication channels.
+		\item Corpora: 10-Q and 8-K filings because (a) they are more credible (SEC scrutiny); (b) only events with at least moderate impact are reported \citep{hassanFirmLevelPoliticalRisk2019}; and (c) are timelier than other corporate communication channels.
 		\item Heterogeneity between 10-Q and 8-K: (a) 10-Q is more diversified in content (b) 8-K is more timely.
 	\end{itemize}
 
@@ -342,10 +342,10 @@
 
 \item \textbf{Proxies for Textual Properties (TEX) and News}
 	\begin{itemize}
-		\item Completeness (NW): natural logarithm one plus total number of words of SEC filings, also number items (NITEMS) and of 8-Ks (N8K) \pause
-		\item News-consistency (TONE): marginal change of tone in response to  good vs. bad news. TONE is number of net positive words per thousand words. \pause
-		\item Timeliness (TLAG): reporting time lag, defined as the number of days elapsed between the news release date and the filing date of the studied disclosure \pause
-		\item Good and Bad News (RET): stock returns \citep{basuConservatismPrincipleAsymmetric1997}.
+		\item Completeness (NW): natural logarithm one plus total number of words of SEC filings, also number items (NITEMS) and of 8-Ks (N8K). \pause
+		\item News-consistency (TONE): marginal change of tone in response to  good vs. bad news. TONE is net positive words per thousand words. \pause
+		\item Timeliness (TLAG): reporting time lag. TLAG is days elapsed between the news release date and the filing date. \pause
+		\item Good and Bad News: stock returns, in the spirit of \cite{basuConservatismPrincipleAsymmetric1997}.
 	\end{itemize}
 
 \end{itemize}
@@ -369,9 +369,12 @@
 		
 		
 		
-		\item QRET quarterly market-adjusted stock return
-		\item NEG bad news indicator (1 if QRET negative, 0 otherwise)
-		\item CONTROLS: Size, MTB, Leverage, Age, Complexity, profitability, operating risk, analyst earnings forecast errors, readability 
+		\item $QRET$ quarterly market-adjusted stock return
+		\item $NEG$ is the bad news indicator (1 if $QRET$ is negative, 0 otherwise)
+		\item $CONTROLS$: Size, MTB, Leverage, Age, Complexity, Profitability, Operating risk, Analyst earnings forecast errors, Readability  
+		\pause \medskip
+		
+		\item Narrative conservatism implies $\beta_3$ is negative when TEX=NW (lengthier); and positive when TEX=TONE (more tone-consistent) and TEX=TLAG (lower time lag: timelier).
 	\end{itemize}
 \end{itemize}
 \end{frame}
@@ -396,7 +399,7 @@
 		
 		\pause
 				\item $\Delta DRET$ is change in daily returns
-				\item BN is bad news day, 1 if $\Delta DRET$ is three times larger than average change in DRET.
+				\item $BN$ is bad news day, 1 if $\Delta DRET$ is three times larger than average change in $DRET$.
 		
 		\begin{figure}[h]
 			\centering
@@ -470,12 +473,95 @@
 %------------------------------------------------
 \begin{frame}
 	\frametitle{Results: Summary Statistics Continued}
-	\begin{figure}[h]
-		\centering
-		\includegraphics[width=0.6\linewidth]{tab2panC}
-		\label{tab2panC}
-	\end{figure}
+%	\begin{figure}[h]
+%		\centering
+%		\includegraphics[width=0.6\linewidth]{tab2panC}
+%		\label{tab2panC}
+%	\end{figure}
+
+\begin{table}[H]   \label{T2PC}%
+	\begin{center} \scriptsize
+		\begin{tabular}{lccccc}
+			\multicolumn{6}{c}{\textbf{Table 2. Panel C: Summary Statistics by 8-K Item || Before August 23, 2004}} \\
+			\midrule
+			\midrule
+			Item & \multicolumn{1}{c}{\# of 8-Ks} & \multicolumn{1}{c}{\% } & \multicolumn{1}{c}{nw} & \multicolumn{1}{c}{TONE} & \multicolumn{1}{c}{TLAG} \\
+			\midrule
+			1: Changes in Control of Registrant & 4377 & 8.21\% & 1195 & -1.22 & 17.29 \\
+			2: Acquisition/Disposition Assets& 6773 & 12.70\% & 7183 & -4.65 & 22.34 \\
+			3: Bankruptcy or Receivership & 85 & 0.16\% & 9920 & -4.05 & 27.89 \\
+			4: Changes in Registrant's & 895 & 1.68\% & 1128 & -9.50 & 24.71 \\
+			\: \,\, Certifying Accountant & &  &  &  & \\
+			\textbf{5: Other Events} & \textbf{14836} & \textbf{27.82\%} & \textbf{4431} & \textbf{-3.14} & \textbf{20.49} \\
+			6: Resignation of Registrant's & 84 & 0.16\% & 8052 & -11.32 & 27.98 \\
+			\: \,\, Directors & &  &  &  & \\
+			7: Financial Statements & 18111 & 33.96\% & 5239 & -3.48 & 20.70 \\
+			\: \,\, and Exhibits & &  &  &  & \\
+			8: Change in Fiscal Year & 153 & 0.29\% & 3322 & -0.95 & 27.59 \\
+			\textbf{9: Reg FD} & \textbf{4379} & \textbf{8.21\%} & \textbf{571} & \textbf{-1.25} & \textbf{15.56} \\
+			10: Amendments to the & 11 & 0.02\% & 353 & -2.93 & 19.64 \\
+			\quad\:\, Registrant's Code of Ethics & &  &  &  & \\
+			11: Temporary Suspension & 26 & 0.05\% & 309 & -3.43 & 19.31 \\
+			\: \,\, of Trading & &  &  &  & \\
+			\textbf{12: Results of Operation} & \textbf{3608} & \textbf{6.76\%} & \textbf{316} & \textbf{-0.61} & \textbf{15.98} \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{center}
+\end{table}%
+
+
 	
+\end{frame}
+%------------------------------------------------
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Summary Statistics Continued}
+%	\begin{figure}[h]
+%		\centering
+%		\includegraphics[width=0.6\linewidth]{tab2panC}
+%		\label{tab2panC}
+%	\end{figure}
+
+\begin{table}[H]   \label{T2PC}%
+	\begin{center} \scriptsize
+		\begin{tabular}{lccccc}
+			\multicolumn{6}{c}{\textbf{Table 2. Panel C: Summary Statistics by 8-K Item || After August 23, 2004 (included)}} \\
+			\midrule
+			\midrule
+			Item & \multicolumn{1}{c}{\# of cases} & \multicolumn{1}{c}{\% } & \multicolumn{1}{c}{nw} & \multicolumn{1}{c}{TONE} & \multicolumn{1}{c}{TLAG} \\
+			\midrule
+			1: Registrant's Business & 15672 & 7.95\% & 797 & -3.43 & 14.96 \\
+			\: \,\, and Operations & &  &  &  & \\
+			2: Financial Information & 42226 & 21.42\% & 449 & 1.03 & 12.76 \\
+			\textbf{2.02: Results of Operation} & \textbf{35910} & \textbf{18.22\%} & \textbf{395} & \textbf{1.97} & \textbf{12.43} \\
+			3: Securities and Trading Markets & 3063 & 1.55\% & 1081 & -4.10 & 13.03 \\
+			4: Matters Related to Accountants & 888 & 0.45\% & 779 & -10.14 & 16.54 \\
+			\: \,\, and Financial Statements & &  &  &  & \\
+			5: Corporate Governance & 26776 & 13.58\% & 539 & -0.06 & 15.76 \\
+			\: \,\, and Management & &  &  &  & \\
+			6: Asset-Backed Securities & 3 & 0.00\% & 211 & 2.91 & 14.33 \\
+			\textbf{7: Reg FD} & \textbf{15795} & \textbf{8.01\%} & \textbf{555} & \textbf{0.29} & \textbf{11.04} \\
+			\textbf{8: Other Events} & \textbf{18734} & \textbf{9.50\%} & \textbf{567} & \textbf{-0.86} & \textbf{11.66} \\
+			9: Financial Statements & 73982 & 37.53\% & 488 & 0.40 & 12.82 \\
+			\: \,\, and Exhibits & &  &  &  & \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{center}
+\end{table}%
+
+
+
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Is 8-K Narrative Disclosure Conservative?}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab4panA}
+	\label{tab4panA}
+\end{figure}
 \end{frame}
 %------------------------------------------------
 \begin{frame}
@@ -487,7 +573,7 @@
 %	\end{figure}
 
 \begin{table}[H] \label{T3PA}
-	\begin{center} \tiny
+	\begin{center} \scriptsize
 		\begin{tabular}{lcccccc}
 			\multicolumn{7}{c}{\textbf{Table 3. Panel A: Is 10-Q Narrative Disclosure Conservative?}} \\
 			\toprule
@@ -500,7 +586,6 @@
 			& (3.23) & (2.21) & (-2.04) & (2.58) & (-0.78) & (-2.72) \\
 			NEG & 0.006 & 0.007 & -0.113** & -0.116** & 0.027 & 0.039 \\
 			& (1.29) & (1.45) & (-2.20) & (-2.31) & (0.73) & (1.03) \\
-			 \textit{(Pred. Sign)} & (-) & (-) & (+) & (+) & (+) & (+) \\
 			 QRET$\times$NEG & -0.145*** & -0.075*** & 2.103*** & 0.760*** & -0.771*** & -0.189 \\
 			 & (-6.05) & (-3.36) & (6.67) & (2.82) & (-4.07) & (-1.04) \\
 			SIZE &   & 0.035*** &   & 0.469*** &   & -0.135** \\
@@ -513,42 +598,26 @@
 
 
 			&   &   &   &   &   &  \\
-			Additional controls & Included & Included & Included & Included & Included & Included \\
-			Firm FE & Yes & Yes & Yes & Yes & Yes & Yes  \\
-			Year FE & Yes & Yes & Yes & Yes & Yes & Yes  \\
+			Additional controls & No & Yes & No & Yes & No & Yes \\
+			Firm \& Year FE & Yes & Yes & Yes & Yes & Yes & Yes  \\
 			Observations & 91,606 & 91,606 & 91,606 & 91,606 & 91,606 & 91,606 \\
 			Adjusted R-squared & 0.649 & 0.653 & 0.557 & 0.570 & 0.613 & 0.616 \\
 			\bottomrule
 			\bottomrule
 		\end{tabular}%
 	\end{center}
-	\begin{footnotesize}
-		\setcounter{equation}{0}
-		\begin{equation} \tiny
-		TEX_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\sum\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
-		\end{equation}
 
-	\end{footnotesize}
 \end{table}%
 
 \end{frame}
 %------------------------------------------------
 \begin{frame}
 \frametitle{Results: Are Lengthier 10-Qs Less Readable?}
-	\begin{figure}[h]
+\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.9\linewidth]{tab3panB}
 	\label{tab3panB}
-	\end{figure}
-\end{frame}
-%------------------------------------------------
-\begin{frame}
-\frametitle{Results: Is 8-K Narrative Disclosure Conservative?}
-	\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.9\linewidth]{tab4panA}
-	\label{tab4panA}
-	\end{figure}
+\end{figure}
 \end{frame}
 %------------------------------------------------
 \begin{frame}
@@ -578,7 +647,7 @@
 			 & (-4.63) & (-4.86) & (-6.43) & (8.75) \\
 
 			&   &   &   &  \\
-			Controls & Included & Included & Included & Included \\
+			Controls & NO & Included & Included & Included \\
 			Observations & 119,615 & 119,615 & 119,615 & 40,700 \\
 			Adjusted (Pseudo) R-squared & 0.126 & 0.126  & (0.006) & (0.009) \\
 			Year-month FE & YES & YES & NO & NO \\
@@ -617,6 +686,68 @@
 %------------------------------------------------
 \section{Additional Analyses}
 %------------------------------------------------
+\begin{frame}
+\frametitle{Results: Additional Analyses}
+\begin{itemize}
+	\item We expect to observe greater narrative conservatism where managers are more able to have discretion over narrative content:
+	\begin{enumerate}
+		\item in the MD\&A section as compared to the footnotes:
+		\begin{itemize}
+			\item extract MD\&A and Notes to Financial Statements (NFS) from 37,216 10-Qs;
+			\item calculate TONE and NW for these sections.
+			\item do not study asymmetric timeliness as sections of 10-Qs do not differ in timing. \pause
+		\end{itemize}
+		\item also, in voluntary disclosures as compared to mandatory disclosures;
+			\begin{itemize}
+	\item we divide 8-Ks into voluntary and mandatory following \cite{lermanNewForm8K2010, heMeasuringDisclosureUsing2020}
+			\end{itemize}
+	\end{enumerate}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Additional Analyses: MD\&A and NFS}
+%	\begin{figure}[h]
+%	\centering
+%	\includegraphics[width=0.9\linewidth]{tab5}
+%	\label{tab5}
+%	\end{figure}
+\begin{table}[H]	\label{T5}%
+	\begin{center} \scriptsize
+		\begin{tabular}{lcccc}
+			\multicolumn{5}{c}{\textbf{Table 5. Narrative conservatism in MD\&A and NFS}} \\
+			\midrule
+			\midrule
+			& (1) & (2) & (3) & (4) \\
+			Dep. Variables & NW\_MDA & NW\_NFS & TONE\_MDA & TONE\_NFS \\
+			\midrule
+			&   &   &   &  \\
+			QRET & 0.031*** & 0.022 & 0.542*** & 0.451 \\
+			& (2.60) & (1.08) & (2.94) & (1.39) \\
+			NEG & 0.015*** & 0.010 & -0.132* & -0.038 \\
+			& (3.28) & (1.56) & (-1.87) & (-0.41) \\
+			QRET$\times$NEG & -0.062** & -0.026 & 0.773** & 0.453 \\
+			& (-2.33) & (-0.78) & (1.98) & (0.87) \\
+			&   &   &   &  \\
+			Controls & Included & Included & Included & Included \\
+			Observations & 37,215 & 37,215 & 37,215 & 37,215 \\
+			Adjusted R-squared & 0.741 & 0.812 & 0.560 & 0.568 \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{center}
+\end{table}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Additional Analyses: Voluntary and Mandatory Disclosure}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab6}
+	\label{tab6}
+	\end{figure}
+	
+\end{frame}
 %------------------------------------------------
 \begin{frame}
 \frametitle{Results: Additional Analyses}
@@ -629,26 +760,6 @@
 		\item in firms where recognition criteria may be stringer (less opportunities to recognize bad news).
 	\end{itemize}
 \end{itemize}
-\end{frame}
-%------------------------------------------------
-
-\begin{frame}
-\frametitle{Additional Analyses: MD\&A and NFS}
-	\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.9\linewidth]{tab5}
-	\label{tab5}
-	\end{figure}
-\end{frame}
-%------------------------------------------------
-\begin{frame}
-\frametitle{Additional Analyses: Voluntary and Mandatory Disclosure}
-	\begin{figure}[h]
-	\centering
-	\includegraphics[width=0.9\linewidth]{tab6}
-	\label{tab6}
-	\end{figure}
-	
 \end{frame}
 %------------------------------------------------
 \begin{frame}

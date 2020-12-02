@@ -2,8 +2,8 @@
 \beamer@sectionintoc {2}{Research Question and Contribution}{5}{0}{2}
 \beamer@sectionintoc {3}{Theoretical Framework}{9}{0}{3}
 \beamer@sectionintoc {4}{Research Design}{25}{0}{4}
-\beamer@sectionintoc {5}{Results}{36}{0}{5}
-\beamer@sectionintoc {6}{Additional Analyses}{44}{0}{6}
-\beamer@sectionintoc {7}{Conclusions}{49}{0}{7}
-\beamer@sectionintoc {8}{Correlation Matrix (I)}{50}{0}{8}
-\beamer@sectionintoc {9}{Correlation Matrix (II)}{51}{0}{9}
+\beamer@sectionintoc {5}{Results}{37}{0}{5}
+\beamer@sectionintoc {6}{Additional Analyses}{46}{0}{6}
+\beamer@sectionintoc {7}{Conclusions}{53}{0}{7}
+\beamer@sectionintoc {8}{Correlation Matrix (I)}{54}{0}{8}
+\beamer@sectionintoc {9}{Correlation Matrix (II)}{55}{0}{9}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{25}
+\begin{thebibliography}{29}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -87,6 +87,15 @@ Douglas~W Diamond and Robert~E. Verrecchia.
 \newblock \emph{The Journal of Finance}, 46\penalty0 (4):\penalty0 1325--1359,
   1991.
 
+\bibitem[Ge and Lennox(2011)]{geAcquirersDiscloseGood2011}
+Rui Ge and Clive Lennox.
+\newblock Do acquirers disclose good news or withhold bad news when they
+  finance their acquisitions using equity?
+\newblock \emph{Review of Accounting Studies}, 16\penalty0 (1):\penalty0
+  183--217, March 2011.
+\newblock ISSN 1380-6653, 1573-7136.
+\newblock \doi{10.1007/s11142-010-9139-y}.
+
 \bibitem[Guay and Verrecchia(2018)]{guayConservativeDisclosure2018}
 Wayne Guay and Robert~E. Verrecchia.
 \newblock Conservative {{Disclosure}}.
@@ -94,6 +103,23 @@ Wayne Guay and Robert~E. Verrecchia.
   73--92, September 2018.
 \newblock ISSN 2380-2146.
 \newblock \doi{10.2308/jfir-52051}.
+
+\bibitem[Hassan et~al.(2019)Hassan, Hollander, {van Lent}, and
+  Tahoun]{hassanFirmLevelPoliticalRisk2019}
+Tarek~A Hassan, Stephan Hollander, Laurence {van Lent}, and Ahmed Tahoun.
+\newblock Firm-{{Level Political Risk}}: {{Measurement}} and {{Effects}}.
+\newblock \emph{The Quarterly Journal of Economics}, 134\penalty0 (4):\penalty0
+  2135--2202, November 2019.
+\newblock ISSN 0033-5533, 1531-4650.
+\newblock \doi{10.1093/qje/qjz021}.
+
+\bibitem[He and Plumlee(2020)]{heMeasuringDisclosureUsing2020}
+Jing He and Marlene~A. Plumlee.
+\newblock Measuring disclosure using 8-{{K}} filings.
+\newblock \emph{Review of Accounting Studies}, 25\penalty0 (3):\penalty0
+  903--962, September 2020.
+\newblock ISSN 1380-6653, 1573-7136.
+\newblock \doi{10.1007/s11142-020-09551-y}.
 
 \bibitem[Huang et~al.(2014)Huang, Teoh, and Zhang]{huangToneManagement2014}
 Xuan Huang, Siew~Hong Teoh, and Yinglei Zhang.
@@ -128,6 +154,14 @@ Mark~H. Lang and Russell~J. Lundholm.
   623--662, December 2000.
 \newblock ISSN 0823-9150, 1911-3846.
 \newblock \doi{10.1506/9N45-F0JX-AXVW-LBWJ}.
+
+\bibitem[Lerman and Livnat(2010)]{lermanNewForm8K2010}
+Alina Lerman and Joshua Livnat.
+\newblock The {{New Form}} 8-{{K Disclosures}}.
+\newblock \emph{Review of Accounting Studies}, 15\penalty0 (4):\penalty0
+  752--778, December 2010.
+\newblock ISSN 1380-6653, 1573-7136.
+\newblock \doi{10.1007/s11142-009-9114-7}.
 
 \bibitem[Leuz and Verrecchia(2000)]{leuzEconomicConsequencesIncreased2000}
 Christian Leuz and Robert~E. Verrecchia.
