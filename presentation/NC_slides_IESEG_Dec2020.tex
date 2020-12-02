@@ -1,0 +1,787 @@
+\documentclass{beamer}
+\mode<presentation> 
+\usetheme{CambridgeUS}
+\usecolortheme{seagull}
+%\setbeamertemplate{headline}
+%\setbeamertemplate{footline} 
+% To remove the footer line in all slides uncomment this line
+
+%\setbeamertemplate{footline}[page number] 
+% To replace the footer line in all slides with a simple slide count uncomment this line
+
+\setbeamertemplate{navigation symbols}{} 
+% To remove the navigation symbols from the bottom of all slides uncomment this line
+
+\usepackage{graphicx}
+%\usepackage{tcolorbox}
+\usepackage{booktabs} 
+\usepackage[round]{natbib}
+\usepackage{verbatim}
+\usepackage{subfigure}
+\usepackage{multicol}
+\newcommand{\beginbackup}{
+	\newcounter{framenumbervorappendix}
+	\setcounter{framenumbervorappendix}{\value{framenumber}}
+}
+\newcommand{\backupend}{
+	\addtocounter{framenumbervorappendix}{-\value{framenumber}}
+	\addtocounter{framenumber}{\value{framenumbervorappendix}} 
+}
+%----------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------
+
+\title[Narrative Conservatism]{Narrative Conservatism} % The short title appears at the bottom of every slide, the full title is only on the title page
+\author[]{Juan Manuel Garc\'ia Lara, Beatriz Garc\'ia Osma, Fengzhi Zhu} % Your name
+\institute[] % Your institution as it will appear on the bottom of every slide, may be shorth and to save space
+{\textit{\textit{Universidad Carlos III de Madrid}} \\ % Your institution for the title page
+
+	\bigskip
+	
+\medskip
+\large IÉSEG School of Management
+
+} % Your email address
+\date{\today} % Date, can be changed to a custom date (\today)
+
+\begin{document}
+	
+\begin{frame}
+\titlepage % Print the title page as the first slide
+\end{frame}
+
+%-----------------------------------------------------------------
+%\begin{frame}
+%\frametitle{Outline}
+%\tableofcontents
+%\end{frame}
+
+%-------------------------------------------------------------------
+%	PRESENTATION SLIDES
+%----------------------------------------------------
+\section{Research Question and Contribution}
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Research Question and Contribution (I)}
+\begin{itemize}
+\item \textbf{Research Question}
+
+\begin{itemize}
+\item Is narrative disclosure conservative?
+
+\end{itemize}
+
+\medskip
+\pause
+
+\item \textbf{Definition}
+\begin{itemize}
+	\item Narrative conservatism: narratives that reflect bad news in a more \textbf{complete}, \textbf{news-consistent}, and \textbf{timely} manner than good news.
+\end{itemize}
+
+\medskip
+\pause
+
+\item \textbf{Findings}
+\begin{itemize}
+\item Using 8-K and 10-Q data (1994-2019), we find evidence of narrative conservatism. 
+\item Narratives are \textbf{longer}, \textbf{more tone-consistent} (content sentiment agrees with sign of news), and \textbf{timelier} (shorter time lag) in reaction to bad news than to good news, where news is measured by returns as in \citet{basuConservatismPrincipleAsymmetric1997}.
+
+\end{itemize}
+
+
+
+
+
+
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\section{Research Question and Contribution}
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Research Question and Contribution (II)}
+\begin{itemize}
+\item \textbf{Additional findings}
+\begin{itemize}
+	\item We find that incremental length in bad news narratives contributes to higher readability (shorter and less complex words).\pause
+	\item Greater narrative conservatism 
+	\begin{itemize}
+		\item in voluntary disclosures (compared to mandatory) and MD\&A sections (compared to the notes to financial statements).
+		\item in firms with more intangibles and R\&D
+		\item where managers have incentives to disclose bad news. \pause
+	\end{itemize}
+	\item Initial evidence narrative conservatism complements conditional conservatism.
+\end{itemize}
+	
+\pause
+	\item \textbf{Contribution}
+	
+	\begin{itemize}
+		\item Extend literature on accounting conservatism by defining and documenting the existence of narrative conservatism.
+		\item Explore the links between recognition and narrative disclosure.
+		\item Add to the debate on whether managers withhold bad news. 
+		\item Add to the broader literature on the narrative properties of SEC filings.
+	\end{itemize}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\section{Theoretical Framework}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Theoretical Framework: Conservatism}
+\begin{itemize}
+	
+	\item \textbf{Accounting Conservatism}
+	
+	\begin{itemize}
+		
+		\item Recognition \citep{beaverConditionalUnconditionalConservatism2005,ballEarningsQualityUK2005}
+			\begin{itemize}
+		\item \textit{Conditional}: ex post or news dependent, ``higher degree of verification to recognize good news as gains than to recognize bad news as losses," \citep*[p. 7]{basuConservatismPrincipleAsymmetric1997} leading to earnings that recognize bad news in a timelier and more complete manner than good news.
+		\item \textit{Unconditional}: ex ante or news independent. Aspects of the accounting process (measurement and recognition criteria at the inception of assets and liabilities), leading to a persistent understatement of net assets.
+		 	\end{itemize}
+		\pause
+		
+		\medskip
+		
+		\item What role narrative disclosure? 
+			\begin{itemize}		
+		\item  Prior work focuses on recognition, little is known about conservative disclosure \cite[p.243]{kothariManagersWithholdBad2009}.	
+		\item A ``committment to timely disclosure of bad news need not come exclusively through financial statement recognition'' \cite*[p. 73-74]{guayConservativeDisclosure2018}:
+			
+				
+					\end{itemize}
+		
+	\end{itemize}
+	
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Theoretical Framework: Recognition and Disclosure (I)}
+\scriptsize ``\textit{Although financial statements have essentially the same objectives as financial reporting, some useful information is better provided by financial statements and some is better provided, or can only be provided, by notes to financial statements or by supplementary information or other means of financial reporting.}'' (FASB 1984, par.7)  \pause
+\medskip
+
+\normalsize
+\begin{itemize}
+\item \textbf{Reporting requirements (e.g., FASB, IASB)}
+
+	\begin{itemize}
+		\item \underline{Recognition}: depictions in numbers with captions on the face of the financial statements \citep{schipperRequiredDisclosuresFinancial2007}. \pause
+		\item An economic event can be recognized if it satisfies \textit{all}:
+		\begin{itemize}
+			\item Definition, measurability, relevance, and reliability criteria
+
+		\end{itemize}
+	
+
+	% First, the item must meet the definition of an element of financial statements (definition criterion). Second, the item must have a relevant attribute measurable with sufficient reliability (measurability criterion). Third, the information about the item must be capable of making a difference in user decisions (relevance criterion). Fourth, the information must be representationally faithful, verifiable, and neutral (reliability criterion).
+	\pause
+		\item Even if criteria are met, annual reports are \textit{still} annual (low frequency and lack of timeliness). Information may need to be disclosed earlier. \pause
+		\item \underline{Disclosure}: possibility to \textit{timely} convey information that fails to meet certain recognition criteria
+	
+	\begin{itemize}
+		\item Displays in the notes and supporting schedules that accompany financial statements \citep{schipperRequiredDisclosuresFinancial2007}; but also:		
+		\item 10-Qs, 8-Ks, press releases, conference calls, social media, etc.
+	\end{itemize}	
+		
+		
+	\end{itemize}
+
+
+
+
+
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Theoretical Framework: Recognition and Disclosure (II)}
+\begin{itemize}
+\normalsize
+	\item \textbf{Role of narratives in accounting conservatism} 
+		\begin{itemize}	
+		\item Supplement information that cannot be recognized
+		\item Explain/complement/provide details of recognized line items
+	\end{itemize}
+\pause
+\end{itemize}
+\begin{block}{\footnotesize 
+		\textbf{Narrative conservatism}}
+	Narratives that reflect economic losses (bad news) in a more complete, news-consistent and timely manner than economic gains (good news).
+\end{block}
+
+\pause
+\begin{itemize}
+	\item \textbf{Narratives may not be conservative:} 
+	\begin{itemize}
+			\item Strategic disclosure and bad news hoarding/smoothing \citep[e.g.,][]{kothariManagersWithholdBad2009,segalAreManagersStrategic2016,chapmanInformationOverloadDisclosure2019}.
+		\item ``Full disclosure,'' \citep{guayConservativeDisclosure2018} may imply greater timeliness and completeness of good news disclosure, if all bad news are recognized.
+	\end{itemize}
+
+\end{itemize}
+
+
+
+	
+
+\end{frame}
+%------------------------------------------------
+
+
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Theoretical Framework: Asymmetric Completeness}
+	\begin{itemize}
+\item \textbf{Completeness}
+
+\begin{itemize}
+	\item Completeness implies that disclosure includes all necessary information for a user to understand the underlying economic event.
+		\begin{itemize}
+		\item Disclosure reduces information asymmetry: lowers CoC and increases liquidity \citep{diamondDisclosureLiquidityCost1991,diamondOptimalReleaseInformation1985,leuzEconomicConsequencesIncreased2000}
+	\end{itemize}
+	
+	\item Good news disclosure may be completer, relative to bad news, to boost performance \citep{teohEarningsManagementUnderperformance1998, langVoluntaryDisclosureEquity2000}.
+	\item Bad news disclosure may be more complete, relative to good news, to avoid litigation risk \citep{skinnerWhyFirmsVoluntarily1994, skinnerEarningsDisclosuresStockholder1997,marinovicNoNewsGood2016}.
+\end{itemize}
+
+\medskip
+\pause
+\begin{block}{H1: Asymmetric Completeness}
+	Narrative disclosure is more complete in response to bad news than to good news.
+\end{block}
+
+
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Theoretical Framework: Asymmetric News-consistency}
+	\begin{itemize}
+		\item \textbf{News-consistency}
+		
+		\begin{itemize}
+			\item News-consistency implies that disclosure agrees with the underlying economic event in content sentiment. %Specifically, we interpret it as the degree to which firms use positive tone in narrative disclosure in response to good news and negative tone in response to bad news.
+			\item Tone influences how information is perceived or processed, and thus it can be employed both to inform or mislead \citep{davisNumbersMeasuringInformation2012, liInformationContentForwardLooking2010, huangToneManagement2014}.
+			\item Firms may deploy a uniformly positive tone in both good and bad news disclosure, resulting in higher news-consistency in good news disclosure 
+			\begin{itemize}
+				\item ``A careful manager might use 90\% positive words in dismissing an employee.'' \citep[p.1206]{loughranTextualAnalysisAccounting2016}
+			\end{itemize}
+		\end{itemize}
+		
+\medskip
+\pause
+\begin{block}{H2: Asymmetric News-Consistency}
+	Narrative disclosure is more news-consistent in response to bad news than to good news.
+\end{block}
+
+		
+	\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Theoretical Framework: Timeliness}
+	\begin{itemize}
+		\item \textbf{Asymmetric Timeliness}
+		
+		\begin{itemize}
+			\item Timeliness implies that disclosure is made \textit{in time} to be able to influence users' decisions. 
+			\item Managers may delay bad news disclosure to mitigate its negative economic consequences \citep{chambersTimelinessReportingStock1984, niessnerStrategicDisclosureTiming2015, segalAreManagersStrategic2016, brockbankStrategicTiming8K2018}.
+			\item Managers may accelerate good news disclosure to increase insider profitability  \citep{khalilovAccountingConservatismProfitability2020}.
+		\end{itemize}
+		
+		
+\medskip
+\pause
+\begin{block}{H3: Asymmetric Timeliness}
+	Narrative disclosure is timelier in response to bad news than to good news.
+\end{block}
+
+		
+	\end{itemize}
+\end{frame}
+%------------------------------------------------
+%\begin{frame}
+%	\frametitle{Theoretical Framework: Conservatism Continued}
+%	\begin{itemize}
+%
+%\item \textbf{Is conservatism useful?}
+%
+%	\begin{itemize}
+%		\item Valuation role: provide financial information about the reporting entity that is useful to existing and potential investors, lenders, and other creditors in making decisions about providing resources to the entity \citep[OB2]{fasbConceptualFrameworkFinancial2018b}
+%		\item Stewardship role: how efficiently and effectively the entity's management and governing board have discharged their responsibilities to use the entity's economic resources \cite[OB4]{fasbConceptualFrameworkFinancial2018b}
+%	\end{itemize}
+%
+%\item \textbf{Is narrative conservatism useful?}
+%	\begin{itemize}
+%		\item We posit that narrative conservatism enhances contract efficiency and serves the stewardship role of accounting
+%		\item Testable hypotheses to be developed
+%	\end{itemize}
+%
+%\end{itemize}
+%\end{frame}
+%%------------------------------------------------
+\section{Research Design}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Research Design: Proxies}
+\begin{itemize}
+
+\item \textbf{Narrative Disclosure Corpora}
+
+	\begin{itemize}
+		\item Corpora: 10-Q and 8-K filings because they (a) are more credible, (b) have higher reporting threshold and (c) are more timely than other corporate communication channels.
+		\item Heterogeneity between 10-Q and 8-K: (a) 10-Q is more diversified in content (b) 8-K is more timely.
+	\end{itemize}
+
+\medskip
+\pause
+
+\item \textbf{Proxies for Textual Properties (TEX) and News}
+	\begin{itemize}
+		\item Completeness (NW): natural logarithm one plus total number of words of SEC filings, also number items (NITEMS) and of 8-Ks (N8K) \pause
+		\item News-consistency (TONE): marginal change of tone in response to  good vs. bad news. TONE is number of net positive words per thousand words. \pause
+		\item Timeliness (TLAG): reporting time lag, defined as the number of days elapsed between the news release date and the filing date of the studied disclosure \pause
+		\item Good and Bad News (RET): stock returns \citep{basuConservatismPrincipleAsymmetric1997}.
+	\end{itemize}
+
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Research Design: Model for 10-Q (I)}
+\begin{itemize}
+	
+	\item \textbf{Model Specification}
+	\begin{itemize}
+		\item \textbf{Form 10-Q}: We explore  responsiveness to good versus bad news: 
+		\begin{equation}
+		\begin{aligned} 
+		\label{eq1}
+		TEX_{i,t}=
+		&\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\\
+		&\sum\beta_nCONTROLS_{i,t}+\epsilon_{i,t},
+		\end{aligned} 
+		\end{equation}
+		
+		
+		
+		\item QRET quarterly market-adjusted stock return
+		\item NEG bad news indicator (1 if QRET negative, 0 otherwise)
+		\item CONTROLS: Size, MTB, Leverage, Age, Complexity, profitability, operating risk, analyst earnings forecast errors, readability 
+	\end{itemize}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Research Design: Model for 8-K}
+\begin{itemize}
+	
+	\item \textbf{Model Specification}
+	\begin{itemize}
+	
+		\item \textbf{Form 8-K}: we explore responsiveness to good versus bad news.
+		\begin{equation}
+		\begin{aligned}
+		\label{eq2}
+		TEX_{i,t}=
+		&\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\\
+		&\beta_3\Delta DRET_{i,t-tlag}\times BN_{i,t-tlag}+\\
+		&\sum\beta_nCONTROLS_{i,t}+\epsilon_{i,t},
+		\end{aligned}
+		\end{equation}
+		
+		\pause
+				\item $\Delta DRET$ is change in daily returns
+				\item BN is bad news day, 1 if $\Delta DRET$ is three times larger than average change in DRET.
+		
+		\begin{figure}[h]
+			\centering
+			\includegraphics[width=1\linewidth]{fig1}
+			\label{fig1}
+		\end{figure}
+	\end{itemize}
+	
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Research Design: Data}
+
+\begin{itemize}
+	\item US firms period 1994-2019
+	\item 8-K and 10-Q files from EDGAR
+	\item Data source: Compustat, CRSP and I/B/E/S
+	\item Exclude regulated and financial firms
+	\item Exclude firms with missing observations
+
+\medskip	\pause
+	\item \textit{Final sample 10-Q}: 91,606	observations
+
+
+\medskip	\pause
+	\item \textit{Final sample 8-K}: 119,615	observations	
+	\begin{itemize}
+	\item If we exclude TLAG over 4 days, sample is 40,700 observations
+	\end{itemize}
+	
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+%\begin{frame}
+%\frametitle{Research Design: Data}
+
+%\begin{itemize}
+%	\item Data source: Compustat, CRSP and I/B/E/S
+	
+%	\begin{figure}[h]
+%		\centering
+%		\includegraphics[width=0.7\linewidth]{tab1}
+%		\label{tab1}
+%	\end{figure}
+
+%\end{itemize}
+%\end{frame}
+%------------------------------------------------
+\section{Results}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Summary Statistics}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab2panA}
+	\label{tab2panA}
+\end{figure}
+
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Results: Summary Statistics Continued}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.9\linewidth]{tab2panB}
+		\label{tab2panB}
+	\end{figure}
+	
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Results: Summary Statistics Continued}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=0.6\linewidth]{tab2panC}
+		\label{tab2panC}
+	\end{figure}
+	
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Is 10-Q Narrative Disclosure Conservative?}
+%	\begin{figure}[h]
+%		\centering
+%		\includegraphics[width=0.9\linewidth]{tab3panA}
+%		\label{tab3panA}
+%	\end{figure}
+
+\begin{table}[H] \label{T3PA}
+	\begin{center} \tiny
+		\begin{tabular}{lcccccc}
+			\multicolumn{7}{c}{\textbf{Table 3. Panel A: Is 10-Q Narrative Disclosure Conservative?}} \\
+			\toprule
+			\toprule
+			& (1) & (2) & (3) & (4) & (5) & (6) \\
+			Dep. Variables & NW & NW & TONE & TONE & TLAG & TLAG \\
+			\midrule
+
+			QRET & 0.039*** & 0.029** & -0.279** & 0.335** & -0.081 & -0.318*** \\
+			& (3.23) & (2.21) & (-2.04) & (2.58) & (-0.78) & (-2.72) \\
+			NEG & 0.006 & 0.007 & -0.113** & -0.116** & 0.027 & 0.039 \\
+			& (1.29) & (1.45) & (-2.20) & (-2.31) & (0.73) & (1.03) \\
+			 \textit{(Pred. Sign)} & (-) & (-) & (+) & (+) & (+) & (+) \\
+			 QRET$\times$NEG & -0.145*** & -0.075*** & 2.103*** & 0.760*** & -0.771*** & -0.189 \\
+			 & (-6.05) & (-3.36) & (6.67) & (2.82) & (-4.07) & (-1.04) \\
+			SIZE &   & 0.035*** &   & 0.469*** &   & -0.135** \\
+			&   & (3.79) &   & (5.57) &   & (-2.06) \\
+			MTB &   & -0.007*** &   & 0.077*** &   & -0.023** \\
+			&   & (-5.53) &   & (4.34) &   & (-1.98) \\
+			LEV &   & 0.332*** &   & -1.260*** &   & 0.748** \\
+			&   & (9.76) &   & (-2.77) &   & (2.16) \\
+
+
+
+			&   &   &   &   &   &  \\
+			Additional controls & Included & Included & Included & Included & Included & Included \\
+			Firm FE & Yes & Yes & Yes & Yes & Yes & Yes  \\
+			Year FE & Yes & Yes & Yes & Yes & Yes & Yes  \\
+			Observations & 91,606 & 91,606 & 91,606 & 91,606 & 91,606 & 91,606 \\
+			Adjusted R-squared & 0.649 & 0.653 & 0.557 & 0.570 & 0.613 & 0.616 \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{center}
+	\begin{footnotesize}
+		\setcounter{equation}{0}
+		\begin{equation} \tiny
+		TEX_{i,t}=\beta_0+\beta_1QRET_{i,t}+\beta_2NEG_{i,t}+\beta_3QRET_{i,t}\times NEG_{i,t}+\sum\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
+		\end{equation}
+
+	\end{footnotesize}
+\end{table}%
+
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Are Lengthier 10-Qs Less Readable?}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab3panB}
+	\label{tab3panB}
+	\end{figure}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Is 8-K Narrative Disclosure Conservative?}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab4panA}
+	\label{tab4panA}
+	\end{figure}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: 8-K Items, Filings and Reporting Time Lag}
+%	\begin{figure}[h]
+%	\centering
+%	\includegraphics[width=0.9\linewidth]{tab4panB}
+%	\label{tab4panB}
+%	\end{figure}
+\begin{table}[H] \label{T4PB}%
+	\begin{center}
+	\scriptsize	
+		\begin{tabular}{lcccc}
+			\multicolumn{5}{c}{\textbf{Table 4. Panel B: 8-K Items, 8-K Filings and Reporting Time Lag}} \\
+			\midrule
+			\midrule
+			& (1) & (2) & (3) & (4) \\
+			Dep. Variables & NITEM & NITEM & N8K\_OL & TLAG\_OL \\
+			\midrule
+			&   &   &   &  \\
+			$\Delta$DRET & 0.221*** & 0.222*** & 1.076*** & -0.944*** \\
+			& (4.27) & (4.45) & (6.73) & (-7.63) \\
+			BN & 0.011 & 0.011 & 0.061 & 0.107*** \\
+			& (1.23) & (1.24) & (1.44) & (3.82) \\
+			\textit{(Pred. Sign)} & (-) & (-) & (-) & (+) \\
+			 $\Delta$DRET$\times$BN & -0.318*** & -0.321*** & -1.358*** & 1.436*** \\
+			 & (-4.63) & (-4.86) & (-6.43) & (8.75) \\
+
+			&   &   &   &  \\
+			Controls & Included & Included & Included & Included \\
+			Observations & 119,615 & 119,615 & 119,615 & 40,700 \\
+			Adjusted (Pseudo) R-squared & 0.126 & 0.126  & (0.006) & (0.009) \\
+			Year-month FE & YES & YES & NO & NO \\
+			Firm FE & YES & YES & NO & NO \\
+			Industry Clustered SE & YES & YES & NO & NO \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{center}
+	\begin{footnotesize}
+			
+		\setcounter{equation}{1}
+		\begin{equation} \tiny	
+		TEX_{i,t}=\beta_0+\beta_1\Delta DRET_{i,t-tlag}+\beta_2BN_{i,t-tlag}+\beta_3\Delta DRET_{i,t-tlag}\times 	BN_{i,t-tlag}+\sum\beta_nCONTROLS_{i,t}+\epsilon_{i,t}
+		\end{equation}
+
+	\end{footnotesize}
+\end{table}
+
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Results: Robustness Checks}
+\begin{itemize}
+	\item Our evidence of narrative conservatism is robust to 
+	\begin{itemize}
+		\item employing an alternative tone measure using the positive and negative word list from the Harvard General Inquiry dictionary \citep{loughranTextualAnalysisAccounting2016};
+		\item including controls for conditional conservatism and managerial incentives;
+		\item excluding 8-K items on results of operations that contain quarterly or annual financial statements \citep{segalAreManagersStrategic2016};
+		\item using an alternative 8-K reporting time lag definition \citep{carterRelevanceForm8K1999, niessnerStrategicDisclosureTiming2015, chapmanInformationOverloadDisclosure2019};
+		\item excluding a priori bad news 8-K items \citep{segalAreManagersStrategic2016};
+		\item estimating by fiscal year from 1995 to 2020.
+	\end{itemize}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+\section{Additional Analyses}
+%------------------------------------------------
+%------------------------------------------------
+\begin{frame}
+\frametitle{Results: Additional Analyses}
+\begin{itemize}
+	\item We expect to observe greater narrative conservatism
+	\begin{itemize}
+		\item where managers are more able to have discretion over narrative content: in the MD\&A section as compared to the footnotes;
+		\item also, in voluntary disclosures as compared to mandatory disclosures;
+		\item in settings where managers have incentives to release bad news
+		\item in firms where recognition criteria may be stringer (less opportunities to recognize bad news).
+	\end{itemize}
+\end{itemize}
+\end{frame}
+%------------------------------------------------
+
+\begin{frame}
+\frametitle{Additional Analyses: MD\&A and NFS}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab5}
+	\label{tab5}
+	\end{figure}
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Additional Analyses: Voluntary and Mandatory Disclosure}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab6}
+	\label{tab6}
+	\end{figure}
+	
+\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Additional Analyses: Intangible Assets and R\&D Expenses}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\linewidth]{tab7}
+	\label{tab7}
+	\end{figure}
+	
+\end{frame}
+%------------------------------------------------
+%\begin{frame}
+%	\frametitle{Additional Analyses: Firm Characteristics}
+%	\begin{figure}[h]
+%		\centering
+%		\includegraphics[width=0.65\linewidth]{tab8}
+%		\label{tab8}
+%	\end{figure}
+	
+%\end{frame}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Additional Analyses: Managerial Incentives}
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\linewidth]{tab9}
+	\label{tab9}
+	\end{figure}
+\end{frame}
+%------------------------------------------------
+\section{Conclusions}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Conclusions}
+\begin{itemize}
+	\item \textbf{Conclusions}
+	\begin{itemize}
+		\item We provide evidence that narratives reflect bad news in a more complete, news-consistent, and timely manner than good news. 
+		\item Firms report lengthier 10-Qs to clarify rather than obfuscate bad news, and provide more 8-Ks and 8-K items in response to bad news than to good news.
+		\item We document greater narrative conservatism in the MD\&A section and in voluntary disclosure. Also, narrative conservatism is pervasive in firms with high conditional conservatism, intangible assets, R\&D expenses and proprietary costs.
+		\item We find greater narrative conservatism in settings where managers have strong incentives to disclose bad news.
+	\end{itemize}
+
+
+	
+\end{itemize}
+
+\end{frame}
+%------------------------------------------------
+\section{Correlation Matrix (I)}
+%------------------------------------------------
+\begin{frame}
+	\frametitle{Correlation matrix (I)}
+	% Table generated by Excel2LaTeX from sheet 'T2PD'
+	\begin{table}[H] \label{T2PD}
+		\centering \scriptsize
+		\begin{tabular}{lrrrrrrrrr}
+			\multicolumn{9}{c}{\textbf{Table 2. Panel D: Correlation Matrix 10-Q}} \\
+			\midrule
+			\midrule
+			& \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)} & \multicolumn{1}{c}{(5)} & \multicolumn{1}{c}{(6)} & \multicolumn{1}{c}{(7)} & \multicolumn{1}{c}{(8)} \\
+			\midrule
+			(1) NW &  & -0.456 & -0.192 & -0.083 & -0.007 & 0.002 & 0.255 & 0.058 & \\
+			(2) TONE & -0.482 &  & 0.016 & 0.086 & 0.020 & -0.021 & -0.062 & -0.013 &  \\
+			(3) TLAG & -0.263 & 0.021 &  & 0.048 & -0.022 & 0.034 & -0.331 & -0.023 & \\
+			(4) READ & -0.252 & 0.169 & 0.125 &  & -0.016 & 0.016 & -0.014 & -0.037 & \\
+			(5) QRET & -0.007 & 0.028 & -0.032 & -0.029 &  & -0.684 & -0.064 & -0.029 & \\
+			(6) NEG & 0.003 & -0.024 & 0.033 & 0.028 & -0.866 &  & 0.000 & 0.014 &  \\
+			(7) SIZE & 0.264 & -0.047 & -0.333 & -0.078 & -0.024 & -0.001 &  & 0.247 & \\
+			(8) MTB & 0.046 & 0.040 & -0.042 & -0.026 & -0.055 & 0.033 & 0.382 &  &  \\
+			(9) LEV & 0.014 & 0.076 & 0.000 & 0.075 & 0.003 & -0.004 & 0.143 & -0.111 &  \\
+			(10) AF & -0.018 & 0.062 & -0.125 & 0.035 & -0.087 & 0.072 & 0.026 & -0.299 &  \\
+			(11) AFE & 0.040 & 0.099 & -0.149 & -0.023 & 0.181 & -0.157 & 0.232 & 0.226 &  \\
+			(12) AGE & -0.035 & 0.063 & -0.232 & 0.071 & 0.011 & -0.015 & 0.336 & -0.081 &  \\
+			(13) EARN & -0.139 & 0.223 & -0.146 & 0.065 & 0.114 & -0.098 & 0.299 & 0.282 &  \\
+			%    (14) $\Delta$EARN & 0.005 & 0.011 & -0.014 & -0.006 & 0.059 & -0.041 & -0.013 & 0.019 & 0.024 & 0.016 & 0.091 & 0.003 & 0.299 &  & 0.055 & 0.015 \\
+			(14) STD\_EARN & 0.092 & -0.194 & 0.153 & -0.052 & -0.024 & 0.028 & -0.281 & 0.093 &  \\
+			(15) STD\_QRET & -0.047 & -0.083 & 0.214 & -0.023 & 0.128 & -0.088 & -0.325 & -0.041 & \\
+			%    (17) ABTONE & -0.404 & 0.944 & 0.020 & 0.139 & 0.000 & -0.001 & 0.017 & 0.063 & 0.076 & -0.004 & 0.025 & 0.004 & 0.063 & -0.009 & -0.066 & -0.010 &  \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{table}%
+	
+\end{frame}
+%------------------------------------------------
+
+
+
+%------------------------------------------------
+\section{Correlation Matrix (II)}
+%------------------------------------------------
+\begin{frame}
+\frametitle{Correlation matrix (II)}
+% Table generated by Excel2LaTeX from sheet 'T2PD'
+\begin{table}[H] \label{T2PE}
+	\begin{center} \tiny
+		\begin{tabular}{lrrrrrrrrrrr}
+			\multicolumn{12}{c}{\textbf{Table 2. Panel E: Correlation Matrix 8-K}} \\
+			\midrule
+			\midrule
+			& \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)} & \multicolumn{1}{c}{(5)} & \multicolumn{1}{c}{(6)} & \multicolumn{1}{c}{(7)} & \multicolumn{1}{c}{(8)} & \multicolumn{1}{c}{(9)} & \multicolumn{1}{c}{(10)} & \multicolumn{1}{c}{(11)} \\
+			\midrule
+			(1) NW & & -0.425 & 0.133 & 0.154 & 0.164 & 0.021 & -0.015 & 0.011 & -0.024 & 0.042 & 0.075 \\
+			(2) TONE & -0.414 &   & -0.079 & -0.024 & -0.081 & 0.003 & 0.015 & -0.011 & 0.069 & 0.004 & -0.035 \\
+			(3) TLAG & 0.119 & -0.110 &   & -0.041 & -0.055 & -0.016 & -0.037 & 0.038 & -0.093 & -0.006 & -0.036 \\
+			(4) N8K & 0.206 & -0.043 & -0.059 &   & 0.432 & 0.017 & 0.011 & -0.006 & 0.032 & 0.000 & 0.022 \\
+			(5) NITEM & 0.184 & -0.104 & -0.093 & 0.296 &   & 0.009 & 0.006 & -0.004 & 0.014 & -0.005 & 0.027 \\
+			(6) DRET & -0.001 & 0.009 & -0.019 & 0.006 & 0.003 &   & 0.709 & -0.572 & -0.028 & 0.004 & 0.003 \\
+			(7) $\Delta$DRET & -0.016 & 0.019 & -0.049 & 0.006 & 0.007 & 0.780 &   & -0.738 & 0.069 & -0.006 & 0.013 \\
+			(8) BN & 0.012 & -0.012 & 0.049 & -0.005 & -0.005 & -0.780 & -0.863 &   & -0.032 & 0.002 & -0.009 \\
+			(9) SIZE & 0.029 & 0.075 & -0.113 & 0.032 & 0.024 & 0.025 & 0.080 & -0.032 &   & 0.191 & 0.168 \\
+			(10) MTB & 0.047 & 0.026 & -0.016 & 0.003 & -0.007 & 0.005 & 0.009 & -0.003 & 0.350 &   & 0.085 \\
+			(11) LEV & 0.081 & -0.043 & -0.041 & 0.023 & 0.025 & 0.013 & 0.022 & -0.010 & 0.213 & -0.039 &  \\
+			\bottomrule
+			\bottomrule
+		\end{tabular}%
+	\end{center}
+
+\end{table}%
+
+
+\end{frame}
+%------------------------------------------------\section{References}
+%------------------------------------------------
+\beginbackup
+\begin{frame}<presentation:0>
+\frametitle{Selected References}
+\scriptsize
+\bibliographystyle{plainnat}
+\bibliography{NC_slides}
+\end{frame}
+\backupend
+%------------------------------------------------
+\end{document}
