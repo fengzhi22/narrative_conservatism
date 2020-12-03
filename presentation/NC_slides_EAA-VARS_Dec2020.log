@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.14)  3 DEC 2020 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.12.14)  3 DEC 2020 18:14
 entering extended mode
-**./NC_slides_IESEG_Dec2020.tex
-(NC_slides_IESEG_Dec2020.tex
+**./NC_slides_EAA-VARS_Dec2020.tex
+(NC_slides_EAA-VARS_Dec2020.tex
 LaTeX2e <2018-04-01> patch level 5
 (C:\Users\Pc\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.cls
 Document Class: beamer 2018/09/20 v3.54 A class for typesetting presentations
@@ -777,12 +777,12 @@ Package: multicol 2018/04/20 v1.8s multicolumn formatting (FMi)
 \colbreak@box=\box78
 \mc@col@check@num=\count172
 )
-(NC_slides_IESEG_Dec2020.aux
+(NC_slides_EAA-VARS_Dec2020.aux
 
 LaTeX Warning: Label `T2PC' multiply defined.
 
 )
-\openout1 = `NC_slides_IESEG_Dec2020.aux'.
+\openout1 = `NC_slides_EAA-VARS_Dec2020.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
@@ -875,9 +875,9 @@ LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
 
-(NC_slides_IESEG_Dec2020.out) (NC_slides_IESEG_Dec2020.out)
+(NC_slides_EAA-VARS_Dec2020.out) (NC_slides_EAA-VARS_Dec2020.out)
 \@outlinefile=\write5
-\openout5 = `NC_slides_IESEG_Dec2020.out'.
+\openout5 = `NC_slides_EAA-VARS_Dec2020.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 47.
@@ -955,7 +955,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (C:\Users\Pc\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-theorem
 -dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (NC_slides_IESEG_Dec2020.nav) [1
+) (NC_slides_EAA-VARS_Dec2020.nav) [1
 
 {C:/Users/Pc/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
@@ -1037,7 +1037,7 @@ thkerncmss.
 ] [31
 
 ]
-<fig1.png, id=423, 386.6445pt x 96.36pt>
+<fig1.png, id=419, 386.6445pt x 96.36pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
 Package pdftex.def Info: fig1.png  used on input line 412.
@@ -1058,7 +1058,7 @@ Package pdftex.def Info: fig1.png  used on input line 412.
 ] [36
 
 ]
-<tab2panA.png, id=464, 513.117pt x 335.45325pt>
+<tab2panA.png, id=460, 513.117pt x 335.45325pt>
 File: tab2panA.png Graphic file (type png)
 <use tab2panA.png>
 Package pdftex.def Info: tab2panA.png  used on input line 462.
@@ -1067,7 +1067,7 @@ Package pdftex.def Info: tab2panA.png  used on input line 462.
 [37
 
  <./tab2panA.png>]
-<tab2panB.png, id=475, 504.08325pt x 252.945pt>
+<tab2panB.png, id=471, 504.08325pt x 252.945pt>
 File: tab2panB.png Graphic file (type png)
 <use tab2panB.png>
 Package pdftex.def Info: tab2panB.png  used on input line 472.
@@ -1075,7 +1075,7 @@ Package pdftex.def Info: tab2panB.png  used on input line 472.
  [38
 
  <./tab2panB.png>]
-<tab4panA.png, id=485, 549.85425pt x 379.4175pt>
+<tab4panA.png, id=481, 549.85425pt x 379.4175pt>
 File: tab4panA.png Graphic file (type png)
 <use tab4panA.png>
 Package pdftex.def Info: tab4panA.png  used on input line 482.
@@ -1098,7 +1098,7 @@ Overfull \vbox (11.76709pt too high) detected at line 529
 [40
 
 ]
-<tab3panB.png, id=504, 569.7285pt x 475.7775pt>
+<tab3panB.png, id=500, 569.7285pt x 475.7775pt>
 File: tab3panB.png Graphic file (type png)
 <use tab3panB.png>
 Package pdftex.def Info: tab3panB.png  used on input line 538.
@@ -1165,18 +1165,13 @@ Overfull \vbox (3.85684pt too high) detected at line 587
 ] [46
 
 ]
-<tab6.png, id=574, 567.3195pt x 401.0985pt>
-File: tab6.png Graphic file (type png)
-<use tab6.png>
-Package pdftex.def Info: tab6.png  used on input line 667.
-(pdftex.def)             Requested size: 308.06367pt x 217.80176pt.
-
-Overfull \vbox (11.79778pt too high) detected at line 667
+Overfull \hbox (1.33617pt too wide) in paragraph at lines 714--714
+ [] 
  []
 
 [47
 
- <./tab6.png>] [48
+] [48
 
 ] [49
 
@@ -1186,96 +1181,93 @@ Overfull \vbox (11.79778pt too high) detected at line 667
 
 ] [52
 
+] [53
+
 ]pdfTeX warning (ext4): destination with the same identifier (name{T2PC}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.827 \end{frame}
+l.883 \end{frame}
                  
-Overfull \hbox (1.15976pt too wide) in paragraph at lines 827--827
- [] 
- []
-
-[53
-
-]
-Overfull \hbox (15.6155pt too wide) in paragraph at lines 865--865
+Overfull \hbox (1.15976pt too wide) in paragraph at lines 883--883
  [] 
  []
 
 [54
 
 ]
-Overfull \hbox (17.30171pt too wide) in paragraph at lines 903--903
+Overfull \hbox (15.6155pt too wide) in paragraph at lines 921--921
  [] 
  []
 
 [55
 
 ]
-<tab7.png, id=649, 557.08125pt x 317.38576pt>
-File: tab7.png Graphic file (type png)
-<use tab7.png>
-Package pdftex.def Info: tab7.png  used on input line 916.
-(pdftex.def)             Requested size: 308.06367pt x 175.51675pt.
- [56
-
- <./tab7.png>]
-<tab8.png, id=659, 410.7345pt x 514.92375pt>
-File: tab8.png Graphic file (type png)
-<use tab8.png>
-Package pdftex.def Info: tab8.png  used on input line 926.
-(pdftex.def)             Requested size: 222.48985pt x 278.93468pt.
-
-Overfull \vbox (72.9307pt too high) detected at line 926
+Overfull \hbox (17.30171pt too wide) in paragraph at lines 959--959
+ [] 
  []
 
-[57
+[56
 
- <./tab8.png>]
-<tab9.png, id=669, 548.64975pt x 420.3705pt>
-File: tab9.png Graphic file (type png)
-<use tab9.png>
-Package pdftex.def Info: tab9.png  used on input line 935.
-(pdftex.def)             Requested size: 273.83728pt x 209.8191pt.
+]
+<tab7.png, id=650, 557.08125pt x 317.38576pt>
+File: tab7.png Graphic file (type png)
+<use tab7.png>
+Package pdftex.def Info: tab7.png  used on input line 972.
+(pdftex.def)             Requested size: 308.06367pt x 175.51675pt.
+ [57
 
-Overfull \vbox (3.81512pt too high) detected at line 935
+ <./tab7.png>]
+<tab8.png, id=660, 410.7345pt x 514.92375pt>
+File: tab8.png Graphic file (type png)
+<use tab8.png>
+Package pdftex.def Info: tab8.png  used on input line 982.
+(pdftex.def)             Requested size: 222.48985pt x 278.93468pt.
+
+Overfull \vbox (72.9307pt too high) detected at line 982
  []
 
 [58
 
+ <./tab8.png>]
+<tab9.png, id=670, 548.64975pt x 420.3705pt>
+File: tab9.png Graphic file (type png)
+<use tab9.png>
+Package pdftex.def Info: tab9.png  used on input line 991.
+(pdftex.def)             Requested size: 273.83728pt x 209.8191pt.
+
+Overfull \vbox (3.81512pt too high) detected at line 991
+ []
+
+[59
+
  <./tab9.png>]
 \c@framenumbervorappendix=\count180
- (NC_slides_IESEG_Dec2020.bbl
+ (NC_slides_EAA-VARS_Dec2020.bbl
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\translate ' on input line 1.
 
 )
 \tf@nav=\write6
-\openout6 = `NC_slides_IESEG_Dec2020.nav'.
+\openout6 = `NC_slides_EAA-VARS_Dec2020.nav'.
 
 \tf@toc=\write7
-\openout7 = `NC_slides_IESEG_Dec2020.toc'.
+\openout7 = `NC_slides_EAA-VARS_Dec2020.toc'.
 
 \tf@snm=\write8
-\openout8 = `NC_slides_IESEG_Dec2020.snm'.
+\openout8 = `NC_slides_EAA-VARS_Dec2020.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 948.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 948.
- (NC_slides_IESEG_Dec2020.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 948.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 948.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1004.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1004.
+ (NC_slides_EAA-VARS_Dec2020.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1004.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1004.
 
+Package rerunfilecheck Info: File `NC_slides_EAA-VARS_Dec2020.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: A9501EAC460E1E1C4041B2FE6964D3E4;514.
 
-Package rerunfilecheck Warning: File `NC_slides_IESEG_Dec2020.out' has changed.
-
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `NC_slides_IESEG_Dec2020.out':
-(rerunfilecheck)             Before: 4917442CD308330135B186086741D331;562
-(rerunfilecheck)             After:  A9501EAC460E1E1C4041B2FE6964D3E4;514.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 4.5pt have occurred.
@@ -1285,13 +1277,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 18268 strings out of 492969
- 348430 string characters out of 3135855
- 434656 words of memory out of 3000000
- 21539 multiletter control sequences out of 15000+200000
+ 18258 strings out of 492969
+ 348370 string characters out of 3135855
+ 434584 words of memory out of 3000000
+ 21530 multiletter control sequences out of 15000+200000
  23053 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,58p,811b,632s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,58p,814b,632s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{cite.heMeasuringDisclosureUsing2020} has been ref
 erenced but does not exist, replaced by a fixed one
 
@@ -1379,12 +1371,6 @@ pdfTeX warning (dest): name{cite.beaverConditionalUnconditionalConservatism2005
 pdfTeX warning (dest): name{cite.basuConservatismPrincipleAsymmetric1997} has b
 een referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{Navigation59} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.10} has been referenced but does not exist
-, replaced by a fixed one
-
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/Mi
@@ -1404,9 +1390,9 @@ amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on NC_slides_IESEG_Dec2020.pdf (58 pages, 1110588 bytes).
+Output written on NC_slides_EAA-VARS_Dec2020.pdf (59 pages, 1021443 bytes).
 PDF statistics:
  787 PDF objects out of 1000 (max. 8388607)
  175 named destinations out of 1000 (max. 500000)
- 204 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 

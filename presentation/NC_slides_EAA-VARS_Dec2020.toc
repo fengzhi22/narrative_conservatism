@@ -4,6 +4,6 @@
 \beamer@sectionintoc {4}{Research Design}{25}{0}{4}
 \beamer@sectionintoc {5}{Results}{37}{0}{5}
 \beamer@sectionintoc {6}{Additional Analyses}{44}{0}{6}
-\beamer@sectionintoc {7}{Conclusions}{51}{0}{7}
-\beamer@sectionintoc {8}{Correlation Matrix (I)}{54}{0}{8}
-\beamer@sectionintoc {9}{Correlation Matrix (II)}{55}{0}{9}
+\beamer@sectionintoc {7}{Conclusions}{52}{0}{7}
+\beamer@sectionintoc {8}{Correlation Matrix (I)}{55}{0}{8}
+\beamer@sectionintoc {9}{Correlation Matrix (II)}{56}{0}{9}
