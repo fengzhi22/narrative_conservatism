@@ -1,7 +1,7 @@
 **** Variable Creation
 global fin_controls "SIZE MTB LEV"
 global lit_controls "LNASSETS SG SKEW_RET STD_RET TURNOVER"
-global abt_controls_8k "EARN STD_RET"
+global abt_controls_8k "EARN STD_RET STD_EARN"
 global abt_controls "EARN STD_RET STD_EARN AGE BUSSEG GEOSEG AF AFE"
 global lagret_controls "LAG1_RET LAG2_RET LAG3_RET"
 global lagnw_controls "LAG1_NW LAG2_NW LAG3_NW"
@@ -15,7 +15,7 @@ global lagtlag_controls "LAG1_TLAG LAG2_TLAG LAG3_TLAG"
 **** TABLE 3 - Panel A: 10-Q main results
 
 **** read id_crsp_comp_text_10-Q.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 * winsor2 RET, cuts(1 99) replace
@@ -69,7 +69,7 @@ outreg2 using "..\output\Table_3-Panel_A.xml", append excel ctitle(TLAG) addtext
 ********************************** UT_6: ASYMMETRIC PERSISTENCE RESULTS: CHANGE RET TO LAGN_RET AND NEG TO LAGN_NEG, OR ADD $LAG_CONTROLS*********************
 
 **** read id_crsp_comp_text_10-Q.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 * winsor2 RET, cuts(1 99) replace
@@ -118,7 +118,7 @@ outreg2 using "..\output\UT_6.xml", append excel ctitle(TLAG) addtext(Year-quart
 ***********************************************************************
 
 **** read crsp_comp_edgar_ibes_seg_10-Q.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 gen RET_NEG = RET*NEG
@@ -157,7 +157,7 @@ outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(READ) addtext
 **** TABLE 4 - Panel A: 8-K main results
 
 **** read crsp_comp_edgar_8-K.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
 // **** Robustness: excluding results of operations
 // drop if item_12 >= 1
@@ -196,9 +196,25 @@ outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext
 areg TLAG i.cmonth DRET BN DRET_BN $fin_controls, absorb(cik) cluster(gvkey)
 outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
+********************************** limit to 8-Ks with only 1 or 2 items
+areg NW i.cmonth DRET BN DRET_BN if nitem <= 2, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", replace excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+areg NW i.cmonth DRET BN DRET_BN $fin_controls if nitem <= 2, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+
+areg TONE i.cmonth DRET BN DRET_BN if nitem <= 2, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+areg TONE i.cmonth DRET BN DRET_BN $fin_controls if nitem <= 2, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+
+areg TLAG i.cmonth DRET BN DRET_BN if nitem <= 2, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if nitem <= 2, absorb(cik) cluster(gvkey)
+outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+
 **** UT_2: Untabulated Robustness checks 8-K ******************
 // **** read crsp_comp_edgar_ibes_seg_8-K.csv
-// import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_8-K.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_ibes_seg_8-K.csv", case(preserve) stringcols(2) clear
 //
 // **** Variable Creation
 // // gen RET_BN = RET*BN
@@ -235,7 +251,7 @@ outreg2 using "..\output\UT_2.xml", append excel ctitle(TLAG) addtext(Year-month
 **** OAT_2: 8-K main results (TABLE 4) in restricted sample (TLAG <= 4 or item = 7.01 or 8.01)
 
 **** read crsp_comp_edgar_8-K_restricted.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
 // **** Drop obs. if is TLAG > 4 (after 20040823) or TLAG > 5 (before 20040823)
 gen rp1 = date(rp,"YMD")
@@ -277,7 +293,7 @@ outreg2 using "..\output\OAT_1.xml", append excel ctitle(TLAG) addtext(Year-mont
 **** TABLE 4 - Panel B: nitem OLS; n8k, TLAG ordered logistics model 8-K_restricted
 
 **** read crsp_comp_edgar_8-K.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 gen RET_BN = RET*BN
