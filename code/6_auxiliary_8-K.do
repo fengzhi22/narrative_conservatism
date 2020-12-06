@@ -8,7 +8,7 @@ global axy_controls "C_SCORE SEO_HIGH BLKSHVALSUM_HIGH LIT_HIGH"
 *************************************************************************************
 
 **** read crsp_comp_edgar_8-K.csv
-import delimited "F:\github\narrative_conservatism\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 // gen RET_BN = RET*BN
