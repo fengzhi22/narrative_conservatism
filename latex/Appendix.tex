@@ -37,7 +37,7 @@
 %		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged quarterly earnings \\
 		LEV & Leverage ratio, defined as beginning-of-quarter short term debt (Compustat data item DLCQ) plus beginning-of-quarter long term debt (Compustat data item DLTTQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
 		MTB & Market-to-book ratio, defined as beginning-of-quarter market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) divided by beginning-of-quarter book value of equity (Compustat data item CEQQ) \\
-		SIZE & Firm size, defined as the natural logarithm of market value of equity, calculated as natural logarithm of common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) \\
+		SIZE & Firm size, defined as the natural logarithm of market value of equity at the beginning of the quarter, calculated as natural logarithm of beginning-of-quarter common share price (Compustat data item PRCCQ) times beginning-of-quarter common shares outstanding (Compustat data item CSHOQ) \\
 		QRET & Quarterly market-adjusted stock return, defined as buy-and-hold stock return (CRSP data item RET) over the fiscal quarter adjusted by the value-weighted stock return (CRSP data item VWRETD) over the same period \\
 		DRET & Daily market-adjusted stock return, defined as daily buy-and-hold stock return (CRSP data item RET) adjusted by the daily value-weighted stock return (CRSP data item VWRETD)\\
 		$\Delta$DRET & Change in daily market-adjusted stock return (DRET), defined as current daily market-adjusted stock return minus one-day-lagged daily market-adjusted stock return \\
@@ -48,8 +48,8 @@
 		BUSSEG & Business segment, defined as the natural logarithm of one plus number of business segments, or one if item is missing from Compustat\\
 		GEOSEG & Geographical segment, defined as the natural logarithm of one plus number of geographical segments, or one if item is missing from Compustat\\
 		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the firm's first entry date in CRSP\\
-		STD\_EARN & Standard deviation of quarterly earnings (EARN) over the last five quarters\\
-		STD\_QRET & Standard deviation of monthly market-adjusted stock return over all months in the fiscal quarter\\
+		STD\_EARN & Standard deviation of quarterly earnings (EARN) of a firm over the last five fiscal quarters\\
+		STD\_QRET & Standard deviation of monthly market-adjusted stock return of a firm over all months in the fiscal quarter\\
 %		LOSS & Indicator for loss, which is set to 1 when quaterly earnings (EARN) is negative and 0 otherwise\\
 		\bottomrule
 		\bottomrule

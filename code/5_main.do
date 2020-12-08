@@ -158,6 +158,8 @@ outreg2 using "..\output\Table_3-Panel_B.xml", append excel ctitle(READ) addtext
 
 **** read crsp_comp_edgar_8-K.csv
 import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_8-K4.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_8-K2.csv", case(preserve) stringcols(2) clear
 
 // **** Robustness: excluding results of operations
 // drop if item_12 >= 1
@@ -198,19 +200,19 @@ outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext
 
 ********************************** limit to 8-Ks with only 1 or 2 items
 areg NW i.cmonth DRET BN DRET_BN if nitem <= 2, absorb(cik) cluster(gvkey)
-outreg2 using "..\output\Table_4-Panel_A.xml", replace excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\Table_4-Panel_A_2items.xml", replace excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 areg NW i.cmonth DRET BN DRET_BN $fin_controls if nitem <= 2, absorb(cik) cluster(gvkey)
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\Table_4-Panel_A_2items.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 areg TONE i.cmonth DRET BN DRET_BN if nitem <= 2, absorb(cik) cluster(gvkey)
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\Table_4-Panel_A_2items.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 areg TONE i.cmonth DRET BN DRET_BN $fin_controls if nitem <= 2, absorb(cik) cluster(gvkey)
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\Table_4-Panel_A_2items.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 areg TLAG i.cmonth DRET BN DRET_BN if nitem <= 2, absorb(cik) cluster(gvkey)
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\Table_4-Panel_A_2items.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 areg TLAG i.cmonth DRET BN DRET_BN $fin_controls if nitem <= 2, absorb(cik) cluster(gvkey)
-outreg2 using "..\output\Table_4-Panel_A.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
+outreg2 using "..\output\Table_4-Panel_A_2items.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
 **** UT_2: Untabulated Robustness checks 8-K ******************
 // **** read crsp_comp_edgar_ibes_seg_8-K.csv
@@ -252,6 +254,8 @@ outreg2 using "..\output\UT_2.xml", append excel ctitle(TLAG) addtext(Year-month
 
 **** read crsp_comp_edgar_8-K_restricted.csv
 import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_8-K4.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_8-K2.csv", case(preserve) stringcols(2) clear
 
 // **** Drop obs. if is TLAG > 4 (after 20040823) or TLAG > 5 (before 20040823)
 gen rp1 = date(rp,"YMD")
@@ -294,6 +298,8 @@ outreg2 using "..\output\OAT_1.xml", append excel ctitle(TLAG) addtext(Year-mont
 
 **** read crsp_comp_edgar_8-K.csv
 import delimited "..\filings\crsp_comp_edgar_8-K.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_8-K4.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_8-K2.csv", case(preserve) stringcols(2) clear
 
 **** Variable Creation
 gen RET_BN = RET*BN
