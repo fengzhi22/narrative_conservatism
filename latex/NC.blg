@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: NC.aux
+The style file: apacite.bst
+A level-1 auxiliary file: Figure.aux
+A level-1 auxiliary file: Table.aux
+A level-1 auxiliary file: Appendix.aux
+A level-1 auxiliary file: OA.aux
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: NC.bib
+Warning--I didn't find a database entry for "laraEconomicDeterminantsConditional2009"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in eyPointNowTime2012
+You've used 88 entries,
+            6951 wiz_defined-function locations,
+            1850 strings with 29163 characters,
+and the built_in function-call counts, 167574 in all, are:
+= -- 20473
+> -- 1247
+< -- 8499
++ -- 8481
+- -- 193
+* -- 11215
+:= -- 31833
+add.period$ -- 352
+call.type$ -- 88
+change.case$ -- 1604
+chr.to.int$ -- 0
+cite$ -- 177
+duplicate$ -- 4235
+empty$ -- 6467
+format.name$ -- 2056
+if$ -- 31322
+int.to.chr$ -- 0
+int.to.str$ -- 268
+missing$ -- 0
+newline$ -- 2244
+num.names$ -- 704
+pop$ -- 2521
+preamble$ -- 1
+purify$ -- 444
+quote$ -- 0
+skip$ -- 10502
+stack$ -- 0
+substring$ -- 9198
+swap$ -- 2596
+text.length$ -- 278
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 7040
+warning$ -- 1
+while$ -- 804
+width$ -- 0
+write$ -- 2730
+(There were 2 warnings)

@@ -3,17 +3,19 @@ global lit_controls "LNASSETS SG SKEW_RET STD_RET TURNOVER"
 global abt_controls "EARN STD_RET STD_EARN AGE BUSSEG GEOSEG AF AFE"
 global axy_controls "C_SCORE SEO_HIGH BLKSHVALSUM_HIGH LIT_HIGH"
 
+*erase "..\filings\crsp_comp_edgar_10-Q.dta"
+
 **************************************************************************************************************
 ************************************ Khan & Watts (2009) *****************************************************
 **************************************************************************************************************
 
-*import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 import delimited "..\filings\crsp_comp_edgar_10-Q.csv", case(preserve) stringcols(2) clear
 
 ** gen year-quarter indicator
-// tostring fqtr, replace
-// drop if fqtr == "nan"
-// gen fyq = string(fyearq,"%02.0f") + fqtr
+* tostring fqtr, replace
+* drop if fqtr == "nan"
+* gen fyq = string(fyearq,"%02.0f") + fqtr
 
 ** gen KW:SIZE MTB LEV interactions
 gen RET_NEG=RET*NEG
@@ -33,14 +35,14 @@ gen RET_NEG_LEV=RET*NEG*LEV
 *no sufficient observations per (sic_fyear) for regressions
 
 ** by year-quarter
-// quiet statsby _b _se, by(fyq) saving(F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.dta, replace) : reg EARN NEG RET RET_SIZE RET_MTB RET_LEV RET_NEG RET_NEG_SIZE RET_NEG_MTB RET_NEG_LEV SIZE MTB LEV NEG_SIZE NEG_MTB NEG_LEV
+* quiet statsby _b _se, by(fyq) saving(F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.dta, replace) : reg EARN NEG RET RET_SIZE RET_MTB RET_LEV RET_NEG RET_NEG_SIZE RET_NEG_MTB RET_NEG_LEV SIZE MTB LEV NEG_SIZE NEG_MTB NEG_LEV
 
 ** by year
-*quiet statsby _b _se, by(fyearq) saving(F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.dta, replace) : reg EARN NEG RET RET_SIZE RET_MTB RET_LEV RET_NEG RET_NEG_SIZE RET_NEG_MTB RET_NEG_LEV SIZE MTB LEV NEG_SIZE NEG_MTB NEG_LEV
+// quiet statsby _b _se, by(fyearq) saving(F:\github\narrative_conservatism\filings\crsp_comp_edgar_ibes_seg_10-Q.dta, replace) : reg EARN NEG RET RET_SIZE RET_MTB RET_LEV RET_NEG RET_NEG_SIZE RET_NEG_MTB RET_NEG_LEV SIZE MTB LEV NEG_SIZE NEG_MTB NEG_LEV
 quiet statsby _b _se, by(fyearq) saving(F:\github\narrative_conservatism\filings\crsp_comp_edgar_10-Q.dta, replace) : reg EARN NEG RET RET_SIZE RET_MTB RET_LEV RET_NEG RET_NEG_SIZE RET_NEG_MTB RET_NEG_LEV SIZE MTB LEV NEG_SIZE NEG_MTB NEG_LEV
 
 ****change names for MUs and LAMBDAs
-*use "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", clear
+// use "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", clear
 use "..\filings\crsp_comp_edgar_10-Q.dta", clear
 rename _b_cons beta0
 rename _b_NEG beta2
@@ -63,21 +65,21 @@ rename _b_NEG_LEV gamma6
 tabstat beta0 beta2 mu0 mu1 mu2 mu3 lambda0 lambda1 lambda2 lambda3 gamma1 gamma2 gamma3 gamma4 gamma5 gamma6, statistics(mean) format(%9.4f)
 tabstat _se_cons _se_NEG _se_RET _se_RET_SIZE _se_RET_MTB _se_RET_LEV _se_RET_NEG _se_RET_NEG_SIZE _se_RET_NEG_MTB _se_RET_NEG_LEV _se_SIZE _se_MTB _se_LEV _se_NEG_SIZE _se_NEG_MTB _se_NEG_LEV, statistics(mean) format(%9.4f)
 
-*save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
+// save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
 save "..\filings\crsp_comp_edgar_10-Q.dta", replace
 
 
 ****merge MUs and LAMBDAs to COMP_CRSP.dta
-*import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
+// import delimited "..\filings\crsp_comp_edgar_ibes_seg_10-Q.csv", case(preserve) stringcols(2) clear
 import delimited "..\filings\crsp_comp_edgar_10-Q.csv", case(preserve) stringcols(2) clear
 
 ** gen year-quarter indicator
-// tostring fqtr, replace
-// drop if fqtr == "nan"
-// gen fyq = string(fyearq,"%02.0f") + fqtr
-// merge m:m fyq using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", keepusing(mu0 mu1 mu2 mu3 lambda0 lambda1 lambda2 lambda3)
+* tostring fqtr, replace
+* drop if fqtr == "nan"
+* gen fyq = string(fyearq,"%02.0f") + fqtr
+* merge m:m fyq using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", keepusing(mu0 mu1 mu2 mu3 lambda0 lambda1 lambda2 lambda3)
 
-*merge m:m fyearq using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", keepusing(mu0 mu1 mu2 mu3 lambda0 lambda1 lambda2 lambda3)
+// merge m:m fyearq using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", keepusing(mu0 mu1 mu2 mu3 lambda0 lambda1 lambda2 lambda3)
 merge m:m fyearq using "..\filings\crsp_comp_edgar_10-Q.dta", keepusing(mu0 mu1 mu2 mu3 lambda0 lambda1 lambda2 lambda3)
 drop _merge
 
@@ -89,9 +91,10 @@ gen SUMCG=G_SCORE+C_SCORE
 tabstat C_SCORE G_SCORE EARN RET SIZE MTB LEV, statistics(mean median sd max min p1 p25 p75 p99) format(%9.3f)
 
 gen rdate = substr(rp, 1, 7)
+*drop date_key
 gen date_key = date(rdate, "YM")
 drop rdate
-*save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
+// save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
 save "..\filings\crsp_comp_edgar_10-Q.dta", replace
 
 ************************************************************************** Construct dataset for institutional ownership (IO)
@@ -104,7 +107,7 @@ rename InstOwn instown
 rename InstOwn_HHI HHI
 rename InstOwn_Perc instown_perc
 
-*merge 1:m cusip rp using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta"
+// merge 1:m cusip date_key using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta"
 merge 1:m cusip date_key using "..\filings\crsp_comp_edgar_10-Q.dta"
 drop if _merge == 1
 
@@ -113,7 +116,7 @@ replace instown_perc = instown/(lag_cshoq*10^6) if instown_perc==.
 replace instown_perc = 1 if (instown_perc>1) & (_merge == 3)
 drop _merge
 
-*save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
+// save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
 save "..\filings\crsp_comp_edgar_10-Q.dta", replace
 
 ************************************************************************** Construct dataset for stock option grants
@@ -125,9 +128,9 @@ rename YEAR fyearq
 bysort gvkey fyearq: egen BLKSHVALSUM = sum(BLKSHVAL)
 duplicates drop gvkey fyearq, force
 keep gvkey fyearq BLKSHVAL BLKSHVALSUM
-drop if BLKSHVALSUM <= 0
+*drop if BLKSHVALSUM <= 0
 
-*merge 1:m gvkey fyearq using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta"
+// merge 1:m gvkey fyearq using "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta"
 merge 1:m gvkey fyearq using "..\filings\crsp_comp_edgar_10-Q.dta"
 drop if _merge == 1
 drop _merge
@@ -155,8 +158,70 @@ xtile BLKSHVALSUM_HIGH = BLKSHVALSUM, n(2)
 replace BLKSHVALSUM_HIGH = 0 if  BLKSHVALSUM_HIGH == 1
 replace BLKSHVALSUM_HIGH = 1 if  BLKSHVALSUM_HIGH == 2
 
-*save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
+// save "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", replace
 save "..\filings\crsp_comp_edgar_10-Q.dta", replace
+
+*****************************************************************************************************************
+******************************** TABLE 11: Conditional Conservatism *********************************************
+*****************************************************************************************************************
+use "..\filings\crsp_comp_edgar_ibes_seg_10-Q.dta", clear
+// use "..\filings\crsp_comp_edgar_10-Q.dta", clear
+
+**** Variable Creation: high low CONS
+xtile C_PCT = C_SCORE, n(2)
+
+* bysort C_PCT: summarize C_SCORE EARN RET SIZE MTB LEV
+gen RET_NEG=RET*NEG
+replace NW = NW*(-1)
+
+**** Regressions: high low CONS using 10-Q without controls
+reghdfe NW RET NEG RET_NEG if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", replace excel ctitle(NW_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW RET NEG RET_NEG if C_PCT == 2, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 2, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TONE RET NEG RET_NEG if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE RET NEG RET_NEG if C_PCT == 2, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 2, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TLAG RET NEG RET_NEG if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG RET NEG RET_NEG if C_PCT == 2, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 2, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_HIGH) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+**** Variable Creation: Triple Interactions with C_SCORE
+gen RET_CSCORE=RET*C_SCORE
+gen NEG_CSCORE = NEG*C_SCORE
+gen RET_NEG_CSCORE=RET*NEG*C_SCORE
+
+**** Regressions 10-Q: Triple Interactions with C_SCORE
+reghdfe NW RET NEG C_SCORE RET_CSCORE NEG_CSCORE RET_NEG RET_NEG_CSCORE, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", replace excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW RET NEG C_SCORE RET_CSCORE NEG_CSCORE RET_NEG RET_NEG_CSCORE $fin_controls $abt_controls, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TONE RET NEG C_SCORE RET_CSCORE NEG_CSCORE RET_NEG RET_NEG_CSCORE, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE RET NEG C_SCORE RET_CSCORE NEG_CSCORE RET_NEG RET_NEG_CSCORE $fin_controls $abt_controls, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TLAG RET NEG C_SCORE RET_CSCORE NEG_CSCORE RET_NEG RET_NEG_CSCORE, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG RET NEG C_SCORE RET_CSCORE NEG_CSCORE RET_NEG RET_NEG_CSCORE $fin_controls $abt_controls, a(gvkey i.cquarter) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
 
 *****************************************************************************************************************
 ************************************ TABLE 8: Firm Characteristics **********************************************
@@ -174,41 +239,41 @@ xtile LIT_PCT = LIT, n(5)
 xtile INST_PCT = instown_perc, n(5)
 
 * bysort C_PCT: summarize C_SCORE EARN RET SIZE MTB LEV
-
 gen RET_NEG=RET*NEG
+replace NW = NW*(-1)
 
 **** Regressions 10-Q: change to SIZE_PCT, MTB_PCT, LEV_PCT, HHI_PCT, SG_PCT and LIT_PCT to see level of NC across quantiles of different fundamental characteristics.
-areg NW i.cquarter RET NEG RET_NEG if INST_PCT==1, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter RET NEG RET_NEG if C_PCT==1, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", replace excel ctitle(NW_1) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg NW i.cquarter RET NEG RET_NEG if INST_PCT==2, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter RET NEG RET_NEG if C_PCT==2, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_2) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg NW i.cquarter RET NEG RET_NEG if INST_PCT==3, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter RET NEG RET_NEG if C_PCT==3, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_3) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg NW i.cquarter RET NEG RET_NEG if INST_PCT==4, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter RET NEG RET_NEG if C_PCT==4, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_4) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg NW i.cquarter RET NEG RET_NEG if INST_PCT==5, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter RET NEG RET_NEG if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_5) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
-areg TONE i.cquarter RET NEG RET_NEG if INST_PCT==1, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter RET NEG RET_NEG if C_PCT==1, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_1) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter RET NEG RET_NEG if INST_PCT==2, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter RET NEG RET_NEG if C_PCT==2, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_2) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter RET NEG RET_NEG if INST_PCT==3, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter RET NEG RET_NEG if C_PCT==3, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_3) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter RET NEG RET_NEG if INST_PCT==4, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter RET NEG RET_NEG if C_PCT==4, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_4) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter RET NEG RET_NEG if INST_PCT==5, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter RET NEG RET_NEG if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_5) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
-areg TLAG i.cquarter RET NEG RET_NEG if INST_PCT==1, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter RET NEG RET_NEG if C_PCT==1, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_1) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter RET NEG RET_NEG if INST_PCT==2, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter RET NEG RET_NEG if C_PCT==2, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_2) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter RET NEG RET_NEG if INST_PCT==3, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter RET NEG RET_NEG if C_PCT==3, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_3) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter RET NEG RET_NEG if INST_PCT==4, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter RET NEG RET_NEG if C_PCT==4, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_4) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter RET NEG RET_NEG if INST_PCT==5, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter RET NEG RET_NEG if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_5) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 ****************************************************************************************

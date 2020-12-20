@@ -126,7 +126,7 @@ reghdfe TLAG (i.fyearq c.DRET c.BN c.DRET_BN)#i.BN_ITEMS, a(gvkey#i.BN_ITEMS) cl
 test 1.BN_ITEMS#c.DRET_BN = 0.BN_ITEMS#c.DRET_BN
 
 ***********************************************************************************************************************
-************************************* TABLE 8：Firm Characteristics - dataset *****************************************
+************************************* TABLE 8 & 11：Firm Characteristics - dataset ************************************
 ***********************************************************************************************************************
 
 **************** Khan and Watts 2009 ***************************
@@ -221,7 +221,7 @@ rename YEAR fyearq
 bysort gvkey fyearq: egen BLKSHVALSUM = sum(BLKSHVAL)
 duplicates drop gvkey fyearq, force
 keep gvkey fyearq BLKSHVAL BLKSHVALSUM
-drop if BLKSHVALSUM <= 0
+*drop if BLKSHVALSUM <= 0
 
 merge 1:m gvkey fyearq using "..\filings\crsp_comp_edgar_8-K.dta"
 drop if _merge == 1
@@ -252,9 +252,71 @@ replace BLKSHVALSUM_HIGH = 1 if  BLKSHVALSUM_HIGH == 2
 
 save "..\filings\crsp_comp_edgar_8-K.dta", replace
 
+*****************************************************************************************************************
+******************************** TABLE 11: Conditional Conservatism *********************************************
+*****************************************************************************************************************
+use "..\filings\crsp_comp_edgar_8-K.dta", clear
+
+**** Variable Creation: high low CONS
+xtile C_PCT = C_SCORE, n(2)
+
+* bysort C_PCT: summarize C_SCORE EARN DRET SIZE MTB LEV
+gen DRET_BN=DRET*BN
+replace NW = NW*(-1)
+
+**** Regressions: high low CONS using 10-Q without controls
+reghdfe NW DRET BN DRET_BN if C_PCT == 1, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", replace excel ctitle(NW_LOW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW DRET BN DRET_BN $fin_controls if C_PCT == 1, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_LOW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW DRET BN DRET_BN if C_PCT == 2, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_HIGH) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW DRET BN DRET_BN $fin_controls if C_PCT == 2, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW_HIGH) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TONE DRET BN DRET_BN if C_PCT == 1, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_LOW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE DRET BN DRET_BN $fin_controls if C_PCT == 1, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_LOW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE DRET BN DRET_BN if C_PCT == 2, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_HIGH) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE DRET BN DRET_BN $fin_controls if C_PCT == 2, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE_HIGH) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TLAG DRET BN DRET_BN if C_PCT == 1, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_LOW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG DRET BN DRET_BN $fin_controls if C_PCT == 1, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_LOW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG DRET BN DRET_BN if C_PCT == 2, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_HIGH) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG DRET BN DRET_BN $fin_controls if C_PCT == 2, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG_HIGH) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+**** Variable Creation: Triple Interactions with C_SCORE
+gen DRET_CSCORE=DRET*C_SCORE
+gen BN_CSCORE = BN*C_SCORE
+gen DRET_BN_CSCORE=DRET*BN*C_SCORE
+
+**** Regressions 10-Q: Triple Interactions with C_SCORE
+reghdfe NW DRET BN C_SCORE DRET_CSCORE BN_CSCORE DRET_BN DRET_BN_CSCORE, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", replace excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe NW DRET BN C_SCORE DRET_CSCORE BN_CSCORE DRET_BN DRET_BN_CSCORE $fin_controls, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(NW) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TONE DRET BN C_SCORE DRET_CSCORE BN_CSCORE DRET_BN DRET_BN_CSCORE, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TONE DRET BN C_SCORE DRET_CSCORE BN_CSCORE DRET_BN DRET_BN_CSCORE $fin_controls, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TONE) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
+reghdfe TLAG DRET BN C_SCORE DRET_CSCORE BN_CSCORE DRET_BN DRET_BN_CSCORE, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+reghdfe TLAG DRET BN C_SCORE DRET_CSCORE BN_CSCORE DRET_BN DRET_BN_CSCORE $fin_controls, a(gvkey i.cmonth) cluster(SIC)
+outreg2 using "..\output\Table_11.xml", append excel ctitle(TLAG) addtext(Year-month FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
+
 *************************************************************************
 ********** TABLE 8: Firm Characteristics - regression *******************
 *************************************************************************
+use "..\filings\crsp_comp_edgar_8-K.dta", clear
 
 **** Variable Creation
 xtile C_PCT = C_SCORE, n(5)
@@ -271,37 +333,38 @@ xtile INST_PCT = instown_perc, n(5)
 *gen RET_NEG=RET*NEG
 
 gen DRET_BN=DRET*BN
+replace NW = NW*(-1)
 
 **** Regressions 8-K: change to SIZE_PCT, MTB_PCT, LEV_PCT, HHI_PCT, SG_PCT and LIT_PCT to see level of NC across quantiles of different fundamental characteristics.
-areg NW i.cmonth DRET BN DRET_BN if INST_PCT==1, absorb(gvkey) cluster(SIC)
+areg NW i.cmonth DRET BN DRET_BN if C_PCT==1, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", replace excel ctitle(NW_1) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg NW i.cmonth DRET BN DRET_BN if INST_PCT==2, absorb(gvkey) cluster(SIC)
+areg NW i.cmonth DRET BN DRET_BN if C_PCT==2, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_2) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg NW i.cmonth DRET BN DRET_BN if INST_PCT==3, absorb(gvkey) cluster(SIC)
+areg NW i.cmonth DRET BN DRET_BN if C_PCT==3, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_3) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg NW i.cmonth DRET BN DRET_BN if INST_PCT==4, absorb(gvkey) cluster(SIC)
+areg NW i.cmonth DRET BN DRET_BN if C_PCT==4, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_4) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg NW i.cmonth DRET BN DRET_BN if INST_PCT==5, absorb(gvkey) cluster(SIC)
+areg NW i.cmonth DRET BN DRET_BN if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(NW_5) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
-areg TONE i.cmonth DRET BN DRET_BN if INST_PCT==1, absorb(gvkey) cluster(SIC)
+areg TONE i.cmonth DRET BN DRET_BN if C_PCT==1, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_1) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TONE i.cmonth DRET BN DRET_BN if INST_PCT==2, absorb(gvkey) cluster(SIC)
+areg TONE i.cmonth DRET BN DRET_BN if C_PCT==2, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_2) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TONE i.cmonth DRET BN DRET_BN if INST_PCT==3, absorb(gvkey) cluster(SIC)
+areg TONE i.cmonth DRET BN DRET_BN if C_PCT==3, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_3) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TONE i.cmonth DRET BN DRET_BN if INST_PCT==4, absorb(gvkey) cluster(SIC)
+areg TONE i.cmonth DRET BN DRET_BN if C_PCT==4, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_4) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TONE i.cmonth DRET BN DRET_BN if INST_PCT==5, absorb(gvkey) cluster(SIC)
+areg TONE i.cmonth DRET BN DRET_BN if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TONE_5) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
 
-areg TLAG i.cmonth DRET BN DRET_BN if INST_PCT==1, absorb(gvkey) cluster(SIC)
+areg TLAG i.cmonth DRET BN DRET_BN if C_PCT==1, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_1) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TLAG i.cmonth DRET BN DRET_BN if INST_PCT==2, absorb(gvkey) cluster(SIC)
+areg TLAG i.cmonth DRET BN DRET_BN if C_PCT==2, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_2) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TLAG i.cmonth DRET BN DRET_BN if INST_PCT==3, absorb(gvkey) cluster(SIC)
+areg TLAG i.cmonth DRET BN DRET_BN if C_PCT==3, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_3) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TLAG i.cmonth DRET BN DRET_BN if INST_PCT==4, absorb(gvkey) cluster(SIC)
+areg TLAG i.cmonth DRET BN DRET_BN if C_PCT==4, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_4) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
-areg TLAG i.cmonth DRET BN DRET_BN if INST_PCT==5, absorb(gvkey) cluster(SIC)
+areg TLAG i.cmonth DRET BN DRET_BN if C_PCT==5, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_8.xml", append excel ctitle(TLAG_5) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cmonth) stats(coef tstat) adjr2
