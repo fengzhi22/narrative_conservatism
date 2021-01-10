@@ -174,7 +174,7 @@ xtile C_PCT = C_SCORE, n(2)
 gen RET_NEG=RET*NEG
 replace NW = NW*(-1)
 
-**** Regressions: high low CONS using 10-Q without controls
+**** Regressions: high low CONS using 10-Q
 reghdfe NW RET NEG RET_NEG if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)
 outreg2 using "..\output\Table_11.xml", replace excel ctitle(NW_LOW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) stats(coef tstat) adjr2
 reghdfe NW RET NEG RET_NEG $fin_controls $abt_controls if C_PCT == 1, a(gvkey i.cquarter) cluster(SIC)

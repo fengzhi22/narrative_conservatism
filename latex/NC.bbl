@@ -889,6 +889,37 @@ Garc{\'i}a~Lara%
 }{%
 Garc{\'i}a~Lara%
 \ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+garcialaraEconomicDeterminantsConditional2009}
+\APACinsertmetastar {%
+garcialaraEconomicDeterminantsConditional2009}%
+\begin{APACrefauthors}%
+Garc{\'i}a~Lara, J\BPBI M.%
+, Garc{\'i}a~Osma, B.%
+\BCBL {}\ \BBA {} Penalva, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{{\APACmonth{04}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {{Economic Determinants}} of {{Conditional
+  Conservatism}}} {The {{Economic Determinants}} of {{Conditional
+  Conservatism}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Business Finance \&
+  Accounting}{36}{3-4}{336--372}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1468-5957.2008.02122.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Garc{\'i}a~Lara%
+, Garc{\'i}a~Osma%
+\BCBL {}\ \BBA {} Penalva%
+}{%
+Garc{\'i}a~Lara%
+\ \protect \BOthers {.}}{%
 {\protect \APACyear {2011}}%
 }]{%
 garcialaraConditionalConservatismCost2011}

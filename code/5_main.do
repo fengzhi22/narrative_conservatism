@@ -79,44 +79,38 @@ replace LAG1_NW = LAG1_NW*-1
 replace LAG2_NW = LAG2_NW*-1
 replace LAG3_NW = LAG3_NW*-1
 
-gen LAG1_NEG = (LAG1_RET < 0)
-// gen LAG1_RET_LAG1_NEG = LAG1_RET*LAG1_NEG
-gen LAG1_NW_LAG1_NEG = LAG1_NW*LAG1_NEG
-gen LAG1_TONE_LAG1_NEG = LAG1_TONE*LAG1_NEG
-gen LAG1_TLAG_LAG1_NEG = LAG1_TLAG*LAG1_NEG
+gen LAG1_NW_NEG = LAG1_NW*NEG
+gen LAG1_TONE_NEG = LAG1_TONE*NEG
+gen LAG1_TLAG_NEG = LAG1_TLAG*NEG
 
-gen LAG2_NEG = (LAG2_RET < 0)
-// gen LAG2_RET_LAG2_NEG = LAG2_RET*LAG2_NEG
-gen LAG2_NW_LAG2_NEG = LAG2_NW*LAG2_NEG
-gen LAG2_TONE_LAG2_NEG = LAG2_TONE*LAG2_NEG
-gen LAG2_TLAG_LAG2_NEG = LAG2_TLAG*LAG2_NEG
+gen LAG2_NW_NEG = LAG2_NW*NEG
+gen LAG2_TONE_NEG = LAG2_TONE*NEG
+gen LAG2_TLAG_NEG = LAG2_TLAG*NEG
 
-gen LAG3_NEG = (LAG3_RET < 0)
-// gen LAG3_RET_LAG3_NEG = LAG3_RET*LAG3_NEG
-gen LAG3_NW_LAG3_NEG = LAG3_NW*LAG3_NEG
-gen LAG3_TONE_LAG3_NEG = LAG3_TONE*LAG3_NEG
-gen LAG3_TLAG_LAG3_NEG = LAG3_TLAG*LAG3_NEG
+gen LAG3_NW_NEG = LAG3_NW*NEG
+gen LAG3_TONE_NEG = LAG3_TONE*NEG
+gen LAG3_TLAG_NEG = LAG3_TLAG*NEG
 
 ** LAG1
-areg NW i.cquarter LAG1_NW LAG1_NEG LAG1_NW_LAG1_NEG, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter LAG1_NW NEG LAG1_NW_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", replace excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter LAG1_TONE LAG1_NEG LAG1_TONE_LAG1_NEG, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter LAG1_TONE NEG LAG1_TONE_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter LAG1_TLAG LAG1_NEG LAG1_TLAG_LAG1_NEG, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter LAG1_TLAG NEG LAG1_TLAG_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 ** LA2
-areg NW i.cquarter LAG2_NW LAG2_NEG LAG2_NW_LAG2_NEG, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter LAG2_NW NEG LAG2_NW_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter LAG2_TONE LAG2_NEG LAG2_TONE_LAG2_NEG, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter LAG2_TONE NEG LAG2_TONE_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter LAG2_TLAG LAG2_NEG LAG2_TLAG_LAG2_NEG, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter LAG2_TLAG NEG LAG2_TLAG_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 ** LAG3
-areg NW i.cquarter LAG3_NW LAG3_NEG LAG3_NW_LAG3_NEG, absorb(gvkey) cluster(SIC)
+areg NW i.cquarter LAG3_NW NEG LAG3_NW_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(NW) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE i.cquarter LAG3_TONE LAG3_NEG LAG3_TONE_LAG3_NEG, absorb(gvkey) cluster(SIC)
+areg TONE i.cquarter LAG3_TONE NEG LAG3_TONE_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(TONE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TLAG i.cquarter LAG3_TLAG LAG3_NEG LAG3_TLAG_LAG3_NEG, absorb(gvkey) cluster(SIC)
+areg TLAG i.cquarter LAG3_TLAG NEG LAG3_TLAG_NEG, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\UT_6.xml", append excel ctitle(TLAG) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 correlate NW LAG1_NW LAG2_NW LAG3_NW

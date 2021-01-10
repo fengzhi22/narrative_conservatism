@@ -16,48 +16,47 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: NC.bib
-Warning--I didn't find a database entry for "laraEconomicDeterminantsConditional2009"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in eyPointNowTime2012
-You've used 88 entries,
+You've used 89 entries,
             6951 wiz_defined-function locations,
-            1850 strings with 29163 characters,
-and the built_in function-call counts, 167574 in all, are:
-= -- 20473
-> -- 1247
-< -- 8499
-+ -- 8481
-- -- 193
-* -- 11215
-:= -- 31833
-add.period$ -- 352
-call.type$ -- 88
-change.case$ -- 1604
+            1854 strings with 29279 characters,
+and the built_in function-call counts, 169501 in all, are:
+= -- 20704
+> -- 1266
+< -- 8589
++ -- 8572
+- -- 195
+* -- 11346
+:= -- 32171
+add.period$ -- 356
+call.type$ -- 89
+change.case$ -- 1623
 chr.to.int$ -- 0
-cite$ -- 177
-duplicate$ -- 4235
-empty$ -- 6467
-format.name$ -- 2056
-if$ -- 31322
+cite$ -- 179
+duplicate$ -- 4293
+empty$ -- 6546
+format.name$ -- 2088
+if$ -- 31689
 int.to.chr$ -- 0
-int.to.str$ -- 268
+int.to.str$ -- 271
 missing$ -- 0
-newline$ -- 2244
-num.names$ -- 704
-pop$ -- 2521
+newline$ -- 2272
+num.names$ -- 712
+pop$ -- 2547
 preamble$ -- 1
-purify$ -- 444
+purify$ -- 450
 quote$ -- 0
-skip$ -- 10502
+skip$ -- 10624
 stack$ -- 0
-substring$ -- 9198
-swap$ -- 2596
-text.length$ -- 278
+substring$ -- 9297
+swap$ -- 2632
+text.length$ -- 282
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 7040
+type$ -- 7120
 warning$ -- 1
-while$ -- 804
+while$ -- 818
 width$ -- 0
-write$ -- 2730
-(There were 2 warnings)
+write$ -- 2767
+(There was 1 warning)
