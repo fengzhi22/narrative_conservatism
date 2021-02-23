@@ -147,37 +147,6 @@ Baiman, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Baker%
-, Collins%
-\BCBL {}\ \BBA {} Reitenga%
-}{%
-Baker%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2003}}%
-}]{%
-bakerStockOptionCompensation2003}
-\APACinsertmetastar {%
-bakerStockOptionCompensation2003}%
-\begin{APACrefauthors}%
-Baker, T.%
-, Collins, D.%
-\BCBL {}\ \BBA {} Reitenga, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{{\APACmonth{10}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Stock {{Option Compensation}} and {{Earnings Management
-  Incentives}}} {Stock {{Option Compensation}} and {{Earnings Management
-  Incentives}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting, Auditing \&
-  Finance}{18}{4}{557--582}.
-\newblock
-\begin{APACrefDOI} \doi{10.1177/0148558X0301800408} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Ball%
 \ \BBA {} Shivakumar%
 }{%
@@ -204,36 +173,6 @@ Ball, R.%
 \APACjournalVolNumPages{Journal of Accounting and Economics}{39}{1}{83--128}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.jacceco.2004.04.001} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Bamber%
-, Bamber%
-\BCBL {}\ \BBA {} Schoderbek%
-}{%
-Bamber%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {1993}}%
-}]{%
-bamberAuditStructureOther1993}
-\APACinsertmetastar {%
-bamberAuditStructureOther1993}%
-\begin{APACrefauthors}%
-Bamber, E\BPBI M.%
-, Bamber, L\BPBI S.%
-\BCBL {}\ \BBA {} Schoderbek, M\BPBI P.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1993}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Audit {{Structure}} and {{Other Determinants}} of
-  {{Audit Report Lag}}: {{An Empirical Analysis}}} {Audit {{Structure}} and
-  {{Other Determinants}} of {{Audit Report Lag}}: {{An Empirical
-  Analysis}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{AUDITING: A Journal of Practice \&
-  Theory}{12}{1}{1--23}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -354,30 +293,32 @@ Beaver, W\BPBI H.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Bloomfield%
+Bird%
+\ \BBA {} Karolyi%
 }{%
-Bloomfield%
+Bird%
+\ \BBA {} Karolyi%
 }{%
-{\protect \APACyear {2008}}%
+{\protect \APACyear {2016}}%
 }]{%
-bloomfieldDiscussionAnnualReport2008}
+birdInstitutionalInvestorsDemand2016}
 \APACinsertmetastar {%
-bloomfieldDiscussionAnnualReport2008}%
+birdInstitutionalInvestorsDemand2016}%
 \begin{APACrefauthors}%
-Bloomfield, R.%
+Bird, A.%
+\BCBT {}\ \BBA {} Karolyi, S\BPBI A.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2008}{{\APACmonth{08}}}{}.
+\APACrefYearMonthDay{2016}{{\APACmonth{12}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Discussion of ``{{Annual}} Report Readability, Current
-  Earnings, and Earnings Persistence''} {Discussion of ``{{Annual}} report
-  readability, current earnings, and earnings persistence''}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Do {{Institutional Investors Demand Public
+  Disclosure}}?} {Do {{Institutional Investors Demand Public
+  Disclosure}}?}{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Accounting and
-  Economics}{45}{2-3}{248--252}.
+\APACjournalVolNumPages{Review of Financial Studies}{29}{12}{3245--3277}.
 \newblock
-\begin{APACrefDOI} \doi{10.1016/j.jacceco.2008.04.002} \end{APACrefDOI}
+\begin{APACrefDOI} \doi{10.1093/rfs/hhw062} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -407,36 +348,6 @@ Brockbank, B\BPBI G.%
 \APACjournalVolNumPages{Accounting Horizons}{32}{2}{163--182}.
 \newblock
 \begin{APACrefDOI} \doi{10.2308/acch-52061} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Bushee%
-, Gow%
-\BCBL {}\ \BBA {} Taylor%
-}{%
-Bushee%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2018}}%
-}]{%
-busheeLinguisticComplexityFirm2018}
-\APACinsertmetastar {%
-busheeLinguisticComplexityFirm2018}%
-\begin{APACrefauthors}%
-Bushee, B\BPBI J.%
-, Gow, I\BPBI D.%
-\BCBL {}\ \BBA {} Taylor, D\BPBI J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{{\APACmonth{03}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Linguistic {{Complexity}} in {{Firm Disclosures}}:
-  {{Obfuscation}} or {{Information}}?} {Linguistic {{Complexity}} in {{Firm
-  Disclosures}}: {{Obfuscation}} or {{Information}}?}{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting Research}{56}{1}{85--121}.
-\newblock
-\begin{APACrefDOI} \doi{10.1111/1475-679X.12179} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1033,37 +944,6 @@ Glosten, L\BPBI R.%
 
 \bibitem [\protect \citeauthoryear {%
 Guay%
-, Samuels%
-\BCBL {}\ \BBA {} Taylor%
-}{%
-Guay%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2016}}%
-}]{%
-guayGuidingFogFinancial2016}
-\APACinsertmetastar {%
-guayGuidingFogFinancial2016}%
-\begin{APACrefauthors}%
-Guay, W.%
-, Samuels, D.%
-\BCBL {}\ \BBA {} Taylor, D.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{{\APACmonth{11}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Guiding through the {{Fog}}: {{Financial}} Statement
-  Complexity and Voluntary Disclosure} {Guiding through the {{Fog}}:
-  {{Financial}} statement complexity and voluntary disclosure}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting and
-  Economics}{62}{2-3}{234--269}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.jacceco.2016.09.001} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Guay%
 \ \BBA {} Verrecchia%
 }{%
 Guay%
@@ -1088,29 +968,6 @@ Guay, W.%
 \APACjournalVolNumPages{Journal of Financial Reporting}{3}{1}{73--92}.
 \newblock
 \begin{APACrefDOI} \doi{10.2308/jfir-52051} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Gunning%
-}{%
-Gunning%
-}{%
-{\protect \APACyear {1952}}%
-}]{%
-gunningTechniqueClearWriting1952}
-\APACinsertmetastar {%
-gunningTechniqueClearWriting1952}%
-\begin{APACrefauthors}%
-Gunning, R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1952}.
-\newblock
-\APACrefbtitle {The {{Technique}} of {{Clear Writing}}} {The {{Technique}} of
-  {{Clear Writing}}}.
-\newblock
-\APACaddressPublisher{{New York, NY}}{{McGraw-Hill International Book Co.}}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1315,64 +1172,6 @@ Khan, M.%
   Economics}{48}{2-3}{132--150}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.jacceco.2009.08.002} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Kim%
-\ \BBA {} Skinner%
-}{%
-Kim%
-\ \BBA {} Skinner%
-}{%
-{\protect \APACyear {2012}}%
-}]{%
-kimMeasuringSecuritiesLitigation2012}
-\APACinsertmetastar {%
-kimMeasuringSecuritiesLitigation2012}%
-\begin{APACrefauthors}%
-Kim, I.%
-\BCBT {}\ \BBA {} Skinner, D\BPBI J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2012}{{\APACmonth{02}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Measuring Securities Litigation Risk} {Measuring
-  securities litigation risk}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting and
-  Economics}{53}{1-2}{290--310}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.jacceco.2011.09.005} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Knechel%
-\ \BBA {} Payne%
-}{%
-Knechel%
-\ \BBA {} Payne%
-}{%
-{\protect \APACyear {2001}}%
-}]{%
-knechelAdditionalEvidenceAudit2001}
-\APACinsertmetastar {%
-knechelAdditionalEvidenceAudit2001}%
-\begin{APACrefauthors}%
-Knechel, W\BPBI R.%
-\BCBT {}\ \BBA {} Payne, J\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2001}{{\APACmonth{03}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Additional {{Evidence}} on {{Audit Report Lag}}}
-  {Additional {{Evidence}} on {{Audit Report Lag}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{AUDITING: A Journal of Practice \&
-  Theory}{20}{1}{137--146}.
-\newblock
-\begin{APACrefDOI} \doi{10.2308/aud.2001.20.1.137} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1715,36 +1514,6 @@ Li, X.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Lo%
-, Ramos%
-\BCBL {}\ \BBA {} Rogo%
-}{%
-Lo%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2017}}%
-}]{%
-loEarningsManagementAnnual2017}
-\APACinsertmetastar {%
-loEarningsManagementAnnual2017}%
-\begin{APACrefauthors}%
-Lo, K.%
-, Ramos, F.%
-\BCBL {}\ \BBA {} Rogo, R.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2017}{{\APACmonth{02}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Earnings {{Management}} and {{Annual Report
-  Readability}}} {Earnings {{Management}} and {{Annual Report
-  Readability}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting and Economics}{63}{1}{1--25}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.jacceco.2016.09.002} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Loughran%
 \ \BBA {} McDonald%
 }{%
@@ -1770,32 +1539,6 @@ Loughran, T.%
   and 10-{{Ks}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Journal of Finance}{66}{1}{35--65}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Loughran%
-\ \BBA {} McDonald%
-}{%
-Loughran%
-\ \BBA {} McDonald%
-}{%
-{\protect \APACyear {2014}}%
-}]{%
-loughranMeasuringReadabilityFinancial2014}
-\APACinsertmetastar {%
-loughranMeasuringReadabilityFinancial2014}%
-\begin{APACrefauthors}%
-Loughran, T.%
-\BCBT {}\ \BBA {} McDonald, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2014}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Measuring {{Readability}} in {{Financial Disclosures}}}
-  {Measuring {{Readability}} in {{Financial Disclosures}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{The Journal of Finance}{69}{4}{1643--1671}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1854,34 +1597,6 @@ Marinovic, I.%
 \APACjournalVolNumPages{The RAND Journal of Economics}{47}{4}{822--856}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/1756-2171.12156} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-McAnally%
-, Srivastava%
-\BCBL {}\ \BBA {} Weaver%
-}{%
-McAnally%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2008}}%
-}]{%
-mcanallyExecutiveStockOptions2008}
-\APACinsertmetastar {%
-mcanallyExecutiveStockOptions2008}%
-\begin{APACrefauthors}%
-McAnally, M\BPBI L.%
-, Srivastava, A.%
-\BCBL {}\ \BBA {} Weaver, D\BPBI C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Executive {{Stock Options}}, {{Missed Earnings
-  Targets}}, and {{Earnings Management}}} {Executive {{Stock Options}},
-  {{Missed Earnings Targets}}, and {{Earnings Management}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{The Accounting Review}{83}{1}{185--216}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2316,33 +2031,6 @@ Teoh, S\BPBI H.%
   equity offerings}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Financial Economics}{50}{1}{63--99}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Tetlock%
-}{%
-Tetlock%
-}{%
-{\protect \APACyear {2007}}%
-}]{%
-tetlockGivingContentInvestor2007}
-\APACinsertmetastar {%
-tetlockGivingContentInvestor2007}%
-\begin{APACrefauthors}%
-Tetlock, P\BPBI C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2007}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Giving {{Content}} to {{Investor Sentiment}}: {{The
-  Role}} of {{Media}} in the {{Stock Market}}} {Giving {{Content}} to
-  {{Investor Sentiment}}: {{The Role}} of {{Media}} in the {{Stock
-  Market}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{The Journal of Finance}{62}{3}{1139--1168}.
-\newblock
-\begin{APACrefDOI} \doi{10.1111/j.1540-6261.2007.01232.x} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

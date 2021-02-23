@@ -3,9 +3,10 @@
     \begin{tabular}{lcc}
     \multicolumn{3}{c}{\textbf{Table 1. Sample Selection Process}} \\ 
       & &  \\
+    \begin{comment}
     \multicolumn{3}{c}{10-Q} \\
-     &   \multicolumn{2}{c}{Numer of observations}\\
-      & &  \\
+    &   \multicolumn{2}{c}{Numer of observations}\\
+    & &  \\
     Retrieved from EDGAR & & 575,579 \\
     After merging with COMP and CRSP data & & 302,343 \\
     (-) Number of obs. from utility and financial firms & 82,498 & \\
@@ -20,23 +21,26 @@
     (-) Number of obs. that contain missing EARN, STD\_EARN and AF & 14,770 & \\
     \bottomrule
     Full 10-Q sample & & \textbf{115,980} \\
-      & &  \\
-    \multicolumn{3}{c}{8-K} \\
+    & &  \\
+    \end{comment}
+    
      &   \multicolumn{2}{c}{Numer of observations}\\
       & &  \\
-    Retrieved from EDGAR & & 1,489,626 \\
-    After merging and matching with COMP and CRSP data  & & 442,611 \\
-    (-) Number of obs. from utility and financial firms & 112,739 & \\
+    Retrieved from EDGAR & & 1,540,911 \\
+    After matching with Compustat and CRSP data  & & 442,575 \\
+    (-) Number of obs. from utility and financial firms & 112,729 & \\
     (-) Number of firm-quarters with missing values in SIC, SIZE, MTB, LEV, & & \\
     \hspace{5mm}or with non-positive total assets or book value of equity or common shares outstanding, & & \\
-    \hspace{5mm}or with common share price less than \$1 & 48,230 & \\
-    (-) Number of obs. with total words less than 1\% percentile (133 words) & 2,776 & \\
-    (-) Number of obs. that are reversals of previous news day & 5,132 & \\
+    \hspace{5mm}or with common share price less than \$1 & 46,865 & \\
+    (-) Number of obs. with total words less than 1\% percentile (133 words) & 2,785 & \\
+    (-) Number of obs. that are reversals of previous news day & 5,160 & \\
+    (-) Number of obs. with negative or larger than 99\% percentile TLAG  & 154,861 & \\
     \bottomrule
-    After dropping obs. with missing values in key variables and screening  & & 273,734 \\
-    After dropping obs. with negative or larger than 99\% percentile TLAG &  &  \\
-    (Full 8-K sample)& & \textbf{119,615} \\
-    After dropping obs. with TLAG larger than four (five) days after (before) the 8-K reform &  & \\
-    (Restricted 8-K sample) &  & \textbf{40,700} 
+    After dropping obs. with missing values in key variables and screening  & & 120,175 \\
+    After merging with IBES and Compustat Segment data (Full 8-K sample) & & \textbf{83,464}  \\
+    \begin{comment}
+    	After dropping obs. with TLAG larger than four (five) days after (before) the 8-K reform &  & \\
+    	(Restricted 8-K sample) &  & \textbf{40,700} 
+    \end{comment}
     \end{tabular}%
 \end{table}%

@@ -4,61 +4,8 @@
 \input{../output/table/appa}
 
 \newpage
-\subsection*{Appendix B: Variable Definition}
+\subsection*{Appendix B: 8-K Matching Cases}
 \label{appb}
-\subsubsection*{Textual Variables}
-\begin{table}[H]
-	\centering
-	\begin{tabular}{lp{15cm}p{15cm}}
-		\midrule
-		\midrule
-		\textbf{Variable} & \textbf{Definition} \\
-		NW & Number of words, defined as the natural logarithm of one plus the count of total words (nw)\\
-		nw & Raw count of total words\\
-		TONE & Tone, defined as the number of net positive words per thousand total words, calculated as the total number of positive words minus the sum of total number of negative words and the total number of negations, and multiply the previous result by one thousand\\
-		TLAG & Time lag, defined as the number of natural days elapsed between the news release date and the document filing date. In 10-Q sample, it is the number of natural days elapsed between the fiscal quarter-end date and the 10-Q filing date in EDGAR. In 8-K sample, it is the number of natural days elapsed between the 8-K filing date and its nearest news day, defined as a date whose change in daily return ($\Delta$DRET) is three times larger than the firm’s average change in daily return over the calendar year\\
-		READ & Gunning fog index, calculated as the average words per sentence plus the percent of complex words and multiply the sum by 0.4 \\
-%		ABTONE & Abnormal tone, calculated as the residual of the cross-sectional expected tone model (Equation 3)\\
-		N8K & Number of 8-K filings in one reporting period date \\
-		NITEM & Number of 8-K items in one reporting period date \\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
-
-\subsubsection*{Financial Variables}
-\begin{table}[H]
-	\centering
-	\begin{tabular}{lp{15cm}p{15cm}}
-		\midrule
-		\midrule
-		\textbf{Variable} & \textbf{Definition} \\
-		EARN & Quarterly earnings, defined as quarterly earnings before extraordinary items (Compustat data item IBQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
-%		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged quarterly earnings \\
-		LEV & Leverage ratio, defined as beginning-of-quarter short term debt (Compustat data item DLCQ) plus beginning-of-quarter long term debt (Compustat data item DLTTQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
-		MTB & Market-to-book ratio, defined as beginning-of-quarter market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) divided by beginning-of-quarter book value of equity (Compustat data item CEQQ) \\
-		SIZE & Firm size, defined as the natural logarithm of market value of equity at the beginning of the quarter, calculated as natural logarithm of beginning-of-quarter common share price (Compustat data item PRCCQ) times beginning-of-quarter common shares outstanding (Compustat data item CSHOQ) \\
-		QRET & Quarterly market-adjusted stock return, defined as buy-and-hold stock return (CRSP data item RET) over the fiscal quarter adjusted by the value-weighted stock return (CRSP data item VWRETD) over the same period \\
-		DRET & Daily market-adjusted stock return, defined as daily buy-and-hold stock return (CRSP data item RET) adjusted by the daily value-weighted stock return (CRSP data item VWRETD)\\
-		$\Delta$DRET & Change in daily market-adjusted stock return (DRET), defined as current daily market-adjusted stock return minus one-day-lagged daily market-adjusted stock return \\
-		NEG & Indicator for negative quarterly return, which is set to 1 when market-adjusted stock return (QRET) is negative and 0 otherwise \\
-		BN & Indicator for daily bad news, which is set to 1 (0) if the negative (positive) change in daily market-adjusted stock return ($\Delta$DRET) is three times larger than the firm’s average decrease (increase) in daily return over the calendar year.\\
-		AF & Analyst forecast, defined as analysts' mean consensus forecast for one-year-ahead earnings per share, scaled by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
-		AFE & Analyst forecast error, defined as I/B/E/S earnings per share minus the median of the most recent analysts' forecasts, deflated by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
-		BUSSEG & Business segment, defined as the natural logarithm of one plus number of business segments, or one if item is missing from Compustat\\
-		GEOSEG & Geographical segment, defined as the natural logarithm of one plus number of geographical segments, or one if item is missing from Compustat\\
-		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the firm's first entry date in CRSP\\
-		STD\_EARN & Standard deviation of quarterly earnings (EARN) of a firm over the last five fiscal quarters\\
-		STD\_QRET & Standard deviation of monthly market-adjusted stock return of a firm over all months in the fiscal quarter\\
-%		LOSS & Indicator for loss, which is set to 1 when quaterly earnings (EARN) is negative and 0 otherwise\\
-		\bottomrule
-		\bottomrule
-	\end{tabular}%
-\end{table}%
-
-\newpage
-\subsection*{Appendix C: 8-K Matching Cases}
-\label{appc}
 We check whether the 8-K filings are responses to their matched news releases, as proxied by large market movements. First, we randomly pick 20 good and bad news events. Next, we read the 8-Ks matched to the news and check if the corporate events depicted in the 8-Ks are in line with the market movements both in terms of direction and magnitude. We find that the 8-K matching cases make economic sense overall. See selected 8-K matching cases below.
 \begin{center}
 	\textbf{Good News}
@@ -91,6 +38,64 @@ Biostar Pharmaceuticals, Inc. (CIK = 0001418133) experienced a significant drop 
 My Size, Inc. (CIK = 0001211805) experienced a significant drop in market-adjusted daily stock returns ($\Delta$DRET = -1.86) on February 14 of 2017. On February 17 of 2017, the company filed an 8-K with ending reporting period on February 14 of 2017, which contained Item 8.01: Other Events and Item 9.01: Financial Statements and Exhibits. This 8-K stated that ``On February 14, 2017, the Company received a verbal request from the Tel Aviv Stock Exchange to clarify to the public the difficulties which hindered the possibility of transferring the Company's shares from market to market. In response to such request, the Company filed a report which contained the following statement..."
 
 \newpage
+\subsection*{Appendix C: Variable Definition}
+\label{appc}
+\subsubsection*{Textual Variables}
+\begin{table}[H]
+	\centering
+	\begin{tabular}{lp{15cm}p{15cm}}
+		\midrule
+		\midrule
+		\textbf{Variable} & \textbf{Definition} \\
+		tlag & Number of natural days elapsed between the 8-K filing date and its nearest news day\\
+		TLAG & Time lag, calculated as log(1+tlag)\\
+		TONE & Tone, defined as the number of net positive words per thousand total words, calculated as the total number of positive words minus total number of negative words, minus the total number of negations, and multiply the previous result by one thousand\\
+		nw & Raw count of total words of all 8-K filings in one reporting day \\
+		NW & Number of words, calculated as log(1+nw)\\
+		n8k & Raw count of total number of 8-K filings in one reporting day \\
+		N8K & Number of 8-K filings, calculated as log(1+n8k) \\
+		nitem & Raw count of total number of 8-K items in one reporting day \\
+		NITEM & Number of 8-K items, calculated as log(1+nitem) \\
+		nexhibit & Raw count of total number of exhibits in all 8-K filings in one reporting day \\
+		NEXHIBIT & Number of 8-K exhibits, calculated as log(1+nexhibit) \\
+		ngraph & Raw count of total number of graphs in all 8-K filings in one reporting day \\
+		NGRAPH & Number of 8-K graphs in one reporting day, calculated as log(1+ngraph) \\
+		\bottomrule
+		\bottomrule
+	\end{tabular}%
+\end{table}%
+
+\subsubsection*{Financial Variables}
+\begin{table}[H]
+	\centering
+	\begin{tabular}{lp{15cm}p{15cm}}
+		\midrule
+		\midrule
+		\textbf{Variable} & \textbf{Definition} \\
+		EARN & Quarterly earnings, defined as quarterly earnings before extraordinary items (Compustat data item IBQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
+%		$\Delta$EARN & Change in quarterly earnings, defined as current quarterly earnings minus one-quarter-lagged quarterly earnings \\
+		LEV & Leverage ratio, defined as beginning-of-quarter short term debt (Compustat data item DLCQ) plus beginning-of-quarter long term debt (Compustat data item DLTTQ) scaled by beginning-of-quarter total assets (Compustat data item ATQ) \\
+		MTB & Market-to-book ratio, defined as beginning-of-quarter market value of equity, calculated as common share price (Compustat data item PRCCQ) times common shares outstanding (Compustat data item CSHOQ) divided by beginning-of-quarter book value of equity (Compustat data item CEQQ) \\
+		SIZE & Firm size, defined as the natural logarithm of market value of equity at the beginning of the quarter, calculated as natural logarithm of beginning-of-quarter common share price (Compustat data item PRCCQ) times beginning-of-quarter common shares outstanding (Compustat data item CSHOQ) \\
+		QRET & Quarterly market-adjusted stock return, defined as buy-and-hold stock return (CRSP data item RET) over the fiscal quarter adjusted by the value-weighted stock return (CRSP data item VWRETD) over the same period \\
+		DRET & Daily market-adjusted stock return, defined as daily buy-and-hold stock return (CRSP data item RET) adjusted by the daily value-weighted stock return (CRSP data item VWRETD)\\
+		$\Delta$DRET & Change in daily market-adjusted stock return (DRET), defined as current daily market-adjusted stock return minus one-day-lagged daily market-adjusted stock return \\
+		NEG & Indicator for negative quarterly return, which is set to 1 when market-adjusted stock return (QRET) is negative and 0 otherwise \\
+		BN & Indicator for daily bad news, which is set to 1 (0) if the negative (positive) change in daily market-adjusted stock return ($\Delta$DRET) is three times larger than the firm’s average decrease (increase) in daily return over the calendar year.\\
+		AF & Analyst forecast, defined as analysts' mean consensus forecast for one-year-ahead earnings per share, scaled by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
+		AFE & Analyst forecast error, defined as I/B/E/S earnings per share minus the median of the most recent analysts' forecasts, deflated by stock price per share at the end of the fiscal quarter (Compustat data item PRCCQ)\\
+		BUSSEG & Business segment, defined as the natural logarithm of one plus number of business segments, or one if item is missing from Compustat\\
+		GEOSEG & Geographical segment, defined as the natural logarithm of one plus number of geographical segments, or one if item is missing from Compustat\\
+%		AGE & Firm age, defined as the natural logarithm of one plus number of days elapsed since the firm's first entry date in CRSP\\
+		STD\_EARN & Standard deviation of quarterly earnings (EARN) of a firm over the last five fiscal quarters\\
+%		STD\_QRET & Standard deviation of monthly market-adjusted stock return of a firm over all months in the fiscal quarter\\
+%		LOSS & Indicator for loss, which is set to 1 when quaterly earnings (EARN) is negative and 0 otherwise\\
+		\bottomrule
+		\bottomrule
+	\end{tabular}%
+\end{table}%
+
+\newpage
 \subsection*{Appendix D: 10-Q and 8-K parsing}
 \setcounter{footnote}{0}
 \label{appd}
@@ -100,7 +105,7 @@ We develop a Python program to automatically parse, process and retrieve 10-K an
 
 2. Filter all 10-Q and 8-K filings\footnote{Our analyses exclude amendments such as 10-Q/A and 8-K/A} from EDGAR master index files and obtain the url of the \textit{filing detail} webpage\footnote{One example of filing detail webpage is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/0000320193-20-000050-index.html}} for each of the 10-Q and 8-K filings. 
 
-3. Extract (a) the identification information\footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and (b) the url of report in HTM/TXT format\footnote{One example of report in HTM format is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 the SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. Normally all filings in XML format are also available in HTM format. We manually checked 100 random filings that are in XML format, and all of them are also available in HTM format with the same content. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exhibits and press release etc. However, the HTM files only contain the main report. We mainly focus on the HTM files other than the TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
+3. Extract (a) the identification information\footnote{For example cik, accession number, reporting period, filing date and 8-K items etc.} and (b) the url of report in HTM/TXT format\footnote{One example of report in HTM format is available at \url{https://www.sec.gov/Archives/edgar/data/320193/000032019320000050/a8-kq220203282020.htm}. We first search for url of main report in HTM format. If HTM format main report is not available, then we extract the url of TXT format full report. Each EDGAR filing can be accessed in three formats at maximum: regular text (*.txt), web pages (*.htm) and eXtensible Business Reporting Language, also known as XBRL (*.xml). Early filings in EDGAR are only in TXT format. Later filings extend to HTM format, and in 2009 the SEC adopted the XBRL for all corporate filings \cite{secFinalRuleInteractive2009}. Therefore, current existing EDGAR filings all contain a TXT file, and depending on their filing date and company reporting policy they may or may not contain HTM or XML files. All filings in XML format are also available in HTM format. The TXT files usually contain not only the main report, but also all other additional filing materials (if any) such as graphics, exhibits and press release etc. However, the HTM files only contain the main report. We mainly focus on the HTM files other than the TXT files because the former naturally filters out less relevant information, and provides a cleaner textual content of the essential information. XML files are not parsed due to low tractability. } from the \textit{filing detail} webpage for each of the 10-Q and 8-K filings. 
 
 4. Parse and cleanse\footnote{Cleansing steps are: (a) delete nondisplay section; (b) delete all tables that contains more than 4 numbers; and (c) delete all HTML tags} all 10-Q and 8-K filings with url of HTM/TXT format report, using \textit{beautiful soup}\footnote{Beautiful soup package documentation available at \url{https://www.crummy.com/software/BeautifulSoup/bs4/doc/}} package. 
 
@@ -111,6 +116,6 @@ We develop a Python program to automatically parse, process and retrieve 10-K an
 7. Calculate the Gunning fog index using \textit{textstat}\footnote{textstat package documentation available at \url{https://github.com/shivam5992/textstat}} package. 
 \newline
 
-Python scripts and data are available online via Github:
+Python scripts and processed datasets are available online via Github:
 
 \url{https://github.com/fengzhi22/narrative_conservatism}

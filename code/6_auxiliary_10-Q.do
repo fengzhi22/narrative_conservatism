@@ -1,5 +1,6 @@
 global fin_controls "SIZE MTB LEV"
 global lit_controls "LNASSETS SG SKEW_RET STD_RET TURNOVER"
+global abt_controls_8k "EARN STD_EARN BUSSEG GEOSEG AF AFE"
 global abt_controls "EARN STD_RET STD_EARN AGE BUSSEG GEOSEG AF AFE"
 global axy_controls "C_SCORE SEO_HIGH BLKSHVALSUM_HIGH LIT_HIGH"
 
@@ -284,18 +285,20 @@ import delimited "..\filings\crsp_comp_edgar_section.csv", case(preserve) string
 
 **** Variable Creation
 gen RET_NEG=RET*NEG
+replace NW_MDA = NW_MDA*(-1)
+replace NW_NOTE = NW_NOTE*(-1)
 
 **** Regressions
 
-areg NW_MDA i.cquarter RET NEG RET_NEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\Table_5.xml", replace excel ctitle(NW_MDA) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg NW_NOTE i.cquarter RET NEG RET_NEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\Table_5.xml", append excel ctitle(NW_NOTE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-
-areg TONE_MDA i.cquarter RET NEG RET_NEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
-outreg2 using "..\output\Table_5.xml", append excel ctitle(TONE_MDA) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
-areg TONE_NOTE i.cquarter RET NEG RET_NEG $fin_controls $abt_controls, absorb(gvkey) cluster(SIC)
+areg TONE_MDA i.cquarter RET NEG RET_NEG $fin_controls $abt_controls_8k, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_5.xml", replace excel ctitle(TONE_MDA) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg TONE_NOTE i.cquarter RET NEG RET_NEG $fin_controls $abt_controls_8k, absorb(gvkey) cluster(SIC)
 outreg2 using "..\output\Table_5.xml", append excel ctitle(TONE_NOTE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+
+areg NW_MDA i.cquarter RET NEG RET_NEG $fin_controls $abt_controls_8k, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_5.xml", append excel ctitle(NW_MDA) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
+areg NW_NOTE i.cquarter RET NEG RET_NEG $fin_controls $abt_controls_8k, absorb(gvkey) cluster(SIC)
+outreg2 using "..\output\Table_5.xml", append excel ctitle(NW_NOTE) addtext(Year-quarter FE, YES, Firm FE, YES, Industry clustered SE, YES) dec(3) tdec(2) drop(i.cquarter) stats(coef tstat) adjr2
 
 ****************************************************************************************
 *********** TABLE 9: SEO, stock option grant and litigation ****************************
