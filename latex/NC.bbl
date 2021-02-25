@@ -705,40 +705,10 @@ Field, L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-J.~Francis%
-, Philbrick%
-\BCBL {}\ \BBA {} Schipper%
-}{%
-J.~Francis%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {1994}}%
-}]{%
-francisShareholderLitigationCorporate1994}
-\APACinsertmetastar {%
-francisShareholderLitigationCorporate1994}%
-\begin{APACrefauthors}%
-Francis, J.%
-, Philbrick, D.%
-\BCBL {}\ \BBA {} Schipper, K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1994}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Shareholder {{Litigation}} and {{Corporate
-  Disclosures}}} {Shareholder {{Litigation}} and {{Corporate
-  Disclosures}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting Research}{32}{2}{137--164}.
-\newblock
-\begin{APACrefDOI} \doi{10.2307/2491279} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-J\BPBI R.~Francis%
+Francis%
 \ \BBA {} Martin%
 }{%
-J\BPBI R.~Francis%
+Francis%
 \ \BBA {} Martin%
 }{%
 {\protect \APACyear {2010}}%
@@ -968,33 +938,6 @@ Guay, W.%
 \APACjournalVolNumPages{Journal of Financial Reporting}{3}{1}{73--92}.
 \newblock
 \begin{APACrefDOI} \doi{10.2308/jfir-52051} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Harris%
-}{%
-Harris%
-}{%
-{\protect \APACyear {1998}}%
-}]{%
-harrisAssociationCompetitionManagers1998}
-\APACinsertmetastar {%
-harrisAssociationCompetitionManagers1998}%
-\begin{APACrefauthors}%
-Harris, M\BPBI S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1998}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The {{Association}} between {{Competition}} and
-  {{Managers}}' {{Business Segment Reporting Decisions}}} {The {{Association}}
-  between {{Competition}} and {{Managers}}' {{Business Segment Reporting
-  Decisions}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting Research}{36}{1}{111}.
-\newblock
-\begin{APACrefDOI} \doi{10.2307/2491323} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1411,9 +1354,9 @@ Leuz, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-F.~Li%
+Li%
 }{%
-F.~Li%
+Li%
 }{%
 {\protect \APACyear {2008}}%
 }]{%
@@ -1438,9 +1381,9 @@ Li, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-F.~Li%
+Li%
 }{%
-F.~Li%
+Li%
 }{%
 {\protect \APACyear {2010}}%
 }]{%
@@ -1464,9 +1407,9 @@ Li, F.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-F.~Li%
+Li%
 }{%
-F.~Li%
+Li%
 }{%
 {\protect \APACyear {2011}}%
 }]{%
@@ -1485,32 +1428,6 @@ Li, F.%
   Disclosures}}: {{A Survey}} of the {{Literature}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Accounting Literature}{29}{}{143--165}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-X.~Li%
-}{%
-X.~Li%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-liImpactsProductMarket2010}
-\APACinsertmetastar {%
-liImpactsProductMarket2010}%
-\begin{APACrefauthors}%
-Li, X.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{{\APACmonth{09}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The Impacts of Product Market Competition on the
-  Quantity and Quality of Voluntary Disclosures} {The impacts of product market
-  competition on the quantity and quality of voluntary disclosures}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Review of Accounting Studies}{15}{3}{663--711}.
-\newblock
-\begin{APACrefDOI} \doi{10.1007/s11142-010-9129-0} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1539,35 +1456,6 @@ Loughran, T.%
   and 10-{{Ks}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{The Journal of Finance}{66}{1}{35--65}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Loughran%
-\ \BBA {} McDonald%
-}{%
-Loughran%
-\ \BBA {} McDonald%
-}{%
-{\protect \APACyear {2016}}%
-}]{%
-loughranTextualAnalysisAccounting2016}
-\APACinsertmetastar {%
-loughranTextualAnalysisAccounting2016}%
-\begin{APACrefauthors}%
-Loughran, T.%
-\BCBT {}\ \BBA {} McDonald, B.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2016}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Textual {{Analysis}} in {{Accounting}} and {{Finance}}:
-  {{A Survey}}} {Textual {{Analysis}} in {{Accounting}} and {{Finance}}: {{A
-  Survey}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting Research}{54}{4}{1187--1230}.
-\newblock
-\begin{APACrefDOI} \doi{10.1111/1475-679X.12123} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -2055,31 +1943,6 @@ Tottie, G.%
   variation}\ (\BVOL~4).
 \newblock
 \APACaddressPublisher{}{{Academic Press}}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Verrecchia%
-}{%
-Verrecchia%
-}{%
-{\protect \APACyear {1983}}%
-}]{%
-verrecchiaDiscretionaryDisclosure1983}
-\APACinsertmetastar {%
-verrecchiaDiscretionaryDisclosure1983}%
-\begin{APACrefauthors}%
-Verrecchia, R\BPBI E.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1983}{{\APACmonth{01}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Discretionary Disclosure} {Discretionary
-  disclosure}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting and Economics}{5}{}{179--194}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/0165-4101(83)90011-3} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
