@@ -1152,37 +1152,6 @@ Kothari, S\BPBI P.%
 
 \bibitem [\protect \citeauthoryear {%
 Kothari%
-, Ramanna%
-\BCBL {}\ \BBA {} Skinner%
-}{%
-Kothari%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {2010}}%
-}]{%
-kothariImplicationsGAAPAnalysis2010}
-\APACinsertmetastar {%
-kothariImplicationsGAAPAnalysis2010}%
-\begin{APACrefauthors}%
-Kothari, S\BPBI P.%
-, Ramanna, K.%
-\BCBL {}\ \BBA {} Skinner, D\BPBI J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{{\APACmonth{12}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Implications for {{GAAP}} from an Analysis of Positive
-  Research in Accounting} {Implications for {{GAAP}} from an analysis of
-  positive research in accounting}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting and
-  Economics}{50}{2-3}{246--286}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.jacceco.2010.09.003} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Kothari%
 , Shu%
 \BCBL {}\ \BBA {} Wysocki%
 }{%
@@ -1210,32 +1179,6 @@ Kothari, S\BPBI P.%
 \APACjournalVolNumPages{Journal of Accounting Research}{47}{1}{241--276}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1475-679X.2008.00318.x} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-LaFond%
-\ \BBA {} Watts%
-}{%
-LaFond%
-\ \BBA {} Watts%
-}{%
-{\protect \APACyear {2008}}%
-}]{%
-lafondInformationRoleConservatism2008}
-\APACinsertmetastar {%
-lafondInformationRoleConservatism2008}%
-\begin{APACrefauthors}%
-LaFond, R.%
-\BCBT {}\ \BBA {} Watts, R\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The {{Information Role}} of {{Conservatism}}} {The
-  {{Information Role}} of {{Conservatism}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{The Accounting Review}{83}{2}{447--478}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1351,33 +1294,6 @@ Leuz, C.%
   Disclosure}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Accounting Research}{38}{}{91--124}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Li%
-}{%
-Li%
-}{%
-{\protect \APACyear {2008}}%
-}]{%
-liAnnualReportReadability2008}
-\APACinsertmetastar {%
-liAnnualReportReadability2008}%
-\begin{APACrefauthors}%
-Li, F.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{{\APACmonth{08}}}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Annual {{Report Readability}}, {{Current Earnings}}, and
-  {{Earnings Persistence}}} {Annual {{Report Readability}}, {{Current
-  Earnings}}, and {{Earnings Persistence}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting and
-  Economics}{45}{2-3}{221--247}.
-\newblock
-\begin{APACrefDOI} \doi{10.1016/j.jacceco.2008.02.003} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1508,6 +1424,31 @@ Niessner, M.%
   {Strategic {{Disclosure Timing}} and {{Insider Trading}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Working Paper}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nikolaev%
+}{%
+Nikolaev%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+nikolaevDebtCovenantsAccounting2010}
+\APACinsertmetastar {%
+nikolaevDebtCovenantsAccounting2010}%
+\begin{APACrefauthors}%
+Nikolaev, V\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Debt {{Covenants}} and {{Accounting Conservatism}}}
+  {Debt {{Covenants}} and {{Accounting Conservatism}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{48}{1}{51--89}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1475-679X.2009.00359.x} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1970,32 +1911,6 @@ Watts, R\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Watts%
-\ \BBA {} Zimmerman%
-}{%
-Watts%
-\ \BBA {} Zimmerman%
-}{%
-{\protect \APACyear {1986}}%
-}]{%
-wattsPositiveAccountingTheory1986}
-\APACinsertmetastar {%
-wattsPositiveAccountingTheory1986}%
-\begin{APACrefauthors}%
-Watts, R\BPBI L.%
-\BCBT {}\ \BBA {} Zimmerman, J\BPBI L.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{1986}.
-\newblock
-\APACrefbtitle {Positive {{Accounting Theory}}} {Positive {{Accounting
-  Theory}}}.
-\newblock
-\APACaddressPublisher{{Englewood Cliffs, NJ}}{{Prentice-Hall}}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Yermack%
 }{%
 Yermack%
@@ -2019,6 +1934,32 @@ Yermack, D.%
 \APACjournalVolNumPages{The Journal of Finance}{52}{2}{449--476}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/j.1540-6261.1997.tb04809.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zhang%
+}{%
+Zhang%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+zhangContractingBenefitsAccounting2008}
+\APACinsertmetastar {%
+zhangContractingBenefitsAccounting2008}%
+\begin{APACrefauthors}%
+Zhang, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{{\APACmonth{03}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Contracting Benefits of Accounting Conservatism to
+  Lenders and Borrowers} {The contracting benefits of accounting conservatism
+  to lenders and borrowers}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting and Economics}{45}{1}{27--54}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.jacceco.2007.06.002} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
