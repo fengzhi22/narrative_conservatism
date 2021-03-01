@@ -1,62 +1,10 @@
-This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: NC.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: NC.aux
 The style file: apacite.bst
 A level-1 auxiliary file: Figure.aux
 A level-1 auxiliary file: Table.aux
 A level-1 auxiliary file: Appendix.aux
 A level-1 auxiliary file: OA.aux
-Reallocating 'glb_str_end' (item size: 4) to 20 items.
-Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
-Reallocating 'global_strs' (item size: 1) to 4000000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
-Reallocating 'wiz_functions' (item size: 4) to 9000 items.
-Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: NC.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
 Warning--No journal in eyPointNowTime2012
-You've used 71 entries,
-            6951 wiz_defined-function locations,
-            1737 strings with 25582 characters,
-and the built_in function-call counts, 135255 in all, are:
-= -- 16507
-> -- 994
-< -- 6956
-+ -- 6886
-- -- 159
-* -- 9087
-:= -- 25924
-add.period$ -- 284
-call.type$ -- 71
-change.case$ -- 1299
-chr.to.int$ -- 0
-cite$ -- 143
-duplicate$ -- 3313
-empty$ -- 5180
-format.name$ -- 1618
-if$ -- 25203
-int.to.chr$ -- 0
-int.to.str$ -- 217
-missing$ -- 0
-newline$ -- 1805
-num.names$ -- 568
-pop$ -- 2047
-preamble$ -- 1
-purify$ -- 360
-quote$ -- 0
-skip$ -- 8446
-stack$ -- 0
-substring$ -- 7429
-swap$ -- 2040
-text.length$ -- 228
-text.prefix$ -- 0
-top$ -- 1
-type$ -- 5680
-warning$ -- 1
-while$ -- 620
-width$ -- 0
-write$ -- 2188
 (There was 1 warning)

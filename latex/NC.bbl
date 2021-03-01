@@ -1427,31 +1427,6 @@ Niessner, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Nikolaev%
-}{%
-Nikolaev%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-nikolaevDebtCovenantsAccounting2010}
-\APACinsertmetastar {%
-nikolaevDebtCovenantsAccounting2010}%
-\begin{APACrefauthors}%
-Nikolaev, V\BPBI V.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Debt {{Covenants}} and {{Accounting Conservatism}}}
-  {Debt {{Covenants}} and {{Accounting Conservatism}}}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Journal of Accounting Research}{48}{1}{51--89}.
-\newblock
-\begin{APACrefDOI} \doi{10.1111/j.1475-679X.2009.00359.x} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Petersen%
 }{%
 Petersen%
@@ -1736,6 +1711,33 @@ Segal, B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Sivakumar%
+\ \BBA {} Waymire%
+}{%
+Sivakumar%
+\ \BBA {} Waymire%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+sivakumarRailways2003}
+\APACinsertmetastar {%
+sivakumarRailways2003}%
+\begin{APACrefauthors}%
+Sivakumar, K.%
+\BCBT {}\ \BBA {} Waymire, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Enforcable Accounting Rules and Income Measurement by
+  Early 20th Century Railroads} {Enforcable accounting rules and income
+  measurement by early 20th century railroads}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Accounting Research}{41}{2}{397--432}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Skinner%
 }{%
 Skinner%
@@ -1892,7 +1894,7 @@ Watts%
 Watts%
 }{%
 {\protect \APACyear {2003}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
 wattsConservatismAccountingPart2003}
 \APACinsertmetastar {%
 wattsConservatismAccountingPart2003}%
@@ -1901,13 +1903,37 @@ Watts, R\BPBI L.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2003}{}{}.
+\APACrefYearMonthDay{2003{\protect \BCnt {1}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Conservatism in {{Accounting Part I}}: {{Explanations}}
   and {{Implications}}} {Conservatism in {{Accounting Part I}}:
   {{Explanations}} and {{Implications}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Accounting Horizons}{17}{3}{207--221}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Watts%
+}{%
+Watts%
+}{%
+{\protect \APACyear {2003}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+wattsConservatismAccountingPart2003a}
+\APACinsertmetastar {%
+wattsConservatismAccountingPart2003a}%
+\begin{APACrefauthors}%
+Watts, R\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003{\protect \BCnt {2}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Conservatism in {{Accounting Part II}}: {{Evidence}} and
+  {{Research Opportunities}}} {Conservatism in {{Accounting Part II}}:
+  {{Evidence}} and {{Research Opportunities}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Accounting Horizons; Sarasota}{17}{4}{287--301}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
