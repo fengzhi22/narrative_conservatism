@@ -1719,22 +1719,25 @@ Sivakumar%
 }{%
 {\protect \APACyear {2003}}%
 }]{%
-sivakumarRailways2003}
+sivakumarEnforceableAccountingRules2003}
 \APACinsertmetastar {%
-sivakumarRailways2003}%
+sivakumarEnforceableAccountingRules2003}%
 \begin{APACrefauthors}%
 Sivakumar, K.%
 \BCBT {}\ \BBA {} Waymire, G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2003}{}{}.
+\APACrefYearMonthDay{2003}{{\APACmonth{05}}}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Enforcable Accounting Rules and Income Measurement by
-  Early 20th Century Railroads} {Enforcable accounting rules and income
-  measurement by early 20th century railroads}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Enforceable {{Accounting Rules}} and {{Income
+  Measurement}} by {{Early}} 20th {{Century Railroads}}} {Enforceable
+  {{Accounting Rules}} and {{Income Measurement}} by {{Early}} 20th {{Century
+  Railroads}}}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Accounting Research}{41}{2}{397--432}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/1475-679X.00110} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
