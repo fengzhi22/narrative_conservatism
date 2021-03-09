@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  24 NOV 2020 14:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  9 MAR 2021 13:25
 entering extended mode
 **./NC_slides.tex
 (NC_slides.tex
@@ -936,175 +936,175 @@ s.toc) [2
 ] [9
 
 ]
-<eq1.png, id=162, 511.9125pt x 19.87425pt>
+<eq1.png, id=162, 681.29532pt x 42.91031pt>
 File: eq1.png Graphic file (type png)
 <use eq1.png>
-Package pdftex.def Info: eq1.png  used on input line 264.
-(pdftex.def)             Requested size: 223.87138pt x 8.69131pt.
-<eq2.png, id=164, 548.0475pt x 34.32825pt>
-File: eq2.png Graphic file (type png)
-<use eq2.png>
-Package pdftex.def Info: eq2.png  used on input line 264.
-(pdftex.def)             Requested size: 238.79706pt x 14.9578pt.
-<fig1.png, id=165, 386.6445pt x 96.36pt>
+Package pdftex.def Info: eq1.png  used on input line 263.
+(pdftex.def)             Requested size: 320.39525pt x 20.17961pt.
+<fig1.png, id=164, 577.40718pt x 144.54pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 264.
-(pdftex.def)             Requested size: 179.09892pt x 44.63489pt.
+Package pdftex.def Info: fig1.png  used on input line 263.
+(pdftex.def)             Requested size: 256.31717pt x 64.1646pt.
  [10
 
- <./eq1.png> <./eq2.png> <./fig1.png>]
-<tab1.png, id=179, 516.7305pt x 428.19975pt>
+ <./eq1.png> <./fig1.png>]
+<tab1.png, id=176, 791.95876pt x 284.56313pt>
 File: tab1.png Graphic file (type png)
 <use tab1.png>
-Package pdftex.def Info: tab1.png  used on input line 279.
-(pdftex.def)             Requested size: 224.2757pt x 185.85376pt.
+Package pdftex.def Info: tab1.png  used on input line 278.
+(pdftex.def)             Requested size: 320.39525pt x 115.1215pt.
  [11
 
  <./tab1.png>]
-<tab2panA.png, id=189, 513.117pt x 335.45325pt>
+<tab2panA.png, id=186, 619.56468pt x 536.75531pt>
 File: tab2panA.png Graphic file (type png)
 <use tab2panA.png>
-Package pdftex.def Info: tab2panA.png  used on input line 291.
-(pdftex.def)             Requested size: 222.48985pt x 145.45518pt.
+Package pdftex.def Info: tab2panA.png  used on input line 290.
+(pdftex.def)             Requested size: 222.48985pt x 192.74854pt.
  [12
 
  <./tab2panA.png>]
-<tab2panB.png, id=198, 504.08325pt x 252.945pt>
+<tab2panB.png, id=195, 580.41844pt x 640.64343pt>
 File: tab2panB.png Graphic file (type png)
 <use tab2panB.png>
-Package pdftex.def Info: tab2panB.png  used on input line 301.
-(pdftex.def)             Requested size: 222.48985pt x 111.64351pt.
+Package pdftex.def Info: tab2panB.png  used on input line 300.
+(pdftex.def)             Requested size: 188.26346pt x 207.79608pt.
  [13
 
  <./tab2panB.png>]
-<tab2panC.png, id=209, 481.8pt x 504.08325pt>
-File: tab2panC.png Graphic file (type png)
-<use tab2panC.png>
-Package pdftex.def Info: tab2panC.png  used on input line 311.
-(pdftex.def)             Requested size: 205.37926pt x 214.8748pt.
+<tab3.png, id=206, 583.42969pt x 528.47438pt>
+File: tab3.png Graphic file (type png)
+<use tab3.png>
+Package pdftex.def Info: tab3.png  used on input line 309.
+(pdftex.def)             Requested size: 239.60567pt x 217.0307pt.
 
-Overfull \vbox (4.87082pt too high) detected at line 311
+Overfull \vbox (7.02672pt too high) detected at line 309
  []
 
 [14
 
- <./tab2panC.png>]
-<tab3panA.png, id=219, 427.5975pt x 466.74374pt>
-File: tab3panA.png Graphic file (type png)
-<use tab3panA.png>
-Package pdftex.def Info: tab3panA.png  used on input line 320.
-(pdftex.def)             Requested size: 188.26346pt x 205.49606pt.
+ <./tab3.png>]
+<tab3_cont.png, id=216, 739.26187pt x 519.44063pt>
+File: tab3_cont.png Graphic file (type png)
+<use tab3_cont.png>
+Package pdftex.def Info: tab3_cont.png  used on input line 318.
+(pdftex.def)             Requested size: 273.83728pt x 192.41194pt.
  [15
 
- <./tab3panA.png>]
-<tab3panB.png, id=229, 569.7285pt x 475.7775pt>
-File: tab3panB.png Graphic file (type png)
-<use tab3panB.png>
-Package pdftex.def Info: tab3panB.png  used on input line 329.
-(pdftex.def)             Requested size: 256.72147pt x 214.38828pt.
+ <./tab3_cont.png>] [16
 
-Overfull \vbox (4.3843pt too high) detected at line 329
- []
-
-[16
-
- <./tab3panB.png>]
-<tab4panA.png, id=239, 549.85425pt x 379.4175pt>
+]
+<tab4panA.png, id=241, 646.66594pt x 642.90187pt>
 File: tab4panA.png Graphic file (type png)
 <use tab4panA.png>
-Package pdftex.def Info: tab4panA.png  used on input line 338.
-(pdftex.def)             Requested size: 239.60567pt x 165.33475pt.
+Package pdftex.def Info: tab4panA.png  used on input line 343.
+(pdftex.def)             Requested size: 205.37926pt x 204.18283pt.
  [17
 
  <./tab4panA.png>]
-<tab4panB.png, id=249, 489.027pt x 515.526pt>
+<tab4panB.png, id=250, 598.48593pt x 600.74437pt>
 File: tab4panB.png Graphic file (type png)
 <use tab4panB.png>
-Package pdftex.def Info: tab4panB.png  used on input line 347.
-(pdftex.def)             Requested size: 205.37926pt x 216.51158pt.
+Package pdftex.def Info: tab4panB.png  used on input line 352.
+(pdftex.def)             Requested size: 198.53189pt x 199.27292pt.
+ [18
 
-Overfull \vbox (6.5076pt too high) detected at line 347
- []
-
-[18
-
- <./tab4panB.png>] [19
-
-]
-<tab5.png, id=278, 461.92575pt x 496.85625pt>
+ <./tab4panB.png>]
+<tab5.png, id=260, 624.83438pt x 615.80063pt>
 File: tab5.png Graphic file (type png)
 <use tab5.png>
-Package pdftex.def Info: tab5.png  used on input line 373.
-(pdftex.def)             Requested size: 198.53189pt x 213.54546pt.
+Package pdftex.def Info: tab5.png  used on input line 362.
+(pdftex.def)             Requested size: 215.6477pt x 212.52661pt.
 
-Overfull \vbox (3.54147pt too high) detected at line 373
+Overfull \vbox (2.52263pt too high) detected at line 362
  []
 
-[20
+[19
 
  <./tab5.png>]
-<tab6.png, id=287, 567.3195pt x 401.0985pt>
-File: tab6.png Graphic file (type png)
-<use tab6.png>
-Package pdftex.def Info: tab6.png  used on input line 383.
-(pdftex.def)             Requested size: 239.60567pt x 169.40273pt.
- [21
+<tab5_cont.png, id=271, 846.91406pt x 636.12656pt>
+File: tab5_cont.png Graphic file (type png)
+<use tab5_cont.png>
+Package pdftex.def Info: tab5_cont.png  used on input line 372.
+(pdftex.def)             Requested size: 273.83728pt x 205.68066pt.
+ [20
 
- <./tab6.png>]
-<tab7.png, id=297, 557.08125pt x 317.38576pt>
-File: tab7.png Graphic file (type png)
-<use tab7.png>
-Package pdftex.def Info: tab7.png  used on input line 393.
-(pdftex.def)             Requested size: 239.60567pt x 136.50711pt.
- [22
-
- <./tab7.png>]
-<tab8.png, id=307, 410.7345pt x 514.92375pt>
-File: tab8.png Graphic file (type png)
-<use tab8.png>
-Package pdftex.def Info: tab8.png  used on input line 403.
-(pdftex.def)             Requested size: 171.14764pt x 214.56937pt.
-
-Overfull \vbox (4.56538pt too high) detected at line 403
- []
-
-[23
-
- <./tab8.png>]
-<tab9.png, id=317, 548.64975pt x 420.3705pt>
-File: tab9.png Graphic file (type png)
-<use tab9.png>
-Package pdftex.def Info: tab9.png  used on input line 412.
-(pdftex.def)             Requested size: 239.60567pt x 183.5845pt.
- [24
-
- <./tab9.png>] [25
-
-]
-\c@framenumbervorappendix=\count337
- (NC_slides.bbl
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
-
-(E:\MiKTeX\tex/latex/amsfonts\umsa.fd
+ <./tab5_cont.png>]
+<fig2.png, id=281, 905.63344pt x 381.67593pt>
+File: fig2.png Graphic file (type png)
+<use fig2.png>
+Package pdftex.def Info: fig2.png  used on input line 385.
+(pdftex.def)             Requested size: 308.06367pt x 129.83215pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 385
+.
+ (E:\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
-
- (E:\MiKTeX\tex/latex/amsfonts\umsb.fd
+LaTeX Font Info:    Trying to load font information for U+msb on input line 385
+.
+(E:\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 15.
+ut line 385.
 
 (E:\MiKTeX\tex/latex/sansmathaccent\ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-))
+) [21
+
+ <./fig2.png>]
+<tab6.png, id=292, 677.53125pt x 651.93562pt>
+File: tab6.png Graphic file (type png)
+<use tab6.png>
+Package pdftex.def Info: tab6.png  used on input line 395.
+(pdftex.def)             Requested size: 205.37926pt x 197.62148pt.
+
+Overfull \vbox (5.6175pt too high) detected at line 395
+ []
+
+[22
+
+ <./tab6.png>]
+<tab6_cont.png, id=302, 871.00406pt x 634.62094pt>
+File: tab6_cont.png Graphic file (type png)
+<use tab6_cont.png>
+Package pdftex.def Info: tab6_cont.png  used on input line 405.
+(pdftex.def)             Requested size: 273.83728pt x 199.5193pt.
+
+Overfull \vbox (7.51532pt too high) detected at line 405
+ []
+
+[23
+
+ <./tab6_cont.png>]
+<tab7.png, id=312, 698.61pt x 626.34pt>
+File: tab7.png Graphic file (type png)
+<use tab7.png>
+Package pdftex.def Info: tab7.png  used on input line 415.
+(pdftex.def)             Requested size: 205.37926pt x 184.12836pt.
+ [24
+
+ <./tab7.png>]
+<tab7_cont.png, id=322, 856.70062pt x 581.17125pt>
+File: tab7_cont.png Graphic file (type png)
+<use tab7_cont.png>
+Package pdftex.def Info: tab7_cont.png  used on input line 425.
+(pdftex.def)             Requested size: 273.83728pt x 185.76576pt.
+ [25
+
+ <./tab7_cont.png>] [26
+
+]
+\c@framenumbervorappendix=\count337
+
+(NC_slides.bbl
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\translate ' on input line 1.
+
+)
 \tf@nav=\write6
 \openout6 = `NC_slides.nav'.
 
@@ -1114,20 +1114,20 @@ thkerncmss.
 \tf@snm=\write8
 \openout8 = `NC_slides.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 449.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 449.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 481.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 481.
  (NC_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 449.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 449.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 481.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 481.
 Package rerunfilecheck Info: File `NC_slides.out' has not changed.
 (rerunfilecheck)             Checksum: E21732113513EBD5AB4580DE2CF3BD77;317.
  ) 
 Here is how much of TeX's memory you used:
- 19119 strings out of 480930
- 357047 string characters out of 2917961
- 611861 words of memory out of 3000000
- 34426 multiletter control sequences out of 15000+200000
- 540985 words of font info for 54 fonts, out of 3000000 for 9000
+ 19133 strings out of 480930
+ 357246 string characters out of 2917961
+ 611901 words of memory out of 3000000
+ 34435 multiletter control sequences out of 15000+200000
+ 542632 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,797b,583s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{cite.chapmanInformationOverloadDisclosure2019} ha
@@ -1136,11 +1136,29 @@ s been referenced but does not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.carterRelevanceForm8K1999} has been referenced
  but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.loughranTextualAnalysisAccounting2016} has bee
-n referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.skinnerEarningsDisclosuresStockholder1997} has
+ been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.langVoluntaryDisclosureEquity2000} has been re
+ferenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.teohEarningsManagementUnderperformance1998} ha
+s been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.huangToneManagement2014} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.liInformationContentForwardLooking2010} has be
+en referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.davisNumbersMeasuringInformation2012} has been
+ referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.marinovicNoNewsGood2016} has been referenced b
 ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.skinnerWhyFirmsVoluntarily1994} has been refer
+enced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.brockbankStrategicTiming8K2018} has been refer
 enced but does not exist, replaced by a fixed one
@@ -1154,27 +1172,6 @@ n referenced but does not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.chambersTimelinessReportingStock1984} has been
  referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.huangToneManagement2014} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.liInformationContentForwardLooking2010} has be
-en referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.davisNumbersMeasuringInformation2012} has been
- referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.skinnerEarningsDisclosuresStockholder1997} has
- been referenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.skinnerWhyFirmsVoluntarily1994} has been refer
-enced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.langVoluntaryDisclosureEquity2000} has been re
-ferenced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.teohEarningsManagementUnderperformance1998} ha
-s been referenced but does not exist, replaced by a fixed one
-
 pdfTeX warning (dest): name{cite.basuConservatismPrincipleAsymmetric1997} has b
 een referenced but does not exist, replaced by a fixed one
 
@@ -1184,14 +1181,14 @@ pdfTeX warning (dest): name{cite.fasbStatementFinancialAccounting1984} has been
 pdfTeX warning (dest): name{cite.schipperRequiredDisclosuresFinancial2007} has 
 been referenced but does not exist, replaced by a fixed one
 
-<E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><E:/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmss12.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-<E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss9.pfb><E:/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmssbx10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.p
-fb>
-Output written on NC_slides.pdf (25 pages, 1426100 bytes).
+<E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><E:/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmss10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb>
+<E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><E:/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmss9.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
+Output written on NC_slides.pdf (26 pages, 1705768 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 91 named destinations out of 1000 (max. 500000)
+ 384 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  2 MAR 2021 09:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.29)  9 MAR 2021 13:03
 entering extended mode
 **./NC.tex
 (NC.tex
@@ -613,46 +613,26 @@ l.49 			\begin{equation}
 
 LaTeX Warning: Float too large for page by 35.8865pt on input line 55.
 
-) [41] (../output/table/T4PA.texpdfTeX warning (ext4): destination with the sam
-e identifier (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 	\begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 	\begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 	\begin{equation}
-                      pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.48 	\begin{equation}
-                      ) [42
+) [41] (../output/table/T4PA.tex) [42
 
 
 ] (../output/table/T4PB.texpdfTeX warning (ext4): destination with the same ide
-ntifier (name{equation.6.1}) has been already used, duplicate ignored
+ntifier (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 	\begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
+er (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 	\begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
+er (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 	\begin{equation}
                       pdfTeX warning (ext4): destination with the same identifi
-er (name{equation.6.1}) has been already used, duplicate ignored
+er (name{equation.6.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.50 	\begin{equation}
@@ -857,8 +837,8 @@ Package rerunfilecheck Info: File `NC.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 468.
  ) 
 Here is how much of TeX's memory you used:
- 9540 strings out of 480930
- 147681 string characters out of 2917961
+ 9541 strings out of 480930
+ 147693 string characters out of 2917961
  449048 words of memory out of 3000000
  24874 multiletter control sequences out of 15000+200000
  546957 words of font info for 78 fonts, out of 3000000 for 9000
@@ -882,9 +862,9 @@ pe1/public/amsfonts/cm/cmsy10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cms
 y7.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><E:/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb><E:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
 12.pfb>
-Output written on NC.pdf (60 pages, 717987 bytes).
+Output written on NC.pdf (60 pages, 718095 bytes).
 PDF statistics:
- 1114 PDF objects out of 1200 (max. 8388607)
- 261 named destinations out of 1000 (max. 500000)
+ 1115 PDF objects out of 1200 (max. 8388607)
+ 262 named destinations out of 1000 (max. 500000)
  203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
