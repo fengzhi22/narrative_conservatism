@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.31)  9 MAR 2021 15:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.8.31)  9 MAR 2021 19:51
 entering extended mode
-**./NC_slides.tex
-(NC_slides.tex
+**./NC_slides_Manchester_March2021.tex
+(NC_slides_Manchester_March2021.tex
 LaTeX2e <2018-12-01>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/beamer\beamer.cls"
 Document Class: beamer 2019/07/23 v3.56 A class for typesetting presentations
@@ -754,23 +754,24 @@ Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
 \mult@nat@firstbox=\box79
 \colbreak@box=\box80
 \mc@col@check@num=\count174
-) (NC_slides.aux)
-\openout1 = `NC_slides.aux'.
+)
+(NC_slides_Manchester_March2021.aux)
+\openout1 = `NC_slides_Manchester_March2021.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -834,7 +835,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring OFF on input line 42.
+Package hyperref Info: Link coloring OFF on input line 50.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -844,66 +845,66 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count181
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
 
-(NC_slides.out) (NC_slides.out)
+(NC_slides_Manchester_March2021.out) (NC_slides_Manchester_March2021.out)
 \@outlinefile=\write5
-\openout5 = `NC_slides.out'.
+\openout5 = `NC_slides_Manchester_March2021.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 42.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 50.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 50.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 42.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 42.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 42.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 42.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 42.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 42.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 50.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 50.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 50.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 42.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 42.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 42.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 42.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 42.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 50.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 50.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
-2.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 5
+0.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-42.
+50.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 42.
+ut line 50.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-basic-dictionary-
 English.dict"
@@ -928,10 +929,9 @@ Dictionary: translator-numbers-dictionary, Language: English
 ("C:\Program Files\MiKTeX 2.9\tex/latex/translator\translator-theorem-dictionar
 y-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-) (NC_slides.nav) [1
+) (NC_slides_Manchester_March2021.nav) [1
 
-{C:/Users/amsog/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (NC_slides.
-toc) [2
+{C:/Users/amsog/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ] [3
 
@@ -945,219 +945,268 @@ toc) [2
 
 ] [8
 
-] [9
+]
+[9
+
+] [10
 
 ]
-<eq1.png, id=162, 681.29532pt x 42.91031pt>
-File: eq1.png Graphic file (type png)
-<use eq1.png>
-Package pdftex.def Info: eq1.png  used on input line 263.
-(pdftex.def)             Requested size: 320.39525pt x 20.17961pt.
-<fig1.png, id=164, 577.40718pt x 144.54pt>
-File: fig1.png Graphic file (type png)
-<use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 263.
-(pdftex.def)             Requested size: 256.31717pt x 64.1646pt.
-
-[10
-
- <./eq1.png> <./fig1.png>]
-<tab1.png, id=176, 791.95876pt x 284.56313pt>
-File: tab1.png Graphic file (type png)
-<use tab1.png>
-Package pdftex.def Info: tab1.png  used on input line 278.
-(pdftex.def)             Requested size: 320.39525pt x 115.1215pt.
- [11
-
- <./tab1.png>]
-<tab2panA.png, id=186, 619.56468pt x 536.75531pt>
-File: tab2panA.png Graphic file (type png)
-<use tab2panA.png>
-Package pdftex.def Info: tab2panA.png  used on input line 290.
-(pdftex.def)             Requested size: 222.48985pt x 192.74854pt.
- [12
-
- <./tab2panA.png>]
-<tab2panB.png, id=195, 580.41844pt x 640.64343pt>
-File: tab2panB.png Graphic file (type png)
-<use tab2panB.png>
-Package pdftex.def Info: tab2panB.png  used on input line 300.
-(pdftex.def)             Requested size: 188.26346pt x 207.79608pt.
- [13
-
- <./tab2panB.png>]
-<tab3.png, id=206, 583.42969pt x 528.47438pt>
-File: tab3.png Graphic file (type png)
-<use tab3.png>
-Package pdftex.def Info: tab3.png  used on input line 309.
-(pdftex.def)             Requested size: 239.60567pt x 217.0307pt.
-
-Overfull \vbox (7.02672pt too high) detected at line 309
- []
-
-[14
-
- <./tab3.png>]
-<tab3_cont.png, id=216, 739.26187pt x 519.44063pt>
-File: tab3_cont.png Graphic file (type png)
-<use tab3_cont.png>
-Package pdftex.def Info: tab3_cont.png  used on input line 318.
-(pdftex.def)             Requested size: 273.83728pt x 192.41194pt.
- [15
-
- <./tab3_cont.png>] [16
-
-]
-<tab4panA.png, id=241, 646.66594pt x 642.90187pt>
-File: tab4panA.png Graphic file (type png)
-<use tab4panA.png>
-Package pdftex.def Info: tab4panA.png  used on input line 343.
-(pdftex.def)             Requested size: 205.37926pt x 204.18283pt.
- [17
-
- <./tab4panA.png>]
-<tab4panB.png, id=250, 598.48593pt x 600.74437pt>
-File: tab4panB.png Graphic file (type png)
-<use tab4panB.png>
-Package pdftex.def Info: tab4panB.png  used on input line 352.
-(pdftex.def)             Requested size: 198.53189pt x 199.27292pt.
- [18
-
- <./tab4panB.png>]
-<tab5.png, id=260, 624.83438pt x 615.80063pt>
-File: tab5.png Graphic file (type png)
-<use tab5.png>
-Package pdftex.def Info: tab5.png  used on input line 362.
-(pdftex.def)             Requested size: 215.6477pt x 212.52661pt.
-
-Overfull \vbox (2.52263pt too high) detected at line 362
- []
-
-[19
-
- <./tab5.png>]
-<tab5_cont.png, id=271, 846.91406pt x 636.12656pt>
-File: tab5_cont.png Graphic file (type png)
-<use tab5_cont.png>
-Package pdftex.def Info: tab5_cont.png  used on input line 372.
-(pdftex.def)             Requested size: 273.83728pt x 205.68066pt.
- [20
-
- <./tab5_cont.png>]
-<fig2.png, id=281, 905.63344pt x 381.67593pt>
-File: fig2.png Graphic file (type png)
-<use fig2.png>
-Package pdftex.def Info: fig2.png  used on input line 385.
-(pdftex.def)             Requested size: 308.06367pt x 129.83215pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 385.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+LaTeX Font Info:    Try loading font information for U+msa on input line 190.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 385.
+LaTeX Font Info:    Try loading font information for U+msb on input line 190.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 385.
+line 190.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-[21
+[11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+] [22
+
+] [23
+
+] [24
+
+] [25
+
+]
+<eq1.png, id=344, 681.29532pt x 42.91031pt>
+File: eq1.png Graphic file (type png)
+<use eq1.png>
+Package pdftex.def Info: eq1.png  used on input line 372.
+(pdftex.def)             Requested size: 320.39525pt x 20.17961pt.
+<fig1.png, id=346, 577.40718pt x 144.54pt>
+File: fig1.png Graphic file (type png)
+<use fig1.png>
+Package pdftex.def Info: fig1.png  used on input line 372.
+(pdftex.def)             Requested size: 256.31717pt x 64.1646pt.
+
+[26
+
+ <./eq1.png> <./fig1.png>]
+<tab1.png, id=358, 791.95876pt x 284.56313pt>
+File: tab1.png Graphic file (type png)
+<use tab1.png>
+Package pdftex.def Info: tab1.png  used on input line 387.
+(pdftex.def)             Requested size: 320.39525pt x 115.1215pt.
+ [27
+
+ <./tab1.png>]
+<tab2panA.png, id=368, 619.56468pt x 536.75531pt>
+File: tab2panA.png Graphic file (type png)
+<use tab2panA.png>
+Package pdftex.def Info: tab2panA.png  used on input line 399.
+(pdftex.def)             Requested size: 222.48985pt x 192.74854pt.
+ [28
+
+ <./tab2panA.png>]
+<tab2panB.png, id=378, 580.41844pt x 640.64343pt>
+File: tab2panB.png Graphic file (type png)
+<use tab2panB.png>
+Package pdftex.def Info: tab2panB.png  used on input line 409.
+(pdftex.def)             Requested size: 188.26346pt x 207.79608pt.
+ [29
+
+ <./tab2panB.png>]
+<tab3.png, id=388, 583.42969pt x 528.47438pt>
+File: tab3.png Graphic file (type png)
+<use tab3.png>
+Package pdftex.def Info: tab3.png  used on input line 418.
+(pdftex.def)             Requested size: 239.60567pt x 217.0307pt.
+
+Overfull \vbox (7.02672pt too high) detected at line 418
+ []
+
+[30
+
+ <./tab3.png>]
+<tab3_cont.png, id=398, 739.26187pt x 519.44063pt>
+File: tab3_cont.png Graphic file (type png)
+<use tab3_cont.png>
+Package pdftex.def Info: tab3_cont.png  used on input line 427.
+(pdftex.def)             Requested size: 273.83728pt x 192.41194pt.
+ [31
+
+ <./tab3_cont.png>] [32
+
+]
+<tab4panA.png, id=423, 646.66594pt x 642.90187pt>
+File: tab4panA.png Graphic file (type png)
+<use tab4panA.png>
+Package pdftex.def Info: tab4panA.png  used on input line 452.
+(pdftex.def)             Requested size: 205.37926pt x 204.18283pt.
+ [33
+
+ <./tab4panA.png>]
+<tab4panB.png, id=433, 598.48593pt x 600.74437pt>
+File: tab4panB.png Graphic file (type png)
+<use tab4panB.png>
+Package pdftex.def Info: tab4panB.png  used on input line 461.
+(pdftex.def)             Requested size: 198.53189pt x 199.27292pt.
+ [34
+
+ <./tab4panB.png>]
+<tab5.png, id=443, 624.83438pt x 615.80063pt>
+File: tab5.png Graphic file (type png)
+<use tab5.png>
+Package pdftex.def Info: tab5.png  used on input line 471.
+(pdftex.def)             Requested size: 215.6477pt x 212.52661pt.
+
+Overfull \vbox (2.52263pt too high) detected at line 471
+ []
+
+[35
+
+ <./tab5.png>]
+<tab5_cont.png, id=453, 846.91406pt x 636.12656pt>
+File: tab5_cont.png Graphic file (type png)
+<use tab5_cont.png>
+Package pdftex.def Info: tab5_cont.png  used on input line 481.
+(pdftex.def)             Requested size: 273.83728pt x 205.68066pt.
+ [36
+
+ <./tab5_cont.png>]
+<fig2.png, id=463, 905.63344pt x 381.67593pt>
+File: fig2.png Graphic file (type png)
+<use fig2.png>
+Package pdftex.def Info: fig2.png  used on input line 494.
+(pdftex.def)             Requested size: 308.06367pt x 129.83215pt.
+ [37
 
  <./fig2.png>]
-<tab6.png, id=292, 677.53125pt x 651.93562pt>
+<tab6.png, id=475, 677.53125pt x 651.93562pt>
 File: tab6.png Graphic file (type png)
 <use tab6.png>
-Package pdftex.def Info: tab6.png  used on input line 395.
+Package pdftex.def Info: tab6.png  used on input line 504.
 (pdftex.def)             Requested size: 205.37926pt x 197.62148pt.
 
-Overfull \vbox (0.21744pt too high) detected at line 395
+Overfull \vbox (0.21744pt too high) detected at line 504
  []
 
-[22
+[38
 
  <./tab6.png>]
-<tab6_cont.png, id=302, 871.00406pt x 634.62094pt>
+<tab6_cont.png, id=485, 871.00406pt x 634.62094pt>
 File: tab6_cont.png Graphic file (type png)
 <use tab6_cont.png>
-Package pdftex.def Info: tab6_cont.png  used on input line 405.
+Package pdftex.def Info: tab6_cont.png  used on input line 514.
 (pdftex.def)             Requested size: 273.83728pt x 199.5193pt.
 
-Overfull \vbox (2.11526pt too high) detected at line 405
+Overfull \vbox (2.11526pt too high) detected at line 514
  []
 
-[23
+[39
 
  <./tab6_cont.png>]
-<tab7.png, id=312, 698.61pt x 626.34pt>
+<tab7.png, id=495, 698.61pt x 626.34pt>
 File: tab7.png Graphic file (type png)
 <use tab7.png>
-Package pdftex.def Info: tab7.png  used on input line 415.
+Package pdftex.def Info: tab7.png  used on input line 524.
 (pdftex.def)             Requested size: 205.37926pt x 184.12836pt.
- [24
+ [40
 
  <./tab7.png>]
-<tab7_cont.png, id=322, 856.70062pt x 581.17125pt>
+<tab7_cont.png, id=505, 856.70062pt x 581.17125pt>
 File: tab7_cont.png Graphic file (type png)
 <use tab7_cont.png>
-Package pdftex.def Info: tab7_cont.png  used on input line 425.
+Package pdftex.def Info: tab7_cont.png  used on input line 534.
 (pdftex.def)             Requested size: 273.83728pt x 185.76576pt.
- [25
+ [41
 
- <./tab7_cont.png>] [26
+ <./tab7_cont.png>] [42
 
 ]
 \c@framenumbervorappendix=\count182
 
-(NC_slides.bbl
+(NC_slides_Manchester_March2021.bbl
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\translate ' on input line 1.
 
 )
 \tf@nav=\write6
-\openout6 = `NC_slides.nav'.
+\openout6 = `NC_slides_Manchester_March2021.nav'.
 
 \tf@toc=\write7
-\openout7 = `NC_slides.toc'.
+\openout7 = `NC_slides_Manchester_March2021.toc'.
 
 \tf@snm=\write8
-\openout8 = `NC_slides.snm'.
+\openout8 = `NC_slides_Manchester_March2021.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 481.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 481.
- (NC_slides.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 481.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 481.
-Package rerunfilecheck Info: File `NC_slides.out' has not changed.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 590.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 590.
+ (NC_slides_Manchester_March2021.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 590.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 590.
+Package rerunfilecheck Info: File `NC_slides_Manchester_March2021.out' has not 
+changed.
 (rerunfilecheck)             Checksum: 54016E52339AB9653DF7EE6E54D8D8D3;323.
  ) 
 Here is how much of TeX's memory you used:
- 18412 strings out of 492923
- 349039 string characters out of 3134646
- 427165 words of memory out of 3000000
- 21779 multiletter control sequences out of 15000+200000
- 13934 words of font info for 50 fonts, out of 3000000 for 9000
+ 18490 strings out of 492923
+ 351227 string characters out of 3134646
+ 433246 words of memory out of 3000000
+ 21816 multiletter control sequences out of 15000+200000
+ 18689 words of font info for 67 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,59p,797b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{cite.chapmanInformationOverloadDisclosure2019} ha
-s been referenced but does not exist, replaced by a fixed one
+ 56i,16n,58p,818b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.carterRelevanceForm8K1999} has been referenc
+ed but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.carterRelevanceForm8K1999} has been referenced
- but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.marinovicNoNewsGood2016} has been referenced b
+ut does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.skinnerEarningsDisclosuresStockholder1997} has
  been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.skinnerWhyFirmsVoluntarily1994} has been refer
+enced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.langVoluntaryDisclosureEquity2000} has been re
 ferenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.teohEarningsManagementUnderperformance1998} ha
 s been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.leuzEconomicConsequencesIncreased2000} has bee
+n referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.diamondOptimalReleaseInformation1985} has been
+ referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.diamondDisclosureLiquidityCost1991} has been r
+eferenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.loughranTextualAnalysisAccounting2016} has bee
+n referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.huangToneManagement2014} has been referenced b
 ut does not exist, replaced by a fixed one
@@ -1168,17 +1217,11 @@ en referenced but does not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.davisNumbersMeasuringInformation2012} has been
  referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.marinovicNoNewsGood2016} has been referenced b
-ut does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.skinnerWhyFirmsVoluntarily1994} has been refer
-enced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.khalilovAccountingConservatismProfitability202
+0} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.brockbankStrategicTiming8K2018} has been refer
 enced but does not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.segalAreManagersStrategic2016} has been refere
-nced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.niessnerStrategicDisclosureTiming2015} has bee
 n referenced but does not exist, replaced by a fixed one
@@ -1186,14 +1229,32 @@ n referenced but does not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.chambersTimelinessReportingStock1984} has been
  referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.basuConservatismPrincipleAsymmetric1997} has b
-een referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.chapmanInformationOverloadDisclosure2019} has 
+been referenced but does not exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{cite.fasbStatementFinancialAccounting1984} has been
- referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.segalAreManagersStrategic2016} has been refere
+nced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.geAcquirersDiscloseGood2011} has been referenc
+ed but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.schipperRequiredDisclosuresFinancial2007} has 
 been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.guayConservativeDisclosure2018} has been refer
+enced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.kothariManagersWithholdBad2009} has been refer
+enced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.basuConservatismPrincipleAsymmetric1997} has b
+een referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ballEarningsQualityUK2005} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.beaverConditionalUnconditionalConservatism2005
+} has been referenced but does not exist, replaced by a fixed one
 
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files
@@ -1201,10 +1262,13 @@ am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files
 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmssi10.pfb>
-Output written on NC_slides.pdf (26 pages, 1706906 bytes).
+msfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss
+i9.pfb>
+Output written on NC_slides_Manchester_March2021.pdf (42 pages, 1793705 bytes).
+
 PDF statistics:
- 384 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
  207 words of extra memory for PDF output out of 10000 (max. 10000000)
 
